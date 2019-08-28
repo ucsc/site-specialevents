@@ -1,0 +1,20 @@
+{% for event in site.events %}
+    <div class="hero-viewport inner-page-standard wave-pattern blue">
+        <div class="grid-container large">
+            <div class="hero-container">
+                <div id="hero" class="hero hero-text-left">
+                    <img src="{{ event.billboard.image }}" />
+                    <div class="hero-text">
+                        <a href="#" class="">
+                            <p class="category btn-link"><large>{{ event.billboard.subtitle }}</large></p>
+                            <div class="underline isolated">
+                                <h1 class="hero-header">{{ event.title }}</h1>
+                                <p class="hero-body"><large>{{ event.billboard.date }}</large></p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
