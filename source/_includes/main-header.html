@@ -1,4 +1,4 @@
-{% if page.tags == "Event" %}
+{% if page.tags contains 'Event' %}
 <head>
             <meta charset="utf-8" />
             <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -6,8 +6,8 @@
             <title>UCSC</title>
             <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
                 integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-            <link rel="stylesheet" href="../assets/css/app.css">
-            <link rel="stylesheet" href="../assets/css/custom.css">
+            <link rel="stylesheet" href="{{ site.baseurl }}/css/app.css">
+            <link rel="stylesheet" href="{{ site.baseurl }}/css/custom.css">
             <link href="//fonts.googleapis.com/css?family=Roboto|Roboto+Condensed" rel="stylesheet">
 
         </head>
@@ -25,7 +25,7 @@
                     </div>
                               
                     <div class="menu-id">
-                        <img class="white-ucsc-logo" src="../assets/img/build-resources/uc-santa-cruz-reverse.svg" />
+                        <img class="white-ucsc-logo" src="{{ site.baseurl }}/assets/img/build-resources/uc-santa-cruz-reverse.svg" />
                     </div>
                     
                     <div class="aev-links">
@@ -61,8 +61,8 @@
                       
                           <div class="grid-container large">
                                   <div class="site-logo global">
-                                      <a href="../templates/template-home-gateway.html">
-                                          <img src="../assets/img/build-resources/uc-santa-cruz-reverse.svg">
+                                      <a href="#">
+                                          <img src="{{ site.baseurl }}/assets/img/build-resources/uc-santa-cruz-reverse.svg">
                                       </a>
                                   </div>
                               <div class="aev-menu">
@@ -87,8 +87,8 @@
                       
                       </div>
                       <div class="mobile-menu">
-                              <a class="mobile-menu-logo" href="../pages/page-home-gateway.html">
-                                  <img src="../assets/img/build-resources/uc-santa-cruz-reverse.svg" />
+                              <a class="mobile-menu-logo" href="#">
+                                  <img src="{{ site.baseurl }}/assets/img/build-resources/uc-santa-cruz-reverse.svg" />
                               </a>
                               <ul class="menu">
                                   <li>
