@@ -1,20 +1,32 @@
 {% for event in site.events %}
-    <div class="hero-viewport inner-page-standard wave-pattern blue">
-        <div class="grid-container large">
-            <div class="hero-container">
-                <div id="hero" class="hero hero-text-left">
-                    <img src="{{ site.baseurl }}{{ event.billboard.image }}" />
-                    <div class="hero-text">
-                        <a href="#" class="">
-                            <p class="category btn-link"><large>{{ event.billboard.subtitle }}</large></p>
-                            <div class="underline isolated">
-                                <h1 class="hero-header">{{ event.title }}</h1>
-                                <p class="hero-body"><large>{{ event.billboard.date }}</large></p>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+  <div class="hero-viewport inner-page-standard wave-pattern blue">
+      <div class="grid-container large">
+          <div class="hero-container">
+              <div id="hero" class="hero hero-text-left">
+                  <img src="{{ site.baseurl }}{{ event.billboard.image }}" />
+                  <div class="hero-text">
+                    {% if page.billboard.subtitle == true %}
+                      <a href="#" class="">
+                          <p class="category btn-link"><large>{{ page.billboard.subtitle }}</large></p>
+                          <div class="underline isolated">
+                              <h1 class="hero-header">{{ page.title }}</h1>
+                              <p class="hero-body"><large>{{ page.billboard.date }}</large>
+                              <a class="button primary expanded" href="{{ page.registration }}">Register Now</a></p>
+                          </div>
+                      </a>
+                      {% else %}
+                      <a href="#" class="">
+                          <p class="category btn-link"><large>{{ event.billboard.subtitle }}</large></p>
+                          <div class="underline isolated">
+                              <h1 class="hero-header">{{ event.title }}</h1>
+                              <p class="hero-body"><large>{{ event.billboard.date }}</large>
+                              <a class="button primary expanded" href="{{ event.registration }}">Register Now</a></p>
+                          </div>
+                      </a>
+                    {% endif %}
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
 {% endfor %}
