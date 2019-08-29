@@ -30,6 +30,27 @@
         <div class="column-main">
          
          {{ content }}
+
+        <!-- profile -->
+        {% if page.speaker.name != "" %}
+         <div class="profile-list owl-carousel">
+          {% for event in site.events %}
+            <a class="profile carousel-item" href="{{ page.speaker.link }}">
+                <div class="image speaker">
+                    <img src="{{ page.speaker.image }}" alt="{{ page.speaker.name }}" />
+                </div>
+                <div class="profile-info">
+                    <h4 class="underline tighten">{{ page.speaker.name }}</h4>
+                    <div class="tags">
+                        <p>{{ page.speaker.title }}</p>
+                        <p>{{ page.speaker.teaser }}</p>
+                    </div>
+                </div>
+            </a>
+            {% endfor %}
+          </div>
+          {% endif %}
+          <!-- end profile -->
           
         </div>
         <div class="column-support">

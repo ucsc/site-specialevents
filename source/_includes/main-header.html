@@ -3,7 +3,7 @@
             <meta charset="utf-8" />
             <meta http-equiv="x-ua-compatible" content="ie=edge">
             <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
-            <title>UCSC</title>
+            <title>{{ page.title }}</title>
             <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
                 integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
             <link rel="stylesheet" href="{{ site.baseurl }}/css/app.css">
@@ -61,7 +61,7 @@
                       
                           <div class="grid-container large">
                                   <div class="site-logo global">
-                                      <a href="#">
+                                      <a href="{{ site.baseurl }}/">
                                           <img src="{{ site.baseurl }}/assets/img/build-resources/uc-santa-cruz-reverse.svg">
                                       </a>
                                   </div>
@@ -87,7 +87,7 @@
                       
                       </div>
                       <div class="mobile-menu">
-                              <a class="mobile-menu-logo" href="#">
+                              <a class="mobile-menu-logo" href="{{ site.baseurl }}/">
                                   <img src="{{ site.baseurl }}/assets/img/build-resources/uc-santa-cruz-reverse.svg" />
                               </a>
                               <ul class="menu">
