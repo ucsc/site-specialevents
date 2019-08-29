@@ -1,0 +1,53 @@
+<!doctype html>
+
+<html class="no-js" lang="en">
+
+{% include main-header.html %}
+
+{% include billboard.html %}
+
+{% include breadcrumb.html %}
+
+<div class="grid-container large">
+    <div class="button-list">
+        <a class="button" href="javascript:void(0)" target="_blank">
+            <span class="button-text"><strong class="blue-text">Home</strong> </span>
+        </a>
+        <a class="button" href="javascript:void(0)" target="_blank">
+            <span class="button-text"><strong class="blue-text">Speaker Biography</strong> </span>
+        </a>
+        <a class="button" href="javascript:void(0)" target="_blank">
+            <span class="button-text"><strong class="blue-text">Tony Hill Memorial Award</strong> </span>
+        </a>
+    </div>
+</div>
+
+<div class="page-content" id="main-content">
+  <div class="layout-two-column large">
+    <div class="wrap">
+      <div class="inner">
+         <!-- content -->  
+        <div class="column-main">
+         
+         {{ content }}
+          
+        </div>
+        <div class="column-support">
+          <div class="content-block">
+              <h5 class="blue-text">Speaker:</h5>
+              <p>Melissa Harris-Perry, Presidential Chair, Wake Forest University</p>
+              <h5 class="blue-text">Date:</h5>
+              <p>7 p.m., Monday, February 11, 2019</p>
+              <h5 class="blue-text">Locations:</h5>
+              <p>Santa Cruz Civic Auditorium <a href="http://www.cityofsantacruz.com/government/city-departments/parks-recreation/civic-auditorium" class="btn-link">map <i class="fas fa-map"></i></a></p>  
+              <br>
+              <a class="button primary expanded" href="https://psychology.ucsc.edu">Register Now</a>                  
+          </div>
+        </div>
+            
+          
+        </div>
+      </div>
+    </div>
+  </div>
+{% include main-footer.html%}
