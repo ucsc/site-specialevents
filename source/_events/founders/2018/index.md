@@ -17,42 +17,42 @@ location:
   addresslink: http://www.cityofsantacruz.com/government/city-departments/parks-recreation/civic-auditorium
   
 speaker:
-  name: John Laird (Stevenson ’72, politics)
-  title: A trailblazing public servant
-  subhead:
-  image: https://specialevents.ucsc.edu/founders/2018/images/john-laird.jpg
-  teaser: John Laird was appointed California Secretary for Natural Resources by Governor Jerry Brown on Jan. 5, 2011. He has spent over 40 years in public service, including 23 years as an elected official.
-  link: https://specialevents.ucsc.edu/founders/2018/honorees.html#john-laird
-  name: Lise Getoor
-  title: Data visionary
-  subhead:
-  image: https://specialevents.ucsc.edu/founders/2018/images/lise-getoor.jpg
-  teaser: Lise Getoor is a professor in the Computer Science Department at UC Santa Cruz and founding director of the UC Santa Cruz Data, Discovery, and Decisions (D3) Data Science Research Center.
-  link: https://specialevents.ucsc.edu/founders/2018/honorees.html#lise-getoor
-  name: Natalie Batalha (Ph.D. ’97, astrophysics)
-  title: Looking for life
-  subhead:
-  image: https://specialevents.ucsc.edu/founders/2018/images/natalie-batalha.jpg
-  teaser: Natalie Batalha is an astrophysicist at NASA Ames Research Center and served as the science lead for NASA's Kepler Mission from 2011 to 2017. She holds a bachelor's degree in physics from UC Berkeley and a doctoral degree in astrophysics from UC Santa Cruz.
-  link: https://specialevents.ucsc.edu/founders/2018/honorees.html#natalie-batalha
-  name: Martha Mendoza (Kresge ’88, journalism and education)
-  title: Associated Press correspondent and two-time Pulitzer Prize winner
-  subhead: Writing wrongs 
-  image: https://specialevents.ucsc.edu/founders/2018/images/martha-mendoza.jpg
-  teaser: Martha Mendoza is a correspondent for the Associated Press, focusing on technology, breaking news, enterprise and investigative reporting from Silicon Valley. Her investigative reports have won numerous awards and prompted Congressional hearings, Pentagon investigations, and White House responses.
-  link: https://specialevents.ucsc.edu/founders/2018/journalist-panel.html#martha-mendoza
-  name: Carrie Kahn (College Eight/Rachel Carson College ’87, biology)
-  title: NPR Latin America correspondent
-  subhead: Southern exposure
-  image: https://specialevents.ucsc.edu/founders/2018/images/carrie-kahn.jpg
-  teaser: Carrie Kahn is NPR's international correspondent based in Mexico City, Mexico. She covers Mexico, the Caribbean, and Central America. Kahn's reports can be heard on NPR's award-winning news programs including All Things Considered, Morning Edition, and Weekend Edition.
-  link: https://specialevents.ucsc.edu/founders/2018/journalist-panel.html#carrie-kahn
-  name: Mike McPhate (Kresge ‘00, anthropology major, journalism minor)
-  title: 
-  subhead:
-  image: https://specialevents.ucsc.edu/founders/2018/images/mike.jpg
-  teaser: Mike McPhate is the founder of the California Sun, a daily newsletter that curates general interest news about California. Last year, he left the New York Times, where he was writing the popular California Today newsletter, to start the Sun, which has since grown to an audience of more than 15,000 readers.
-  link: https://specialevents.ucsc.edu/founders/2018/journalist-panel.html#mike
+  - name: John Laird (Stevenson ’72, politics)
+    title: A trailblazing public servant
+    subhead:
+    image: https://specialevents.ucsc.edu/founders/2018/images/john-laird.jpg
+    teaser: John Laird was appointed California Secretary for Natural Resources by Governor Jerry Brown on Jan. 5, 2011. He has spent over 40 years in public service, including 23 years as an elected official.
+    link: https://specialevents.ucsc.edu/founders/2018/honorees.html#john-laird
+  - name: Lise Getoor
+    title: Data visionary
+    subhead:
+    image: https://specialevents.ucsc.edu/founders/2018/images/lise-getoor.jpg
+    teaser: Lise Getoor is a professor in the Computer Science Department at UC Santa Cruz and founding director of the UC Santa Cruz Data, Discovery, and Decisions (D3) Data Science Research Center.
+    link: https://specialevents.ucsc.edu/founders/2018/honorees.html#lise-getoor
+  - name: Natalie Batalha (Ph.D. ’97, astrophysics)
+    title: Looking for life
+    subhead:
+    image: https://specialevents.ucsc.edu/founders/2018/images/natalie-batalha.jpg
+    teaser: Natalie Batalha is an astrophysicist at NASA Ames Research Center and served as the science lead for NASA's Kepler Mission from 2011 to 2017. She holds a bachelor's degree in physics from UC Berkeley and a doctoral degree in astrophysics from UC Santa Cruz.
+    link: https://specialevents.ucsc.edu/founders/2018/honorees.html#natalie-batalha
+  - name: Martha Mendoza (Kresge ’88, journalism and education)
+    title: Associated Press correspondent and two-time Pulitzer Prize winner
+    subhead: Writing wrongs 
+    image: https://specialevents.ucsc.edu/founders/2018/images/martha-mendoza.jpg
+    teaser: Martha Mendoza is a correspondent for the Associated Press, focusing on technology, breaking news, enterprise and investigative reporting from Silicon Valley. Her investigative reports have won numerous awards and prompted Congressional hearings, Pentagon investigations, and White House responses.
+    link: https://specialevents.ucsc.edu/founders/2018/journalist-panel.html#martha-mendoza
+  - name: Carrie Kahn (College Eight/Rachel Carson College ’87, biology)
+    title: NPR Latin America correspondent
+    subhead: Southern exposure
+    image: https://specialevents.ucsc.edu/founders/2018/images/carrie-kahn.jpg
+    teaser: Carrie Kahn is NPR's international correspondent based in Mexico City, Mexico. She covers Mexico, the Caribbean, and Central America. Kahn's reports can be heard on NPR's award-winning news programs including All Things Considered, Morning Edition, and Weekend Edition.
+    link: https://specialevents.ucsc.edu/founders/2018/journalist-panel.html#carrie-kahn
+  - name: Mike McPhate (Kresge ‘00, anthropology major, journalism minor)
+    title: 
+    subhead:
+    image: https://specialevents.ucsc.edu/founders/2018/images/mike.jpg
+    teaser: Mike McPhate is the founder of the California Sun, a daily newsletter that curates general interest news about California. Last year, he left the New York Times, where he was writing the popular California Today newsletter, to start the Sun, which has since grown to an audience of more than 15,000 readers.
+    link: https://specialevents.ucsc.edu/founders/2018/journalist-panel.html#mike
   
 Emcee:
   name: Cynthia Chase (Merrill '01, psychology)
