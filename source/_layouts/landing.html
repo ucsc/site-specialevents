@@ -31,11 +31,15 @@
          
          {{ content }}
 
-        <!-- profile -->
+        <!-- profile listing -->
         {% if page.speaker %}
+        <h2>The awards presentation will include:</h2>
          <div class="profile-list owl-carousel">
           {% for speaker in page.speaker %}
-            <a class="profile carousel-item" href="{{ speaker.link }}">
+            <a id="{{ speaker.name }}" name="{{ 'speaker.name' }}"><a class="profile carousel-item" href="{{ speaker.link }}">
+              {% if page.speaker.award-title != "" %}
+                <h3 class="cell large-12">{{ speaker.award-title }}</h3>
+              {% endif%}
                 <div class="image speaker">
                     <img src="{{ speaker.image }}" alt="{{ speaker.name }}" />
                 </div>
@@ -57,12 +61,18 @@
           <div class="content-block">
               <h5 class="blue-text">Speaker:</h5>
               <p>Melissa Harris-Perry, Presidential Chair, Wake Forest University</p>
-              <h5 class="blue-text">Date:</h5>
-              <p>7 p.m., Monday, February 11, 2019</p>
-              <h5 class="blue-text">Locations:</h5>
-              <p>Santa Cruz Civic Auditorium <a href="http://www.cityofsantacruz.com/government/city-departments/parks-recreation/civic-auditorium" class="btn-link">map <i class="fas fa-map"></i></a></p>  
-              <br>
-              <a class="button primary expanded" href="https://psychology.ucsc.edu">Register Now</a>                  
+              {% if page.billboard.date != "" %}
+                <h5 class="blue-text">Date:</h5>
+                <p>{{ page.billboard.date }} <br/>
+                {{ page.billboard.starttime }} - {{ page.billboard.endtime }}</p>
+              {% endif %}
+              {% if page.location.address != "" %}
+                <h5 class="blue-text">Locations:</h5>
+                <p>{{ page.location.address }} <a href="{{ page.location.addresslink }}" class="btn-link">map <i class="fas fa-map"></i></a></p> 
+              {% endif %} 
+              <p>
+                <a class="button primary expanded" href="https://psychology.ucsc.edu">Register Now</a>
+              </p>                  
           </div>
         </div>
             
