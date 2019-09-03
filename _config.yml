@@ -19,6 +19,7 @@ sass:
 collections:
   events:
     output: true
+    permalink: /:collection/:path
 
 permalink: "/:title/"
 timezone: America/Los_Angeles
