@@ -59,11 +59,17 @@
         </div>
         <div class="column-support">
           <div class="content-block">
+            {% if page.speaker.name != "" %}
               <h5 class="blue-text">Speaker:</h5>
-              <p>Melissa Harris-Perry, Presidential Chair, Wake Forest University</p>
+                <ul>
+                  {% for speaker in page.speaker %}
+                    <li>{{ speaker.name }}</li>
+                  {% endfor %}
+                </ul>
+            {% endif %}
               {% if page.billboard.date != "" %}
                 <h5 class="blue-text">Date:</h5>
-                <p>{{ page.billboard.date }} <br/>
+                <p>{{ page.billboard.day }}, {{ page.billboard.month }} {{ page.billboard.date }}, {{ page.billboard.year }} <br/>
                 {{ page.billboard.starttime }} - {{ page.billboard.endtime }}</p>
               {% endif %}
               {% if page.location.address != "" %}
@@ -71,7 +77,7 @@
                 <p>{{ page.location.address }} <a href="{{ page.location.addresslink }}" class="btn-link">map <i class="fas fa-map"></i></a></p> 
               {% endif %} 
               <p>
-                <a class="button primary expanded" href="https://psychology.ucsc.edu">Register Now</a>
+                <a class="button primary expanded" href="{{ page.registration }}">Register Now</a>
               </p>                  
           </div>
         </div>

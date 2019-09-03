@@ -79,11 +79,6 @@ Emcee:
   teaser: Cynthia Chase is the inmate programs manager at the Santa Cruz County Sheriff’s Office, former director of the nonprofit Gemma program for formerly incarcerated individuals, former mayor of Santa Cruz, a current Santa Cruz City Council member, and faculty at California State University Monterey Bay and UC Santa Cruz.
   link: https://specialevents.ucsc.edu/founders/2018/emcee.html
 
-#### Date
-event-month: Oct
-event-date: 20
-event-year: 2018
-
 layout: landing
 ---
 

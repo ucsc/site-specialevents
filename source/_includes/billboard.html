@@ -6,7 +6,7 @@
                   <img src="{{ site.baseurl }}{{ event.billboard.image }}" />
                   <div class="hero-text">
                     {% if page.layout == 'landing' %}
-                      <a href="#" class="">
+                      <a href="{{ page.registration }}" class="">
                         <p class="category btn-link"><large>{{ page.billboard.subtitle }}</large></p>
                         <div class="underline isolated">
                             <h1 class="hero-header">{{ page.title }}</h1>
@@ -16,7 +16,7 @@
                       </a>
                     {% endif %}
                     {% if page.layout == 'home-page' %}
-                    <a href="#" class="">
+                    <a href="{{site.baseurl}}{{ event.url }}.html" class="">
                       <p class="category btn-link"><large>{{ event.billboard.subtitle }}</large></p>
                       <div class="underline isolated">
                           <h1 class="hero-header">{{ event.title }}</h1>
