@@ -10,7 +10,7 @@
                         <p class="category btn-link"><large>{{ page.billboard.subtitle }}</large></p>
                         <div class="underline isolated">
                             <h1 class="hero-header">{{ page.title }}</h1>
-                            <p class="hero-body"><large>{{ page.billboard.date }}</large>
+                            <p class="hero-body"><large>{{ page.billboard.day }}, {{ page.billboard.month}} {{ page.billboard.date }}, {{ page.billboard.year }}</large>
                             <a class="button primary expanded" href="{{ page.registration }}">Register Now</a></p>
                         </div>
                       </a>
@@ -20,8 +20,8 @@
                       <p class="category btn-link"><large>{{ event.billboard.subtitle }}</large></p>
                       <div class="underline isolated">
                           <h1 class="hero-header">{{ event.title }}</h1>
-                          <p class="hero-body"><large>{{ event.billboard.date }}</large>
-                          <a class="button primary expanded" href="{{ page.url }}">Go!</a></p>
+                          <p class="hero-body"><large>{{ event.billboard.day }}, {{ event.billboard.month}} {{ event.billboard.date }}, {{ event.billboard.year }}</large>
+                          <a class="button primary expanded" href="{{site.baseurl}}{{ event.url }}.html">Go!</a></p>
                       </div>
                     </a>
                     {% endif %}

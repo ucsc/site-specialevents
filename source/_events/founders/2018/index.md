@@ -1,6 +1,6 @@
 ---
 title: 2018 Founders Celebration
-description: 
+description: In honor of our Year of Alumni, we will take this moment to celebrate alumni and faculty who exemplify the best of UC Santa Cruz
 tags:
   - Founders
   - Signature Series
@@ -11,10 +11,14 @@ tags:
 ####billboard
 billboard:
   subtitle: 2018 Year of Alumni
-  date: Saturday, October 20, 2018
+  day: Saturday
+  month: October
+  date: 20
+  year: 2018
   image: "/assets/img/content/mlk-specialevents.jpg"
-  starttime: Reception 6 p.m.
-  endtime: Dinner 7 p.m.
+  thumbnail: "/assets/img/content/founders-specialevents.png"
+  starttime: 6 p.m.
+  endtime: 7 p.m.
 
 #### sidebar information
 location:
@@ -75,7 +79,12 @@ Emcee:
   image: https://specialevents.ucsc.edu/founders/2018/images/cynthia-chase.jpg
   teaser: Cynthia Chase is the inmate programs manager at the Santa Cruz County Sheriff’s Office, former director of the nonprofit Gemma program for formerly incarcerated individuals, former mayor of Santa Cruz, a current Santa Cruz City Council member, and faculty at California State University Monterey Bay and UC Santa Cruz.
   link: https://specialevents.ucsc.edu/founders/2018/emcee.html
-  
+
+#### Date
+event-month: Oct
+event-date: 20
+event-year: 2018
+
 layout: landing
 ---
 

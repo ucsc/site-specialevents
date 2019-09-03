@@ -24,27 +24,44 @@
                 </section>
         
                 <div class="events-card-list fade-out-siblings">
-                    <a class="events-card" href="javascript:void(0)">
+                    {% for event in site.events limit: 6 %}
+                    <a class="events-card" href="{{site.baseurl}}{{ event.url }}.html">
                         <div class="events-card-content">
                             <div class="date">
-                                <div class="month">Feb</div>
-                                <div class="day">20</div>
+                                <div class="month">
+                                  {% assign m = event.billboard.month %}
+                                  {% case m %}
+                                    {% when 'January' %} Jan
+                                    {% when 'February' %} Feb
+                                    {% when 'March' %} Mar
+                                    {% when 'April' %} Apr
+                                    {% when 'May' %} May
+                                    {% when 'June' %} Jun
+                                    {% when 'July' %} Jul
+                                    {% when 'August' %} Aug
+                                    {% when 'September' %} Sept
+                                    {% when 'October' %} Oct
+                                    {% when 'November' %} Nov
+                                    {% when 'December' %} December
+                                  {% endcase %}
+                                </div>
+                                <div class="day">{{ event.event-date }}</div>
                             </div>
                         
                             <div class="inner">
                                 <div class="image">
-                                    <img src="{{ site.baseurl }}/assets/img/content/aw-specialevents.jpg" />
+                                    <img src="{{ site.baseurl }}{{ event.billboard.thumbnail }}" alt="{{ event.title }}"/>
                                 </div>
                                 <div class="card-content">
-                                    <h4 class="header underline">Alumni Weekend 2019</h4>
-                                    <p class="event-description">Brooks, an expert in the analysis of RNA sequencing data, is studying the role of RNA splicing aberrations in cancer.</p>
+                                    <h4 class="header underline">{{ event.title }}</h4>
+                                    <p class="event-description">{{ event.description }}</p>
                                     <div class="tags">
                                         <span class="topics-title">
                                             <div class="time">
-                                                <i class="fa fa-clock-o turquiose-text"></i> Wednesday, February 20 at 6:00pm to 8:00pm
+                                                <i class="fa fa-clock-o turquiose-text"></i> {{ event.billboard.date }} at {{ event.billboard.starttime}} to {{ event.billboard.endtime }}
                                             </div>
                                             <div class="location">
-                                                <i class="fa fa-map-marker turquiose-text"></i> UC Santa Cruz Silicon Valley Campus
+                                                <i class="fa fa-map-marker turquiose-text"></i> {{ event.location.address }}
                                             </div>
                                         </span>
                                     </div>
@@ -52,159 +69,7 @@
                             </div>   
                         </div>
                     </a>
-        
-                    <a class="events-card" href="javascript:void(0)">
-                        <div class="events-card-content">
-                            <div class="date">
-                                <div class="month">Feb</div>
-                                <div class="day">20</div>
-                            </div>
-                        
-                            <div class="inner">
-                                <div class="image">
-                                    <img src="{{ site.baseurl }}/assets/img/content/founders-specialevents.png" />
-                                </div>
-                                <div class="card-content">
-                                    <h4 class="header underline">Founders Celebration 2019</h4>
-                                    <p class="event-description">The Research Center for the Americas invites
-                                            you to join us as we celebrate International Women's Day with book talks by two
-                                            leading feminist scholars.</p>
-                                    <div class="tags">
-                                        <span class="topics-title">
-                                            <div class="time">
-                                                <i class="fa fa-clock-o turquiose-text"></i> Thursday, February 28 at 1:30pm to 5:00pm
-                                            </div>
-                                            <div class="location">
-                                                <i class="fa fa-map-marker turquiose-text"></i> Merrill Cultural Center
-                                            </div>
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>   
-                        </div>
-                    </a>
-        
-                    <a class="events-card" href="javascript:void(0)">
-                        <div class="events-card-content">
-                            <div class="date">
-                                <div class="month">Mar</div>
-                                <div class="day">8</div>
-                            </div>
-                        
-                            <div class="inner">
-                                <div class="image">
-                                    <img src="{{ site.baseurl }}/assets/img/content/mlk-specialevents.jpg" />
-                                </div>
-                                <div class="card-content">
-                                    <h4 class="header underline">Martin Luther King Jr Convocation 2019</h4>
-                                    <p class="event-description">UCSC graduate students spend years on their
-                                            theses and dissertations. Can they explain their research in three minutes? Join us
-                                            and find out!</p>
-                                    <div class="tags">
-                                        <span class="topics-title">
-                                            <div class="time">
-                                                <i class="fa fa-clock-o turquiose-text"></i> Friday, March 8 at 5:30pm to 8:00pm
-                                            </div>
-                                            <div class="location">
-                                                <i class="fa fa-map-marker turquiose-text"></i> Kuumbwa Jazz Center
-                                            </div>
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>   
-                        </div>
-                    </a>
-        
-                    <a class="events-card" href="javascript:void(0)">
-                        <div class="events-card-content">
-                            <div class="date">
-                                <div class="month">Feb</div>
-                                <div class="day">20</div>
-                            </div>
-                        
-                            <div class="inner">
-                                <div class="image">
-                                    <img src="{{ site.baseurl }}/assets/img/content/event-1.jpeg" />
-                                </div>
-                                <div class="card-content">
-                                    <h4 class="header underline">Kraw Lectures 2019</h4>
-                                    <p class="event-description">Brooks, an expert in the analysis of RNA sequencing data, is studying the role of RNA splicing aberrations in cancer.</p>
-                                    <div class="tags">
-                                        <span class="topics-title">
-                                            <div class="time">
-                                                <i class="fa fa-clock-o turquiose-text"></i> Wednesday, February 20 at 6:00pm to 8:00pm
-                                            </div>
-                                            <div class="location">
-                                                <i class="fa fa-map-marker turquiose-text"></i> UC Santa Cruz Silicon Valley Campus
-                                            </div>
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>   
-                        </div>
-                    </a>
-        
-                    <a class="events-card" href="javascript:void(0)">
-                        <div class="events-card-content">
-                            <div class="date">
-                                <div class="month">Feb</div>
-                                <div class="day">20</div>
-                            </div>
-                        
-                            <div class="inner">
-                                <div class="image">
-                                    <img src="{{ site.baseurl }}/assets/img/content/event-2.jpeg" />
-                                </div>
-                                <div class="card-content">
-                                    <h4 class="header underline">Farm to Fork 2019</h4>
-                                    <p class="event-description">The Research Center for the Americas invites
-                                            you to join us as we celebrate International Women's Day with book talks by two
-                                            leading feminist scholars.</p>
-                                    <div class="tags">
-                                        <span class="topics-title">
-                                            <div class="time">
-                                                <i class="fa fa-clock-o turquiose-text"></i> Thursday, February 28 at 1:30pm to 5:00pm
-                                            </div>
-                                            <div class="location">
-                                                <i class="fa fa-map-marker turquiose-text"></i> Merrill Cultural Center
-                                            </div>
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>   
-                        </div>
-                    </a>
-        
-                    <a class="events-card" href="javascript:void(0)">
-                        <div class="events-card-content">
-                            <div class="date">
-                                <div class="month">Mar</div>
-                                <div class="day">8</div>
-                            </div>
-                        
-                            <div class="inner">
-                                <div class="image">
-                                    <img src="{{ site.baseurl }}/assets/img/content/event-3.jpeg" />
-                                </div>
-                                <div class="card-content">
-                                    <h4 class="header underline">Miatra Lecture 2019</h4>
-                                    <p class="event-description">UCSC graduate students spend years on their
-                                            theses and dissertations. Can they explain their research in three minutes? Join us
-                                            and find out!</p>
-                                    <div class="tags">
-                                        <span class="topics-title">
-                                            <div class="time">
-                                                <i class="fa fa-clock-o turquiose-text"></i> Friday, March 8 at 5:30pm to 8:00pm
-                                            </div>
-                                            <div class="location">
-                                                <i class="fa fa-map-marker turquiose-text"></i> Kuumbwa Jazz Center
-                                            </div>
-                                        </span>
-                                    </div>
-                                </div>
-                            </div>   
-                        </div>
-                    </a>
+                    {% endfor %}
                 </div>
             </div>
         
