@@ -15,8 +15,7 @@ billboard:
   month: October
   date: 20
   year: 2018
-  image: "/assets/img/content/mlk-specialevents.jpg"
-  thumbnail: "/assets/img/content/founders-specialevents.png"
+  image: "/assets/img/content/founders-specialevents.jpg"
   starttime: 6 p.m.
   endtime: 7 p.m.
 
