@@ -1,8 +1,8 @@
 ---
-title: 2018 Founders Celebration
-description: In honor of our Year of Alumni, we will take this moment to celebrate alumni and faculty who exemplify the best of UC Santa Cruz
+title: 2017 Founders Celebration
+description: Truth, democracy, and the power of the pen&#58; Award-winning alumni journalists will discuss the news industry, the changing perception of facts, and the current explosive political landscape.
 
-leftnav: Founders 2018
+leftnav: Founders 2017
 
 order: 1
 
@@ -11,17 +11,17 @@ tags:
   - Signature Series
   - Current
   - Event
-  - 2018
+  - 2017
 
-date: "2018-10-20"
+date: "2017-01-01"
 
 ####billboard
 billboard:
-  subtitle: 2018 Year of Alumni
+  subtitle: 2017 Year of Alumni
   day: Saturday
-  month: October
-  date: 20
-  year: 2018
+  month: January
+  date: 01
+  year: 2017
   image: "/assets/img/content/founders-specialevents.jpg"
   starttime: 6 p.m.
   endtime: 7 p.m.
