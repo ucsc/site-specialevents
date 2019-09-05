@@ -2,7 +2,7 @@
 title: About
 description: In honor of our Year of Alumni, we will take this moment to celebrate alumni and faculty who exemplify the best of UC Santa Cruz
 
-leftnav: Founders 2017
+nav-collection: founders-2017
 order: 2
 
 layout: page

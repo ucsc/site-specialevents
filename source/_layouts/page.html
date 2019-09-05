@@ -35,23 +35,8 @@
                                         <div class="page-menu-trigger" data-toggle="page-menu">In This Section</div>
                                     </div>
             
-                                    <div id="page-menu">
-                                        <ul class="vertical menu">
+                                    {% include left-navigation.html%}
 
-                                            <li class="">
-                                                <a class="section-title" href="javascript:void(0)" aria-label="">Home</a>
-                                                <ul class="menu vertical nested">
-                                                    {% assign event-nav = site.events | group_by: "leftnav" %}
-                                                    {% for event in event-nav %}
-                                                        <li><a href="{{ page.url }}" aria-label="">{{ event.title }}</a></li>
-                                                    {% endfor %}
-                                   
-                                                </ul>
-                                            </li>
-                                            
-                                        </ul>
-                                    </div>
-            
                                  </div>
             
                             </div>
