@@ -4,10 +4,14 @@
         <li class="">
             <a class="section-title" href="javascript:void(0)" aria-label="">Home</a>
             <ul class="menu vertical nested">
-               {% for event in site.events | group_by: "nav-collection" %}
-                <li><a href="{{ page.url }}" aria-label="">{{ event.title }}</a></li>
-               {% endfor %}
-             
+
+            	{% assign pagenav = page.nav-collection %}
+							{% for event in site.events | group_by: "pagenav" | sort_by: "order" %}
+								{% if event.nav-collection == pagenav %}
+								<li><a href="{{ site.baseurl }}{{ event.url }}" aria-label="">{{ event.title }}</a></li>
+								{% endif %}
+							{% endfor %}
+
             </ul>
         </li>
         
