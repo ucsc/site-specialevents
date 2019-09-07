@@ -6,7 +6,7 @@
             <ul class="menu vertical nested">
 
             	{% assign pagenav = page.nav-collection %}
-				{% for event in site.events %}
+				{% for event in site.events reversed %}
 					{% if event.nav-collection == pagenav %}
 					<li><a href="{{ site.baseurl }}{{ event.url }}" aria-label="">{{ event.title }}</a></li>
 					{% endif %}

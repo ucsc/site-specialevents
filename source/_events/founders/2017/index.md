@@ -2,7 +2,7 @@
 title: 2017 Founders Celebration
 description: Truth, democracy, and the power of the pen&#58; Award-winning alumni journalists will discuss the news industry, the changing perception of facts, and the current explosive political landscape.
 
-nav-collection: founders-2017
+nav-collection: 2017 Founders
 
 order: 1
 
