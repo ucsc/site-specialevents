@@ -1,46 +1,37 @@
 ---
-title: UC Santa Cruz Special Events
-layout: home-page
+title: Founder Celebrations
+layout: full-page
 ---
-
-<section class="content-centered">
-<div class="grid-container large">
-<p>Intro copy: <br/>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam molestiae voluptate quisquam, distinctio ducimus, ipsum perspiciatis vitae eaque ut maiores adipisci possimus et a nobis explicabo, obcaecati! In, voluptatibus harum.</p>
-</div>
-</section>
-
-
-
 <section id="main-content">
 <div class="grid-container large">
 <section class="heading">
-<h2 class="underline">Special Events</h2>
+<h2 class="underline">{{ page.title }}</h2>
 </section>
 
 <div class="events-card-list fade-out-siblings">
-{% assign event-list = site.events | sort: 'date' | where: 'tags','Current' | reverse %}
-{% for event in event-list limit: 6 %}
+{% assign event-list = site.events | sort: 'date' | where: 'tags','Founders' | reverse %}
+{% for event in event-list %}
 <a class="events-card" href="{{site.baseurl}}{{ event.url }}.html">
 <div class="events-card-content">
 <div class="date">
-<div class="month">
-{% assign m = event.billboard.month %}
-{% case m %}
-{% when 'January' %} Jan
-{% when 'February' %} Feb
-{% when 'March' %} Mar
-{% when 'April' %} Apr
-{% when 'May' %} May
-{% when 'June' %} Jun
-{% when 'July' %} Jul
-{% when 'August' %} Aug
-{% when 'September' %} Sept
-{% when 'October' %} Oct
-{% when 'November' %} Nov
-{% when 'December' %} December
-{% endcase %}
-</div>
-<div class="day">{{ event.billboard.date }}</div>
+    <div class="month">
+    {% assign m = event.billboard.month %}
+    {% case m %}
+        {% when 'January' %} Jan
+        {% when 'February' %} Feb
+        {% when 'March' %} Mar
+        {% when 'April' %} Apr
+        {% when 'May' %} May
+        {% when 'June' %} Jun
+        {% when 'July' %} Jul
+        {% when 'August' %} Aug
+        {% when 'September' %} Sept
+        {% when 'October' %} Oct
+        {% when 'November' %} Nov
+        {% when 'December' %} Dec
+    {% endcase %}
+    </div>
+    <div class="day">{{ event.billboard.date }}</div>
 </div>
 
 <div class="inner">
