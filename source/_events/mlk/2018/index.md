@@ -6,12 +6,12 @@ nav-collection: MLK
 
 order: 1
 
+category: MLK
+
 tags:
-  - MLK
   - Signature Series
+  - MLK
   - Current
-  - Event
-  - 2018
 
 date: "2018-02-23"
 

@@ -6,12 +6,12 @@ nav-collection: 2017 Founders
 
 order: 1
 
+category: Founders
+
 tags:
-  - Founders
   - Signature Series
+  - Founders
   - Current
-  - Event
-  - 2017
 
 date: "2017-01-01"
 

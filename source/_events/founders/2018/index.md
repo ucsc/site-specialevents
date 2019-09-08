@@ -7,11 +7,9 @@ nav-collection: 2018 Founders
 order: 1
 
 tags:
-  - Founders
   - Signature Series
+  - Founders
   - Current
-  - Event
-  - 2018
 
 date: "2018-10-20"
 
