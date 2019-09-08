@@ -9,7 +9,7 @@ order: 1
 category: MLK
 
 tags:
-  - Signature Series
+  - Lecture Series
   - MLK
   - Current
 
