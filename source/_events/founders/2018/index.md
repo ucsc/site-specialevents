@@ -5,9 +5,11 @@ description: In honor of our Year of Alumni, we will take this moment to celebra
 nav-collection: 2018 Founders
 
 order: 1
-category: Founders Celebration
+
+event-type: Signature Series
+category: Founders Celebrations
+
 tags:
-  - Signature Series
   - Founders
   - Current
 

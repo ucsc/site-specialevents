@@ -6,10 +6,10 @@ nav-collection: MLK
 
 order: 1
 
-category: MLK
+category: Martin Luther King Jr. Convocation
+event-type: Signature Series
 
 tags:
-  - Lecture Series
   - MLK
   - Current
 
@@ -17,7 +17,7 @@ date: "2018-02-23"
 
 ####billboard
 billboard:
-  subtitle: 2018 Year of Alumni
+  subtitle: 
   day: Monday
   month: February
   date: 23
