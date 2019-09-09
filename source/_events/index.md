@@ -3,12 +3,11 @@ title: Special Events Archive
 layout: full-page
 ---
 
-
 <section class="grid-centered">
 <div class="grid-container large">
 <h2>Past Signature Events</h2>
 <div class="generic-card-list">
-{% assign items_grouped = site.events | group_by: 'category' | %}
+{% assign items_grouped = site.events | group_by: 'category' %}
 {% for group in items_grouped %}
 <a class="generic-card" href="javascript:void(0)" aria-label="">
 <div class="card-text">
