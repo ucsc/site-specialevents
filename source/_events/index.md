@@ -12,7 +12,7 @@ layout: full-page
 <a class="generic-card" href="javascript:void(0)" aria-label="">
 <div class="card-text">
 <div class="image">
-<img src="{{ site.baseurl }}{{ group.billboard.image }}" />
+<img src="{{ site.baseurl }}{{ item_grouped.billboard.image }}" />
 </div>
 <h4 class="underline">{{group.name}}</h4>
 <form action="#" class="cell large-12 yeardropdown">
@@ -35,6 +35,7 @@ layout: full-page
 
 
 
+<!--
 {% assign items_grouped = site.events | group_by: 'category' %}
 {% for group in items_grouped %}
 <h3>{{group.name}}</h3>
@@ -42,6 +43,4 @@ layout: full-page
 <p>{{item.billboard.year}}</p>
 {% endfor %}
 {% endfor %}
-
-
-
+-->
