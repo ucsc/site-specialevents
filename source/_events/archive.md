@@ -1,20 +1,42 @@
 ---
-title: Special Events Archive
+title: Events Archive
 layout: full-page
 ---
+{: .underline}
+## {{ page.title }}
 
-<section class="grid-centered">
-<div class="grid-container medium">
-<h2 class="underline">Signature Events</h2>
-{% assign items_grouped = site.events | group_by: 'category' %}
+
+### Signature Events
+
+<div class="archive-container">
+{% assign items_grouped = site.events | where: 'event-type','Signature Event' | group_by: 'category' %}
 {% for group in items_grouped %}
-<div class="yoyo">
-<h4>{{group.name}}</h4>
-<div style="margin-bottom: 1rem; border-bottom: 1px solid #ddd;">
-{% for item in group.items reversed %}
-<a href="{{ site.baseurl }}{{ item.url }}">{{ item.billboard.year }}</a>
+	<h4>{{group.name}}</h4>
+		<div class="archive-year">
+			<ul>
+			{% for item in group.items reversed %}
+				<li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.billboard.year }}</a></li>
+			{% endfor %}
+			</ul>
+		</div>
 {% endfor %}
 </div>
-</div>
+
+
+### Lecture Series
+
+<div class="archive-container">
+{% assign items_grouped = site.events | where: 'event-type','Lecture Series' | group_by: 'category' %}
+{% for group in items_grouped %}
+	<h4>{{group.name}}</h4>
+		<div class="archive-year">
+			<ul>
+			{% for item in group.items reversed %}
+				<li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.billboard.year }}</a></li>
+			{% endfor %}
+			</ul>
+		</div>
 {% endfor %}
+</div>
+
 
