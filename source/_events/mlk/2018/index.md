@@ -7,7 +7,7 @@ nav-collection: MLK
 order: 1
 
 category: Martin Luther King Jr. Convocation
-event-type: Signature Series
+event-type: Lecture Series
 
 tags:
   - MLK

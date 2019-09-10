@@ -32,6 +32,10 @@ a.whitelink:hover,
 a.whitelink:focus {
   text-decoration: underline; }
 
+.yoyo:first-child {
+  display: none;
+}
+
 /*End location address */
 /* min-width 641px, medium screens */
 /* min-width 1025px, large screens */

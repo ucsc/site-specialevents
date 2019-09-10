@@ -37,7 +37,7 @@ layout: home-page
 {% when 'September' %} Sept
 {% when 'October' %} Oct
 {% when 'November' %} Nov
-{% when 'December' %} December
+{% when 'December' %} Dec
 {% endcase %}
 </div>
 <div class="day">{{ event.billboard.date }}</div>

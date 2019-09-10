@@ -6,7 +6,7 @@ nav-collection: 2017 Founders
 
 order: 1
 
-event-type: Signature Series
+event-type: Signature Event
 category: Founders Celebrations
 
 tags:
