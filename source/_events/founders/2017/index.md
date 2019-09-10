@@ -4,6 +4,7 @@ description: Truth, democracy, and the power of the pen&#58; Award-winning alumn
 
 nav-collection: 2017 Founders
 
+#### Homepage order should always be 1
 order: 1
 
 event-type: Signature Event
