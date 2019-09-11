@@ -3141,7 +3141,7 @@ table .main-content img {
 }
 
 #mainNav li > a span, #mainNav li > span, .site-nav li > a span, .site-nav li > span {
-    background: transparent url(../images/down-arrow.svg) no-repeat right 60%;
+    background: transparent url(../../assets/images/down-arrow.svg) no-repeat right 60%;
     background-size: 14px;
     padding: 0 20px 0 0
 }
