@@ -23,7 +23,7 @@ layout: full-page
 </div>
 
 
-### Lecture Series
+### Notable Events
 
 <div class="archive-container">
 {% assign items_grouped = site.events | where: 'event-type','Notable Event' | group_by: 'category' %}
