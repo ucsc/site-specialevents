@@ -53,7 +53,8 @@ layout: home-page
 <div class="tags">
 <span class="topics-title">
 <div class="time">
-<i class="fa fa-clock-o turquiose-text"></i> {{ event.billboard.date }} at {{ event.billboard.starttime}} to {{ event.billboard.endtime }}
+<i class="fa fa-clock-o turquiose-text"></i> {{ event.billboard.month }} {{ event.billboard.date }} at {{ event.billboard.starttime }} 
+{% if event.billboard.endtime != '' %} to {{ event.billboard.endtime }} {% endif %}
 </div>
 <div class="location">
 <i class="fa fa-map-marker turquiose-text"></i> {{ event.location.address }}
