@@ -45,9 +45,8 @@ layout: full-page
 <div class="tags">
 <span class="topics-title">
 <div class="time">
-<i class="fa fa-clock-o turquiose-text"></i> {{ event.billboard.month }} {{ event.billboard.date }} at {{ event.billboard.starttime}} 
-{% assign event-endtime = event.billboard.endtime %}
-{% if event-endtime != ''  %} to {{ event.billboard.endtime }} {% endif %}
+<i class="fa fa-clock-o turquiose-text"></i> {{ event.billboard.month }} {{ event.billboard.date }} {% if event.billboard.starttime != null  %} at {{ event.billboard.starttime}} {% endif %}
+{% if event.billboard.endtime != null  %} to {{ event.billboard.endtime }} {% endif %}
 </div>
 <div class="location">
 <i class="fa fa-map-marker turquiose-text"></i> {{ event.location.address }}
