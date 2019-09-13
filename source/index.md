@@ -19,7 +19,7 @@ layout: home-page
 
 <div class="events-card-list fade-out-siblings">
 {% assign event-list = site.events | sort: 'date' | where: 'tags','Current' | reverse %}
-{% for event in event-list limit: 6 %}
+{% for event in event-list limit: 3 %}
 <a class="events-card" href="{{site.baseurl}}{{ event.url }}.html">
 <div class="events-card-content">
 <div class="date">
@@ -40,7 +40,7 @@ layout: home-page
 {% when 'December' %} Dec
 {% endcase %}
 </div>
-<div class="day">{{ event.billboard.date }}</div>
+<div class="day">{{ event.billboard.date | truncatewords: 1,'' }}</div>
 </div>
 
 <div class="inner">
