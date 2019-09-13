@@ -1,38 +1,37 @@
 ---
-title: UC Santa Cruz Special Events
+title: Commencement
 layout: full-page
 ---
-
 <section id="main-content">
 <div class="grid-container large">
 <section class="heading">
-<h2 class="underline">Special Events</h2>
+<h2 class="underline">{{ page.title }}</h2>
 </section>
 
 <div class="events-card-list fade-out-siblings">
-{% assign event-list = site.events | sort: 'date' | where: 'tags','Current' | reverse %}
+{% assign event-list = site.events | sort: 'date' | where: 'tags','Commencement' | reverse %}
 {% for event in event-list %}
 <a class="events-card" href="{{site.baseurl}}{{ event.url }}.html">
 <div class="events-card-content">
 <div class="date">
-<div class="month">
-{% assign m = event.billboard.month %}
-{% case m %}
-{% when 'January' %} Jan
-{% when 'February' %} Feb
-{% when 'March' %} Mar
-{% when 'April' %} Apr
-{% when 'May' %} May
-{% when 'June' %} Jun
-{% when 'July' %} Jul
-{% when 'August' %} Aug
-{% when 'September' %} Sept
-{% when 'October' %} Oct
-{% when 'November' %} Nov
-{% when 'December' %} Dec
-{% endcase %}
-</div>
-<div class="day">{{ event.billboard.date | truncatewords: 1,'' }}</div>
+    <div class="month">
+    {% assign m = event.billboard.month %}
+    {% case m %}
+        {% when 'January' %} Jan
+        {% when 'February' %} Feb
+        {% when 'March' %} Mar
+        {% when 'April' %} Apr
+        {% when 'May' %} May
+        {% when 'June' %} Jun
+        {% when 'July' %} Jul
+        {% when 'August' %} Aug
+        {% when 'September' %} Sept
+        {% when 'October' %} Oct
+        {% when 'November' %} Nov
+        {% when 'December' %} Dec
+    {% endcase %}
+    </div>
+    <div class="day">{{ event.billboard.date }}</div>
 </div>
 
 <div class="inner">
@@ -45,9 +44,7 @@ layout: full-page
 <div class="tags">
 <span class="topics-title">
 <div class="time">
-<i class="fa fa-clock-o turquiose-text"></i> {{ event.billboard.month }} {{ event.billboard.date }} at {{ event.billboard.starttime}} 
-{% assign event-endtime = event.billboard.endtime %}
-{% if event-endtime != ''  %} to {{ event.billboard.endtime }} {% endif %}
+<i class="fa fa-clock-o turquiose-text"></i> {{ event.billboard.date }} at {{ event.billboard.starttime}} to {{ event.billboard.endtime }}
 </div>
 <div class="location">
 <i class="fa fa-map-marker turquiose-text"></i> {{ event.location.address }}

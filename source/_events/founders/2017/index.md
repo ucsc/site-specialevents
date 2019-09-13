@@ -12,7 +12,7 @@ category: Founders Celebrations
 
 tags:
   - Founders
-  - Current
+  - Inactive
 
 date: "2017-01-01"
 
