@@ -20,6 +20,7 @@ layout: home-page
 <div class="events-card-list fade-out-siblings">
 {% assign event-list = site.events | sort: 'date' | where: 'tags','Current' | reverse %}
 {% for event in event-list limit: 3 %}
+
 <a class="events-card" href="{{site.baseurl}}{{ event.url }}.html">
 <div class="events-card-content">
 <div class="date">
@@ -71,7 +72,7 @@ layout: home-page
 
 <div class="more no-border">
 <a class="primary button" href="https://events.ucsc.edu/">
-See More Events
+See Other Events
 </a>
 </div>
 
