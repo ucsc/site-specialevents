@@ -9,6 +9,6 @@ layout: full-page
 </section>
 
 <div class="events-card-list fade-out-siblings">
-{% assign event-list = site.events | sort: 'date' | where: 'tags','MLK' | reverse %}
+{% assign event-list = site.events | sort: 'date' | where: 'tags','Mandel Lecture' | reverse %}
 
 {% include event-listing.html %}
