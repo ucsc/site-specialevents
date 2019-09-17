@@ -19,7 +19,7 @@
         {% when 'December' %} Dec
     {% endcase %}
     </div>
-    <div class="day">{{ event.billboard.date }}</div>
+    <div class="day">{{ event.billboard.date | truncatewords: 1,'' }}</div>
 </div>
 
 <div class="inner">
@@ -32,7 +32,8 @@
 <div class="tags">
 <span class="topics-title">
 <div class="time">
-<i class="fa fa-clock-o turquiose-text"></i> {{ event.billboard.date }} at {{ event.billboard.starttime}} to {{ event.billboard.endtime }}
+<i class="fa fa-clock-o turquiose-text"></i>{{ event.billboard.month }} {{ event.billboard.date }} {% if event.billboard.starttime != null %} at {% endif %}{{ event.billboard.starttime }} 
+{% if event.billboard.endtime != null %} to {{ event.billboard.endtime }} {% endif %}
 </div>
 <div class="location">
 <i class="fa fa-map-marker turquiose-text"></i> {{ event.location.address }}

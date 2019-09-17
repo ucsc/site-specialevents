@@ -54,7 +54,7 @@ layout: home-page
 <div class="tags">
 <span class="topics-title">
 <div class="time">
-<i class="fa fa-clock-o turquiose-text"></i> {{ event.billboard.month }} {{ event.billboard.date }} {% if event.billboard.starttime != null %} at {% endif %}{{ event.billboard.starttime }} 
+<i class="fa fa-clock-o turquiose-text"></i>{{ event.billboard.month }} {{ event.billboard.date }} {% if event.billboard.starttime != null %} at {% endif %}{{ event.billboard.starttime }} 
 {% if event.billboard.endtime != null %} to {{ event.billboard.endtime }} {% endif %}
 </div>
 <div class="location">
