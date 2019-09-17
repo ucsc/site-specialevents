@@ -1,5 +1,5 @@
 ---
-title: Mandel Lectures
+title: The attics of our lives - UC Santa Cruz<
 layout: full-page
 ---
 <section id="main-content">
@@ -9,6 +9,6 @@ layout: full-page
 </section>
 
 <div class="events-card-list fade-out-siblings">
-{% assign event-list = site.events | sort: 'date' | where: 'tags','Mandel Lecture' | reverse %}
+{% assign event-list = site.events | sort: 'date' | where: 'tags','Attic' | reverse %}
 
 {% include event-listing.html %}

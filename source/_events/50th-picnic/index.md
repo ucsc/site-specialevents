@@ -1,5 +1,5 @@
 ---
-title: Mandel Lectures
+title: 50th Anniversary Retired Staff and Faculty Picnic
 layout: full-page
 ---
 <section id="main-content">
@@ -9,6 +9,6 @@ layout: full-page
 </section>
 
 <div class="events-card-list fade-out-siblings">
-{% assign event-list = site.events | sort: 'date' | where: 'tags','Mandel Lecture' | reverse %}
+{% assign event-list = site.events | sort: 'date' | where: 'tags','50th Picnic' | reverse %}
 
 {% include event-listing.html %}
