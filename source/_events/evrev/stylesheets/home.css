@@ -1,0 +1,85 @@
+/* @override http://events.ucsc.edu/evrev/stylesheets/home.css */
+ #description_text {
+	 color: #5D7288;
+	 font-size: 14px;
+}
+ #tribute_text {
+	 display: block;
+	 padding-top: 10px;
+	 font-weight: normal;
+	 font-style: italic;
+}
+ #content_when_where_tickets {
+	 border-left: 1px solid #232323;
+	 color: #232323;
+	 text-align: center;
+	 font-size: 14px;
+	 font-weight: bold;
+	 width:220px;
+	 padding-left:20px;
+}
+ #content_when_where_tickets span {
+	 display: block;
+}
+ #content_when_where_tickets a {
+	 display:block;
+	 padding:8px 0;
+}
+ #content_when_where_tickets a {
+	 color: #232323;
+	 font-weight: normal;
+	 font-style: italic;
+}
+/* inside #bottom_section */
+ #journey_through_time {
+	 line-height:1.8em;
+	 width:320px;
+	 margin-left:88px;
+}
+ #journey_through_time .title {
+	 font-size: 16pt;
+	 font-weight: bold;
+	 color: #FdE9d9;
+}
+ #journey_through_time .title .director_name {
+	 color: #DCEDFF;
+}
+ #journey_through_time .title span {
+	 display: block;
+}
+ #journey_through_time .description {
+	 display: block;
+	 padding: 0px;
+	 color: #DEDEDE;
+	 font-size: 10pt;
+	 line-height: 14pt;
+	 margin-top:0;
+}
+ #journey_through_time #read_more_frans_lanting a {
+	 color: #FDA203;
+	 text-decoration: none;
+	 font-size: 13pt;
+}
+ .description_part_2 {
+	 width: 200px;
+	 top:50px;
+	 position:absolute;
+	 left:440px;
+	 color: #DEDEDE;
+	 font-size: 13px;
+}
+ .description_part_2 .quote {
+	 display: block;
+	 padding-top: 20px;
+	 text-align: center;
+	 font-size: 15pt;
+	 line-height: 20pt;
+	 font-style: italic;
+}
+ .description_part_2 .credit {
+	 display: block;
+	 padding-top: 5px;
+	 text-align: center;
+	 font-size: 9pt;
+}
+ 
