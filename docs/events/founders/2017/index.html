@@ -1,711 +1,529 @@
-<!doctype html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
 
-<html class="no-js" lang="en">
+<!-- BLOCK: uniform campus head  -->
 
 
-    <head>
-      <meta charset="utf-8" />
-      <meta http-equiv="x-ua-compatible" content="ie=edge">
-      <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
-      <link href="/specialevents-site/favicon.ico" rel="shortcut icon"/>
-      <link href="/specialevents-site/apple-touch-icon.png" rel="apple-touch-icon"/>
-      <title>2017 Founders Celebration</title>
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
-          integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-      <link rel="stylesheet" href="/specialevents-site/css/app.css">
-      <link rel="stylesheet" href="/specialevents-site/css/custom.css">
-      <link href="//fonts.googleapis.com/css?family=Roboto|Roboto+Condensed" rel="stylesheet">
+<link rel="dns-prefetch" href="https://static.ucsc.edu"/>
+<meta charset="UTF-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0" name="viewport"/>
+<link href="/specialevents-site/favicon.ico" rel="shortcut icon"/>
+<link href="/specialevents-site/apple-touch-icon.png" rel="apple-touch-icon"/>
 
-    </head>
+<link href="/specialevents-site/css/ucsc-beige/ucsc.css" rel="stylesheet" type="text/css"/>
+<script src="/specialevents-site/js/ucsc-beige/modernizr.js" type="text/javascript"></script>
+<script src="/specialevents-site/js/ucsc-beige/jquery.js" type="text/javascript"></script>
+<script async="async" src="/specialevents-site/js/ucsc-beige/main.js" type="text/javascript"></script>
+<script defer="true" src="/specialevents-site/js/ucsc-beige/all.js"></script>
 
-    <body class="subsite-wrapper">
+<!-- END BLOCK: included uniform campus head  -->
 
-      <div id="page">
-          <div class="menu-explore off-canvas position-right wave-pattern secondary-blue" id="mobile-menu" data-off-canvas>
-          
-              <div class="scroll">
-                      <div class="close-main">
-                          <button class="close-button" aria-label="Close menu" type="button" data-close>
-                              <span aria-hidden="true">&times;</span>
-                          </button>
-                      </div>
-                            
-                      <div class="menu-id">
-                          <img class="white-ucsc-logo" src="/specialevents-site/assets/img/build-resources/uc-santa-cruz-reverse.svg" />
-                      </div>
-                  
-                      <div class="aev-links">
-                          <div class="expanded button-group">
-                              <a class="button solid white-text" href="https://admissions.ucsc.edu/apply/">Apply</a>
-                              <a class="button solid white-text" href="https://www.ucsc.edu/visit/index.html">Visit</a>
-                              <a class="button solid white-text" href="https://giving.ucsc.edu">Engage</a>
-                          </div>
-                      </div>
-          
-          
-          
-          
-          
-                      <!-- Special Events -->
-              
-                      <!-- Subsite Menu-->
-                      <div class="primary-links lower-divider">
-                          <ul class="menu">
-                              <li><a href="/specialevents-site/events/" aria-label="">Special Events Archive</a></li>
-                              <li><a href="/specialevents-site/help-in-planning.html" aria-label="">Help in Planning</a></li>
-                              <li><a href="/specialevents-site/campus-venus.html" aria-label="">Campus Venus</a></li>
-                              <li><a href="/specialevents-site/contact.html" aria-label="">Contact</a></li>
-                          </ul>
-                      </div>
-          
-          
-                      <!-- end Special Events -->
-              
-              
-                      <div class="global-links">
-                          <ul class="vertical menu">
-                              <li><a href="https://login.ucsc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1" aria-label=""><span>MyUCSC</span></a></li>
-                              <li><a href="https://www.ucsc.edu/tools/calendars.html" aria-label=""><span>Calendars</span></a></li>
-                              <li><a href="https://www.ucsc.edu/tools/people.html" aria-label=""><span>Directories</span></a></li>
-                          </ul>
-                      </div>
-                      
-                  </div>
-          
-              </div>
-          
-          </div>
-          
-          <div data-sticky-container>
-              <div id="page-header" role="navigation" class="page-header sticky" aria-expanded="false" aria-label="Page header" data-sticky data-margin-top="0" data-anchor="main-content">
-      
-                  <div class="global-header">
-                  
-                      <div class="grid-container large">
-                              <div class="site-logo global">
-                                  <a href="/specialevents-site">
-                                      <img src="/specialevents-site/assets/img/build-resources/uc-santa-cruz-reverse.svg">
-                                  </a>
-                              </div>
-                          <div class="aev-menu">
-                              <ul class="menu">
-                                  <li><a href="https://admissions.ucsc.edu/apply/">Apply</a></li>
-                                  <li><a href="https://giving.ucsc.edu">Engage</a></li>
-                                  <li><a href="https://www.ucsc.edu/visit/index.html">Visit</a></li>
-                              </ul>
-                          </div>
-                          
-                          <div class="global-menu">
-                              <ul class="menu">
-                                  <li><a href="https://login.ucsc.edu/idp/profile/SAML2/Redirect/SSO;jsessionid=110f00jrrbrh7marvjot3soxo?execution=e1s1" aria-label=""><span>MyUCSC</span></a></li>
-                                  <li><a href="https://www.ucsc.edu/tools/calendars.html" aria-label=""><span>Calendars</span></a></li>
-                                  <li><a href="https://www.ucsc.edu/tools/people.html" aria-label=""><span>Directories</span></a></li>
-                                  <li class="show-for-large search-button">
-                                      <a action="#0" data-toggle="global-search"><i class="fas fa-search fa-small"></i> Search</a>
-                                  </li>
-                              </div>
-                  
-                      </div>
-                  
-                  </div>
-                  <div class="mobile-menu">
-                          <a class="mobile-menu-logo" href="#">
-                              <img src="/specialevents-site/assets/img/build-resources/uc-santa-cruz-reverse.svg" />
-                          </a>
-                          <ul class="menu">
-                              <li>
-                                  <a class="global-mobile-search-trigger" href="#0" data-toggle="global-search">
-                                      <i class="fas fa-search"></i>
-                                  </a>
-                              </li>
-                              <li>
-                                  <a href="#global-menu" role="button" id="page-header-toggle" class="page-header-toggle" offcanvas-trigger data-open="mobile-menu">
-                                      <span>Menu</span>
-                                      <span class="fa fa-bars" aria-hidden="true"></span>
-                                  </a>
-                              </li>                   
-                          </ul>
-                  </div>
-                  <div class="subsite-header">
-                      <!--------------------------------------------->
-                      <!------------- Custom Subsite Logo ----------->
-                      <!--------------------------------------------->
-                      
-                  
-                      <!--------------------------------------------->
-                      <!--------------- Subsite Template ------------>
-                      <!--------------------------------------------->
-                  
-                  
-                  
-                      <!--------------------------------------------->
-                      <!--------------- News Template  -------------->
-                      <!--------------------------------------------->
-                  
-                      <!-- Special events -->
-                  
-                          
-                          <div class="grid-container large">
-                              <div class="grid-x large-padding-collapse large-margin-collapse">
-                                  <div class="cell large-3">
-                                      <div class="subsite-brand-container">
-                                          <a href="/specialevents-site/" aria-label="Return to news home page">
-                                              <h1>Special Events</h1>
-                                          </a>
-                                      </div>                </div>
-                                  <div class="cell auto">
-                                      
-                                      <ul class="menu">
-                                          <li><a href="/specialevents-site/events/" aria-label="">Special Events Archive</a></li>
-                                          <li><a href="/specialevents-site/help-in-planning.html" aria-label="">Help in Planning</a></li>
-                                          <li><a href="/specialevents-site/campus-venus.html" aria-label="">Campus Venus</a></li>
-                                          <li><a href="/specialevents-site/contact.html" aria-label="">Contact</a></li>
-                                      </ul>
-                                  </div>
-                              </div>
-                          </div>
-                         
-                  
-                      
-                  </div>
-              
-              </div>
-          </div>
+<title>2017 Founders Celebration</title>
+
+
+
+<style media="screen" type="text/css">
+
+@media only screen and (min-width: 48em) {
+
+    #bannerBox,
+    .banner-box {
+        border-bottom: solid 0px #d3d2d1;
+        box-shadow: 1px 1px 4px rgba(0, 0, 0, .0);
+    }
+    .content-box,
+    .contentBox {
+        box-shadow: 1px 1px 4px rgba(0, 0, 0, .0);
+    }
+    .honorees {
+        margin: 2em 0 0 0;
+        padding: 0;
+    }
+    .honorees li {
+        padding: 1em 0;
+        border-bottom: 1px solid #ccc;
+        clear: both;
+        margin-left: 0;
+        list-style-type: none;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+    }
+    .honorees :first-child {
+        margin-top: 0;
+    }
+    .honorees li:last-child {
+        border-bottom: none;
+    }
+    .honorees li:after {
+        visibility: hidden;
+        display: block;
+        font-size: 0;
+        content: " ";
+        clear: both;
+        height: 0;
+    }
+    .honorees li li {
+        padding: .25em 0 .25em .25em;
+        border-bottom: 0;
+        clear: both;
+        margin-left: 0;
+        display: block;
+       background: url(http://specialevents.ucsc.edu/founders/images/square.svg) no-repeat left .55em; 
+    }
+
+    h2 + .honorees,
+    .contentBox .honorees:first-child {
+        margin-top: 0;
+    }
+    .info {
+        margin: .5em 0 .25em 0;
+    }
+    .honorees .info li,
+    .info li {
+        padding: 0 0 0 1em;
+        margin-left: .25em;
+        clear: none;
+        border-bottom: none;
+    }
+    .award {
+        width: 36%;
+        float: left;        
+        padding-right: 30px;
+    }
+    .award p {
+        line-height: 1.5em !important;
+        color: #666 !important;
+    }
+    .award h3 {
+        margin-top: 0 !important;
+    }
+    .recipient {
+        width: 64%;
+        border-left: 1px solid #ccc;
+        float: right;
+        font-size: 16px;
+        padding-left: 1em;
+    }
+    .recipient h3,
+    .award h3 {
+        margin: 0 0 0.5em 0;
+        font-weight: 600;
+    }
+
+}
+
+@media only screen and (max-width: 48em) {
+    #bannerBox,
+    .banner-box {
+        border-bottom: solid 0px #d3d2d1;
+        box-shadow: 1px 1px 4px rgba(0, 0, 0, .0);
+    }
+    .info li {
+        list-style-type: disc !important;
+    }
+    .award {
+        width: 100%;
+        float: left;
+        border-right: 0px solid #ccc;
+        padding-right: 30px;
+    }
+    .recipient {
+        width: 100%;
+        float: right;
+        font-size: 16px;
+        padding-top: 2px;
+        padding-bottom: 5px;
+        margin-bottom: 1.5em;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .honorees li {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+
+}
+</style>
+
+
+<style rel="stylesheet" type="text/css">
+ a.register {
+	 margin-top:8px;
+}
+ a.register  {
+     border-radius: 5px;
+	 display:block;
+	 padding: 10px;
+	 background-color:#285991;
+	 color:#ffffff;
+	 text-decoration:none;
+	 text-align: center;
+}
+a.register:focus, a.register:hover {
+	 background-color:#f1b521;
+	 color:#00458c;
+}
+
+#livestream-note {
+  width:100%;
+  padding: .5em .5em .25em .5em;
+  margin: 0 0 1em 0;
+  background: #f1b523;
+  text-align: center;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+ -moz-border-radius: 5px;
+  border-bottom: 1px #ccc solid;
+}
+
+a.play-btn, a.play-btn:active {
+  display: block;
+  max-width: 10em;
+  height: 2.35em;
+  background-color:#d31b5e;
+  padding: .3em .3em .3em .5em;
+  margin: .5em auto .5em auto;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  font-size: 18px;
+  text-decoration: none;
+  line-height: 1.75em;
+  color: #FFF;
+  text-align: center;
+}
+a.play-btn:hover {
+  background-color: #1B4084;
+  color: #FFC500; /* Switch to gold-light later */
+}
+.main-content img[align=left] {
+float: center;
+margin: 2px 8px 8px 0;
+}
+.main-content img {
+background-color: transparent;
+padding: 0;
+border-radius: 5px;
+}
+
+.recipient ul li {
+    background: none !important;
+}
+
+.sponsor-info {
+	background: #fde8b3;
+	border-bottom: 1px solid #ccc;
+	border-radius: .5em;
+	display: block;
+	margin: 1em 0;
+	padding: .25em .5em 1.25em;
+	text-align: center;
+	width: 100%;
+}
+</style>
+
+</head>
+
+<body class="left-column www">
+
+<!-- Accessibility links. Hidden until they receive :focus -->
+<ul id="access-links">
+  <li><a href="#main">Skip to main content</a></li>
+  <li><a href="#mainNav">Skip to main navigation</a></li>
+</ul>  
+
+
+
+  <div id="wrap">
+    <div id="container">
+      <div id="content">
         
+<div class="site-header" role="banner">
 
-                   
+    <div class="page-top">
+      <div class="row">
 
-
-
-  <div class="hero-viewport inner-page-standard wave-pattern blue">
-      <div class="grid-container large">
-          <div class="hero-container">
-              <div id="hero" class="hero hero-text-left">
-                  
-                  <img src="/specialevents-site/assets/img/content/founders-specialevents.jpg" />
-                  <div class="hero-text">
-                    <a href="http://founders.ucsc.edu" class="">
-                      <p class="category btn-link"><large>2017 Year of Alumni</large></p>
-                      <div class="underline isolated">
-                          <h1 class="hero-header">2017 Founders Celebration</h1>
-                          <p class="hero-body"><large>Saturday, January 1, 2017</large>
-                          <a class="button primary expanded" href="http://founders.ucsc.edu">Register Now</a></p>
-                      </div>
-                    </a>
-                    
-                  
-                  </div>
-              </div>
+        <div class="page-top-right">
+          <ul id="topNav">
+<li><a href="https://my.ucsc.edu" title="The student portal">MyUCSC</a></li>
+<li><a href="https://www.ucsc.edu/tools/people.html" title="Campus directory">People</a></li>
+<li><a href="https://www.ucsc.edu/tools/calendars.html" title="Upcoming events, academic, and administrative calendars">Calendars</a></li>
+<li><a href="https://www.ucsc.edu/visit/maps-directions.html">Maps</a></li>
+<li><a href="https://www.ucsc.edu/tools/azindex.html" title="A to Z index of UCSC websites">A-Z Index</a></li>
+</ul>
+          <div class="search" role="search">
+            <!-- Google Custom Search --><!-- end GCS --><div><form action="/search" id="cse-search-box"><input name="ie" type="hidden" value="UTF-8"/> <label class="hide" for="q">Search</label><input class="query" id="q" name="q" placeholder="Search UCSC" type="text" value=""/> <input class="srchBtn" type="submit" value="Search"/></form></div>
           </div>
+        </div>
+
       </div>
-  </div>
-
-
-
-<div class="page-utilities">
-    <div class="grid-container large">
-        <nav aria-label="You are here:" role="navigation">
-            <ul class="breadcrumbs">
-            	
-            		<li><a href="/specialevents-site/">Special Events Home</a></li>
-            		
-            			
-                		<li>
-                			 <a href="/specialevents-site/events/"><span class="show-for-sr">Current: </span>Events</a>
-                		</li>
-                	
-              	
-            			
-                		<li>
-                			 <a href="/specialevents-site/events/founders/"><span class="show-for-sr">Current: </span>Founders</a>
-                		</li>
-                	
-              	
-            			
-                		<li>
-                			 <a href="/specialevents-site/events/founders/2017/"><span class="show-for-sr">Current: </span>2017</a>
-                		</li>
-                	
-              	
-            			
-            				&nbsp;&nbsp;/&nbsp;&nbsp; 2017 Founders Celebration
-            			
-              	
-            </ul>
-        </nav>
     </div>
+
+    <div class="main-header">
+
+    <div class="row names">
+      <div class="campus-name">
+        <h1><a class="campus-logo" href="https://www.ucsc.edu/index.html" id="logo">UC Santa Cruz</a></h1>
+        <a class="mobile-menu" href="#mainNav">Menu</a>
+      </div>  
+    </div>
+
+      <div class="row main-navigation" role="navigation">
+        <ul id="mainNav" role="menubar">
+<li class="first" role="menuitem"><a href="https://www.ucsc.edu/about/index.html">About</a></li>
+<li role="menuitem"><a href="https://www.ucsc.edu/admissions/index.html">Admissions</a></li>
+<li role="menuitem"><a href="https://www.ucsc.edu/academics/index.html">Academics</a></li>
+<li role="menuitem"><a href="https://www.ucsc.edu/research/index.html">Research</a></li>
+<li role="menuitem"><a href="https://www.ucsc.edu/campus/index.html">Campus Life</a></li>
+<li role="menuitem"><a href="https://www.ucsc.edu/visit/index.html">Visit UCSC</a></li>
+<li aria-haspopup="true" class="last qsg" role="menuitem"><span>Information for</span>
+<ul>
+<li><a href="http://studentservices.ucsc.edu">Current Students</a></li>
+<li><a href="https://www.ucsc.edu/quickstart/faculty-staff/index.html">Faculty &amp; Staff</a></li>
+<li><a href="http://alumni.ucsc.edu">Alumni</a></li>
+<li><a href="https://www.ucsc.edu/quickstart/prospective-students/index.html">Prospective Students</a></li>
+<li><a href="https://www.ucsc.edu/parents/index.html">Parents &amp; Families</a></li>
+<li><a href="https://www.ucsc.edu/quickstart/community/index.html">Community</a></li>
+</ul>
+</li>
+</ul>
+      </div>
+
+    </div>
+    
 </div>
 
 
+        <div class="row" id="sprflt">
 
-<div class="page-content" id="main-content">
-  <div class="layout-two-column large">
-    <div class="wrap">
-      <div class="inner">
-         <!-- content -->  
-        <div class="column-main">
-         
-         <h2 id="founders-celebration-dinner">Founders Celebration Dinner</h2>
-
-<p>In honor of our Year of Alumni, we will take this moment to celebrate alumni and faculty who exemplify the best of UC Santa Cruz.</p>
-
-<p>Truth, democracy, and the power of the pen: Award-winning alumni journalists will discuss the news industry, the changing perception of facts, and the current explosive political landscape.</p>
-
-
-
-        <!-- Speaker profile listing with photos -->
-        
-        <h2>The awards presentation will include:</h2>
-         <div class="profile-list owl-carousel">
-          
-            <a id="John Laird (Stevenson ’72, politics)" name="speaker.name"><a class="profile carousel-item" href="https://specialevents.ucsc.edu/founders/2018/honorees.html#john-laird">
-              
-                <h3 class="cell large-12">Fiat Lux Award</h3>
-              
-                <div class="image speaker">
-                    <img src="https://specialevents.ucsc.edu/founders/2018/images/john-laird.jpg" alt="John Laird (Stevenson ’72, politics)" />
-                </div>
-                <div class="profile-info">
-                    <h4 class="underline tighten">John Laird (Stevenson ’72, politics)</h4>
-                    <div class="tags">
-                        <p>A trailblazing public servant</p>
-                        <p>John Laird was appointed California Secretary for Natural Resources by Governor Jerry Brown on Jan. 5, 2011. He has spent over 40 years in public service, including 23 years as an elected official.</p>
-                    </div>
-                </div>
-            </a>
-            
-            <a id="Lise Getoor" name="speaker.name"><a class="profile carousel-item" href="https://specialevents.ucsc.edu/founders/2018/honorees.html#lise-getoor">
-              
-                <h3 class="cell large-12">Faculty Research Award</h3>
-              
-                <div class="image speaker">
-                    <img src="https://specialevents.ucsc.edu/founders/2018/images/lise-getoor.jpg" alt="Lise Getoor" />
-                </div>
-                <div class="profile-info">
-                    <h4 class="underline tighten">Lise Getoor</h4>
-                    <div class="tags">
-                        <p>Data visionary</p>
-                        <p>Lise Getoor is a professor in the Computer Science Department at UC Santa Cruz and founding director of the UC Santa Cruz Data, Discovery, and Decisions (D3) Data Science Research Center.</p>
-                    </div>
-                </div>
-            </a>
-            
-            <a id="Natalie Batalha (Ph.D. ’97, astrophysics)" name="speaker.name"><a class="profile carousel-item" href="https://specialevents.ucsc.edu/founders/2018/honorees.html#natalie-batalha">
-              
-                <h3 class="cell large-12">Faculty Research Award</h3>
-              
-                <div class="image speaker">
-                    <img src="https://specialevents.ucsc.edu/founders/2018/images/natalie-batalha.jpg" alt="Natalie Batalha (Ph.D. ’97, astrophysics)" />
-                </div>
-                <div class="profile-info">
-                    <h4 class="underline tighten">Natalie Batalha (Ph.D. ’97, astrophysics)</h4>
-                    <div class="tags">
-                        <p>Looking for life</p>
-                        <p>Natalie Batalha is an astrophysicist at NASA Ames Research Center and served as the science lead for NASA's Kepler Mission from 2011 to 2017. She holds a bachelor's degree in physics from UC Berkeley and a doctoral degree in astrophysics from UC Santa Cruz.</p>
-                    </div>
-                </div>
-            </a>
-            
-            <a id="Martha Mendoza (Kresge ’88, journalism and education)" name="speaker.name"><a class="profile carousel-item" href="https://specialevents.ucsc.edu/founders/2018/journalist-panel.html#martha-mendoza">
-              
-                <h3 class="cell large-12">Alumni Journalists Panel</h3>
-              
-                <div class="image speaker">
-                    <img src="https://specialevents.ucsc.edu/founders/2018/images/martha-mendoza.jpg" alt="Martha Mendoza (Kresge ’88, journalism and education)" />
-                </div>
-                <div class="profile-info">
-                    <h4 class="underline tighten">Martha Mendoza (Kresge ’88, journalism and education)</h4>
-                    <div class="tags">
-                        <p>Associated Press correspondent and two-time Pulitzer Prize winner</p>
-                        <p>Martha Mendoza is a correspondent for the Associated Press, focusing on technology, breaking news, enterprise and investigative reporting from Silicon Valley. Her investigative reports have won numerous awards and prompted Congressional hearings, Pentagon investigations, and White House responses.</p>
-                    </div>
-                </div>
-            </a>
-            
-            <a id="Carrie Kahn (College Eight/Rachel Carson College ’87, biology)" name="speaker.name"><a class="profile carousel-item" href="https://specialevents.ucsc.edu/founders/2018/journalist-panel.html#carrie-kahn">
-              
-                <h3 class="cell large-12"></h3>
-              
-                <div class="image speaker">
-                    <img src="https://specialevents.ucsc.edu/founders/2018/images/carrie-kahn.jpg" alt="Carrie Kahn (College Eight/Rachel Carson College ’87, biology)" />
-                </div>
-                <div class="profile-info">
-                    <h4 class="underline tighten">Carrie Kahn (College Eight/Rachel Carson College ’87, biology)</h4>
-                    <div class="tags">
-                        <p>NPR Latin America correspondent</p>
-                        <p>Carrie Kahn is NPR's international correspondent based in Mexico City, Mexico. She covers Mexico, the Caribbean, and Central America. Kahn's reports can be heard on NPR's award-winning news programs including All Things Considered, Morning Edition, and Weekend Edition.</p>
-                    </div>
-                </div>
-            </a>
-            
-            <a id="Mike McPhate (Kresge ‘00, anthropology major, journalism minor)" name="speaker.name"><a class="profile carousel-item" href="https://specialevents.ucsc.edu/founders/2018/journalist-panel.html#mike">
-              
-                <h3 class="cell large-12"></h3>
-              
-                <div class="image speaker">
-                    <img src="https://specialevents.ucsc.edu/founders/2018/images/mike.jpg" alt="Mike McPhate (Kresge ‘00, anthropology major, journalism minor)" />
-                </div>
-                <div class="profile-info">
-                    <h4 class="underline tighten">Mike McPhate (Kresge ‘00, anthropology major, journalism minor)</h4>
-                    <div class="tags">
-                        <p></p>
-                        <p>Mike McPhate is the founder of the California Sun, a daily newsletter that curates general interest news about California. Last year, he left the New York Times, where he was writing the popular California Today newsletter, to start the Sun, which has since grown to an audience of more than 15,000 readers.</p>
-                    </div>
-                </div>
-            </a>
-            
-          </div>
-          
-          <!-- End profile with photos -->
-          
-        </div>
-        <div class="column-support">
-          <div class="content-block">
-            <!-- Landing page links -->
-            
-            
-              <ul class="sidebar-nav">
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-                <li>
-                  <a class="button" href="/specialevents-site/events/founders/2017/about" target="_self">
-                  <span class="button-text"><strong class="blue-text">About</strong> </span>
-                  </a>
-                </li>
+            <div class="main-content" id="main" role="main">
+                <div class="row breadcrumbs"><p><a href="../../index.html">
+        Home</a> / </p></div>
                 
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-            </ul>
-            
-            
-            <!-- End Landing page links -->
-            <!-- Right sidebar speakers listing -->
-            
-              <h5 class="blue-text">Speaker:</h5>
+                <h1 id="title">2017 Founders Celebration</h1><div id="bannerBox"><img alt="2017 Founders Celebration" id="banner" src="images/1718-278-founders-ebanner740x300.jpg"/></div><div class="contentBox"><style><!--
+iframe {
+    width: 100%;
+    height: 100%; 
+}
+--></style>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="150" src="https://www.youtube.com/embed/erYeZcHn3Q4" width="300"></iframe>
+<p>&#160;</p>
+<h2>Celebrating our founding principles and the success of the Campaign for UC Santa Cruz</h2>
+<p>Please join us for Founders Celebration 2017 as we honor our alumni, faculty, and friends who in their life&#8217;s work and generosity exemplify the best of UC Santa Cruz.</p>
+<ul class="honorees">
+<li>
+<div class="award">
+<ul class="info">
+<li><span style="font-weight: 400;">Saturday,&#160;Oct 21, 2017</span></li>
+<li><span style="font-weight: 400;">Porter College Dining Hall</span></li>
+<li>Reception 6 p.m.<br/> Dinner 7 p.m.</li>
+<li>Festive cocktail attire</li>
+<li>$150 per person</li>
+<li style="border-top: 1px solid #4d4c49; border-bottom: 1px solid #4d4c49; background: none; padding: .5em 0 .5em 1em;"><strong><a href="documents/2017-founders-celebration-sponsorship.pdf">Sponsorship opportunities available</a></strong></li>
+</ul>
+</div>
+<div class="recipient">
+<h3>Saturday, Oct. 21</h3>
+<h4><strong>Founders Celebration Dinner</strong></h4>
+<p>We will toast the success of the Campaign for UC Santa Cruz and present the Fiat Lux Award to J. Herman Blake, distinguished sociologist and founding provost of Oakes College, and to Linda Peterson, trustee and chair of the Campaign for UC Santa Cruz. Honored for his research will be Carl Walsh, distinguished professor of economics.</p>
+<h4><strong><a href="day-events-tours.html">Daytime Events and Tours</a></strong></h4>
+<p>Events and tours will highlight the impact of the highly successful, recently concluded Campaign for UC Santa Cruz.</p>
+<ul>
+<li><strong>1:30 pm to 3:30 pm:</strong> Coastal Biology building ribbon-cutting and Coastal Science Campus tours</li>
+<li><strong>2 pm:</strong> UC Santa Cruz campus self-guided tours showcasing the impact of philanthropy, including the newly reopened Quarry Amphitheater.</li>
+</ul>
+<p><i><span style="font-weight: 400;">Open to the public without charge, <a href="day-events-tours.html">learn more</a></span></i></p>
+<p>&#160;</p>
+</div>
+</li>
+<li>
+<div class="award">
+<ul class="info">
+<li><span style="font-weight: 400;">Friday,&#160;Oct 20, 2017</span></li>
+<li><span style="font-weight: 400;">Music Recital Hall</span></li>
+<li>Reception 4&#160;p.m.</li>
+</ul>
+</div>
+<div class="recipient">
+<h3>Friday, Oct. 20</h3>
+<h4><strong>Convocation of Chairs</strong></h4>
+<p>The university will honor the holders of faculty chairs and the donors who created them with a special Convocation of Chairs. A major achievement of the campaign was the creation of 16 new chairs, nearly doubling the total number of endowed chairs. The convocation will honor the new as well as previous chair holders and donors.</p>
+<p><em>Open to the public without charge, <a href="convocation-chairs.html">learn more</a></em></p>
+<p>&#160;</p>
+</div>
+</li>
+</ul>
+<h2 id="forum">The awards presentation will include:</h2>
+<ul class="honorees">
+<li style="border-bottom: 0px !important;">
+<div class="award">
+<h3><em>Fiat Lux Award</em></h3>
+<p><em>Presented by the UC Santa Cruz Foundation to alumni and friends who have demonstrated outstanding achievement, dedication, and service in support of the University's programs and goals.</em></p>
+</div>
+<div class="recipient">
+<h3><img alt="J. Herman Blake" height="210" src="images/herman-blake.jpg" style="margin: 4px; float: right;" width="175"/>J. Herman Blake</h3>
+<p><em>Distinguished sociologist and founding provost of Oakes College</em></p>
+<p>Throughout his career as professor, scholar,&#8239;community activist,&#8239;and witness to history, J. Herman Blake has been a mentor and champion of academic achievement for&#8239;all&#8239;students&#8239;regardless of race, ethnicity, or social status.&#8239;</p>
+<p>Recruited to teach sociology at the newly opened UC Santa Cruz campus in 1966, he was both a founding faculty member and its first African American member. He became founding provost of Oakes College, which he led from 1972 to 1984. He has inspired generations of students at multiple institutions to pursue careers guided by values of&#8239;cultural&#8239;sensitivity&#8239;and academic excellence.</p>
+<p>In addition to his 18 years at UC Santa Cruz, he served in academic roles at Tougaloo College in Mississippi, Swarthmore College, Indiana University&#8211;Purdue&#8239;University Indianapolis (IUPUI), Iowa State University,&#8239;University of South Carolina Beaufort,&#8239;and the Medical University of South Carolina. &#8239;After his service in the U.S. Army during the Korean War, he earned&#8239;a B.A. from New York University and an M.A. and Ph.D. from UC Berkeley, all degrees in sociology.</p>
+<p>He is the&#8239;co-author of&#8239;Revolutionary Suicide,&#8239;an autobiography of Black Panther Party cofounder Huey P. Newton (Oakes &#8216;74, individual major; Ph.D. &#8216;80, history of consciousness), and numerous scholarly articles&#8239;on institutional excellence,&#8239;student academic achievement, and the unique Gullah Geechee culture along the Southeastern coast of the United States.</p>
+<p>Currently he is the executive director of the Gullah Geechee Cultural Heritage Corridor&#8212;a congressionally designated cultural area covering four states&#8239;in the Southeast.&#8239;He and his wife, Emily Moore, reside on Johns Island, South Carolina.</p>
+<div style="width: 45px; margin: 0 auto 0 auto; clear: both;"></div>
+</div>
+</li>
+<li>
+<div class="award">
+<h3><em>Fiat Lux Award</em></h3>
+</div>
+<div class="recipient">
+<h3><img alt="Linda Peterson" height="210" src="images/linda-peterson.jpg" style="float: right; margin: 4px;" width="175"/>Linda Peterson</h3>
+<p><em>Stevenson '70</em></p>
+<p><em>Foundation trustee and chair of the Campaign for UC Santa Cruz</em></p>
+<p>When Linda Peterson took on the public role as chair of the committee that would lead the first-ever comprehensive Campaign for UC Santa Cruz, she captured the moment with these words: &#8220;It&#8217;s not just the right time, it&#8217;s about time. We&#8217;ve been too shy too long.&#8221; With that spirit she engaged fellow trustees and donors in guiding the campaign to its successful conclusion--ahead of schedule, exceeding its original goals, and bringing new vibrancy to campus. Taking to heart the need for everyone to do their part, she brought full circle the experiences she had as a history major and member of the UC Santa Cruz founding class. Her generous commitment of time, energy, and ideas to the campaign and her personal philanthropy embody the goodwill and ethos of public service that is a hallmark UC Santa Cruz, its students and alumni. She is a graduate of the Boston University School of Law and retired associate general counsel at Occidental Petroleum. She makes her home in Los Angeles.</p>
+<div style="width: 45px; margin: 0 auto 0 auto; clear: both;"></div>
+</div>
+</li>
+<li>
+<div class="award">
+<h3><em>Faculty Research Award:</em> Carl Walsh</h3>
+<p><em><span>The foremost academic research honor bestowed by the Santa Cruz Division of the Academic Senate is awarded annually to a faculty member who has a distinguished record in research</span></em></p>
+</div>
+<div class="recipient">
+<h3><img alt="Carl Walsh" height="210" src="images/carl-walsh.jpg" style="float: right; margin: 4px;" width="175"/>Carl Walsh</h3>
+<p><em>Distinguished professor of economics</em></p>
+<p>Carl Walsh is one of the world&#8217;s premiere researchers in the fields of monetary theory and monetary policy. His now-classic papers on central bank governance, optimal monetary policy, and inflation targeting have helped set the research agenda for monetary economists for over thirty years and have had a strong positive influence on the way the US Federal Reserve Bank and central banks abroad conduct monetary policy. He has also authored influential articles on how transparency in the conduct of monetary policy can improve economic efficiency. More recently, he has integrated labor markets into monetary policy models in an elegant and insightful way. Carl has been recognized internationally for the quality of his research and teaching. His many publications include <em>Monetary Theory and Policy</em>, required reading in most graduate courses worldwide in his field. He has taught numerous workshops in monetary economics for the International Monetary Fund and central banks in Asia, South America, and Europe, directly influencing the careers of over a thousand young economic researchers. Walsh studied mathematics and economics at Berkeley as an undergraduate, where he also earned his Ph.D. in economics. Prior to joining the faculty at UC Santa Cruz in 1987, Carl held appointments at the University of Auckland (NZ) and Princeton University and was senior economist at the Federal Reserve Bank of San Francisco. In 2010, he was named a UCSC distinguished professor. He makes his home in Santa Cruz with his wife Judy (&#8216;71, Crown).</p>
+</div>
+</li>
+<!--<li>
+<div class="award">
+<h3><em>Alumni Achievement Award:</em> TDB</h3>
+</div>
+<div class="recipient">
+<p>&#160;</p>
+</div>
+</li>--></ul>
+<h2 style="text-align: center;">Thank you to our sponsors</h2>
+<h3 style="text-align: center; padding-bottom: 0; margin-bottom: 0;">Platinum Sponsor<br/><a href="https://healthy.kaiserpermanente.org/"><img alt="Kaiser Permanente" src="images/kp-sponsor.gif" width="80%"/></a></h3>
+<h3 style="text-align: center; padding-bottom: 0; margin-bottom: 0;">Gold Sponsor</h3>
+<p style="text-align: center;"><a href="http://www.bu.edu/law/"><img alt="Boston University School of Law" src="images/bu-law-logo-red.gif" style="display: block; margin-left: auto; margin-right: auto;" width="450"/></a></p>
+<h3 style="text-align: center; padding-bottom: 0; margin-bottom: 0;">Media Sponsor</h3>
+<p style="text-align: center;"><a href="http://www.santacruzsentinel.com/"><img alt="Santa Cruz Sentinel" height="39" src="images/santacruzsentinel.gif" style="display: block; margin-left: auto; margin-right: auto;" width="150"/></a></p>
+<div class="sponsor-info">
+<h3><strong><a href="documents/2017-founders-celebration-sponsorship.pdf">Sponsorship&#160;opportunities</a></strong></h3>
+For more information about in-kind opportunities or to become a sponsor,<br/>contact Alexandra Sibille at <a href="mailto:asibille@ucsc.edu"><span style="font-weight: 400;">asibille@ucsc.edu</span></a> or (831) 502-8578.</div></div>
+                
+            </div>
+
+            <div class="sidebar" id="subNav" role="navigation">
+                
                 <ul>
-                  
-                    <li>John Laird (Stevenson ’72, politics)</li>
-                  
-                    <li>Lise Getoor</li>
-                  
-                    <li>Natalie Batalha (Ph.D. ’97, astrophysics)</li>
-                  
-                    <li>Martha Mendoza (Kresge ’88, journalism and education)</li>
-                  
-                    <li>Carrie Kahn (College Eight/Rachel Carson College ’87, biology)</li>
-                  
-                    <li>Mike McPhate (Kresge ‘00, anthropology major, journalism minor)</li>
-                  
-                </ul>
-            
-            <!-- End speakers listing -->
-            <!-- Right sidebar event date and time -->
-              
-                <h5 class="blue-text">Date:</h5>
-                <p>Saturday, January 1, 2017 <br/>
-                6 p.m. - 7 p.m.</p>
-              
-            <!-- Dnd right sidebar date and time -->
-            <!-- Right sidebar address -->
-              
-                <h5 class="blue-text">Locations:</h5>
-                <p>Santa Cruz Civic Auditorium <a href="http://www.cityofsantacruz.com/government/city-departments/parks-recreation/civic-auditorium" class="btn-link">map <i class="fas fa-map"></i></a></p> 
-               
-            <!-- End right sidebar address -->
-            <!-- Register button -->
-              <p>
-                <a class="button primary expanded" href="http://founders.ucsc.edu">Register Now</a>
-              </p>
-            <!-- End register button -->                  
-          </div>
+<li><a href="index.html">Home</a></li>
+<li><a href="day-events-tours.html">Open House: Events and Tours</a></li>
+<li><a href="convocation-chairs.html">Convocation of Chairs</a></li>
+<li><a href="documents/2017-founders-celebration-sponsorship.pdf">Sponsorship Opportunities</a></li>
+<li><a href="accommodations.html">Accommodations</a></li>
+<!-- <li><a href="/founders/2013/press-release">Press Release</a></li> --></ul>
+                <div class="contactBlock">
+<h4>Special Events Office</h4>
+<p>Email: <a href="mailto:specialevents@ucsc.edu">specialevents@ucsc.edu</a><br/>
+ Phone: (831) 459-5003</p>
+</div>
+            </div>
+
         </div>
+
+<!-- /sprflt -->
+        
+        <div class="main-footer">
+          <div class="row" id="footer">
+              <div class="footer-left">
+                  <img alt="University of California" class="seal" height="84" src="https://static.ucsc.edu/_responsive/images/logos/uc-seal.svg" width="84"/>
+<div class="address home">
+<div class="location">UC Santa Cruz, 1156 High Street, Santa Cruz, Ca 95064</div>
+<div class="copyright">&#169;2019 Regents of the University of California. All Rights Reserved.</div>
+</div>
+              </div>
+              <div class="footer-right">
+                  
+
+<div class="social-media">
             
-          
-        </div>
-      </div>
+        
+        <a href="https://www.twitter.com/ucsc"><i class="fab fa-twitter"></i></a>
+            
+        
+        <a href="https://www.instagram.com/ucsc"><i class="fab fa-instagram"></i></a>
+            
+        
+        <a href="https://www.facebook.com/ucsantacruz"><i class="fab fa-facebook-f"></i></a>
+            
+        
+        <a href="http://youtube.com/ucsantacruz"><i class="fab fa-youtube"></i></a>
+            
+        
+        <a href="http://www.linkedin.com/groups?home=&amp;gid=102708"><i class="fab fa-linkedin-in"></i></a>
     </div>
-  </div>
-<div class="site-footer">
-            <div class="grid-container large">
-                <div class="subsite-footer">
-                    <!-- <div class="hide-for-large grid-x grid-padding-x large-padding-collapse large-margin-collapse">
-                        <div class="small-12 small-order-2 xlarge-order-1 cell">
-                            <img class="white-ucsc-logo" src="../assets/img/build-resources/uc-santa-cruz-reverse.svg" />
-                        </div>
-                    </div> -->
+
+<div class="links">
             
-
-                   
-                        <div class="grid-x grid-margin-x grid-padding-x large-padding-collapse large-margin-collapse">
-                            <div class="large-4 small-order-2 large-order-1 cell">
-                                <div class="contact-card">
-                                    <h3>Special Events</h3>
-                                    <strong>Email:</strong> <a href="mailto:specialevents@ucsc.edu" class="whitelink">specialevents@ucsc.edu</a><br>
-                                    <strong>Phone:</strong> (831)123-4567<br>
-                                    <strong>Fax:</strong> (831)987-6543
-                                </div>
-                                <div class="nav-social">
-                                    <ul>
-                                        <li><a href="https://twitter.com/ucsc" target="_blank">
-                                            <i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="https://www.instagram.com/ucsc/" target="_blank">
-                                            <i class="fab fa-instagram"></i></a></li>
-                                        <li><a href="https://www.facebook.com/ucsantacruz" target="_blank">
-                                            <i class="fab fa-facebook-square"></i></a></li>
-                                        <li><a href="http://youtube.com/ucsantacruz" target="_blank">
-                                            <i class="fab fa-youtube"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/school/ucsc/" target="_blank">
-                                            <i class="fab fa-linkedin"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="large-8 small-order-2 large-order-2 cell">
-                                <div class="toggle-trigger" data-toggle="quick-1">
-                                    <h5 class="underline"><i class="fas fa-plus hide-for-large"></i> Quick Links
-                                    </h5>
-                                </div>
-
-                                <div id="quick-1" class="show-for-large" data-toggler=".show-for-large">
-                                    <ul class="menu">
-                                          <li><a href="/specialevents-site/events/" aria-label="">Special Events Archive</a></li>
-                                          <li><a href="/specialevents-site/help-in-planning.html" aria-label="">Help in Planning</a></li>
-                                          <li><a href="/specialevents-site/campus-venus.html" aria-label="">Campus Venus</a></li>
-                                          <li><a href="/specialevents-site/contact.html" aria-label="">Contact</a></li>
-                                      </ul>
-                                </div>
-                                
-                                
-                            </div>
                             
-                        </div>
-                    
+        <a href="/feedback/index">Feedback</a> 
+    </div>
 
-
-                </div>
-
-                <div class="global-footer">
-                    
-                    <div class="grid-x grid-margin-x grid-padding-x large-padding-collapse large-margin-collapse">
-                        <div class="cell large-4 show-for-large">
-                            <img class="white-ucsc-logo" src="/specialevents-site/assets/img/build-resources/uc-santa-cruz-reverse.svg" />
-                            <p class="address">1156 High Street, Santa Cruz, CA 95064</p>
-                        </div>
-                    
-                            <div class="cell large-8">
-                                <div class="toggle-trigger" data-toggle="engage">
-                                    <h5 class="underline">Engage <span class="thin">with UCSC</span> <i class="fas fa-plus hide-for-large"></i></h5>
-                                </div>
-                    
-                                <div id="engage" class="show-for-large" data-toggler=".show-for-large">
-                                   <ul class="menu horizontal">
-                                        <li><a href="#javascript:void(0)">Site Feedback</a></li>
-                                        <li><a href="#javascript:void(0)">Employment</a></li>
-                                        <li><a href="#javascript:void(0)">Volunteer</a></li>
-                                        <li><a href="#javascript:void(0)">Emergency Information</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                    </div>
-                    
-                    <div class="grid-x grid-margin-x text-center mt-25">
-                        <div class="cell large-4 hide-for-large">
-                            <img class="white-ucsc-logo" src="/specialevents-site/assets/img/build-resources/uc-santa-cruz-reverse.svg" />
-                            <p class="address">
-                                1156 High Street, Santa Cruz, CA 95064
-                            </p>
-                        </div>
-                        <div class="nav-global cell">
-                            <ul class="primary-set">
-                                <li><a href="#javascript:void(0)">Accreditation</a></li>
-                                <li><a href="#javascript:void(0)">Non-Discrimination Policy</a></li>
-                                <li><a href="#javascript:void(0)">Privacy Policy &amp; Terms of Use</a></li>
-                                <li><a href="#javascript:void(0)">Sexual Violence Prevention &amp; Response</a></li>
-                            </ul>
-                            <p>&copy;2019 Regents of the University of California.<br>All Rights Reserved.</p>
-                        </div>
-                    </div>
-                </div>
+              </div>
+          </div>
+          <div class="sub-footer row">
+              <div class="legal">
+                <ul class="legal">
+<li><a href="http://academicaffairs.ucsc.edu/accreditation/">Accreditation</a></li>
+<li><a href="http://diversity.ucsc.edu/eeo-aa/images/non-discrimination.pdf">Non-Discrimination&#160;Policy</a></li>
+<li><a href="http://www.ucsc.edu/about/employment.html">Employment</a></li>
+<li><a href="http://its.ucsc.edu/terms/">Privacy&#160;Policy&#160;&amp;&#160;Terms&#160;of&#160;Use</a></li>
+<li><a href="http://safe.ucsc.edu">Sexual&#160;Violence&#160;Prevention&#160;&amp;&#160;Response</a></li>
+</ul>
                 
-
-            </div>
-
-
-
+<p class="page-meta">
+    Last modified: January 29, 2018  <span class="check-ip">128.114.113.74</span>
+</p>
+              </div>
+          </div>   
         </div>
-        <div class="global-search-container off-canvas position-top align-center" id="global-search" data-off-canvas>
-           <div class="global-search">
-                <a href="javascript:void(0)" class="close-modal" data-toggle="global-search">
-                    <i class="fas fa-close"></i>
-                </a>
-                <h2 class="mt-25">Search UCSC:</h2>
-                <form>
-                    <div class="input-group">
-                        <input class="input-group-field" type="search" placeholder="Search this site" id="searchInput">
-                        <div class="input-group-button">
-                                <a class="button secondary" href="javascript:void(0)"><i class="fas fa-search"></i> <span class="show-for-large">Search</span></a>
-                        </div>
-                    </div>
-                </form>
-                <div class="footer-links">
-                    Other ways to search: <a href="javascript:void(0)" aria-label="">People</a> | <a href="javascript:void(0)" aria-label="">A-Z Index</a> | <a href="javascript:void(0)" aria-label="">Calendars</a>
-                </div>
-            </div>
-                    
-        </div>
-        
+
+    </div><!-- /content -->
+  </div><!-- /container -->
+</div><!-- /wrap -->
+
+<!-- BLOCK: uniform campus bottom scripts  -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5RFHNC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5RFHNC');</script>
+<!-- End Google Tag Manager -->
+<!-- Siteimprove -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+<!-- end Siteimprove -->
 
 
+<!-- END BLOCK: uniform campus bottom scripts  -->
 
-        <script src="//cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
 
-        <script>
-            var wow = new WOW();
-            wow.init();
-        </script>
-
-        <script src="/specialevents-site/js/app.js"></script>
-        <script src="https://use.fontawesome.com/facf9fa52c.js"></script>
-        
-        <script>
-            $(window).on('load resize', function () {
-                //document.getElementById("width_px").innerHTML = window.innerWidth;
-                //document.getElementById("width_ems").innerHTML = window.innerWidth / parseFloat($("body").css("font-size"));
-                var viewportWidth = window.innerWidth / parseFloat($("body").css("font-size"));
-
-                var breakpointSize = function(){
-                    if (viewportWidth < 25) { console.log("Breakpoint Size is small") } else
-                    if (viewportWidth < 40) { console.log("Breakpoint Size is medium") } else
-                    if (viewportWidth < 64) { console.log("Breakpoint Size is large") } else
-                    if (viewportWidth < 75) { console.log("Breakpoint Size is xlarge") } else
-                    if (viewportWidth < 90) { console.log("Breakpoint Size is xxlarge") } else
-                    console.log("Breakpoint Size is xxxlarge")
-                }
-                console.log("Viewport width is = " + viewportWidth + "rems");
-                console.log("---------------");
-                breakpointSize();
-            });
-            </script>
 
 </body>
-
 </html>
