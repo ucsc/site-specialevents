@@ -1,0 +1,133 @@
+---
+layout: ucsc-2010
+---
+	 <style type="text/css">
+em {
+	color: #333;
+}
+
+</style>
+	 </head>
+
+	 <body class="secondary administrative">
+<div id="access-links">
+       <ul>
+    <li><a href="#center">Skip to main content</a></li>
+    <li><a href="#pages">Skip to secondary navigation</a></li>
+    <li><a href="#navigation">Skip to navigation</a></li>
+  </ul>
+     </div>
+<div id="custom-doc" class="yui-t2"> 
+       
+       <!-- Header -->
+       <div id="hd">
+    <h1 id="site"><a href="http://www.ucsc.edu/founders" title="Founders Day">Founders Day<span></span></a></h1>
+    <p id="org"><a href="http://www.ucsc.edu">UC Santa Cruz<span></span></a></p>
+  </div>
+       
+       <!-- Navigation -->
+       <div id="navigation"> 
+    <!-- ADMINISTRATIVE TEMPLATE -->
+    <ul>
+           <li><a href="http://www.ucsc.edu/about/" title="About UCSC">About UCSC</a></li>
+           <li><a href="http://www.ucsc.edu/academics/" title="Academic Programs">Academic Programs</a></li>
+           <li><a href="http://www.ucsc.edu/research/" title="Research">Research</a></li>
+           <li><a href="http://www.ucsc.edu/news_events/" title="News/Events">News/Events</a></li>
+           <li><a href="http://www.ucsc.edu/administration/" title="Administration">Administration</a></li>
+           <li><a href="http://www.ucsc.edu/admissions/" title="Admissions/Prospective Students">Admissions / Prospective Students</a></li>
+         </ul>
+  </div>
+       <!-- /#navigation --> 
+       
+       <!-- Main Content -->
+       <div id="bd">
+    <div id="yui-main">
+           <div class="yui-b">
+        <div class="yui-g">
+               <div id="center"> 
+            <!-- Main content BEGINS HERE -->
+            
+            <h2>Founders Day: 2010 Honorees</h2>
+            <p>The following people will be honored at the 2010 Founders Day dinner:</p>
+            <h3 class="dotted">FOUNDATION MEDAL</h3>
+            <div class="honoreeDiv">
+                   <div class="imgDiv"> <img src="images/honoree_jean_michel_cousteau.jpg" width="125" height="170" alt="Jean-Michel Cousteau">
+                <p class="caption">&copy; Carrie Vonderhaar,<br/>
+                       Ocean Futures Society</p>
+              </div>
+                   <div class="blurbDiv">
+                <p>Recognizes individuals of exceptionally distinguished achievement whose work and contribution to society illustrate the ideals and vision of UC Santa Cruz. <br>
+                       <br>
+                       Following in the footsteps of his father, famed ocean explorer Jacques Cousteau, <strong>Jean-Michel Cousteau</strong> will be honored for his investigation of the world's oceans. Honoring his heritage, Jean-Michel founded the nonprofit marine conservation and education organization Ocean Futures Society in 1999 to carry on this pioneering work.</p>
+              </div>
+                   <div class="clear-all"></div>
+                 </div>
+            <h3 class="dotted">FIAT LUX AWARD</h3>
+            <div class="honoreeDiv">
+                   <div class="imgDiv">
+                   	<img src="images/honoree_sh_cowell.png" width="125" height="170" alt="S.H. Cowell Foundation" />
+                   </div>
+                   <div class="blurbDiv">
+                <p>Presented by the UC Santa Cruz Foundation to alumni and friends who have demonstrated outstanding achievement, dedication, and service in support of the University's programs and goals. <br>
+                  <br>
+                  The <strong>S.H. Cowell Foundation</strong> will be honored for the seminal role of the Cowell family in the founding of UC Santa Cruz and recognized for its legacy of charitable support.<br>
+                  <br>
+                  The campus is located on what was previously Cowell Ranch, and the ceremony will celebrate the acquisition of this extraordinary site. The foundation will also be recognized for its generous gift of support toward the construction and naming of UCSC's first college and namesake landmark, Cowell College, and toward the construction of the Cowell Student Health Center.<br>
+                  <br>
+                  Since 1964, the <strong>S.H. Cowell Foundation</strong> has made almost $4 million in gifts to UC Santa Cruz, including major support to the New Teacher Center and most recently, a generous donation to help pay for the stabilization of the Cooperage in the Cowell Limeworks Historic District at the entrance to campus.</p>
+         </div>
+                   <div class="clear-all"></div>
+                 </div>
+            <h3 class="dotted">ALUMNI ACHIEVEMENT AWARD</h3>
+            <div class="honoreeDiv">
+                   <div class="imgDiv"> <img src="images/honoree_richard_harris.jpg" width="125" height="170" alt="Richard Harris (Crown '80)"> </div>
+                   <div class="blurbDiv">
+                <p>Presented by the UCSC Alumni Association to alumni who have rendered outstanding service to the campus, or who, through their achievement, have brought distinction to the University. <br>
+                       <br>
+                       Award-winning journalist <strong>Richard Harris</strong> (Crown '80) will be honored for his reporting on science issues for NPR. Harris has traveled to the ends of the Earth for NPR, reporting from Timbuktu, the South Pole, the Galapagos Islands, Beijing, Greenland, the Amazon rain forest, and Mt. Kilimanjaro. Most recently he's been covering the Deepwater Horizon oil spill in the Gulf of Mexico.</p>
+              </div>
+                   <div class="clear-all"></div>
+                 </div>
+            <h3 class="dotted">FACULTY RESEARCH LECTURER</h3>
+            <div class="honoreeDiv">
+                   <div class="imgDiv"> <img src="images/honoree_paul_whitworth.jpg" width="125" height="170" alt="Paul Whitworth, Professor of Theatre Arts"> </div>
+                   <div class="blurbDiv">
+                <p>The foremost academic research honor bestowed by the Santa Cruz Division of the Academic Senate is awarded annually to a faculty member who has a distinguished record in research. <br>
+                       <br>
+                       Professor of Theatre Arts <strong>Paul Whitworth</strong>, a professional theater actor and director, as well as artistic director of Shakespeare Santa Cruz, will be honored for his extensive experience in the performance of the plays of Shakespeare.</p>
+              </div>
+                   <div class="clear-all"></div>
+                 </div>
+            <!-- Main content ENDS HERE --> 
+          </div>
+             </div>
+      </div>
+         </div>
+    <div id="sb" class="yui-b">
+           <div id="utilities"> 
+        <!-- Search box -->
+        <form action="http://www.google.com/cse" id="cse-search-box">
+               <div>
+            <input type="hidden" name="cx" value="012090462228956765947:d0ywvq7bxee">
+            <input type="hidden" name="ie" value="UTF-8">
+            <!-- To customize this search for your site, uncomment the next line and add your site to the "value" to your site  --> 
+            <!-- <input type="hidden" name="as_sitesearch" value="mysite.ucsc.edu"> -->
+            <input type="text" id="cse-field" name="q" size="18" value="Search">
+            <button type="submit" name="sa" value="Submit" id="cse-btn">Go</button>
+          </div>
+             </form>
+        <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script> 
+        
+        <!-- Utility links -->
+        <p class="links"><a href="http://www.ucsc.edu/about/alpha_index.asp" title="A-Z Index">A-Z Index</a> | <a href="http://www.ucsc.edu/about/find_people.asp" title="Find People">Find People</a></p>
+      </div>
+           <div class="inner"> 
+        <!-- Begin left column content -->
+        
+        <h4>Founders Day</h4>
+        <ul id="pages">
+          <li><a href="index.shtml">2010 Founders Day Home</a></li>
+          <li><a href="honorees.shtml">2010 Honorees</a></li>
+          <li><a href="photos.shtml">2010 Founders Day Photos</a></li>
+        </ul>
+        
