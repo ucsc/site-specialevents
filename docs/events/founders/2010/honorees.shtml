@@ -17,6 +17,10 @@
    <script src="/specialevents-site/js/ucsc-2010/jquery.pngFix.pack.js" type="text/javascript" charset="utf-8"></script>
    <link rel="stylesheet" href="/specialevents-site/css/ucsc-2010/fancy.css" type="text/css" media="screen">
 
+   <!-- Add for Thickbox -->
+   <script src="/specialevents-site/js/ucsc-2010/thickbox.js" type="text/javascript" charset="utf-8"></script>
+   <link rel="stylesheet" href="/specialevents-site/css/ucsc-2010/thickbox.css" type="text/css" media="screen" title="no title" charset="utf-8">
+
 	 <style type="text/css">
 em {
 	color: #333;
