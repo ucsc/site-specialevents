@@ -1,0 +1,94 @@
+---
+layout: ucsc
+---
+</head>
+<body class="secondary administrative">
+<div id="access-links">
+  <ul>
+    <li><a href="#center">Skip to main content</a></li>
+    <li><a href="#pages">Skip to secondary navigation</a></li>
+    <li><a href="#navigation">Skip to navigation</a></li>   
+  </ul>
+</div>  
+<div id="custom-doc" class="yui-t2">
+
+  <!-- Header -->
+   <div id="hd">
+     <h1 id="site"><a href="http://www.ucsc.edu/founders" title="Founders Day">Founders Day<span></span></a></h1>
+     <p id="org"><a href="http://www.ucsc.edu">UC Santa Cruz<span></span></a></p>
+   </div>
+
+   <!-- Navigation -->
+   <div id="navigation">     
+     <!-- ADMINISTRATIVE TEMPLATE -->
+     <ul>
+       <li><a href="http://www.ucsc.edu/about/" title="About UCSC">About UCSC</a></li>
+       <li><a href="http://www.ucsc.edu/academics/" title="Academic Programs">Academic Programs</a></li>
+       <li><a href="http://www.ucsc.edu/research/" title="Research">Research</a></li>
+       <li><a href="http://www.ucsc.edu/news_events/" title="News/Events">News/Events</a></li>
+       <li><a href="http://www.ucsc.edu/administration/" title="Administration">Administration</a></li>
+       <li><a href="http://www.ucsc.edu/admissions/" title="Admissions/Prospective Students">Admissions / Prospective Students</a></li>
+     </ul>  
+   </div><!-- /#navigation -->
+
+   <!-- Main Content -->
+   <div id="bd">
+	   <div id="yui-main">
+	     <div class="yui-b">
+	       <div class="yui-g">
+	         <div id="center">
+<!-- Main content BEGINS HERE -->
+
+<h2>Founders Day: 2008 Honorees</h2>
+<p>The following people will be honored at the 2008 Founders Day dinner:</p>
+
+<h3>Fiat Lux Award</h3>
+<img src="images/kapany.jpg" width="46" height="100" alt="Narinder Kapany" class="left">
+<p>Presented by the UC Santa Cruz Foundation to alumni and friends who have demonstrated outstanding achievement, dedication, and service in support of the University's programs and goals.</p>
+<p><strong>Dr. Narinder Singh Kapany</strong>: Research scientist, professor, entrepreneur, philanthropist, and acknowledged by many as the "father of fiber optics."</p>
+
+<h3>Alumni Achievement Award</h3>
+<img src="images/priest.jpg" width="46" height="100" alt="Dana Priest" class="left">
+<p>Presented by the UCSC Alumni Association to alumni who have rendered outstanding service to the campus, or who, through their achievement, have brought distinction to the university.</p>
+<p><strong>Dana Priest</strong> (Merrill '81): <i>Washington Post</i> reporter, two-time Pulitzer Prize winner; MacArthur Foundation Grant, George Polk Award, and Gerald R. Ford Prize recipient.</p>
+
+<h3>Faculty Research Lecturer</h3>
+<img src="images/zavella.jpg" width="46" height="100" alt="Patricia Zavella" class="left">
+<p>The foremost academic research honor bestowed by the Santa Cruz Division of the Academic Senate is awarded annually to
+a faculty member who has a distinguished record in research.</p>
+<p><strong>Patricia Zavella</strong>: Latin American and Latino Studies Professor and one of the world's leading scholars in the fields of feminist ethnography and Chicano/a studies.</p>
+
+<!-- Main content ENDS HERE -->                     
+           </div>
+	       </div>
+       </div>
+	   </div>
+	   <div id="sb" class="yui-b">
+	     <div id="utilities">
+       <!-- Search box -->
+       <form action="http://www.google.com/cse" id="cse-search-box">
+         <div>
+           <input type="hidden" name="cx" value="012090462228956765947:d0ywvq7bxee">
+           <input type="hidden" name="ie" value="UTF-8">
+           <!-- To customize this search for your site, uncomment the next line and add your site to the "value" to your site  -->
+           <!-- <input type="hidden" name="as_sitesearch" value="mysite.ucsc.edu"> -->
+           <input type="text" id="cse-field" name="q" size="18" value="Search">
+           <button type="submit" name="sa" value="Submit" id="cse-btn">Go</button>
+         </div>
+       </form>
+       <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+       
+       <!-- Utility links -->
+       <p class="links"><a href="http://www.ucsc.edu/about/alpha_index.asp" title="A-Z Index">A-Z Index</a> | <a href="http://www.ucsc.edu/about/find_people.asp" title="Find People">Find People</a></p>
+       </div>
+        
+       <div class="inner">
+       <!-- Begin left column content -->
+       
+        <h4>Founders Day</h4>
+        <ul id="pages">
+          <li><a href="index.html">2008 Founders Day Home</a></li>
+          <li><a href="honorees.shtml">2008 Honorees</a></li>
+          <li><a href="committee.shtml">2008 Committee Members</a></li>  
+        </ul>
+        

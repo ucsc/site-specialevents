@@ -1,0 +1,86 @@
+---
+layout: ucsc
+---
+</head>
+<body class="secondary administrative">
+<div id="access-links">
+  <ul>
+    <li><a href="#center">Skip to main content</a></li>
+    <li><a href="#pages">Skip to secondary navigation</a></li>
+    <li><a href="#navigation">Skip to navigation</a></li>   
+  </ul>
+</div>  
+<div id="custom-doc" class="yui-t2">
+
+  <!-- Header -->
+   <div id="hd">
+     <h1 id="site"><a href="http://www.ucsc.edu/founders" title="Founders Day">Founders Day<span></span></a></h1>
+     <p id="org"><a href="http://www.ucsc.edu">UC Santa Cruz<span></span></a></p>
+   </div>
+
+   <!-- Navigation -->
+   <div id="navigation">     
+     <!-- ADMINISTRATIVE TEMPLATE -->
+     <ul>
+       <li><a href="http://www.ucsc.edu/about/" title="About UCSC">About UCSC</a></li>
+       <li><a href="http://www.ucsc.edu/academics/" title="Academic Programs">Academic Programs</a></li>
+       <li><a href="http://www.ucsc.edu/research/" title="Research">Research</a></li>
+       <li><a href="http://www.ucsc.edu/news_events/" title="News/Events">News/Events</a></li>
+       <li><a href="http://www.ucsc.edu/administration/" title="Administration">Administration</a></li>
+       <li><a href="http://www.ucsc.edu/admissions/" title="Admissions/Prospective Students">Admissions / Prospective Students</a></li>
+     </ul>  
+   </div><!-- /#navigation -->
+
+   <!-- Main Content -->
+   <div id="bd">
+	   <div id="yui-main">
+	     <div class="yui-b">
+	       <div class="yui-g">
+	         <div id="center">
+<!-- Main content BEGINS HERE -->
+
+<h2>Honorary Committee Members, Founders Day 2008</h2>
+<ul>
+  <li><strong>Mr. Lee Duffus</strong> - President, UCSC Retirees Association</li>
+  <li><strong>Mr. Hal Hyde</strong> - Trustee Emeritus, UC Santa Cruz Foundation; founding Assistant Chancellor, Business and Finance</li>
+  <li><strong>The Honorable Lorette Wood</strong> - former UCSC Affiliates Board Member and former Mayor, City of Santa Cruz, 1971</li>
+  <li><strong>Mr. Jerry Walters</strong> - UCSC Retirees Association</li>
+  <li><strong>Mr. Al Reetz</strong> - President, UCSC Affiliates</li>
+  <li><strong>Jim Franks</strong> - UCSC Affiliates</li>
+  <li><strong>Marilyn Meyers</strong> - Secretary, UCSC Affilliates</li>
+</ul>
+
+<!-- Main content ENDS HERE -->                     
+           </div>
+	       </div>
+       </div>
+	   </div>
+	   <div id="sb" class="yui-b">
+	     <div id="utilities">
+       <!-- Search box -->
+       <form action="http://www.google.com/cse" id="cse-search-box">
+         <div>
+           <input type="hidden" name="cx" value="012090462228956765947:d0ywvq7bxee">
+           <input type="hidden" name="ie" value="UTF-8">
+           <!-- To customize this search for your site, uncomment the next line and add your site to the "value" to your site  -->
+           <!-- <input type="hidden" name="as_sitesearch" value="mysite.ucsc.edu"> -->
+           <input type="text" id="cse-field" name="q" size="18" value="Search">
+           <button type="submit" name="sa" value="Submit" id="cse-btn">Go</button>
+         </div>
+       </form>
+       <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+       
+       <!-- Utility links -->
+       <p class="links"><a href="http://www.ucsc.edu/about/alpha_index.asp" title="A-Z Index">A-Z Index</a> | <a href="http://www.ucsc.edu/about/find_people.asp" title="Find People">Find People</a></p>
+       </div>
+        
+       <div class="inner">
+       <!-- Begin left column content -->
+       
+        <h4>Founders Day</h4>
+        <ul id="pages">
+          <li><a href="index.html">2008 Founders Day Home</a></li>
+          <li><a href="honorees.shtml">2008 Honorees</a></li>
+          <li><a href="committee.shtml">2008 Committee Members</a></li>     
+        </ul>
+        
