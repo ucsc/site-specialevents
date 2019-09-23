@@ -62,8 +62,8 @@
             
             <h2>Founders Day 2009: Photos</h2>
             <ul class="instructions">
-                 <li><img src="../images/click.jpg" alt="Click an image to enlarge it"><span>Click an image to enlarge it</span></li>
-                 <li><img src="../images/advance.jpg" alt="Click the left or right side of an enlarged image to see other images"><span>Click the left or right side of an enlarged image to see others</span></li>
+                 <li><img src="images/click.jpg" alt="Click an image to enlarge it"><span>Click an image to enlarge it</span></li>
+                 <li><img src="images/advance.jpg" alt="Click the left or right side of an enlarged image to see other images"><span>Click the left or right side of an enlarged image to see others</span></li>
                </ul>
             <br style="clear:both;">
             <ul class="columns">
@@ -126,7 +126,7 @@
         
         <h4>Founders Day</h4>
         <ul id="pages">
-             <li><a href="index.shtml">2009 Founders Day Home</a></li>
+             <li><a href="index.html">2009 Founders Day Home</a></li>
              <li><a href="honorees.shtml">2009 Honorees</a></li>
              <li><a href="photos.shtml">2009 Founders Day Photos</a></li>
            </ul>
