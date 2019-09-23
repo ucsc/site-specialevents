@@ -1,0 +1,176 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <title>2011 Founders Day - UC Santa Cruz</title>
+   <script src="https://code.jquery.com/jquery-latest.min.js" type="text/javascript" language="javascript"></script>
+   <link rel="stylesheet" href="/specialevents-site/css/ucsc-2010/reset-fonts-grids.css" type="text/css">
+   <link rel="stylesheet" href="/specialevents-site/css/ucsc-2010/main.css" type="text/css">
+   <!--[if IE]><link rel="stylesheet" href="http://static.ucsc.edu/archive/template/v4/css/fix-ie.css" type="text/css"><![endif]-->   
+   <link rel="stylesheet" href="/specialevents-site/css/ucsc-2010/custom.css" type="text/css">
+  <script type="text/javascript" src="/specialevents-site/js/ucsc-2010/jquery.js"></script>
+   <script type="text/javascript" src="/specialevents-site/js/ucsc-2010/search-utils.js"></script>
+
+   <!-- Fancy Box -->
+   <script src="/specialevents-site/js/ucsc-2010/jquery.fancybox-1.0.0.js" type="text/javascript" charset="utf-8"></script>
+   <script src="/specialevents-site/js/ucsc-2010/jquery.pngFix.pack.js" type="text/javascript" charset="utf-8"></script>
+   <link rel="stylesheet" href="/specialevents-site/css/ucsc-2010/fancy.css" type="text/css" media="screen">
+
+   <script type="text/javascript" charset="utf-8">
+    $(document).ready(function() { $("a.embed").fancybox({ 'hideOnContentClick': true,'frameWidth':660,'frameHeight':525, 'overlayShow':true, 'overlayOpacity':0.8 }); }); 
+   </script>
+   </head>
+
+   <body class="secondary administrative">
+<div id="access-links">
+  <ul>
+    <li><a href="#center">Skip to main content</a></li>
+    <li><a href="#pages">Skip to secondary navigation</a></li>
+    <li><a href="#navigation">Skip to navigation</a></li>
+  </ul>
+   </div>
+<div id="custom-doc" class="yui-t2"> 
+     
+     <!-- Header -->
+     <div id="hd">
+    <h1 id="site"><a href="http://www.ucsc.edu/founders" title="Founders Day">Founders Day<span></span></a></h1>
+    <p id="org"><a href="http://www.ucsc.edu">UC Santa Cruz<span></span></a></p>
+  </div>
+     
+     <!-- Navigation -->
+     <div id="navigation"> 
+    <!-- ADMINISTRATIVE TEMPLATE -->
+    <ul>
+         <li><a href="http://www.ucsc.edu/about/" title="About UCSC">About UCSC</a></li>
+         <li><a href="http://www.ucsc.edu/academics/" title="Academic Programs">Academic Programs</a></li>
+         <li><a href="http://www.ucsc.edu/research/" title="Research">Research</a></li>
+         <li><a href="http://www.ucsc.edu/news_events/" title="News/Events">News/Events</a></li>
+         <li><a href="http://www.ucsc.edu/administration/" title="Administration">Administration</a></li>
+         <li><a href="http://www.ucsc.edu/admissions/" title="Admissions/Prospective Students">Admissions / Prospective Students</a></li>
+       </ul>
+  </div>
+     <!-- /#navigation --> 
+     
+     <!-- Main Content -->
+     <div id="bd">
+    <div id="yui-main">
+         <div class="yui-b">
+        <div class="yui-g">
+             <div id="center"> 
+            <!-- Main content BEGINS HERE -->
+            
+            <h2>Founders Day 2009: Photos</h2>
+            <ul class="instructions">
+                 <li><img src="../images/click.jpg" alt="Click an image to enlarge it"><span>Click an image to enlarge it</span></li>
+                 <li><img src="../images/advance.jpg" alt="Click the left or right side of an enlarged image to see other images"><span>Click the left or right side of an enlarged image to see others</span></li>
+               </ul>
+            <br style="clear:both;">
+            <ul class="columns">
+                 <li><a class="embed" rel="slideshow" href="images/event/img_001.jpg"><img src="images/event/thumb_001.jpg" width="160" height="107" alt="Thumb 001"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_002.jpg"><img src="images/event/thumb_002.jpg" width="160" height="107" alt="Thumb 002"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_003.jpg"><img src="images/event/thumb_003.jpg" width="160" height="107" alt="Thumb 003"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_004.jpg"><img src="images/event/thumb_004.jpg" width="107" height="161" alt="Thumb 004"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_005.jpg"><img src="images/event/thumb_005.jpg" width="160" height="107" alt="Thumb 005"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_006.jpg"><img src="images/event/thumb_006.jpg" width="160" height="107" alt="Thumb 006"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_007.jpg"><img src="images/event/thumb_007.jpg" width="160" height="107" alt="Thumb 007"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_008.jpg"><img src="images/event/thumb_008.jpg" width="160" height="107" alt="Thumb 008"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_009.jpg"><img src="images/event/thumb_009.jpg" width="160" height="107" alt="Thumb 009"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_010.jpg"><img src="images/event/thumb_010.jpg" width="107" height="161" alt="Thumb 010"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_011.jpg"><img src="images/event/thumb_011.jpg" width="160" height="107" alt="Thumb 011"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_012.jpg"><img src="images/event/thumb_012.jpg" width="160" height="107" alt="Thumb 012"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_013.jpg"><img src="images/event/thumb_013.jpg" width="160" height="107" alt="Thumb 013"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_014.jpg"><img src="images/event/thumb_014.jpg" width="160" height="107" alt="Thumb 014"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_015.jpg"><img src="images/event/thumb_015.jpg" width="160" height="107" alt="Thumb 015"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_016.jpg"><img src="images/event/thumb_016.jpg" width="160" height="107" alt="Thumb 016"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_017.jpg"><img src="images/event/thumb_017.jpg" width="107" height="161" alt="Thumb 017"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_018.jpg"><img src="images/event/thumb_018.jpg" width="160" height="107" alt="Thumb 018"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_019.jpg"><img src="images/event/thumb_019.jpg" width="160" height="107" alt="Thumb 019"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_020.jpg"><img src="images/event/thumb_020.jpg" width="160" height="107" alt="Thumb 020"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_021.jpg"><img src="images/event/thumb_021.jpg" width="160" height="107" alt="Thumb 021"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_022.jpg"><img src="images/event/thumb_022.jpg" width="160" height="107" alt="Thumb 022"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_023.jpg"><img src="images/event/thumb_023.jpg" width="160" height="107" alt="Thumb 023"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_024.jpg"><img src="images/event/thumb_024.jpg" width="160" height="107" alt="Thumb 024"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_025.jpg"><img src="images/event/thumb_025.jpg" width="136" height="102" alt="Thumb 025"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_026.jpg"><img src="images/event/thumb_026.jpg" width="160" height="107" alt="Thumb 026"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_027.jpg"><img src="images/event/thumb_027.jpg" width="107" height="161" alt="Thumb 027"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_028.jpg"><img src="images/event/thumb_028.jpg" width="107" height="161" alt="Thumb 028"></a></li>
+                 <li><a class="embed" rel="slideshow" href="images/event/img_029.jpg"><img src="images/event/thumb_029.jpg" width="160" height="107" alt="Thumb 029"></a></li>
+               </ul>
+            
+            <!-- Main content ENDS HERE --> 
+          </div>
+           </div>
+      </div>
+       </div>
+    <div id="sb" class="yui-b">
+         <div id="utilities"> 
+        <!-- Search box -->
+        <form action="http://www.google.com/cse" id="cse-search-box">
+             <div>
+            <input type="hidden" name="cx" value="012090462228956765947:d0ywvq7bxee">
+            <input type="hidden" name="ie" value="UTF-8">
+            <!-- To customize this search for your site, uncomment the next line and add your site to the "value" to your site  --> 
+            <!-- <input type="hidden" name="as_sitesearch" value="mysite.ucsc.edu"> -->
+            <input type="text" id="cse-field" name="q" size="18" value="Search">
+            <button type="submit" name="sa" value="Submit" id="cse-btn">Go</button>
+          </div>
+           </form>
+        <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script> 
+        
+        <!-- Utility links -->
+        <p class="links"><a href="http://www.ucsc.edu/about/alpha_index.asp" title="A-Z Index">A-Z Index</a> | <a href="http://www.ucsc.edu/about/find_people.asp" title="Find People">Find People</a></p>
+      </div>
+         <div class="inner"> 
+        <!-- Begin left column content -->
+        
+        <h4>Founders Day</h4>
+        <ul id="pages">
+             <li><a href="index.shtml">2009 Founders Day Home</a></li>
+             <li><a href="honorees.shtml">2009 Honorees</a></li>
+             <li><a href="photos.shtml">2009 Founders Day Photos</a></li>
+           </ul>
+        
+
+<h4>Profile</h4>
+        <ul>
+        <li><a href="http://www.ucsc.edu/about/campus_overview.asp">History and Overview</a></li>
+        <li><a href="http://www.ucsc.edu/today/">UCSC Today</a></li>
+        <li><a href="http://www.ucsc.edu/about/public_resources.asp">Public Resources</a></li>
+        </ul>
+
+      <h4>In Service </h4>
+        <ul>
+        <li><a href="http://www.ucsc.edu/about/contributions.asp">Contributions to Community</a></li>
+        <li><a href="http://www.ucsc.edu/about/economic_impact.asp">Economic Impact</a></li>
+        </ul>
+
+      <h4>Academic Divisions</h4>
+        <ul>
+        <li><a href="http://arts.ucsc.edu">Arts</a></li>
+        <li><a href="http://www.cse.ucsc.edu/">Engineering</a></li>
+        <li><a href="http://humwww.ucsc.edu/">Humanities</a></li>
+        <li><a href="http://pbsci.ucsc.edu/">Physical &amp; Biological Sciences</a></li>
+        <li><a href="http://socialsciences.ucsc.edu/">Social Sciences</a></li>
+        </ul>   
+
+        <h4>The Colleges</h4>
+        <ul>
+        <li><a href="http://www.ucsc.edu/about/colleges.asp">About UCSC's Ten Colleges</a></li>
+        </ul>
+
+<!-- This is the grey text at the bottom of the sidebar with contact/copyright info -->
+        <p class="information">
+          <span class="copyright">&copy; 2010 The Regents of the University of California. All rights reserved.</span>
+          Maintained by <a href="mailto:pioweb@ucsc.edu">pioweb@ucsc.edu</a><br />
+               <br />
+               <span style="font-size:8px;">10/25/10 | jnw</span> 
+        </p>
+<!-- Left column content ENDS here -->
+
+        </div><!-- /inner -->       
+     </div>
+  </div>
+</div> 
+</body>
+</html>
