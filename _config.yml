@@ -24,6 +24,8 @@ collections:
 permalink: "/:title/"
 timezone: America/Los_Angeles
 
+future: true
+
 
 encoding: 'utf-8'
 
