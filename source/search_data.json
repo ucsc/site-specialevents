@@ -2,14 +2,12 @@
 layout: null
 ---
 {
-  {% for post in site.posts %}
+  {% for event in site.events %}
 
-    "{{ post.url | slugify }}": {
-      "title": "{{ post.title | xml_escape }}",
-      "content"	 : "{{post.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
-      "url": " {{ post.url | xml_escape }}",
-      "author": "{{ post.author | xml_escape }}",
-      "categories": "{% for category in post.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}"
+    "{{ event.url | slugify }}": {
+      "title": "{{ event.title | xml_escape }}",
+      "content"	 : "{{ event.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
+      "url": " {{ event.url | xml_escape }}"
     }
     {% unless forloop.last %},{% endunless %}
   {% endfor %}
