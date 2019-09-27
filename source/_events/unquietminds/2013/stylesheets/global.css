@@ -1,0 +1,306 @@
+/* @override http://events.ucsc.edu/evrev/stylesheets/global.css */
+/* * COLOR KEY: * bright orange: #FDA203 * */
+ body {
+	 margin: 0px;
+	 padding: 0px;
+	 background:#00458c url(../images/evrev_page_bg.png);
+	/* #403f3f */
+	 font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+	 font-size:13px;
+	 line-height:1.4em;
+}
+ .row {
+	 position:relative;
+}
+ .row2 {
+	 position:relative;
+}
+ #wrap {
+	 background-color:#2f2e2e;
+	 position:relative;
+	 width:1040px;
+	 margin:20px auto;
+	 -webkit-box-shadow:0px 0px 20px #999;
+	 -moz-box-shadow:0px 0px 20px #999;
+	 box-shadow:0px 0px 20px #999;
+}
+/* hotels */
+ #hotel, #sponsors, #secondary_content, #ticket_info, #copyright {
+	 background-color:#2f2e2e;
+	 color:#fff;
+}
+ #sponsors {
+	 padding:20px 0;
+}
+ #hotel {
+	 padding:20px 0;
+}
+ #secondary_content {
+	 padding-bottom:40px;
+	 font-size:14px;
+	 line-height:1.4em;
+}
+ #helix {
+	 position:absolute;
+	 top:89px;
+	 right:0px;
+	/* -50 */
+}
+ h1,h2,h3,h4,h5,h6,.sans-upper {
+	 font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+ h1 {
+	 font-size:28px;
+}
+ h2 {
+	 font-size:22px;
+}
+ h3 {
+	 font-size:20px;
+}
+ h4 {
+	 font-size:18px;
+}
+ h5 {
+	 font-size:16px;
+}
+ hr {
+	 border-top:1px solid #999;
+	 border-bottom:1px solid #eee;
+	 border-width:1px 0;
+	 margin:20px 0;
+}
+ #content {
+	 padding:90px 0 30px 80px;
+	 border:10px solid #f1b521;
+	/*orginal border color 666*/
+	 border-width:10px 0;
+	 background-image: url(../images/evrev_content_bg.jpg);
+	 background-repeat: no-repeat;
+	 background-position: center bottom;
+	 background-color: #000;
+}
+ #content h1 {
+	 text-transform: uppercase;
+	 color: #FDA203;
+	 text-shadow:1px 1px 2px #999;
+}
+ .inner {
+	 width:78%;
+	 margin:40px auto 40px auto;
+}
+ #index .inner {
+	 width:90%;
+	 margin:40px 0 40px 0;
+}
+ #secondary_content .inner {
+	 margin:0;
+}
+ #ucsc_logo, #evolutionary_revolutionary_text {
+	 margin-bottom:20px;
+}
+ #logo {
+	 position: absolute;
+	 z-index: 1000;
+	 padding: 0px;
+	 left: 0px;
+	 top: 0px;
+	 border-width: 0px 1px 1px 1px;
+	 border-color: #f1b521;
+	 border-style: solid;
+	 background-color: #1C4167;
+}
+ #header_logo {
+	 position: relative;
+	 top: 70px;
+	 left: 13px;
+	 width: 142px;
+	 height: 95px;
+}
+ #header {
+	 background:#2f2e2e;
+	/**/
+	 height: 80px;
+	 position: relative;
+}
+ #when_where_tickets {
+	 position: absolute;
+	 left: 275px;
+	 top: 12px;
+	 color: #82807F;
+	 font-style: italic;
+	 font-size: 12px;
+	 line-height:1.3em;
+}
+ #when_where_tickets span {
+	 display: block;
+}
+ #when_where_tickets .date {
+	 text-transform: uppercase;
+}
+ #when_where_tickets .where {
+	 text-transform: capitalize;
+}
+ #when_where_tickets a {
+	 text-decoration: underline;
+	 color: #fff;
+	 font-weight: bold;
+	 font-style: normal;
+	 padding-top: 4px;
+	 display: block;
+}
+ #content_when_where_tickets .button {
+	 display: block;
+	 width:200px;
+	 padding:0 !important;
+}
+ #content_when_where_tickets .button {
+	 background-color:#296fa3;
+	 border:2px solid rgba(255,255,255,0.2);
+	 -webkit-border-radius:7px;
+	 -moz-border-radius:7px;
+	 border-radius:7px;
+	 color:#fff;
+	 font-weight: bold;
+	 display:block;
+	 font-size:16px;
+	 line-height: 1.2;
+	 font-style: normal;
+	 margin-top: 1.6em;
+	 padding:8px 8px !important;
+	 text-align:left;
+	 margin-left: 1em;
+	 text-decoration:none;
+	 text-shadow:1px 1px 1px rgba(0,0,0,0.6);
+}
+ #content_when_where_tickets .button strong {
+	 display:block;
+	 padding:0;
+	 margin:0 auto 2px auto;
+}
+ #content_when_where_tickets .button span {
+	 display:block;
+	 font-weight:bold;
+	 font-size:10px;
+	 padding:0;
+	 margin:0 auto;
+}
+ #content_when_where_tickets .button:focus, #content_when_where_tickets .button:hover {
+	 color:#FFBD15;
+	 background:rgba(41,111,163,0.8);
+	 text-shadow:1px 1px 3px rgba(0,0,0,0.6);
+}
+ .button #icon {
+	 position: absolute;
+	 top: 79px;
+	 left: 530px;
+	 -webkit-transition: all 0.2s ease-in-out;
+	 -moz-transition: all 0.2s ease-in-out;
+	 -o-transition: all 0.2s ease-in-out;
+	 -ms-transition: all 0.2s ease-in-out;
+}
+ .button:focus #icon, .button:hover #icon {
+	 -webkit-transform: rotate(10deg) scale(1.1);
+	 -moz-transform: rotate(10deg) scale(1.1);
+	 -o-transform: rotate(10deg) scale(1.1);
+	 -ms-transform: rotate(10deg) scale(1.1);
+}
+ #navigation {
+	 position: absolute;
+	 left: 705px;
+	 top: 30px;
+	 list-style: none;
+	 margin: 0px;
+	 padding: 0px;
+}
+ #navigation .nav_item {
+	 display: inline;
+	 margin: 0px 17px 0px 0px;
+	 padding: 0px;
+	 text-transform: capitalize;
+	 font-size: 12px;
+}
+ #navigation .nav_item a {
+	 color: #C2C2C2;
+	 text-decoration: none;
+}
+ #navigation .nav_item a:hover {
+	 color: #FDA203;
+}
+ #logos {
+	 position:relative;
+	 padding: 0px 0px;
+	 border-width: 1px 0px;
+	 border-style: solid;
+	 border-color: #51504F;
+	 height: 139px;
+	 background-color:#101010;
+}
+ .logo {
+	 position: absolute;
+	 top: 0px;
+	 left: 50px;
+	 width: 850px;
+	 height: 125px;
+	/* get rid of this when there are images. */
+	 color: orange;
+}
+ #secondary_content {
+	 color:#DEDEDE;
+}
+ #secondary_content a {
+	 color: #8A975B;
+	 font-style: italic;
+}
+ #secondary_content h3 {
+	 font-size:18px;
+	 text-transform:uppercase;
+	 color:#fbe9da;
+}
+ #tickets {
+	 margin:0 auto;
+	 width: 603px;
+	 height: 90px;
+	 background: url(../images/tickets.png) no-repeat;
+	 text-align: center;
+	 padding-top: 54px;
+	 font-size: 24pt;
+	 font-style: italic;
+	 font-weight: bold;
+	 color: #2F2D2E;
+}
+ #tickets .phone_number a {
+	 color: #8A975B !important;
+}
+ #photos-spin {
+	 position: absolute;
+	 z-index:1000;
+	 width: 374px;
+	 height: 810px;
+	 color: #fff;
+	 margin: -675px 0 0 650px;
+}
+ #copyright_text {
+	 padding:150px 0 40px 0;
+	 text-align: center;
+	 width: 100%;
+	 font-size: 9pt;
+	 color: #8F8F8F;
+}
+ a.yellow {
+	 color: #FFF;
+	 font-style: italic;
+}
+ a.yellow:hover {
+	 text-decoration:none;
+}
+ .yellow-text{
+	 color: #f1b521;
+	 font-style: italic;
+}
+ .appleLinks a {
+	color:#ffffff;
+}
+ .appleLinksWhite a {
+	color:#ffffff;
+}

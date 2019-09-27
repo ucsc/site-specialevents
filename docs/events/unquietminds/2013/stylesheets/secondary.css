@@ -1,0 +1,51 @@
+ #top_section {
+	 position: relative;
+	 height: 851px;
+}
+ #top_section_content {
+	 position: relative;
+	 background: url(../images_secondary/content_top_background_image.jpg) center top repeat-y;
+	 margin-bottom:0;
+}
+ #ucsc_logo {
+	 width: 279px;
+	 height: 79px;
+	 display:block;
+	 margin-bottom:20px;
+}
+ #evolutionary_revolutionary_text {
+	 width: 561px;
+	 height: 79px;
+	 display:block;
+	 margin-bottom:40px;
+}
+ #copy {
+	 font-size: 16px;
+	 color: #343332;
+	 line-height: 1.4em;
+}
+ .inner {
+	 width:860px;
+	 margin:0 auto;
+}
+ #copy h1 {
+	 font-size: 28px;
+	 text-transform: uppercase;
+	 color: #FDA203;
+	 text-shadow:1px 1px 2px #999;
+}
+ #bottom_section {
+	 height: 648px;
+}
+ #some_sponsors_text {
+	 top: 20px;
+}
+ #logos {
+	 top: 35px;
+}
+ #bottom_text_blocks {
+	 top: 225px;
+}
+ #tickets {
+	 top: 440px;
+}
