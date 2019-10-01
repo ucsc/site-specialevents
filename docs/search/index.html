@@ -194,20 +194,1428 @@
 
 <section class="grid-centered">
 	<div class="grid-container medium">
-	<br/>&nbsp;
-<form action="get" id="site_search">
-<center>
-  <input style="font-size:20px;" type="text" id="search_box">
-  <input style="font-size:20px;" type="submit" value="Go!">
-</center>
+	<form action="/specialevents-site/search/" method="get">
+  <label for="searchInput">Search</label>
+  <input type="text" id="searchInput" name="query">
+  <input type="submit" value="search">
 </form>
-<br/>&nbsp;
-<br/>&nbsp;
 
-<ul id="search_results"></ul>
+<ul id="search-results"></ul>
 
-<script src="https://unpkg.com/lunr/lunr.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+  window.store = {
+    
+      "events-50th-picnic-index": {
+        "title": "50th Anniversary Retired Staff and Faculty Picnic",
+        "category": "",
+        "content": "",
+        "url": "/events/50th-picnic/index"
+      }
+      ,
+    
+      "events-attic-index": {
+        "title": "The attics of our lives - UC Santa Cruz&lt;",
+        "category": "",
+        "content": "",
+        "url": "/events/attic/index"
+      }
+      ,
+    
+      "events-books-to-moocs-index": {
+        "title": "From Books to Moocs",
+        "category": "",
+        "content": "",
+        "url": "/events/books-to-moocs/index"
+      }
+      ,
+    
+      "events-campaign-celebration-index": {
+        "title": "Faculty &amp; Staff Campaign Launch",
+        "category": "",
+        "content": "",
+        "url": "/events/campaign-celebration/index"
+      }
+      ,
+    
+      "events-casfs-fifty-2017-places-to-stay": {
+        "title": "Places To Stay",
+        "category": "",
+        "content": "",
+        "url": "/events/casfs-fifty/2017/places-to-stay"
+      }
+      ,
+    
+      "events-casfs-fifty-2017-register-info": {
+        "title": "Register Info",
+        "category": "",
+        "content": "",
+        "url": "/events/casfs-fifty/2017/register-info"
+      }
+      ,
+    
+      "events-casfs-fifty-2017-saturday": {
+        "title": "Saturday",
+        "category": "",
+        "content": "",
+        "url": "/events/casfs-fifty/2017/saturday"
+      }
+      ,
+    
+      "events-casfs-fifty-2017-sunday": {
+        "title": "Sunday",
+        "category": "",
+        "content": "",
+        "url": "/events/casfs-fifty/2017/sunday"
+      }
+      ,
+    
+      "events-casfs-fifty-2017-thursday-friday": {
+        "title": "Thursday Friday",
+        "category": "",
+        "content": "",
+        "url": "/events/casfs-fifty/2017/thursday-friday"
+      }
+      ,
+    
+      "events-casfs-fifty-index": {
+        "title": "First 50 Celebration, UCSC Farm &amp; Garden",
+        "category": "",
+        "content": "",
+        "url": "/events/casfs-fifty/index"
+      }
+      ,
+    
+      "events-commencement-2011-index": {
+        "title": "Commencement 2011",
+        "category": "Commencement",
+        "content": "UC Santa Cruz 2011 Commencement celebration",
+        "url": "/events/commencement/2011/index"
+      }
+      ,
+    
+      "events-attic-2011-index": {
+        "title": "The Attics of Our Lives",
+        "category": "The Attics",
+        "content": "You are cordially invited to the Attic for a special preview of The Grateful Dead Archive.",
+        "url": "/events/attic/2011/index"
+      }
+      ,
+    
+      "events-commencement-2012-index": {
+        "title": "Commencement 2012",
+        "category": "Commencement",
+        "content": "UC Santa Cruz 2012 Commencement celebration",
+        "url": "/events/commencement/2012/index"
+      }
+      ,
+    
+      "events-commencement-2012-slideshow": {
+        "title": "Slideshow",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2012/slideshow"
+      }
+      ,
+    
+      "events-commencement-2013-index": {
+        "title": "Commencement 2013",
+        "category": "Commencement",
+        "content": "UC Santa Cruz 2013 Commencement celebration",
+        "url": "/events/commencement/2013/index"
+      }
+      ,
+    
+      "events-campaign-celebration-2013-index": {
+        "title": "Faculty &amp; Staff Campaign Launch",
+        "category": "Campaign Celebration",
+        "content": "Please join us to celebrate the public launch of The Campaign for UC Santa Cruz",
+        "url": "/events/campaign-celebration/2013/index"
+      }
+      ,
+    
+      "events-casfs-fifty-2017-index": {
+        "title": "First 50 Celebration, UCSC Farm &amp; Garden",
+        "category": "50 Farm &amp; Garden",
+        "content": "The First Fifty Celebration’s three days of events combine an engaging lineup of speakers, workshops, tours, and music, with great local food and time for mingling with old-timers and newcomers to the sustainable agriculture community",
+        "url": "/events/casfs-fifty/2017/index"
+      }
+      ,
+    
+      "events-commencement-2014-index": {
+        "title": "Commencement 2014",
+        "category": "Commencement",
+        "content": "UC Santa Cruz 2014 Commencement celebration",
+        "url": "/events/commencement/2014/index"
+      }
+      ,
+    
+      "events-commencement-2015-index": {
+        "title": "Commencement 2015",
+        "category": "Commencement",
+        "content": "UC Santa Cruz 2015 Commencement celebration",
+        "url": "/events/commencement/2015/index"
+      }
+      ,
+    
+      "events-50th-picnic-2015-index": {
+        "title": "50th Anniversary Retired Staff and Faculty Picnic",
+        "category": "50th Picnic",
+        "content": "Please Join Us to Celebrate UC Santa Cruz's 50th Anniversary at a Retired Staff and Faculty Picnic.",
+        "url": "/events/50th-picnic/2015/index"
+      }
+      ,
+    
+      "events-books-to-moocs-2014-index": {
+        "title": "From Books to MOOC",
+        "category": "Books to Moocs",
+        "content": "Murray Baumgarten and Peter Kenez will discuss how teaching in the liberal arts has changed over the years",
+        "url": "/events/books-to-moocs/2014/index"
+      }
+      ,
+    
+      "events-commencement-2016-commencement-check-list": {
+        "title": "Commencement Check List",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2016/commencement-check-list"
+      }
+      ,
+    
+      "events-commencement-2016-commencement-comfort": {
+        "title": "Commencement Comfort",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2016/commencement-comfort"
+      }
+      ,
+    
+      "events-commencement-2016-commencement-faq": {
+        "title": "Commencement Faq",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2016/commencement-faq"
+      }
+      ,
+    
+      "events-commencement-2016-commencement-lost-found": {
+        "title": "Commencement Lost Found",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2016/commencement-lost-found"
+      }
+      ,
+    
+      "events-commencement-2016-commencement-no-pet": {
+        "title": "Commencement No Pet",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2016/commencement-no-pet"
+      }
+      ,
+    
+      "events-commencement-2016-commencement-speakers": {
+        "title": "Commencement Speakers",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2016/commencement-speakers"
+      }
+      ,
+    
+      "events-commencement-2016-eating-on-campus": {
+        "title": "Eating On Campus",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2016/eating-on-campus"
+      }
+      ,
+    
+      "events-commencement-2016-index": {
+        "title": "Commencement 2016",
+        "category": "Commencement",
+        "content": "UC Santa Cruz 2016 Commencement celebration",
+        "url": "/events/commencement/2016/index"
+      }
+      ,
+    
+      "events-commencement-2016-photo-gallery": {
+        "title": "Photo Gallery",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2016/photo-gallery"
+      }
+      ,
+    
+      "events-commencement-2016-ucscalumni": {
+        "title": "Ucscalumni",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2016/ucscalumni"
+      }
+      ,
+    
+      "events-commencement-2017-commencement-speakers": {
+        "title": "Commencement Speakers",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2017/commencement-speakers"
+      }
+      ,
+    
+      "events-commencement-2017-index": {
+        "title": "Commencement 2017",
+        "category": "Commencement",
+        "content": "UC Santa Cruz 2017 Commencement celebration",
+        "url": "/events/commencement/2017/index"
+      }
+      ,
+    
+      "events-commencement-2018-commencement-check-list": {
+        "title": "Commencement Check List",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2018/commencement-check-list"
+      }
+      ,
+    
+      "events-commencement-2018-commencement-speakers-2018": {
+        "title": "Commencement Speakers 2018",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2018/commencement-speakers-2018"
+      }
+      ,
+    
+      "events-commencement-2018-index": {
+        "title": "Commencement 2018",
+        "category": "Commencement",
+        "content": "UC Santa Cruz 2018 Commencement celebration",
+        "url": "/events/commencement/2018/index"
+      }
+      ,
+    
+      "events-commencement-2018-live-streaming": {
+        "title": "Live Streaming",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/2018/live-streaming"
+      }
+      ,
+    
+      "events-commencement-2019-commencement-check-list": {
+        "title": "Commencement Checklist",
+        "category": "",
+        "content": "UC Santa Cruz 2019 Commencement celebration",
+        "url": "/events/commencement/2019/commencement-check-list"
+      }
+      ,
+    
+      "events-commencement-2019-live-streaming": {
+        "title": "Live Streaming of Commencement Ceremonies",
+        "category": "",
+        "content": "UC Santa Cruz 2019 Commencement celebration",
+        "url": "/events/commencement/2019/live-streaming"
+      }
+      ,
+    
+      "events-commencement-index": {
+        "title": "Commencement",
+        "category": "",
+        "content": "",
+        "url": "/events/commencement/index"
+      }
+      ,
+    
+      "events-criminal-justice-reform-2018-index": {
+        "title": "A Conversation About Mass Incarceration Solitary Confinement, and the Future of Criminal Justice Reform",
+        "category": "Criminal Justice Reform",
+        "content": "The Future of Criminal Justice Reform",
+        "url": "/events/criminal-justice-reform/2018/index"
+      }
+      ,
+    
+      "events-commencement-2019-index": {
+        "title": "Commencement 2019",
+        "category": "Commencement",
+        "content": "UC Santa Cruz 2019 Commencement celebration",
+        "url": "/events/commencement/2019/index"
+      }
+      ,
+    
+      "events-criminal-justice-reform-index": {
+        "title": "A Conversation About Mass Incarceration Solitary Confinement, and the Future of Criminal Justice Reform",
+        "category": "",
+        "content": "",
+        "url": "/events/criminal-justice-reform/index"
+      }
+      ,
+    
+      "events-evrev-2011-index": {
+        "title": "Evolutionary | Revolutionary",
+        "category": "Evolutionary Revolutionary",
+        "content": "A Remarkable evening of art, science and life",
+        "url": "/events/evrev/2011/index"
+      }
+      ,
+    
+      "events-evrev-index": {
+        "title": "Evolutionary | Revolutionary",
+        "category": "",
+        "content": "",
+        "url": "/events/evrev/index"
+      }
+      ,
+    
+      "events-farmtofolk-2016-index": {
+        "title": "Seventh Annual Farm to Fork Benefit Dinner",
+        "category": "Farm &amp; Garden",
+        "content": "UC Santa Cruz Farm & Garden Benefit Dinner",
+        "url": "/events/farmtofolk/2016/index"
+      }
+      ,
+    
+      "events-farmtofolk-2018-index": {
+        "title": "Seventh Annual Farm to Fork Benefit Dinner",
+        "category": "Farm &amp; Garden",
+        "content": "UC Santa Cruz Farm & Garden Benefit Dinner",
+        "url": "/events/farmtofolk/2018/index"
+      }
+      ,
+    
+      "events-farmtofolk-index": {
+        "title": "Farm &amp; Garden",
+        "category": "",
+        "content": "",
+        "url": "/events/farmtofolk/index"
+      }
+      ,
+    
+      "events-founders-2007-committee": {
+        "title": "Committee",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2007/committee"
+      }
+      ,
+    
+      "events-founders-2007-index": {
+        "title": "2007 Founders Celebration",
+        "category": "Founders Celebrations",
+        "content": "Four outstanding individuals were honored by UC Santa Cruz at its inaugural Founders Day dinner",
+        "url": "/events/founders/2007/index"
+      }
+      ,
+    
+      "events-founders-2008-committee": {
+        "title": "Committee",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2008/committee"
+      }
+      ,
+    
+      "events-founders-2008-honorees": {
+        "title": "Honorees",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2008/honorees"
+      }
+      ,
+    
+      "events-founders-2008-index": {
+        "title": "2008 Founders Celebration",
+        "category": "Founders Celebrations",
+        "content": "Three outstanding individuals were honored by UC Santa Cruz at the annual Founders Day dinner",
+        "url": "/events/founders/2008/index"
+      }
+      ,
+    
+      "events-founders-2008-photos": {
+        "title": "Photos",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2008/photos"
+      }
+      ,
+    
+      "events-founders-2009-honorees": {
+        "title": "Honorees",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2009/honorees"
+      }
+      ,
+    
+      "events-founders-2009-index": {
+        "title": "2009 Founders Celebration",
+        "category": "Founders Celebrations",
+        "content": "The third annual Founders Day event celebrated the spirit of community and honored five individuals for outstanding achievement",
+        "url": "/events/founders/2009/index"
+      }
+      ,
+    
+      "events-founders-2009-photos": {
+        "title": "Photos",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2009/photos"
+      }
+      ,
+    
+      "events-founders-2010-honorees": {
+        "title": "Honorees",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2010/honorees"
+      }
+      ,
+    
+      "events-founders-2010-index": {
+        "title": "2010 Founders Celebration",
+        "category": "Founders Celebrations",
+        "content": "Jean-Michel Cousteau, S. H. Cowell Foundation, Richard Harris (Crown '80) and Paul Whitworth were honored by UC Santa Cruz at the annual Founders Day",
+        "url": "/events/founders/2010/index"
+      }
+      ,
+    
+      "events-founders-2010-photos": {
+        "title": "Photos",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2010/photos"
+      }
+      ,
+    
+      "events-founders-2011-accommodations": {
+        "title": "Accommodations",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2011/accommodations"
+      }
+      ,
+    
+      "events-founders-2011-committee": {
+        "title": "Committee",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2011/committee"
+      }
+      ,
+    
+      "events-founders-2011-honorees": {
+        "title": "Honorees",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2011/honorees"
+      }
+      ,
+    
+      "events-founders-2011-index": {
+        "title": "2011 Founders Celebration",
+        "category": "Founders Celebrations",
+        "content": "The fifth annual Founders Celebration gala dinner, honoring extraordinary individuals and their outstanding contributions to society.",
+        "url": "/events/founders/2011/index"
+      }
+      ,
+    
+      "events-founders-2011-photos": {
+        "title": "Photos",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2011/photos"
+      }
+      ,
+    
+      "events-founders-2011-videos-old": {
+        "title": "Videos_old",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2011/videos_old"
+      }
+      ,
+    
+      "events-founders-2012-accommodations": {
+        "title": "Accommodations",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2012/accommodations"
+      }
+      ,
+    
+      "events-founders-2012-committee": {
+        "title": "Committee",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2012/committee"
+      }
+      ,
+    
+      "events-founders-2012-honorees": {
+        "title": "Honorees",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2012/honorees"
+      }
+      ,
+    
+      "events-founders-2012-index": {
+        "title": "2012 Founders Celebration",
+        "category": "Founders Celebrations",
+        "content": "The sixth annual Founders Celebration gala dinner, honoring extraordinary individuals and their outstanding contributions to society",
+        "url": "/events/founders/2012/index"
+      }
+      ,
+    
+      "events-founders-2012-photos": {
+        "title": "Photos",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2012/photos"
+      }
+      ,
+    
+      "events-founders-2012-videos": {
+        "title": "Videos",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2012/videos"
+      }
+      ,
+    
+      "events-founders-2013-accommodations": {
+        "title": "Accommodations",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2013/accommodations"
+      }
+      ,
+    
+      "events-founders-2013-edtalks-livestream": {
+        "title": "Edtalks Livestream",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2013/edtalks-livestream"
+      }
+      ,
+    
+      "events-founders-2013-forum-livestream": {
+        "title": "Forum Livestream",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2013/forum-livestream"
+      }
+      ,
+    
+      "events-founders-2013-founders-events": {
+        "title": "Founders Events",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2013/founders-events"
+      }
+      ,
+    
+      "events-founders-2013-honorees": {
+        "title": "Honorees",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2013/honorees"
+      }
+      ,
+    
+      "events-founders-2013-index": {
+        "title": "2013 Founders Celebration",
+        "category": "Founders Celebrations",
+        "content": "The seventh annual Founders Celebration gala dinner, honoring extraordinary individuals and their outstanding contributions to society.",
+        "url": "/events/founders/2013/index"
+      }
+      ,
+    
+      "events-founders-2013-press-release": {
+        "title": "Press Release",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2013/press-release"
+      }
+      ,
+    
+      "events-founders-2014-2014-livestream": {
+        "title": "2014 Livestream",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2014/2014-livestream"
+      }
+      ,
+    
+      "events-founders-2014-accommodations": {
+        "title": "Accommodations",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2014/accommodations"
+      }
+      ,
+    
+      "events-founders-2014-honorees": {
+        "title": "Honorees",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2014/honorees"
+      }
+      ,
+    
+      "events-founders-2014-index": {
+        "title": "2014 Founders Celebration",
+        "category": "Founders Celebrations",
+        "content": "The eighth annual Founders Celebration dinner, honoring extraordinary individuals and their outstanding contributions to society.",
+        "url": "/events/founders/2014/index"
+      }
+      ,
+    
+      "events-founders-2016-accommodations": {
+        "title": "Accommodations",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2016/accommodations"
+      }
+      ,
+    
+      "events-founders-2016-faq": {
+        "title": "Faq",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2016/faq"
+      }
+      ,
+    
+      "events-founders-2016-honorees": {
+        "title": "Honorees",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2016/honorees"
+      }
+      ,
+    
+      "events-founders-2016-index-post": {
+        "title": "Index Post",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2016/index-post"
+      }
+      ,
+    
+      "events-founders-2016-index": {
+        "title": "2016 Founders Celebration",
+        "category": "Founders Celebrations",
+        "content": "Founders Celebration 2016 for a look into the library as a \"collision space\" where technology, information, and ideas collide to create new knowledge and support dynamic exploration",
+        "url": "/events/founders/2016/index"
+      }
+      ,
+    
+      "events-founders-2017-accommodations": {
+        "title": "Accommodations",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2017/accommodations"
+      }
+      ,
+    
+      "events-founders-2017-convocation-chairs": {
+        "title": "Convocation Chairs",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2017/convocation-chairs"
+      }
+      ,
+    
+      "events-founders-2017-day-events-tours": {
+        "title": "Day Events Tours",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2017/day-events-tours"
+      }
+      ,
+    
+      "events-founders-2017-index": {
+        "title": "2017 Founders Celebration",
+        "category": "Founders Celebrations",
+        "content": "Celebrating our founding principles and the success of the Campaign for UC Santa Cruz",
+        "url": "/events/founders/2017/index"
+      }
+      ,
+    
+      "events-founders-2018-accommodations": {
+        "title": "Accommodations",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2018/accommodations"
+      }
+      ,
+    
+      "events-founders-2018-emcee": {
+        "title": "Emcee",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2018/emcee"
+      }
+      ,
+    
+      "events-founders-2018-honorees": {
+        "title": "Honorees",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2018/honorees"
+      }
+      ,
+    
+      "events-founders-2018-journalist-panel": {
+        "title": "Journalist Panel",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2018/journalist-panel"
+      }
+      ,
+    
+      "events-founders-2018-related-events": {
+        "title": "Related Events",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/2018/related-events"
+      }
+      ,
+    
+      "events-founders-index": {
+        "title": "Founder Celebrations",
+        "category": "",
+        "content": "",
+        "url": "/events/founders/index"
+      }
+      ,
+    
+      "events-friends-holiday-index": {
+        "title": "UC Santa Cruz Friends Holiday Party 2014",
+        "category": "",
+        "content": "",
+        "url": "/events/friends-holiday/index"
+      }
+      ,
+    
+      "events-genomics-institute-summit-2017-index": {
+        "title": "Genomics Institute Summit",
+        "category": "Genomics Institute Summit",
+        "content": "For more than three decades, UC Santa Cruz has pioneered genomics research, using genomes to empower the global scientific community to develop breakthroughs in the areas of health and evolutionary biology",
+        "url": "/events/genomics-institute-summit/2017/index"
+      }
+      ,
+    
+      "events-genomics-institute-summit-index": {
+        "title": "Genomics Institute Summit",
+        "category": "",
+        "content": "",
+        "url": "/events/genomics-institute-summit/index"
+      }
+      ,
+    
+      "events-index": {
+        "title": "Events Archive",
+        "category": "",
+        "content": "",
+        "url": "/events/index"
+      }
+      ,
+    
+      "events-jerry-garcia-2015-accommodations": {
+        "title": "Accommodations",
+        "category": "",
+        "content": "",
+        "url": "/events/jerry-garcia/2015/accommodations"
+      }
+      ,
+    
+      "events-jerry-garcia-2015-directions": {
+        "title": "Directions",
+        "category": "",
+        "content": "",
+        "url": "/events/jerry-garcia/2015/directions"
+      }
+      ,
+    
+      "events-jerry-garcia-index": {
+        "title": "Jerry Garcia's 73rd Birthday",
+        "category": "",
+        "content": "",
+        "url": "/events/jerry-garcia/index"
+      }
+      ,
+    
+      "events-mlk-2011-index": {
+        "title": "Tony Hill Memorial Award",
+        "category": "Martin Luther King Jr. Convocation",
+        "content": "The 27th annual convocation celebrates the life and dream of Dr. Martin Luther King Jr.",
+        "url": "/events/mlk/2011/index"
+      }
+      ,
+    
+      "events-mlk-2012-index": {
+        "title": "Martin Luther King Jr. Convocation",
+        "category": "Martin Luther King Jr. Convocation",
+        "content": "The 28th annual convocation celebrates the life and dream of Dr. Martin Luther King Jr.",
+        "url": "/events/mlk/2012/index"
+      }
+      ,
+    
+      "events-maitra-2013-index": {
+        "title": "Sidhartha Maitra Memorial Lecture",
+        "category": "Sidhartha Maitra Memorial Lecture",
+        "content": "13th Annual Sidhartha Maitra Memorial Lecture",
+        "url": "/events/maitra/2013/index"
+      }
+      ,
+    
+      "events-launch-2014-index": {
+        "title": "Launch! A celebration of the UCSC student experience",
+        "category": "Launch",
+        "content": "At UC Santa Cruz, we launch. Ideas, dreams, passions, big thoughts, lives, careers.",
+        "url": "/events/launch/2014/index"
+      }
+      ,
+    
+      "events-maitra-2014-index": {
+        "title": "Sidhartha Maitra Memorial Lecture",
+        "category": "Sidhartha Maitra Memorial Lecture",
+        "content": "14th Annual Sidhartha Maitra Memorial Lecture",
+        "url": "/events/maitra/2014/index"
+      }
+      ,
+    
+      "events-jerry-garcia-2015-index": {
+        "title": "Jerry Garcia's 73rd Birthday",
+        "category": "Jerry Garcia's 73rd Birthday",
+        "content": "Jerry Garcia's 73rd Birthday at the Santa Cruz Museum of Art and History",
+        "url": "/events/jerry-garcia/2015/index"
+      }
+      ,
+    
+      "events-maitra-2016-index": {
+        "title": "Sidhartha Maitra Memorial Lecture",
+        "category": "Sidhartha Maitra Memorial Lecture",
+        "content": "15th Annual Sidhartha Maitra Memorial Lecture",
+        "url": "/events/maitra/2016/index"
+      }
+      ,
+    
+      "events-kraw-lecture-2017-index": {
+        "title": "The Kraw Lecture Series on Science and Technology",
+        "category": "Kraw Lecture",
+        "content": "The Kraw Lecture Series in Silicon Valley is made possible by a generous gift from UC Santa Cruz alumnus George Kraw (Cowell '71, history and Russian literature)",
+        "url": "/events/kraw-lecture/2017/index"
+      }
+      ,
+    
+      "events-living-legend-2017-index": {
+        "title": "Living Legends: Honoring Janet Yellen",
+        "category": "Living Legends",
+        "content": "The UC Santa Cruz Foundation Medal recognizes individuals of exceptionally distinguished achievement whose work and contribution to society exemplify the vision and ideals of UC Santa Cruz",
+        "url": "/events/living-legend/2017/index"
+      }
+      ,
+    
+      "events-kraw-lecture-2018-index": {
+        "title": "The Kraw Lecture Series on Science and Technology",
+        "category": "Kraw Lecture",
+        "content": "The Kraw Lecture Series in Silicon Valley is made possible by a generous gift from UC Santa Cruz alumnus George Kraw (Cowell '71, history and Russian literature)",
+        "url": "/events/kraw-lecture/2018/index"
+      }
+      ,
+    
+      "events-friends-holiday-2014-index": {
+        "title": "UC Santa Cruz Friends Holiday Party 2014",
+        "category": "Friends Holiday Party",
+        "content": "Connect and have fun with UC Santa Cruz Chancellor George Blumenthal; his wife, Professor Kelly Weisberg; and our amazing Community of Friends.",
+        "url": "/events/friends-holiday/2014/index"
+      }
+      ,
+    
+      "events-founders-2018-index": {
+        "title": "2018 Founders Celebration",
+        "category": "Founders Celebrations",
+        "content": "In honor of our Year of Alumni, we will take this moment to celebrate alumni and faculty who exemplify the best of UC Santa Cruz.",
+        "url": "/events/founders/2018/index"
+      }
+      ,
+    
+      "events-kraw-lecture-2019-index": {
+        "title": "The Kraw Lecture Series on Science and Technology",
+        "category": "Kraw Lecture",
+        "content": "The Kraw Lecture Series in Silicon Valley is made possible by a generous gift from UC Santa Cruz alumnus George Kraw (Cowell '71, history and Russian literature)",
+        "url": "/events/kraw-lecture/2019/index"
+      }
+      ,
+    
+      "events-kraw-lecture-index": {
+        "title": "The Kraw Lecture Series on Science and Technology",
+        "category": "",
+        "content": "",
+        "url": "/events/kraw-lecture/index"
+      }
+      ,
+    
+      "events-launch-2014-hotels": {
+        "title": "Hotels",
+        "category": "",
+        "content": "",
+        "url": "/events/launch/2014/hotels"
+      }
+      ,
+    
+      "events-launch-2014-index-event": {
+        "title": "Index Event",
+        "category": "",
+        "content": "",
+        "url": "/events/launch/2014/index-event"
+      }
+      ,
+    
+      "events-launch-2014-photo-gallery": {
+        "title": "Photo Gallery",
+        "category": "",
+        "content": "",
+        "url": "/events/launch/2014/photo-gallery"
+      }
+      ,
+    
+      "events-launch-index": {
+        "title": "Launch!",
+        "category": "",
+        "content": "",
+        "url": "/events/launch/index"
+      }
+      ,
+    
+      "events-living-legend-2019-index": {
+        "title": "Living Legends: Honoring Janet Yellen",
+        "category": "Living Legends",
+        "content": "The evening will include a dynamic conversation between Janet Yellen and Carl Walsh",
+        "url": "/events/living-legend/2019/index"
+      }
+      ,
+    
+      "events-living-legend-index": {
+        "title": "Living Legends",
+        "category": "",
+        "content": "",
+        "url": "/events/living-legend/index"
+      }
+      ,
+    
+      "events-maitra-2014-maitra-streamingvideo": {
+        "title": "Maitra Streamingvideo",
+        "category": "",
+        "content": "",
+        "url": "/events/maitra/2014/maitra-streamingvideo"
+      }
+      ,
+    
+      "events-maitra-2018-index": {
+        "title": "Sidhartha Maitra Memorial Lecture",
+        "category": "Sidhartha Maitra Memorial Lecture",
+        "content": "16th Annual Sidhartha Maitra Memorial Lecture",
+        "url": "/events/maitra/2018/index"
+      }
+      ,
+    
+      "events-maitra-index": {
+        "title": "Martin Luther Jr. Convocation",
+        "category": "",
+        "content": "",
+        "url": "/events/maitra/index"
+      }
+      ,
+    
+      "events-mandel-lecture-2019-index": {
+        "title": "2019 Mandel Lecture",
+        "category": "Mandel Lecture",
+        "content": "After almost 10 years in space, NASA's Kepler Mission was recently retired, but not without making an indelible imprint on humankind's understanding of the universe.",
+        "url": "/events/mandel-lecture/2019/index"
+      }
+      ,
+    
+      "events-mandel-lecture-index": {
+        "title": "Mandel Lectures",
+        "category": "",
+        "content": "",
+        "url": "/events/mandel-lecture/index"
+      }
+      ,
+    
+      "events-mlk-2011-event-photos": {
+        "title": "Event Photos",
+        "category": "",
+        "content": "",
+        "url": "/events/mlk/2011/event-photos"
+      }
+      ,
+    
+      "events-mlk-2012-tony-hill-award-nomination": {
+        "title": "Tony Hill Award Nomination",
+        "category": "",
+        "content": "",
+        "url": "/events/mlk/2012/tony-hill-award-nomination"
+      }
+      ,
+    
+      "events-mlk-2013-event-photos": {
+        "title": "Event Photos",
+        "category": "",
+        "content": "",
+        "url": "/events/mlk/2013/event-photos"
+      }
+      ,
+    
+      "events-mlk-2015-livestream": {
+        "title": "Livestream",
+        "category": "",
+        "content": "",
+        "url": "/events/mlk/2015/livestream"
+      }
+      ,
+    
+      "events-mlk-2016-shuttles": {
+        "title": "Shuttles",
+        "category": "",
+        "content": "",
+        "url": "/events/mlk/2016/shuttles"
+      }
+      ,
+    
+      "events-mlk-2016-tony-hill-award-nomination": {
+        "title": "Tony Hill Memorial Award",
+        "category": "",
+        "content": "The 9th Annual UC Santa Cruz Tony Hill Memorial Award is selected in recognition of an individual in Santa Cruz County who exemplifies the work and efforts of the late Tony Hill.",
+        "url": "/events/mlk/2016/tony-hill-award-nomination"
+      }
+      ,
+    
+      "events-mlk-2017-shuttles": {
+        "title": "Shuttles",
+        "category": "",
+        "content": "",
+        "url": "/events/mlk/2017/shuttles"
+      }
+      ,
+    
+      "events-mlk-2017-tony-hill-award-nomination": {
+        "title": "Tony Hill Memorial Award",
+        "category": "",
+        "content": "The 9th Annual UC Santa Cruz Tony Hill Memorial Award is selected in recognition of an individual in Santa Cruz County who exemplifies the work and efforts of the late Tony Hill.",
+        "url": "/events/mlk/2017/tony-hill-award-nomination"
+      }
+      ,
+    
+      "events-mlk-2018-tony-hill-award-nomination": {
+        "title": "Tony Hill Memorial Award",
+        "category": "",
+        "content": "The 10th Annual UC Santa Cruz Tony Hill Memorial Award is selected in recognition of an individual in Santa Cruz County who exemplifies the work and efforts of the late Tony Hill.",
+        "url": "/events/mlk/2018/tony-hill-award-nomination"
+      }
+      ,
+    
+      "events-mlk-2019-tony-hill-award-nomination": {
+        "title": "Tony Hill Memorial Award",
+        "category": "",
+        "content": "The 12th Annual UC Santa Cruz Tony Hill Memorial Award is selected in recognition of an individual in Santa Cruz County who exemplifies the work and efforts of the late Tony Hill.",
+        "url": "/events/mlk/2019/tony-hill-award-nomination"
+      }
+      ,
+    
+      "events-mlk-index": {
+        "title": "Martin Luther Jr. Convocation",
+        "category": "",
+        "content": "",
+        "url": "/events/mlk/index"
+      }
+      ,
+    
+      "events-sbd-2011-index": {
+        "title": "Scholarship Benefit Dinner",
+        "category": "Scholarship Benefit Dinner",
+        "content": "Launching bright futures for 45 years",
+        "url": "/events/sbd/2011/index"
+      }
+      ,
+    
+      "events-sbd-2012-index": {
+        "title": "Scholarship Benefit Dinner",
+        "category": "Scholarship Benefit Dinner",
+        "content": "Join us for an inspiring evening as we gather in support of students.",
+        "url": "/events/sbd/2012/index"
+      }
+      ,
+    
+      "events-sbd-2013-index": {
+        "title": "Scholarship Benefit Dinner",
+        "category": "Scholarship Benefit Dinner",
+        "content": "Join us for an inspiring evening as we gather in support of students.",
+        "url": "/events/sbd/2013/index"
+      }
+      ,
+    
+      "events-mlk-2013-index": {
+        "title": "Martin Luther King Jr. Convocation",
+        "category": "Martin Luther King Jr. Convocation",
+        "content": "The 29th annual convocation celebrates the life and dream of Dr. Martin Luther King Jr.",
+        "url": "/events/mlk/2013/index"
+      }
+      ,
+    
+      "events-unquietminds-2013-index": {
+        "title": "Unquite Minds",
+        "category": "Unquite Minds",
+        "content": "A Gala Dinner Spiced with Tantalizing Talks",
+        "url": "/events/unquietminds/2013/index"
+      }
+      ,
+    
+      "events-sbd-2014-index": {
+        "title": "Scholarship Benefit Dinner",
+        "category": "Scholarship Benefit Dinner",
+        "content": "Please join us for Scholarship Benefit Dinner 2014 on its new date",
+        "url": "/events/sbd/2014/index"
+      }
+      ,
+    
+      "events-original-thinkers-2014-dc-index": {
+        "title": "The Original Thinkers Series in Washington DC",
+        "category": "The Original Thinkers Series",
+        "content": "Please join Chancellor Blumenthal for an evening of conversation and connection",
+        "url": "/events/original-thinkers/2014-dc/index"
+      }
+      ,
+    
+      "events-original-thinkers-2014-index": {
+        "title": "The Original Thinkers Series in Los Angeles",
+        "category": "The Original Thinkers Series",
+        "content": "Please join Chancellor Blumenthal for an evening of conversation and connection",
+        "url": "/events/original-thinkers/2014/index"
+      }
+      ,
+    
+      "events-mlk-2015-index": {
+        "title": "Martin Luther King Jr. Convocation",
+        "category": "Martin Luther King Jr. Convocation",
+        "content": "The 31stannual convocation celebrates the life and dream of Dr. Martin Luther King Jr.",
+        "url": "/events/mlk/2015/index"
+      }
+      ,
+    
+      "events-mlk-2016-index": {
+        "title": "Martin Luther King Jr. Convocation",
+        "category": "Martin Luther King Jr. Convocation",
+        "content": "The 32nd annual convocation celebrates the life and dream of Dr. Martin Luther King Jr.",
+        "url": "/events/mlk/2016/index"
+      }
+      ,
+    
+      "events-robert-reich-2016-index": {
+        "title": "Robert Reich on Saving Capitalism",
+        "category": "Robert Reich on Saving Capitalism",
+        "content": "Saving Capitalism: For the Many, Not the Few",
+        "url": "/events/robert-reich/2016/index"
+      }
+      ,
+    
+      "events-rachel-carson-college-2016-index": {
+        "title": "Rachel Carson College dedication and talk",
+        "category": "Rachel Carson College dedication and talk",
+        "content": "Please join us as we dedicate Rachel Carson College (formerly College Eight) and celebrate UC Santa Cruz’s legacy of environmentalism",
+        "url": "/events/rachel-carson-college/2016/index"
+      }
+      ,
+    
+      "events-mlk-2017-index": {
+        "title": "Martin Luther King Jr. Convocation",
+        "category": "Martin Luther King Jr. Convocation",
+        "content": "The 33th annual convocation celebrates the life and dream of Dr. Martin Luther King Jr.",
+        "url": "/events/mlk/2017/index"
+      }
+      ,
+    
+      "events-ratner-lecture-2014-index": {
+        "title": "A Monument Man in the Courtroom: Litigating the Holocaust",
+        "category": "A Monument Man in the Courtroom",
+        "content": "A lecture by UC Hastings College of the Law Professor Morris Ratner",
+        "url": "/events/ratner-lecture/2014/index"
+      }
+      ,
+    
+      "events-mlk-2018-index": {
+        "title": "Martin Luther King Jr. Convocation",
+        "category": "Martin Luther King Jr. Convocation",
+        "content": "The 34th annual convocation celebrates the life and dream of Dr. Martin Luther King Jr.",
+        "url": "/events/mlk/2018/index"
+      }
+      ,
+    
+      "events-mlk-2019-index": {
+        "title": "Martin Luther King Jr. Convocation",
+        "category": "Martin Luther King Jr. Convocation",
+        "content": "The 35th annual convocation celebrates the life and dream of Dr. Martin Luther King Jr.",
+        "url": "/events/mlk/2019/index"
+      }
+      ,
+    
+      "events-original-thinkers-index": {
+        "title": "The Original Thinkers Series",
+        "category": "",
+        "content": "",
+        "url": "/events/original-thinkers/index"
+      }
+      ,
+    
+      "events-rachel-carson-college-index": {
+        "title": "Rachel Carson College dedication and talk",
+        "category": "",
+        "content": "",
+        "url": "/events/rachel-carson-college/index"
+      }
+      ,
+    
+      "events-ratner-lecture-index": {
+        "title": "A Monument Man in the Courtroom",
+        "category": "",
+        "content": "",
+        "url": "/events/ratner-lecture/index"
+      }
+      ,
+    
+      "events-robert-reich-index": {
+        "title": "Robert Reich on Saving Capitalism",
+        "category": "",
+        "content": "",
+        "url": "/events/robert-reich/index"
+      }
+      ,
+    
+      "events-sbd-2012-2012-20sbd-20photos": {
+        "title": "2012 sbd photos",
+        "category": "",
+        "content": "",
+        "url": "/events/sbd/2012/2012%20SBD%20Photos"
+      }
+      ,
+    
+      "events-sbd-2012-video-gallery": {
+        "title": "Video Gallery",
+        "category": "",
+        "content": "",
+        "url": "/events/sbd/2012/video-gallery"
+      }
+      ,
+    
+      "events-sbd-2013-2013-sbd-photos": {
+        "title": "2013 Sbd Photos",
+        "category": "",
+        "content": "",
+        "url": "/events/sbd/2013/2013-sbd-photos"
+      }
+      ,
+    
+      "events-sbd-2013-accommodations": {
+        "title": "Accommodations",
+        "category": "",
+        "content": "",
+        "url": "/events/sbd/2013/accommodations"
+      }
+      ,
+    
+      "events-sbd-2013-featured-speakers": {
+        "title": "Featured Speakers",
+        "category": "",
+        "content": "",
+        "url": "/events/sbd/2013/featured-speakers"
+      }
+      ,
+    
+      "events-sbd-2013-past-sbd": {
+        "title": "Past Sbd",
+        "category": "",
+        "content": "",
+        "url": "/events/sbd/2013/past-sbd"
+      }
+      ,
+    
+      "events-sbd-2013-press-release": {
+        "title": "Press Release",
+        "category": "",
+        "content": "",
+        "url": "/events/sbd/2013/press-release"
+      }
+      ,
+    
+      "events-sbd-2013-sponsorship-opportunities": {
+        "title": "Sponsorship Opportunities",
+        "category": "",
+        "content": "",
+        "url": "/events/sbd/2013/sponsorship-opportunities"
+      }
+      ,
+    
+      "events-sbd-2013-volunteer-committee": {
+        "title": "Volunteer_committee",
+        "category": "",
+        "content": "",
+        "url": "/events/sbd/2013/volunteer_committee"
+      }
+      ,
+    
+      "events-sbd-index": {
+        "title": "Scholarship Benefit Dinner",
+        "category": "",
+        "content": "",
+        "url": "/events/sbd/index"
+      }
+      ,
+    
+      "events-svcopening-2016-index": {
+        "title": "Silicon Valley Campus Grand Opening",
+        "category": "Silicon Valley Campus Grand Opening",
+        "content": "Please join us for the opening celebration of the UC Santa Cruz Silicon Valley Campus, a multidisciplinary teaching and research hub",
+        "url": "/events/svcopening/2016/index"
+      }
+      ,
+    
+      "events-svcopening-index": {
+        "title": "Silicon Valley Campus Grand Opening",
+        "category": "",
+        "content": "",
+        "url": "/events/svcopening/index"
+      }
+      ,
+    
+      "events-through-back-gate-2018-index": {
+        "title": "Scholarship Benefit Dinner",
+        "category": "Through the Back Gate",
+        "content": "Insider’s view of the UC Santa Cruz Farm and UC Santa Cruz Arboretum & Botanic Garden",
+        "url": "/events/through-back-gate/2018/index"
+      }
+      ,
+    
+      "events-through-back-gate-index": {
+        "title": "Through the Back Gate",
+        "category": "",
+        "content": "",
+        "url": "/events/through-back-gate/index"
+      }
+      ,
+    
+      "events-unquietminds-index": {
+        "title": "Unquite Minds",
+        "category": "",
+        "content": "",
+        "url": "/events/unquietminds/index"
+      }
+      
+    
+  };
+</script>
+<script src="/specialevents-site/js/lunr.min.js"></script>
 <script src="/specialevents-site/js/search.js"></script>
 	</div>
 </section>
@@ -328,7 +1736,7 @@
                 <h2 class="mt-25">Search UCSC:</h2>
                 <form action="/specialevents-site/search/" method="get">
                     <div class="input-group">
-                        <input class="input-group-field" type="search" placeholder="Search this site" id="searchInput">
+                        <input class="input-group-field" type="search" placeholder="Search this site" id="searchInput" name="query">
                         <div class="input-group-button">
                                 <a class="button secondary" href="javascript:void(0)"><i class="fas fa-search"></i> <span class="show-for-large">Search</span></a>
                         </div>
