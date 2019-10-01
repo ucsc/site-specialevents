@@ -16,9 +16,8 @@ title: Search
     {% for event in site.events %}
       "{{ event.url | slugify }}": {
         "title": "{{ event.title | xml_escape }}",
-        "category": "{{ event.category | xml_escape }}",
         "content": {{ event.description| strip_html | strip_newlines | jsonify }},
-        "url": "{{ event.url | xml_escape }}"
+        "url": "{{ site.baseurl }}{{ event.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
