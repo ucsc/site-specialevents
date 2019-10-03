@@ -1,5 +1,6 @@
 ---
-title: Martin Luther Jr. Convocation
+title: Sidhartha Maitra Memorial Lecture
+description: Sidhartha Maitra Memorial Lecture event listing
 layout: full-page
 ---
 <section id="main-content">

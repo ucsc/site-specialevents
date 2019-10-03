@@ -1,5 +1,6 @@
 ---
 title: The Kraw Lecture Series on Science and Technology
+description: The Kraw Lecture Series event listing
 layout: full-page
 ---
 <section id="main-content">

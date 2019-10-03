@@ -1,5 +1,6 @@
 ---
 title: Martin Luther Jr. Convocation
+description: Martin Luther Jr. Convocation event listing
 layout: full-page
 ---
 <section id="main-content">

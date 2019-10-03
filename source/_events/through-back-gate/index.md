@@ -1,5 +1,6 @@
 ---
 title: Through the Back Gate
+description: Through the Back Gate event listing
 layout: full-page
 ---
 <section id="main-content">

@@ -1,5 +1,6 @@
 ---
 title: Unquite Minds
+description: Unquite Minds event listing
 layout: full-page
 ---
 <section id="main-content">

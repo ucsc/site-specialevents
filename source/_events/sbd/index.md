@@ -1,5 +1,6 @@
 ---
 title: Scholarship Benefit Dinner
+description: Scholarship Benefit Dinner event listing
 layout: full-page
 ---
 <section id="main-content">

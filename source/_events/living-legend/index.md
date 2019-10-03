@@ -1,5 +1,6 @@
 ---
 title: Living Legends
+description: Living Legends event listing
 layout: full-page
 ---
 <section id="main-content">

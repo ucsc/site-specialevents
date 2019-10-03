@@ -1,5 +1,6 @@
 ---
 title: Silicon Valley Campus Grand Opening
+description: Silicon Valley Campus Grand Opening event listing
 layout: full-page
 ---
 <section id="main-content">

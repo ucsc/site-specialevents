@@ -1,5 +1,6 @@
 ---
 title: Rachel Carson College dedication and talk
+description: Rachel Carson College dedication and talk event listing
 layout: full-page
 ---
 <section id="main-content">

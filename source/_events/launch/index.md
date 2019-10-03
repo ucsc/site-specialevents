@@ -1,5 +1,6 @@
 ---
 title: Launch!
+description: Launch event listing
 layout: full-page
 ---
 <section id="main-content">

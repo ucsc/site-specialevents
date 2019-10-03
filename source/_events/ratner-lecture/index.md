@@ -1,5 +1,6 @@
 ---
 title: A Monument Man in the Courtroom
+description: A Monument Man in the Courtroom event listing
 layout: full-page
 ---
 <section id="main-content">

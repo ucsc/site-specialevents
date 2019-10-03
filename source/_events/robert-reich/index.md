@@ -1,5 +1,6 @@
 ---
 title: Robert Reich on Saving Capitalism
+description: Robert Reich on Saving Capitalism event listing
 layout: full-page
 ---
 <section id="main-content">

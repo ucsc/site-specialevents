@@ -1,5 +1,6 @@
 ---
 title: The Original Thinkers Series
+description: The Original Thinkers Series event listing
 layout: full-page
 ---
 <section id="main-content">
