@@ -1,7 +1,8 @@
 ---
 title: Campus Venus
+description: All UC Santa Cruz event venues
 layout: full-page-narrow
-permalink: campus-venus.html
+permalink: campus-venues.html
 ---
 
 ## {{ page.title }}

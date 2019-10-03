@@ -1,5 +1,6 @@
 ---
 title: Contact
+description: Contact information of special events staff
 layout: full-page-narrow
 permalink: contact.html
 ---

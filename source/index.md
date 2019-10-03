@@ -1,5 +1,6 @@
 ---
 title: UC Santa Cruz Special Events
+description: Special events homepage
 layout: home-page
 ---
 

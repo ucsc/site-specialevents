@@ -1,5 +1,6 @@
 ---
 title: Help in Planning
+description: UC Santa Cruz campus event planning information
 layout: full-page-narrow
 permalink: help-in-planning.html
 ---
