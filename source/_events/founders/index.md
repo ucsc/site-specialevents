@@ -1,5 +1,6 @@
 ---
 title: Founder Celebrations
+description: Founder Celebrations event listing
 layout: full-page
 ---
 <section id="main-content">
