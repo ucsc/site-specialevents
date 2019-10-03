@@ -1,5 +1,6 @@
 ---
 title: Farm & Garden
+description: Farm & Garden event listing
 layout: full-page
 ---
 <section id="main-content">

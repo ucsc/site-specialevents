@@ -1,7 +1,9 @@
 ---
 title: Commencement
+description: Commencement event listing
 layout: full-page
 ---
+
 <section id="main-content">
 <div class="grid-container large">
 <section class="heading">

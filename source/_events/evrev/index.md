@@ -1,5 +1,6 @@
 ---
 title: Evolutionary | Revolutionary
+description: Evolutionary | Revolutionary event listing
 layout: full-page
 ---
 <section id="main-content">

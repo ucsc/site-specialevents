@@ -1,5 +1,6 @@
 ---
 title: Mandel Lectures
+description: Mandel Lectures event listing
 layout: full-page
 ---
 <section id="main-content">

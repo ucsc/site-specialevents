@@ -1,5 +1,6 @@
 ---
 title: First 50 Celebration, UCSC Farm & Garden
+description: First 50 Celebration, UCSC Farm & Garden event listing
 layout: full-page
 ---
 <section id="main-content">
