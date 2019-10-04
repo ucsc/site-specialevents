@@ -1,6 +1,6 @@
 # UC Santa Cruz Special Events: Jekyll CMS
  
- - [Site Preview](https://luckyluke007.github.io/specialevents-site/)
+ - [Site Preview](https://ucsc.github.io/specialevents-site/)
  
  
 - [Installing Jekyll](https://jekyllrb.com)
