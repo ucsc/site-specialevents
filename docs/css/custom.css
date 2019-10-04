@@ -83,6 +83,29 @@ a.whitelink:focus {
   padding: 1em;
   width: 100%; }
 
+.result-search input[type=submit] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: #003c6c;
+  border: 0;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  color: #fff;
+  height: 37px;
+  position: absolute;
+  right: 1.30em;
+  text-decoration: none;
+  top: 0;
+  width: 100px;
+  z-index: 10;
+}
+
+.result-search input[type=text] {
+  border-radius: .5em;
+}
+
+
 /*End location address */
 /* min-width 641px, medium screens */
 /* min-width 1025px, large screens */

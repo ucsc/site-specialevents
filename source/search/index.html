@@ -3,10 +3,9 @@ layout: full-page-narrow
 title: Search
 ---
 
-<form action="{{ site.baseurl }}/search/" method="get">
-  <label for="searchInput">Search</label>
-  <input type="text" id="searchInput" name="query">
-  <input type="submit" value="search">
+<form action="{{ site.baseurl }}/search/" method="get" class="result-search">
+  <input type="text" id="searchInput" name="query"  placeholder="Search this site">
+  <input type="submit" value="search" class="search-btn">
 </form>
 
 <ul id="search-results"></ul>
