@@ -10,7 +10,7 @@ layout: full-page
 
 <div class="archive-container">
 {% assign items_grouped = site.events | where: 'event-type','Signature Event' | group_by: 'category' %}
-{% for group in items_grouped %}
+{% for group in items_grouped reversed %}
 	<h4>{{group.name}}</h4>
 		<div class="archive-year">
 			<ul>
@@ -27,7 +27,7 @@ layout: full-page
 
 <div class="archive-container">
 {% assign items_grouped = site.events | where: 'event-type','Notable Event' | group_by: 'category' %}
-{% for group in items_grouped %}
+{% for group in items_grouped reversed %}
 	<h4>{{group.name}}</h4>
 		<div class="archive-year">
 			<ul>
@@ -44,7 +44,7 @@ layout: full-page
 
 <div class="archive-container">
 {% assign items_grouped = site.events | where: 'event-type','Lecture Series' | group_by: 'category' %}
-{% for group in items_grouped %}
+{% for group in items_grouped reversed %}
 	<h4>{{group.name}}</h4>
 		<div class="archive-year">
 			<ul>

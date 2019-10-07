@@ -1,5 +1,3 @@
-plugins: ['jekyll-assets']
-
 title: "UC Santa Cruz Special Events"
 email: pio@ucsc.edu
 description: >- # this means to ignore newlines until "baseurl:"
