@@ -10,7 +10,7 @@ layout: full-page
 
 <div class="archive-container">
 {% assign items_grouped = site.events | where: 'event-type','Signature Event' | group_by: 'category' %}
-{% for group in items_grouped reversed %}
+{% for group in items_grouped %}
 	<h4>{{group.name}}</h4>
 		<div class="archive-year">
 			<ul>
