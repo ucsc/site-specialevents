@@ -34,20 +34,20 @@
 
   <!-- Header -->
    <div id="hd">
-     <h1 id="site"><a href="http://www.ucsc.edu/founders" title="Founders Day">Founders Day<span></span></a></h1>
-     <p id="org"><a href="http://www.ucsc.edu">UC Santa Cruz<span></span></a></p>
+     <h1 id="site"><a href="https://www.ucsc.edu/founders" title="Founders Day">Founders Day<span></span></a></h1>
+     <p id="org"><a href="https://www.ucsc.edu">UC Santa Cruz<span></span></a></p>
    </div>
 
    <!-- Navigation -->
    <div id="navigation">     
      <!-- ADMINISTRATIVE TEMPLATE -->
      <ul>
-       <li><a href="http://www.ucsc.edu/about/" title="About UCSC">About UCSC</a></li>
-       <li><a href="http://www.ucsc.edu/academics/" title="Academic Programs">Academic Programs</a></li>
-       <li><a href="http://www.ucsc.edu/research/" title="Research">Research</a></li>
-       <li><a href="http://www.ucsc.edu/news_events/" title="News/Events">News/Events</a></li>
-       <li><a href="http://www.ucsc.edu/administration/" title="Administration">Administration</a></li>
-       <li><a href="http://www.ucsc.edu/admissions/" title="Admissions/Prospective Students">Admissions / Prospective Students</a></li>
+       <li><a href="https://www.ucsc.edu/about/" title="About UCSC">About UCSC</a></li>
+       <li><a href="https://www.ucsc.edu/academics/" title="Academic Programs">Academic Programs</a></li>
+       <li><a href="https://www.ucsc.edu/research/" title="Research">Research</a></li>
+       <li><a href="https://www.ucsc.edu/news_events/" title="News/Events">News/Events</a></li>
+       <li><a href="https://www.ucsc.edu/administration/" title="Administration">Administration</a></li>
+       <li><a href="https://www.ucsc.edu/admissions/" title="Admissions/Prospective Students">Admissions / Prospective Students</a></li>
      </ul>  
    </div><!-- /#navigation -->
 
@@ -86,7 +86,7 @@ a faculty member who has a distinguished record in research.</p>
 	   <div id="sb" class="yui-b">
 	     <div id="utilities">
        <!-- Search box -->
-       <form action="http://www.google.com/cse" id="cse-search-box">
+       <form action="https://www.google.com/cse" id="cse-search-box">
          <div>
            <input type="hidden" name="cx" value="012090462228956765947:d0ywvq7bxee">
            <input type="hidden" name="ie" value="UTF-8">
@@ -96,10 +96,10 @@ a faculty member who has a distinguished record in research.</p>
            <button type="submit" name="sa" value="Submit" id="cse-btn">Go</button>
          </div>
        </form>
-       <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+       <script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
        
        <!-- Utility links -->
-       <p class="links"><a href="http://www.ucsc.edu/about/alpha_index.asp" title="A-Z Index">A-Z Index</a> | <a href="http://www.ucsc.edu/about/find_people.asp" title="Find People">Find People</a></p>
+       <p class="links"><a href="https://www.ucsc.edu/about/alpha_index.asp" title="A-Z Index">A-Z Index</a> | <a href="https://www.ucsc.edu/about/find_people.asp" title="Find People">Find People</a></p>
        </div>
         
        <div class="inner">
