@@ -5,21 +5,21 @@
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
    <title>Founders Day: 2010 Honorees</title>
    <script src="https://code.jquery.com/jquery-latest.min.js" type="text/javascript" language="javascript"></script>
-   <link rel="stylesheet" href="/specialevents-site/css/ucsc-2010/reset-fonts-grids.css" type="text/css">
-   <link rel="stylesheet" href="/specialevents-site/css/ucsc-2010/main.css" type="text/css">
+   <link rel="stylesheet" href="/css/ucsc-2010/reset-fonts-grids.css" type="text/css">
+   <link rel="stylesheet" href="/css/ucsc-2010/main.css" type="text/css">
    <!--[if IE]><link rel="stylesheet" href="http://static.ucsc.edu/archive/template/v4/css/fix-ie.css" type="text/css"><![endif]-->   
-   <link rel="stylesheet" href="/specialevents-site/css/ucsc-2010/custom.css" type="text/css">
-  <script type="text/javascript" src="/specialevents-site/js/ucsc-2010/jquery.js"></script>
-   <script type="text/javascript" src="/specialevents-site/js/ucsc-2010/search-utils.js"></script>
+   <link rel="stylesheet" href="/css/ucsc-2010/custom.css" type="text/css">
+  <script type="text/javascript" src="/js/ucsc-2010/jquery.js"></script>
+   <script type="text/javascript" src="/js/ucsc-2010/search-utils.js"></script>
 
    <!-- Fancy Box -->
-   <script src="/specialevents-site/js/ucsc-2010/jquery.fancybox-1.0.0.js" type="text/javascript" charset="utf-8"></script>
-   <script src="/specialevents-site/js/ucsc-2010/jquery.pngFix.pack.js" type="text/javascript" charset="utf-8"></script>
-   <link rel="stylesheet" href="/specialevents-site/css/ucsc-2010/fancy.css" type="text/css" media="screen">
+   <script src="/js/ucsc-2010/jquery.fancybox-1.0.0.js" type="text/javascript" charset="utf-8"></script>
+   <script src="/js/ucsc-2010/jquery.pngFix.pack.js" type="text/javascript" charset="utf-8"></script>
+   <link rel="stylesheet" href="/css/ucsc-2010/fancy.css" type="text/css" media="screen">
 
    <!-- Add for Thickbox -->
-   <script src="/specialevents-site/js/ucsc-2010/thickbox.js" type="text/javascript" charset="utf-8"></script>
-   <link rel="stylesheet" href="/specialevents-site/css/ucsc-2010/thickbox.css" type="text/css" media="screen" title="no title" charset="utf-8">
+   <script src="/js/ucsc-2010/thickbox.js" type="text/javascript" charset="utf-8"></script>
+   <link rel="stylesheet" href="/css/ucsc-2010/thickbox.css" type="text/css" media="screen" title="no title" charset="utf-8">
 
 	 <style type="text/css">
 em {

@@ -4,7 +4,7 @@ title: "UC Santa Cruz Special Events"
 email: pio@ucsc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   UC Santa Cruz Special Events
-baseurl: "/specialevents-site" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ucsantacruz
 github_username:  ucsc
