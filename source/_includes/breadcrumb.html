@@ -3,7 +3,7 @@
         <nav aria-label="You are here:" role="navigation">
             <ul class="breadcrumbs">
             	{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-            		<li><a href="/specialevents-site/">Special Events Home</a></li>
+            		<li><a href="/">Special Events Home</a></li>
             		{% for crumb in crumbs offset: 1 %}
             			{% if forloop.last %}
             				&nbsp;&nbsp;/&nbsp;&nbsp; {{ page.title | replace:'-',' ' | remove:'.html' }}
