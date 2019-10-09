@@ -1,13 +1,13 @@
-/* @override http://www1.ucsc.edu/includes/template/v4/css/main.css */
+/* @override https://www1.ucsc.edu/includes/template/v4/css/main.css */
 
 /* 
-@override http://localhost:8888/ucsc_templates/css/main.css
-@override http://www1.ucsc.edu/includes/template/v4/css/main.css
+@override https://localhost:8888/ucsc_templates/css/main.css
+@override https://www1.ucsc.edu/includes/template/v4/css/main.css
  */
 
 html { background:transparent; }
-.primary	{ background:#fff url(http://www1.ucsc.edu/includes/css/images/bg_wrapper.gif) repeat-y left top; }
-.secondary 	{ background:#fff url(http://www1.ucsc.edu/includes/css/images/bg_wrapper_2col.gif) repeat-y left top; }
+.primary	{ background:#fff url(https://www1.ucsc.edu/includes/css/images/bg_wrapper.gif) repeat-y left top; }
+.secondary 	{ background:#fff url(https://www1.ucsc.edu/includes/css/images/bg_wrapper_2col.gif) repeat-y left top; }
 
 body { font-family:Verdana, Helvetica, Arial, sans-serif; line-height:1.4em; font-size:0.75em; }
 
@@ -31,7 +31,7 @@ body { font-family:Verdana, Helvetica, Arial, sans-serif; line-height:1.4em; fon
 #hd #site span { position:absolute; width:100%; height:100%; display:block; left:0; top:0; }
 
 #hd #org { position:absolute; left:0; top:0; margin:0; padding:0; width:185px; height:52px; }
-#hd #org span { display:block; position:absolute; left:0; top:0; width:100%; height:100%; background:#ffdf82 url(http://www1.ucsc.edu/images/ucsantacruz.gif) no-repeat left top; }
+#hd #org span { display:block; position:absolute; left:0; top:0; width:100%; height:100%; background:#ffdf82 url(https://www1.ucsc.edu/images/ucsantacruz.gif) no-repeat left top; }
 
 
 /**
@@ -58,7 +58,7 @@ a:active { color:#FFCC33; }
 
 ul,ol { margin:0.4em 0 1em 2em; }
 ul { margin-left:1.7em; }
-ul li { list-style-type:disc; list-style-image:url(http://www1.ucsc.edu/images/bluedot2.gif); }
+ul li { list-style-type:disc; list-style-image:url(https://www1.ucsc.edu/images/bluedot2.gif); }
 
 ol li { list-style-type:decimal; }
 ol li ol { margin-left:1.6em; }
@@ -181,11 +181,11 @@ blockquote { border-left:4px solid #E7F0F6; padding-left:1.2em; margin-left:2em;
 #access-links ul li { position:absolute; left:-900em; width:100%; list-style-type:none; }
 #access-links ul li a:focus { position:relative; left:900em; display:block; background-color:#eef5fb; padding:0.8em; text-decoration:none; opacity:.75; }
 
-/* jQuery polypage plugin style: http://code.new-bamboo.co.uk/polypage/ */
+/* jQuery polypage plugin style: https://code.new-bamboo.co.uk/polypage/ */
 .pp_Notes { background-color:#FF6E2C !important; color:#000000; padding:0.4em 0.6em; }
 
 /* File related links get an icon next to them. We'll add more over time */
-a.file-pdf { padding:2px 0 2px 22px; background:transparent url(http://www1.ucsc.edu/images/file-icons/icon_pdf.gif) no-repeat left center; }
+a.file-pdf { padding:2px 0 2px 22px; background:transparent url(https://www1.ucsc.edu/images/file-icons/icon_pdf.gif) no-repeat left center; }
 
 /* Giving btn in the left sidebar */
 .btn-give { position:relative; display:block; padding-top:2px; border-top:1px solid #C3D4E9; }

@@ -29,7 +29,7 @@
 
     &.hero-image {
         &::before {
-            background: url('http://via.placeholder.com/400x250/000000/999999/?text=Hero+Image)');
+            background: url('https://via.placeholder.com/400x250/000000/999999/?text=Hero+Image)');
             @include breakpoint(large){
                 background: none;
                 content: "Hero Image";
@@ -39,7 +39,7 @@
 
     &.hero-image-optional {
         &::before {
-            background: url('http://via.placeholder.com/400x250/000000/999999/?text=Hero+Image');
+            background: url('https://via.placeholder.com/400x250/000000/999999/?text=Hero+Image');
             @include breakpoint(large){
                 background: none;
                 content: "Hero Image ";
@@ -49,7 +49,7 @@
 
     &.hero-image-video {
         &::before {
-            background: url('http://via.placeholder.com/400x250/000000/999999/?text=Hero+Image/Video');
+            background: url('https://via.placeholder.com/400x250/000000/999999/?text=Hero+Image/Video');
             @include breakpoint(large){
                 background: none;
                 content: "Hero Image/Video";
@@ -59,7 +59,7 @@
 
     &.hero-image-video-optional {
         &::before {
-            background: url('http://via.placeholder.com/400x250/000000/999999/?text=Hero+Image/Video');
+            background: url('https://via.placeholder.com/400x250/000000/999999/?text=Hero+Image/Video');
             @include breakpoint(large){
                 background: none;
                 content: "Hero Image/Video";
@@ -69,7 +69,7 @@
 
     &.hero-image-small {
         &::before {
-            background: url('http://via.placeholder.com/400x250/000000/999999/?text=Small+Hero+Image');
+            background: url('https://via.placeholder.com/400x250/000000/999999/?text=Small+Hero+Image');
             @include breakpoint(large){
                 background: none;
                 content: "Small Hero Image ";
@@ -79,7 +79,7 @@
 
     &.hero-image-small-optional {
         &::before {
-            background: url('http://via.placeholder.com/400x250/000000/999999/?text=Small+Hero+Image');
+            background: url('https://via.placeholder.com/400x250/000000/999999/?text=Small+Hero+Image');
             @include breakpoint(large){
                 background: none;
                 content: "Small Hero Image ";
@@ -90,7 +90,7 @@
     &.hero-image-featured-news {
         &::before {
             content: "Featured News Hero";
-            background: url('http://via.placeholder.com/400x250/000000/999999/?text=Featured+News+Hero');
+            background: url('https://via.placeholder.com/400x250/000000/999999/?text=Featured+News+Hero');
             @include breakpoint(large){
                 background: none;
                 content: "Featured News Hero";
@@ -108,7 +108,7 @@
         top: auto;
         display:block;
         content:" ";
-        background: url(http://via.placeholder.com/400x250/000000/999999/?text=hero);
+        background: url(https://via.placeholder.com/400x250/000000/999999/?text=hero);
         background-size:cover;
         margin-left:calc(-50vw + 50%);
         margin-right:calc(-50vw + 50%);
@@ -340,7 +340,7 @@
         margin-right: calc(-50vw + 50%);
         padding-top: 20vh;
         padding-bottom: 20vh;
-        background: url(http://via.placeholder.com/1800x1200/000000/000000/?text=hero);
+        background: url(https://via.placeholder.com/1800x1200/000000/000000/?text=hero);
         background-repeat: no-repeat;
         background-size: cover;
         min-height: 640px;

@@ -603,7 +603,7 @@ function parseStyleToObject(str) {
     var key = parts[0];
     var val = parts[1];
     key = decodeURIComponent(key); // missing `=` should be `null`:
-    // http://w3.org/TR/2012/WD-url-20120524/#collect-url-parameters
+    // https://w3.org/TR/2012/WD-url-20120524/#collect-url-parameters
 
     val = typeof val === 'undefined' ? null : decodeURIComponent(val);
 
@@ -966,7 +966,7 @@ function parseValue(str) {
   if ('true' === str) return true;else if ('false' === str) return false;else if (!isNaN(str * 1)) return parseFloat(str);
   return str;
 } // Convert PascalCase to kebab-case
-// Thank you: http://stackoverflow.com/a/8955580
+// Thank you: https://stackoverflow.com/a/8955580
 
 
 function hyphenate(str) {
@@ -1262,7 +1262,7 @@ function onImagesLoaded(images, callback) {
  *                                         *
  * This util was created by Marius Olbertz *
  * Please thank Marius on GitHub /owlbertz *
- * or the web http://www.mariusolbertz.de/ *
+ * or the web https://www.mariusolbertz.de/ *
  *                                         *
  ******************************************/
 
@@ -2107,7 +2107,7 @@ function () {
 
   return Plugin;
 }(); // Convert PascalCase to kebab-case
-// Thank you: http://stackoverflow.com/a/8955580
+// Thank you: https://stackoverflow.com/a/8955580
 
 
 function hyphenate$1(str) {
@@ -2813,7 +2813,7 @@ Abide.defaults = {
     // amex, visa, diners
     card: /^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14}|(?:222[1-9]|2[3-6][0-9]{2}|27[0-1][0-9]|2720)[0-9]{12}|6(?:011|5[0-9][0-9])[0-9]{12}|3[47][0-9]{13}|3(?:0[0-5]|[68][0-9])[0-9]{11}|(?:2131|1800|35\d{3})\d{11})$/,
     cvv: /^([0-9]){3,4}$/,
-    // http://www.whatwg.org/specs/web-apps/current-work/multipage/states-of-the-type-attribute.html#valid-e-mail-address
+    // https://www.whatwg.org/specs/web-apps/current-work/multipage/states-of-the-type-attribute.html#valid-e-mail-address
     email: /^[a-zA-Z0-9.!#$%&'*+\/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)+$/,
     // From CommonRegexJS (@talyssonoc)
     // https://github.com/talyssonoc/CommonRegexJS/blob/e2901b9f57222bc14069dc8f0598d5f412555411/lib/commonregex.js#L76
@@ -6989,7 +6989,7 @@ function (_Plugin) {
     key: "_stopScrolling",
     value: function _stopScrolling(event) {
       return false;
-    } // Taken and adapted from http://stackoverflow.com/questions/16889447/prevent-full-page-scrolling-ios
+    } // Taken and adapted from https://stackoverflow.com/questions/16889447/prevent-full-page-scrolling-ios
     // Only really works for y, not sure how to extend to x or if we need to.
 
   }, {
@@ -12388,11 +12388,11 @@ Foundation.plugin(ResponsiveAccordionTabs, 'ResponsiveAccordionTabs');
     },
         booleans = "checked|selected|async|autofocus|autoplay|controls|defer|disabled|hidden|ismap|loop|multiple|open|readonly|required|scoped",
         // Regular expressions
-    // http://www.w3.org/TR/css3-selectors/#whitespace
+    // https://www.w3.org/TR/css3-selectors/#whitespace
     whitespace = "[\\x20\\t\\r\\n\\f]",
-        // http://www.w3.org/TR/CSS21/syndata.html#value-def-identifier
+        // https://www.w3.org/TR/CSS21/syndata.html#value-def-identifier
     identifier = "(?:\\\\.|[\\w-]|[^\0-\\xa0])+",
-        // Attribute selectors: http://www.w3.org/TR/selectors/#attribute-selectors
+        // Attribute selectors: https://www.w3.org/TR/selectors/#attribute-selectors
     attributes = "\\[" + whitespace + "*(" + identifier + ")(?:" + whitespace + // Operator (capture 2)
     "*([*^$|!~]?=)" + whitespace + // "Attribute values must be CSS identifiers [capture 5] or strings [capture 3 or capture 4]"
     "*(?:'((?:\\\\.|[^\\\\'])*)'|\"((?:\\\\.|[^\\\\\"])*)\"|(" + identifier + "))|)" + whitespace + "*\\]",
@@ -12429,7 +12429,7 @@ Foundation.plugin(ResponsiveAccordionTabs, 'ResponsiveAccordionTabs');
     rquickExpr = /^(?:#([\w-]+)|(\w+)|\.([\w-]+))$/,
         rsibling = /[+~]/,
         // CSS escapes
-    // http://www.w3.org/TR/CSS21/syndata.html#escaped-characters
+    // https://www.w3.org/TR/CSS21/syndata.html#escaped-characters
     runescape = new RegExp("\\\\([\\da-f]{1,6}" + whitespace + "?|(" + whitespace + ")|.)", "ig"),
         funescape = function funescape(_, escaped, escapedWhitespace) {
       var high = "0x" + escaped - 0x10000; // NaN means non-codepoint
@@ -13020,7 +13020,7 @@ Foundation.plugin(ResponsiveAccordionTabs, 'ResponsiveAccordionTabs');
           if (!el.querySelectorAll("[id~=" + expando + "-]").length) {
             rbuggyQSA.push("~=");
           } // Webkit/Opera - :checked should return selected option elements
-          // http://www.w3.org/TR/2011/REC-css3-selectors-20110929/#checked
+          // https://www.w3.org/TR/2011/REC-css3-selectors-20110929/#checked
           // IE8 throws error here and will not see later tests
 
 
@@ -13536,7 +13536,7 @@ Foundation.plugin(ResponsiveAccordionTabs, 'ResponsiveAccordionTabs');
         },
         "PSEUDO": function PSEUDO(pseudo, argument) {
           // pseudo-class names are case-insensitive
-          // http://www.w3.org/TR/selectors/#pseudo-classes
+          // https://www.w3.org/TR/selectors/#pseudo-classes
           // Prioritize by case sensitivity in case custom pseudos are added with uppercase letters
           // Remember that setFilters inherits from pseudos
           var args,
@@ -13612,7 +13612,7 @@ Foundation.plugin(ResponsiveAccordionTabs, 'ResponsiveAccordionTabs');
         // or beginning with the identifier C immediately followed by "-".
         // The matching of C against the element's language value is performed case-insensitively.
         // The identifier C does not have to be a valid language name."
-        // http://www.w3.org/TR/selectors/#lang-pseudo
+        // https://www.w3.org/TR/selectors/#lang-pseudo
         "lang": markFunction(function (lang) {
           // lang value must be a valid identifier
           if (!ridentifier.test(lang || "")) {
@@ -13649,7 +13649,7 @@ Foundation.plugin(ResponsiveAccordionTabs, 'ResponsiveAccordionTabs');
         "disabled": createDisabledPseudo(true),
         "checked": function checked(elem) {
           // In CSS3, :checked should return both checked and selected elements
-          // http://www.w3.org/TR/2011/REC-css3-selectors-20110929/#checked
+          // https://www.w3.org/TR/2011/REC-css3-selectors-20110929/#checked
           var nodeName = elem.nodeName.toLowerCase();
           return nodeName === "input" && !!elem.checked || nodeName === "option" && !!elem.selected;
         },
@@ -13664,7 +13664,7 @@ Foundation.plugin(ResponsiveAccordionTabs, 'ResponsiveAccordionTabs');
         },
         // Contents
         "empty": function empty(elem) {
-          // http://www.w3.org/TR/selectors/#empty-pseudo
+          // https://www.w3.org/TR/selectors/#empty-pseudo
           // :empty is negated by element (1) or content nodes (text: 3; cdata: 4; entity ref: 5),
           //   but not by others (comment: 8; processing instruction: 7; etc.)
           // nodeType < 6 works because attributes (2) do not appear as children
@@ -18661,7 +18661,7 @@ Foundation.plugin(ResponsiveAccordionTabs, 'ResponsiveAccordionTabs');
     // Default speed
     _default: 400
   }; // Based off of the plugin by Clint Helfers, with permission.
-  // https://web.archive.org/web/20100324014747/http://blindsignals.com/index.php/2009/07/jquery-delay/
+  // https://web.archive.org/web/20100324014747/https://blindsignals.com/index.php/2009/07/jquery-delay/
 
   jQuery.fn.delay = function (time, type) {
     time = jQuery.fx ? jQuery.fx.speeds[time] || time : time;
@@ -18859,7 +18859,7 @@ Foundation.plugin(ResponsiveAccordionTabs, 'ResponsiveAccordionTabs');
           // Support: IE <=9 - 11 only
           // elem.tabIndex doesn't always return the
           // correct value when it hasn't been explicitly set
-          // https://web.archive.org/web/20141116233347/http://fluidproject.org/blog/2008/01/09/getting-setting-and-removing-tabindex-values-with-javascript/
+          // https://web.archive.org/web/20141116233347/https://fluidproject.org/blog/2008/01/09/getting-setting-and-removing-tabindex-values-with-javascript/
           // Use proper attribute retrieval(#12072)
           var tabindex = jQuery.find.attr(elem, "tabindex");
 
@@ -19431,7 +19431,7 @@ Foundation.plugin(ResponsiveAccordionTabs, 'ResponsiveAccordionTabs');
   //
   // Support: Chrome <=48 - 49, Safari <=9.0 - 9.1
   // focus(in | out) events fire after focus & blur events,
-  // which is spec violation - http://www.w3.org/TR/DOM-Level-3-Events/#events-focusevent-event-order
+  // which is spec violation - https://www.w3.org/TR/DOM-Level-3-Events/#events-focusevent-event-order
   // Related ticket - https://bugs.chromium.org/p/chromium/issues/detail?id=449857
 
   if (!support.focusin) {
@@ -20062,7 +20062,7 @@ Foundation.plugin(ResponsiveAccordionTabs, 'ResponsiveAccordionTabs');
       if (s.crossDomain == null) {
         urlAnchor = document.createElement("a"); // Support: IE <=8 - 11, Edge 12 - 15
         // IE throws exception on accessing the href property if url is malformed,
-        // e.g. http://example.com:80x/
+        // e.g. https://example.com:80x/
 
         try {
           urlAnchor.href = s.url; // Support: IE <=8 - 11 only

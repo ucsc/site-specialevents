@@ -1,11 +1,11 @@
 /*
  * Thickbox 3.1 - One Box To Rule Them All.
- * By Cody Lindley (http://www.codylindley.com)
+ * By Cody Lindley (https://www.codylindley.com)
  * Copyright (c) 2007 cody lindley
- * Licensed under the MIT License: http://www.opensource.org/licenses/mit-license.php
+ * Licensed under the MIT License: https://www.opensource.org/licenses/mit-license.php
 */
 		  
-var tb_pathToImage = "http://ucsc.edu/includes/template/v4/js/thickbox/thickbox-loader.gif";
+var tb_pathToImage = "https://ucsc.edu/includes/template/v4/js/thickbox/thickbox-loader.gif";
 
 /*!!!!!!!!!!!!!!!!! edit below this line at your own risk !!!!!!!!!!!!!!!!!!!!!!!*/
 
