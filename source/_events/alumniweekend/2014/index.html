@@ -1,4 +1,36 @@
+---
+title: Faculty & Staff Campaign Launch
+description: Please join us to celebrate the public launch of The Campaign for UC Santa Cruz
 
+#### Date the event is happening
+date: "2013-10-16"
+
+
+#### billboard
+billboard:
+  image: "/assets/events/campaign-celebration/2013/give-dont-give-in-billboard.jpg"
+  subtitle: "Celebrate the public launch of The Campaign for UC Santa Cruz"
+  day: Wednesday
+  month: October
+  date: 16
+  year: 2014
+  starttime: 4 p.m.
+  endtime: 5:30 p.m.
+
+location:
+  address: Stevenson Event Center
+  addresslink: https://map.concept3d.com/?id=882#!m/234943
+
+
+#### Archive Page | Category will always be the same | event-type either Signature Event, Notable Event, Lecture Series
+category: Campaign Celebration
+event-type: Notable Event
+
+#### Tags label event Current or Inactive event
+tags:
+  - Campaign Celebration
+  - Inactive
+---
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
@@ -117,10 +149,10 @@
                 
 
  <div id="breadcrumbs">
-	  
-	    <p>Alumni Weekend 2014 » Home</p>
-	   
-	 </div>       
+    
+      <p>Alumni Weekend 2014 » Home</p>
+     
+   </div>       
 
 
 
@@ -179,76 +211,76 @@
 <script type="text/javascript" src="/alumniweekend/2014/js/modernizr.custom.79639.js"></script>
 <script type="text/javascript" src="/alumniweekend/2014/js/jquery.ba-cond.min.js"></script>
 <script type="text/javascript" src="/alumniweekend/2014/js/jquery.slitslider.js"></script>
-<script type="text/javascript">	
-			$(function() {
-			
-				var Page = (function() {
+<script type="text/javascript"> 
+      $(function() {
+      
+        var Page = (function() {
 
-					var $nav = $( '#nav-dots > span' ),
-						slitslider = $( '#slider' ).slitslider( {
-							onBeforeChange : function( slide, pos ) {
+          var $nav = $( '#nav-dots > span' ),
+            slitslider = $( '#slider' ).slitslider( {
+              onBeforeChange : function( slide, pos ) {
 
-								$nav.removeClass( 'nav-dot-current' );
-								$nav.eq( pos ).addClass( 'nav-dot-current' );
+                $nav.removeClass( 'nav-dot-current' );
+                $nav.eq( pos ).addClass( 'nav-dot-current' );
 
-							}
-						} ),
+              }
+            } ),
 
-						init = function() {
+            init = function() {
 
-							initEvents();
-							
-						},
-						initEvents = function() {
+              initEvents();
+              
+            },
+            initEvents = function() {
 
-							$nav.each( function( i ) {
-							
-								$( this ).on( 'click', function( event ) {
-									
-									var $dot = $( this );
-									
-									if( !slitslider.isActive() ) {
+              $nav.each( function( i ) {
+              
+                $( this ).on( 'click', function( event ) {
+                  
+                  var $dot = $( this );
+                  
+                  if( !slitslider.isActive() ) {
 
-										$nav.removeClass( 'nav-dot-current' );
-										$dot.addClass( 'nav-dot-current' );
-									
-									}
-									
-									slitslider.jump( i + 1 );
-									return false;
-								
-								} );
-								
-							} );
+                    $nav.removeClass( 'nav-dot-current' );
+                    $dot.addClass( 'nav-dot-current' );
+                  
+                  }
+                  
+                  slitslider.jump( i + 1 );
+                  return false;
+                
+                } );
+                
+              } );
 
-						};
+            };
 
-						return { init : init };
+            return { init : init };
 
-				})();
+        })();
 
-				Page.init();
+        Page.init();
 
-				/**
-				 * Notes: 
-				 * 
-				 * example how to add items:
-				 */
+        /**
+         * Notes: 
+         * 
+         * example how to add items:
+         */
 
-				/*
-				
-				var $items  = $('<div class="sl-slide sl-slide-color-2" data-orientation="horizontal" data-slice1-rotation="-5" data-slice2-rotation="10" data-slice1-scale="2" data-slice2-scale="1"><div class="sl-slide-inner bg-1"><div class="sl-deco" data-icon="t"></div><h2>some text</h2><blockquote><p>bla bla</p><cite>Margi Clarke</cite></blockquote></div></div>');
-				
-				// call the plugin's add method
-				ss.add($items);
+        /*
+        
+        var $items  = $('<div class="sl-slide sl-slide-color-2" data-orientation="horizontal" data-slice1-rotation="-5" data-slice2-rotation="10" data-slice1-scale="2" data-slice2-scale="1"><div class="sl-slide-inner bg-1"><div class="sl-deco" data-icon="t"></div><h2>some text</h2><blockquote><p>bla bla</p><cite>Margi Clarke</cite></blockquote></div></div>');
+        
+        // call the plugin's add method
+        ss.add($items);
 
-				*/
-			
-			});
-		</script>
+        */
+      
+      });
+    </script>
 <noscript>
-			<link rel="stylesheet" type="text/css" href="/alumniweekend/2014/css/styleNoJS.css" />
-		</noscript>
+      <link rel="stylesheet" type="text/css" href="/alumniweekend/2014/css/styleNoJS.css" />
+    </noscript>
 </div>
 <h3 style="text-align: center; margin-top: 20px;">Alumni Weekend 2014 - Brought to you by:</h3>
 <p style="text-align: center; margin-top: 20px;"><br/> <img alt="Alumni Association Logo" height="96" src="images/alumni-association-logo.png" style="/* display: block; */ /* margin-left: auto; */ /* margin-right: auto;" width="150"/></p></div>               
