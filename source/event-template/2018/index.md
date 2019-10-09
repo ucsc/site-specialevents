@@ -29,9 +29,9 @@ billboard:
 #### sidebar information
 location:
   address: Santa Cruz Civic Auditorium
-  addresslink: http://www.cityofsantacruz.com/government/city-departments/parks-recreation/civic-auditorium
+  addresslink: https://www.cityofsantacruz.com/government/city-departments/parks-recreation/civic-auditorium
 
-registration: http://founders.ucsc.edu
+registration: https://founders.ucsc.edu
 
 ####speaker information  
 speaker:

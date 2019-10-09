@@ -1,6 +1,6 @@
 /*!
- * Font Awesome Free 5.0.6 by @fontawesome - http://fontawesome.com
- * License - http://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ * Font Awesome Free 5.0.6 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 !function() {
     "use strict";
@@ -1447,7 +1447,7 @@
                     "data-icon": e,
                     class: o,
                     role: "img",
-                    xmlns: "http://www.w3.org/2000/svg",
+                    xmlns: "https://www.w3.org/2000/svg",
                     viewBox: "0 0 " + i + " " + n
                 })
             };

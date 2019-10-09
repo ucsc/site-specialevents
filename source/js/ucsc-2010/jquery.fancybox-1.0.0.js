@@ -1,9 +1,9 @@
 /*
  * FancyBox - simple jQuery plugin for fancy image zooming
- * Examples and documentation at: http://fancy.klade.lv/
+ * Examples and documentation at: https://fancy.klade.lv/
  * Version: 1.0.0 (29/04/2008)
  * Copyright (c) 2008 Janis Skarnelis
- * Licensed under the MIT License: http://www.opensource.org/licenses/mit-license.php
+ * Licensed under the MIT License: https://www.opensource.org/licenses/mit-license.php
  * Requires: jQuery v1.2.1 or later
 */
 (function($) {

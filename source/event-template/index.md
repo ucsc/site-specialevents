@@ -36,7 +36,7 @@ location:
   addresslink:
 
 #### Registration link to the event
-registration: http://founders.ucsc.edu
+registration: https://founders.ucsc.edu
 
 ####speaker information  
 speaker:
