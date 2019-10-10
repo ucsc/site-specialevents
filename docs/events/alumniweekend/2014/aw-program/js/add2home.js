@@ -1,6 +1,6 @@
 /*!
- * Add to Homescreen v2.0.11 ~ Copyright (c) 2013 Matteo Spinelli, http://cubiq.org
- * Released under MIT license, http://cubiq.org/license
+ * Add to Homescreen v2.0.11 ~ Copyright (c) 2013 Matteo Spinelli, https://cubiq.org
+ * Released under MIT license, https://cubiq.org/license
  */
 var addToHome = (function (w) {
 	var nav = w.navigator,

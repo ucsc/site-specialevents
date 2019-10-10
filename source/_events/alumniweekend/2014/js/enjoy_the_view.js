@@ -5,7 +5,7 @@ $(document).ready(function() {
     
     $('.js .sleed').tabSlideOut({
         tabHandle: '.handle',             // class of the element that will be your tab                       
-        pathToTabImage: 'http://static.ucsc.edu/images/tab.png', // path to the image for the tab (optionaly can be set using css)           
+        pathToTabImage: 'https://static.ucsc.edu/images/tab.png', // path to the image for the tab (optionaly can be set using css)           
         imageHeight: '30px',              // height of tab image                                              
         imageWidth: '15px',               // width of tab image                                                
         tabLocation: 'right',             // side of screen where tab lives, top, right, bottom, or left     

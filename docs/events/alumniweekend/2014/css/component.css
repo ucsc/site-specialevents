@@ -5,7 +5,7 @@
 	 font-weight: normal;
 	 font-style: normal;
 }
-/* Windows Chrome ugly fix http://stackoverflow.com/questions/13674808/chrome-svg-font-rendering-breaks-layout/14345363#14345363 */
+/* Windows Chrome ugly fix https://stackoverflow.com/questions/13674808/chrome-svg-font-rendering-breaks-layout/14345363#14345363 */
  @media screen and (-webkit-min-device-pixel-ratio:0) {
 	 @font-face {
 		 font-family: 'icomoon';
