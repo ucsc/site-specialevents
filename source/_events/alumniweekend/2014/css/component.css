@@ -1,0 +1,303 @@
+@font-face {
+	 font-family: 'icomoon';
+	 src: url('fonts/icomoon.eot');
+	 src: url('fonts/icomoon.eot?#iefix') format('embedded-opentype'), url('fonts/icomoon.woff') format('woff'), url('fonts/icomoon.ttf') format('truetype'), url('fonts/icomoon.svg#icomoon') format('svg');
+	 font-weight: normal;
+	 font-style: normal;
+}
+/* Windows Chrome ugly fix https://stackoverflow.com/questions/13674808/chrome-svg-font-rendering-breaks-layout/14345363#14345363 */
+ @media screen and (-webkit-min-device-pixel-ratio:0) {
+	 @font-face {
+		 font-family: 'icomoon';
+		 src: url('fonts/icomoon.svg#icomoon') format('svg');
+	}
+	;
+}
+ #mainContent .icon-hotel, #mainContent .icon-park, #mainContent .icon-registration, #mainContent .icon-photos, #mainContent .icon-facebook {
+	 font-family: 'icomoon';
+	 speak: none;
+	 font-style: normal;
+	 font-weight: normal;
+	 font-variant: normal;
+	 text-transform: none;
+	 line-height: 1;
+	 -webkit-font-smoothing: antialiased;
+	 color: #FFF;
+	 font-size: 1.5em;
+}
+ #mainContent .icon-hotel:before {
+	 content: "\e601";
+}
+ #mainContent .icon-park:before {
+	 content: "\e602";
+}
+ #mainContent .icon-registration:before {
+	 content: "\e604";
+}
+ #mainContent .icon-photos:before {
+	 content: "\e603";
+}
+ #mainContent .icon-facebook:before {
+	 content: "\e600";
+}
+ #mainContent a, li {
+	 -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+/* Global CSS that are applied for all screen sizes */
+ #mainContent .navaw ul {
+	 width: 800px;
+	 position:absolute;
+	 z-index:1000;
+	 margin: 0;
+	 padding: 0;
+	 list-style: none;
+	 font-size: 1em;
+	 font-weight: 300;
+}
+ #mainContent .navaw li .awtext {
+	 display: block;
+}
+ #mainContent .navaw a {
+	 display: block;
+	 color: rgba(249, 249, 249, .9);
+	 text-decoration: none;
+	 -webkit-transition: color .5s, background .5s, height .5s;
+	 -moz-transition: color .5s, background .5s, height .5s;
+	 -o-transition: color .5s, background .5s, height .5s;
+	 -ms-transition: color .5s, background .5s, height .5s;
+	 transition: color .5s, background .5s, height .5s;
+}
+ #mainContent .navaw i{
+	/* Make the font smoother for Chrome */
+	 -webkit-transform: translate3d(0, 0, 0);
+	 -moz-transform: translate3d(0, 0, 0);
+	 -o-transform: translate3d(0, 0, 0);
+	 -ms-transform: translate3d(0, 0, 0);
+	 transform: translate3d(0, 0, 0);
+}
+/* Remove the blue Webkit background when element is tapped */
+ #mainContent a, button {
+	 -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+/* Hover effect for the whole navigation to make the hovered item stand out */
+ .no-touch #mainContent .navaw ul:hover a {
+	 color: rgba(249, 249, 249, .5);
+}
+ .no-touch #mainContent .navaw ul:hover a:hover {
+	 color: rgba(249, 249, 249, 0.99);
+}
+/* Adding some background color to the different menu items */
+ #mainContent .navaw li:nth-child(6n+1) {
+	 background: rgb(247, 146, 39);
+	 border-top-left-radius: 10px;
+}
+ #mainContent .navaw li:nth-child(6n+2) {
+	 background: rgb(126, 194, 72);
+}
+ #mainContent .navaw li:nth-child(6n+3) {
+	 background: rgb(0, 133, 153);
+}
+ #mainContent .navaw li:nth-child(6n+4) {
+	 background: rgb(227, 184, 6);
+}
+ #mainContent .navaw li:nth-child(6n+5) {
+	 background: rgb(0, 95, 163);
+	 border-top-right-radius: 10px;
+}
+/* Transforms the list into a horizontal navigation */
+ #mainContent .navaw li {
+	 float: left;
+	 width: 160px;
+	 text-align: center;
+	 -webkit-transition: border .5s;
+	 -moz-transition: border .5s;
+	 -o-transition: border .5s;
+	 -ms-transition: border .5s;
+	 transition: border .5s;
+}
+ #mainContent .navaw a {
+	 display: block;
+	 width: auto;
+}
+/* hover, focused and active effects that add a little colored border to the different items */
+ .no-touch #mainContent .navaw li:nth-child(6n+1) a:hover, .no-touch #mainContent .navaw li:nth-child(6n+1) a:active, .no-touch #mainContent .navaw li:nth-child(6n+1) a:focus {
+	 border-bottom: 4px solid rgb(100, 100, 100);
+}
+ .no-touch #mainContent .navaw li:nth-child(6n+2) a:hover, .no-touch #mainContent .navaw li:nth-child(6n+2) a:active, .no-touch #mainContent .navaw li:nth-child(6n+2) a:focus {
+	 border-bottom: 4px solid rgb(100, 100, 100);
+}
+ .no-touch #mainContent .navaw li:nth-child(6n+3) a:hover, .no-touch #mainContent .navaw li:nth-child(6n+3) a:active, .no-touch #mainContent .navaw li:nth-child(6n+3) a:focus {
+	 border-bottom: 4px solid rgb(100, 100, 100);
+}
+ .no-touch #mainContent .navaw li:nth-child(6n+4) a:hover, .no-touch #mainContent .navaw li:nth-child(6n+4) a:active, .no-touch #mainContent .navaw li:nth-child(6n+4) a:focus {
+	 border-bottom: 4px solid rgb(100, 100, 100);
+}
+ .no-touch #mainContent .navaw li:nth-child(6n+5) a:hover, .no-touch #mainContent .navaw li:nth-child(6n+5) a:active, .no-touch #mainContent .navaw li:nth-child(6n+5) a:focus {
+	 border-bottom: 4px solid rgb(100, 100, 100);
+}
+ .no-touch #mainContent .navaw li:nth-child(6n+6) a:hover, .no-touch #mainContent .navaw li:nth-child(6n+6) a:active, .no-touch #mainContent .navaw li:nth-child(6n+6) a:focus {
+	 border-bottom: 4px solid rgb(100, 100, 100);
+}
+/* Placing the icon */
+ #mainContent .iconaw {
+	 padding-top: 1.4em;
+}
+ #mainContent .iconaw + .awtext {
+	 margin-top: 2.1em;
+	 -webkit-transition: margin .5s;
+	 -moz-transition: margin .5s;
+	 -o-transition: margin .5s;
+	 -ms-transition: margin .5s;
+	 transition: margin .5s;
+}
+/* Animating the height of the element*/
+ #mainContent .navaw a {
+	 height: 9em;
+}
+ .no-touch #mainContent .navaw a:hover , .navaw #mainContent a:active , .navaw #mainContent a:focus {
+	 height: 10em;
+}
+/* Making the text follow the height animation */
+ .no-touch #mainContent .navaw a:hover .iconaw + .awtext {
+	 margin-top: 3.2em;
+	 -webkit-transition: margin .5s;
+	 -moz-transition: margin .5s;
+	 -o-transition: margin .5s;
+	 -ms-transition: margin .5s;
+	 transition: margin .5s;
+}
+/* Positioning the icons and preparing for the animation*/
+ #mainContent .navaw i {
+	 position: relative;
+	 display: inline-block;
+	 margin: 15px auto 0 auto;
+	 padding: 0.4em;
+	 border-radius: 50%;
+	 font-size: 2em;
+	 line-height: 1em;
+	 box-shadow: 0 0 0 30px transparent;
+	 background: rgba(255,255,255,0.3);
+	 -webkit-transform: translate3d(0, 0, 0);
+	 -moz-transform: translate3d(0, 0, 0);
+	 -o-transform: translate3d(0, 0, 0);
+	 -ms-transform: translate3d(0, 0, 0);
+	 transform: translate3d(0, 0, 0);
+	 -webkit-transition: box-shadow .6s ease-in-out;
+	 -moz-transition: box-shadow .6s ease-in-out;
+	 -o-transition: box-shadow .6s ease-in-out;
+	 -ms-transition: box-shadow .6s ease-in-out;
+	 transition: box-shadow .6s ease-in-out;
+}
+/* Animate the box-shadow to create the effect */
+ .no-touch #mainContent .navaw a:hover i, .no-touch #mainContent .navaw a:active i, .no-touch #mainContent .navaw a:focus i {
+	 box-shadow: 0 0 0 0 rgba(255,255,255,0.2);
+	 -webkit-transition: box-shadow .4s ease-in-out;
+	 -moz-transition: box-shadow .4s ease-in-out;
+	 -o-transition: box-shadow .4s ease-in-out;
+	 -ms-transition: box-shadow .4s ease-in-out;
+	 transition: box-shadow .4s ease-in-out;
+}
+/* Size and font adjustments to make it fit into the screen*/
+ #mainContent .navaw ul {
+	 font-size: 1em;
+	 font-family: 'icomoon';
+}
+/* REUNION */
+ li, ul > li, ul li ul li {
+	 padding: 24px 0px 0px 0px;
+}
+ #mainContent ul li {
+	 background-image: none !important;
+}
+ #mainContent .contentBox {
+	 padding:10px 10px 10px 0!important;
+	 border-bottom:none !important;
+	 background-color:#f2f0e4 !important;
+	 background:#f2f0e4 !important;
+	 margin-left: 0px !important;
+}
+ .contentbox {
+	 background:#F2F0E4 !important;
+	 margin: 0 0 24px 0!important;
+	 padding: 0 !important;
+}
+ #mainContent {
+	 background:#F2F0E4 !important;
+}
+ #mainContent img {
+	 padding: 0 !important;
+	 margin: 0 !important;
+	 background: none !important;
+}
+ ul.reunion {
+	 display: block;
+	 list-style-type: none;
+	 margin: -20px 0 0 0 !important;
+	 padding: 0;
+	 height: 35px;
+	 vertical-align: text-bottom;
+	 position: absolute;
+	 width: 802px;
+}
+ ul.reunion li a:link, ul.reunion li a:visited {
+	 display: inline;
+	 background: #00458c;
+	 padding: 3px 3px 3px 3px;
+	 list-style-type: none;
+	 color: #FFF;
+	 text-decoration: none;
+	 float: left;
+	 margin: 5px 0 0 1px;
+	 height: 20px;
+	 -webkit-border-top-left-radius: 5px;
+	 -webkit-border-top-right-radius: 5px;
+	 -moz-border-radius-topleft: 5px;
+	 -moz-border-radius-topright: 5px;
+	 border-top-left-radius: 5px;
+	 border-top-right-radius: 5px;
+	 font-size: 11px !important;
+}
+ ul.reunion li a:hover, ul.reunion li a:active {
+	 background: #f1b521;
+	 margin: 0 0 0 1px;
+	 height: 25px;
+}
+ .sponsors_container {
+	 display: block;
+	 width: 559px;
+	 height: 130px;
+	 margin: 84px 0 5px 116px;
+	 background: url('images/top-sponsors.gif') no-repeat top;
+	 font-size: 10px;
+}
+ .main_sponsor {
+	 display: block;
+	 width: 162px;
+	 height: 125px;
+	 margin: 13px 0 0 2px;
+	 background:#FFF;
+	 position: absolute;
+	 text-align: center;
+	 padding-bottom: 15px;
+	 border-bottom: 5px solid #f1b521;
+}
+ #mainContent .main_sponsor img {
+	 padding: 15px 0 0 0 !important;
+}
+ .all_sponsors {
+	 display: block;
+	 width: 394px;
+	 height: 115px;
+	 position: absolute;
+	 margin: 13px 0 0 164px;
+	 padding: 25px 0 0 0 !important;
+	 background-color: #e7e5da;
+	 padding-bottom: 10px;
+	 text-align: center;
+	 border-bottom: 5px solid #f1b521;
+	 font-size: 10px !important;
+}
+ #mainContent .all_sponsors img {
+	 padding: 5px 12px 0 12px !important;
+}
+ 
