@@ -1,0 +1,846 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><!--[if lte IE 7]>
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<![endif]--> <link href="https://static.ucsc.edu/css/ucsc.css" rel="stylesheet" type="text/css"/> <!-- jQuery and Modernizr  -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
+<!-- Enjoy the View, Lightbox, default value, and custom JS functions -->
+<script src="https://static.ucsc.edu/js/jquery.tabSlideOut.v1.3.js" type="text/javascript">// <![CDATA[
+
+// ]]></script>
+<script src="https://static.ucsc.edu/js/jquery.defaultvalue.js" type="text/javascript">// <![CDATA[
+
+// ]]></script>
+<script src="https://static.ucsc.edu/js/ucsc_base_noLB.js" type="text/javascript">// <![CDATA[
+
+// ]]></script>
+<script src="https://static.ucsc.edu/js/enjoy_the_view.js" type="text/javascript">// <![CDATA[
+
+// ]]></script>
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://static.ucsc.edu/css/fixie.css" />
+<![endif]-->
+<script type="text/javascript">// <![CDATA[
+var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4301164-1']);
+  _gaq.push(['_setDomainName', '.ucsc.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
+$('.handle').click(function() {  });
+// ]]></script>
+<link href="resources/slider/css/windy.css" rel="stylesheet" type="text/css"/> <link href="resources/slider/css/style2.css" rel="stylesheet" type="text/css"/>
+<script src="resources/slider/js/modernizr.custom.79639.js" type="text/javascript"></script>
+<noscript><link href="resources/slider/css/noJS.css" rel="stylesheet" type="text/css"/></noscript>
+<script src="resources/slider/js/jquery.windy.js" type="text/javascript"></script>
+<script type="text/javascript">// <![CDATA[
+$(function() {
+
+				var $el = $( '#wi-el' ),
+					windy = $el.windy( {
+						// rotation and translation boundaries for the items transitions
+						boundaries : {
+							rotateX : { min : 40 , max : 90 },
+							rotateY : { min : -15 , max : 45 },
+							rotateZ : { min : -10 , max : 10 },
+							translateX : { min : -225 , max : 300 },
+							translateY : { min : -225 , max : 300 },
+							translateZ : { min : 225, max : 300 }
+						}
+					} ),
+					allownavnext = false,
+					allownavprev = false;
+
+				$( '#nav-prev' ).on( 'mousedown', function( event ) {
+
+					allownavprev = true;
+					navprev();
+				
+				} ).on( 'mouseup mouseleave', function( event ) {
+
+					allownavprev = false;
+				
+				} );
+
+				$( '#nav-next' ).on( 'mousedown', function( event ) {
+
+					allownavnext = true;
+					navnext();
+				
+				} ).on( 'mouseup mouseleave', function( event ) {
+
+					allownavnext = false;
+				
+				} );
+
+				function navnext() {
+					if( allownavnext ) {
+						windy.next();
+						setTimeout( function() {	
+							navnext();
+						}, 150 );
+					}
+				}
+
+				function navprev() {
+					if( allownavprev ) {
+						windy.prev();
+						setTimeout( function() {	
+							navprev();
+						}, 150 );
+					}
+				}
+
+			});
+// ]]></script>
+
+
+<title>Schedule of events</title>
+
+
+
+<style type="text/css">/*<![CDATA[*/
+#mainContent .register-button a { width:258px; display:block; margin:0 0 2em 0; overflow:hidden; height:58px; position:relative; }
+#mainContent .register-button a img { position:absolute; left:0px; margin:0px !important; padding:0px !important; background-color:transparent !important; }
+#mainContent .register-button a:focus img,
+#mainContent .register-button a:hover img { left:-258px; }
+
+.main-headline{font-size:1.3em !important;font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;font-style:italic;border-bottom:3px dotted #F9F8F2;padding:0 0 10px 0;margin:0 0 10px 0;}
+.sub-headline{font-size:1.4em !important;font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;font-style:italic;}
+.callout-left h4{padding:3px 0px 3px 3px !important;margin-left:0px !important;font-size:1em !important;background-color:transparent !important;}
+.full-width{padding:10px;width:520px;}
+.video-box{margin:5px 0 25px 0;}
+/*]]>*/</style>
+
+
+
+</head>
+
+<body class="left-column www">
+
+<!-- Accessibility links. Hidden until they receive :focus -->
+<ul id="access-links">
+  <li><a href="#main">Skip to main content</a></li>
+  <li><a href="#mainNav">Skip to main navigation</a></li>
+</ul>  
+
+
+
+  <div id="wrap">
+    <div id="container">
+      <div id="content">
+        
+<div class="site-header" role="banner">
+
+    <div class="page-top">
+      <div class="row">
+
+        <div class="page-top-right">
+          <ul id="topNav">
+<li><a href="https://my.ucsc.edu" title="The student portal">MyUCSC</a></li>
+<li><a href="https://www.ucsc.edu/tools/people.html" title="Campus directory">People</a></li>
+<li><a href="https://www.ucsc.edu/tools/calendars.html" title="Upcoming events, academic, and administrative calendars">Calendars</a></li>
+<li><a href="https://www.ucsc.edu/visit/maps-directions.html">Maps</a></li>
+<li><a href="https://www.ucsc.edu/tools/azindex.html" title="A to Z index of UCSC websites">A-Z Index</a></li>
+</ul>
+          <div class="search" role="search">
+            <!-- Google Custom Search --><!-- end GCS --><div>
+<form action="/search" id="cse-search-box"><input name="ie" type="hidden" value="UTF-8"/> <label class="hide" for="q">Search</label><input class="query" id="q" name="q" type="text" value="Search UCSC"/> <input class="srchBtn" type="submit" value="Search"/></form>
+</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="main-header">
+
+    <div class="row names">
+      <div class="campus-name">
+        <h1><a class="campus-logo" href="https://www.ucsc.edu/index.html" id="logo">UC Santa Cruz</a></h1>
+        <a class="mobile-menu" href="#mainNav">Menu</a>
+      </div>  
+    </div>
+
+      <div class="row main-navigation" role="navigation">
+        <ul id="mainNav" role="menubar">
+<li class="first" role="menuitem"><a href="https://www.ucsc.edu/about/index.html">About</a></li>
+<li role="menuitem"><a href="https://www.ucsc.edu/admissions/index.html">Admissions</a></li>
+<li role="menuitem"><a href="https://www.ucsc.edu/academics/index.html">Academics</a></li>
+<li role="menuitem"><a href="https://www.ucsc.edu/research/index.html">Research</a></li>
+<li role="menuitem"><a href="https://www.ucsc.edu/campus/index.html">Campus Life</a></li>
+<li role="menuitem"><a href="https://www.ucsc.edu/visit/index.html">Visit UCSC</a></li>
+<li aria-haspopup="true" class="last qsg" role="menuitem"><span>Information for</span>
+<ul>
+<li><a href="http://studentservices.ucsc.edu">Current Students</a></li>
+<li><a href="https://www.ucsc.edu/quickstart/faculty-staff/index.html">Faculty &amp; Staff</a></li>
+<li><a href="http://alumni.ucsc.edu">Alumni</a></li>
+<li><a href="https://www.ucsc.edu/quickstart/prospective-students/index.html">Prospective Students</a></li>
+<li><a href="https://www.ucsc.edu/parents/index.html">Parents &amp; Families</a></li>
+<li><a href="https://www.ucsc.edu/quickstart/community/index.html">Community</a></li>
+</ul>
+</li>
+</ul>
+      </div>
+
+    </div>
+    
+</div>
+
+
+        <div class="row" id="sprflt">
+
+            <div class="main-content" id="main" role="main">
+                <p><a href="../../index.html">
+		Home</a> »
+			</p>
+                
+                <h1 id="title">Schedule of events</h1><div class="contentBox">
+<style type="text/css" media="screen">
+/**/
+#mainContent h2 {
+        display: block;
+        width: 100%;
+        border-bottom: 3px solid #F1B521;
+}
+#form_header {
+	position:relative;
+	line-height:1em;
+	width: 500px;
+
+}
+#filterform {
+	width:300px;
+	height: 30px;
+	font-size:12px;
+	display:block;
+}
+#filterform input {
+	width:300px;
+	height: 30px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	font-size: 12px;
+        padding-left: 5px;
+}
+#mainContent ul li {
+	background-image: none !important;
+padding: 0 0 20px 20px !important;
+        
+}
+#mainContent img {
+padding: 0 !important;
+margin: 0 !important;
+background-color: #ECE9D8 !important;
+}
+#mainContent .search {
+	font-size:1.4em;
+	padding:0.3em 0.5em;
+	margin:-10px 0 1em 0;
+	border:1px solid #D19001;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	width:320px;
+}
+#events-list {
+	padding: 0 0 0 0;
+	width: 475px;
+	margin: 0 0 0 50px;
+}
+#list {
+	display:block !important;
+	margin: 20px 0 0 0 !important;
+        border-left:1px dotted #D19001 !important;
+}
+.date_container h2 {
+	display: block !important;
+	margin: 1px 0 0 -70px !important;
+	padding: 0 5px 0 0!important;
+	width: 64px !important;
+	text-align: right;
+	position: absolute;
+	line-height: 27px !important;
+	font-size: 20px !important;
+	border-bottom: 3px solid #F1B521;
+}
+.date_container h2 strong {
+	font-size: 30px !important;
+}
+.date_container .day {
+	display: block;
+	padding: 5px 5px 5px 5px;
+        margin: -1px 0 0 0 !important;
+	font-size: 20px;
+	width: 499px;
+	position: absolute;
+	z-index: 100;
+	line-height: 76px !important;
+	height: 48px;
+	border-bottom: 3px solid #F1B521;
+}
+.date_container {
+	display: block;
+	height: 48px;
+	margin: 10px 0 20px 0;
+	color: #605F5D !important;
+}
+.clear {
+	clear: both;
+}
+.spacer {
+	margin: 0 0 0 0 !important;
+	padding: 0 0 20px 20px !important;
+}
+li strong {
+	font-size: 15px !important;
+	color: #605F5D;
+}
+
+li b {
+	display: block;
+	padding: 0 0 0 15px;
+	border-bottom: 1px dotted #F1B521;
+	margin: 5px 0 5px -15px;
+}
+.featured_reunion {
+display: block;
+background-color: #F2F0E4;
+-moz-border-radius:5px;
+border-radius:5px;
+-webkit-border-radius:5px;
+padding:5px;
+margin: 0 0 0 -5px;
+border-bottom: solid 1px #D5D2C3;
+}
+.featured_legend {
+	display: block;
+	float: right;
+	padding: 0 50px 0 325px;
+	position: absolute;
+	z-index: 99;
+}
+/**/
+</style>
+
+<h2>Featured events</h2>
+<div class="windy windy-2">
+					
+<ul class="wi-container" id="wi-el">
+<li>
+<div class="content-box">
+                            <img alt="wine and dine" src="resources/slider/images/dine-rewind.jpg"/>
+<h3>Banana Slug Lunch: Dine and Rewind</h3>
+<p><strong>Saturday 12 - 2 p.m. | Porter College Dining Hall - $20</strong>Remember dining halls? Relive some old memories over a delicious lunch at Porter. Short welcome and remarks from the Chancellor.</p>
+<div class="readmore-button" onclick="location.href='http://events.ucsc.edu/alumniweekend/2013/events/dine-and-rewind.html';" style="cursor: pointer;">READ MORE</div>
+</div>
+<img alt="image3" height="225" src="resources/slider/images/background-3.png" width="540"/>
+</li>
+<li>
+<div class="content-box">
+                            <img alt="wine and dine" src="resources/slider/images/1.jpg"/>
+<h3>Teach-Ins - An Academic Afternoon</h3>
+<p><strong>Saturday 2:30 - 4 p.m. | Porter College Rooms</strong>Go back to class for an afternoon - choose from a selection of lectures from notable faculty:<br/>
+                              &#8226; Alan Alan Christy, East Asian studies<br/>
+                              &#8226; David Deamer, Biomolecular Engineering<br/>
+                              &#8226; William Domhoff, Sociology and Psychology<br/>
+                              &#8226; Harry Noller, MCD biology<br/>
+                            &#8226; Jane Pinckard, Games and Playable Media</p>
+<div class="readmore-button" onclick="location.href='http://events.ucsc.edu/alumniweekend/2013/events/teach-in-options.html';" style="cursor: pointer;">READ MORE</div>
+</div>
+<img alt="image2" src="resources/slider/images/background-2.png"/>
+                        </li>
+<li>
+<div class="content-box">
+                            <img alt="wine and dine" src="resources/slider/images/wine-dine.jpg"/>
+<h3>Alumni Wine Reception</h3>
+<p><strong>Saturday 4 - 6 p.m. | Porter Dining Hall Patio</strong>
+                            Unwind with a glass of wine or a cold beer and continue the Teach-In conversations with fellow Banana Slugs.</p>
+<div class="readmore-button" onclick="location.href='http://events.ucsc.edu/alumniweekend/2013/events/wine-reception.html';" style="cursor: pointer;">READ MORE</div>
+</div>
+<img alt="image2" src="resources/slider/images/background-1.png"/> 
+                        </li>
+</ul>
+<nav>
+						<span id="nav-prev">&#8249;</span>
+						<span id="nav-next">&#8250;</span>
+		</nav>
+				</div>
+<!--END FEATURED -->
+<div id="form_header"></div>
+<br/>
+<div id="events-list">             
+<ul id="list">
+<!-- 27 -->
+<div class="date_container">
+<h2>APR<br/>
+<strong>26</strong></h2>
+<div class="day">FRIDAY</div>
+</div>
+<li>
+<a style="text-decoration: none;"><strong>Making the Institute: Three Conversations</strong></a><br/>
+      <a style="color: #5d5c5b; text-decoration: none;"><b>9 a.m. &#8211; 4:30 p.m. | University Center,  Alumni Room</b> UC Santa Cruz has launched the planning process for a groundbreaking new interdisciplinary Institute of the Arts and Sciences. To inform that process, we have gathered an exceptional group of practitioners and thinkers whose work engages the arts, the sciences and social sciences, museums, performance, architecture, and landscape design. We invite you to join us on April 26 to take part in three conversations that will help shape the new institute's program and design.</a><br/>
+                  <a href="events/three-convos.html">Find out more and register &#187;</a>
+</li>
+<li>
+<a style="text-decoration: none;"><strong>Marine Lab Tour</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>10 a.m. &#8211; 5 p.m. | Seymour Marine Discovery Center at Long Marine Lab</b> Come visit the Seymour Marine Discovery Center during alumni weekend for the opportunity to take part in one of our daily, docent-led tours. Marvel at one of the largest blue whale skeletons on display in the world, learn about current marine mammal research taking place at UCSC's Long Marine Lab, and see some of the lab's resident marine mammals. Docent-led tours are available several times throughout the day.</a><br/>
+                  <a href="events/marine-lab-tours.html">Find out more &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>Academic Medicine Career Panel</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>11 a.m. - 12:30 p.m. | Humanities 1, Room 210</b>
+                  Alumni and parents will discuss their experiences working in different areas of the medical industry.</a><br/>
+                  <a href="events/medical-career-panel.html">Find out more and register &#187;</a>
+</li>
+<!--
+<li> <a style="text-decoration: none;"><strong>Social Sciences Emerti Faculty Award Luncheon</strong></a><br />
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>11:30 a.m. &#8211; 1 p.m. | La Feliz Room at Long Marine Lab &#8212; $25</b>
+                  Join the Dean of the Division of Social Sciences when he presents the 2013 Distinguished Social Sciences Emeriti Faculty Award at the annual luncheon.</a><br />
+ <a href="/alumniweekend/2013/events/SS_emeriti_award_luncheon">Find out more and register &#187;</a>
+</li>
+-->
+<li><a style="text-decoration: none;"><strong>Alumni in Law Career Panel</strong></a><br/>
+<a style="color: #5d5c5b; text-decoration: none;"><b>1:30 &#8211; 3 p.m. | Humanities 1, Room 210 </b>Join us for a lively panel of alumni (1971-2005,) who will discuss how their Liberal Arts and Humanities degrees helped pave their path to a variety of law practices.</a><br/>
+<a href="events/alumni-law-career-panel.html">
+                  Find out more and register &#187;
+</a></li>
+<li>
+<a style="text-decoration: none;"><strong>The Sociology Department Hosts: Jessica Roy Memorial Colloquium</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>4 - 6 p.m. | Namaste Lounge</b>Please join Giovanna Di Chiro, Lang Visiting Professor for Issues of Social Change, Swarthmore and UCSC PhD graduate in History of Consciousness for a talk, "Embodied Ecologies: Connecting Sustainability and Environmental Justice."</a><br/>
+                  <a href="events/jessica-roy-colloquium.html">Find out more and register &#187;</a>
+</li>
+<li>
+<a style="text-decoration: none;"><strong>Social Sciences Distinguished Alumni Award Reception</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>4 &#8211; 6 p.m. | La Feliz Room at the Long Marine Lab &#8212; $10</b>Join us for a reception honoring this year's alumni recipient for his/her outstanding contributions to society.<span style="display: none;">Featured Events</span></a><br/>
+                  <a href="events/ss-alumni-award-recptn.html">Online registration closed &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>African American Resource and Cultural Center Welcome Reception</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>5:30 &#8211; 7:30 p.m. | Hotel Paradox </b>Help build community among alumni, students, and allies. There will be light refreshments and a no-host bar.</a><br/>
+                  <a href="events/aarcc-welcome-recpn.html">Find out more and register &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>Basketball Wine and Cheese Reception</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>5:30 - 7:30 p.m. | Merrill Cultural Center &#8212; $25</b>Join the men's basketball team, past and present, to share stories, renew old friendships, and try some delicious wines with cheese! We will also be joined by Michael Phillips, owner and winemaker of Michael David Winery, home of 7 Deadly Zins.</a><br/>
+                  <a href="events/bball-reception.html">Find out more and register &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>Hillel Hosts: Alumni Shabbat</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>6:15 - 9 p.m. | Santa Cruz Hillel</b>Join Hillel students for Shabbat services and a delicious FREE home-cooked meal. This is a great chance to reconnect with old friends, meet new ones, and schmooze with students about life on campus today.</a><br/>
+                  <a href="events/hillel-shabbat.html">Find out more and register &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>UCSC's Got Talent</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>7 - 10 p.m. | Stevenson Event Center</b>Join the Office of Internal Affairs for our first annual UCSC's Got Talent. Watch current UCSC students from all colleges perform their talents as they compete for a $2,000 scholarship provided by the Alumni Association and other alumni! End a long day by watching the current students showcase their skills and meet slugs of all ages.</a><br/>
+                  <a href="events/ucscs-got-talent.html">Learn more &#187;</a>
+</li>
+<!-- 28 -->
+<div class="date_container">
+<h2>APR <strong>27</strong></h2>
+<div class="day">SATURDAY</div>
+</div>
+<li> <a style="text-decoration: none;"><strong>Cowell Coffee in the Courtyard</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>8:30 - 10 a.m. | Cowell Courtyard</b>Start your Saturday by enjoying brunch in the company of friends. Mingle, laugh, and reminisce.</a><br/>
+                  <a href="events/cowell-sat-events.html"> Find out more and register &#187;</a>
+</li>
+<li> <a style="text-decoration: none;"><strong>Walking Tour-Wild, Wooly, and Wonderful: Keep UCSC Natural</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>9 &#8211; 10:30 a.m. | Porter College, Koi Pond</b> Come celebrate the 25th anniversary of the UCSC Natural Tour. Join Gage Dayton for a morning walk through the most beautiful, pristine areas of campus.</a><br/>
+                  <a href="events/wild-wooly-wonderful-walk.html">Sold out &#187;</a>
+</li>
+<li> <a style="text-decoration: none;"><strong>African American Resource and Cultural Center Hosts, Engaging the Generations: Roundtable Discussion with Alumni and Students</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>9 a.m. - 2 p.m. | Oakes Learning Center</b> This event will bring together alumni, students, and friends to talk about issues in the community as well as opportunities for mentorship between alumni and students. There will be light refreshments in the morning and lunch will be provided.</a><br/>
+                  <a href="events/aarcc-roundtable.html"> Find out more and register &#187;</a>
+</li>
+<li> <a style="text-decoration: none;"><strong>Leaving a Legacy</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>9:30 - 11:30 a.m. | Porter Study Center</b>How will you build your legacy at UCSC?  Come to this session to learn about your legacy planning options.  Specifically, you will learn about resources available to help you create your estate plan and include UCSC in it.  Pastries, fruit and refreshments will be provided.</a><br/>
+                  <a href="events/leaving-a-legacy.html">Find out more and register &#187;</a>
+</li>
+<li> <a style="text-decoration: none;"><strong>Preserving Your Memories for the UCSC Archives</strong></a><br/><a style="color: #5d5c5b; text-decoration: none;"><b>10 a.m. &#8211; 2 p.m. | McHenry Library</b>Bring your old photos of the campus to the library, and staff will help scan and add them to the campus history site. We'll return your originals and provide you with a free digital copy.</a><br/><a href="events/library-archives.html">
+                  Find out more and register &#187;
+</a></li>
+<li> <a style="text-decoration: none;"><strong>Oakes Celebration of Don Rothman's Life and Achievements</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>10 - 11:30 a.m. | Oakes 106</b>Join Oakes as we honor and remember Don Rothman. As part of the ceremony, we unveil a plaque at Oakes recognizing his nearly 40 years of service that brightened the lives of students, faculty, and staff.</a><br/><a href="events/don-rothman-celebration.html">
+                   Find out more and register &#187;
+</a></li>
+<li>
+<a style="text-decoration: none;"><strong>Digital Arts &amp; New Media Program  MFA Exhibition</strong></a><br/>
+      <a style="color: #5d5c5b; text-decoration: none;"><b>10 a.m. &#8211; 4 p.m. | Digital Arts Research Center (DARC) </b> Enjoy an exhibition by graduate students who use advanced technologies for creative potential and social impact.<span style="display: none;">Featured Events</span></a><br/>
+                  <a href="events/danm-exhibition.html">Find out more &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>Marine Lab Tour</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>10 a.m. - 5 p.m. | Seymour Marine Discovery Center at Long Marine Lab</b>Come visit the Seymour Marine Discovery Center during Alumni Weekend for the opportunity to take part in one of our daily, docent-led tours. Marvel at one of the largest blue whale skeletons on display in the world, learn about current marine mammal research taking place at UCSC's Long Marine Lab, and see some of the lab's resident marine mammals. Docent-led tours are available several times throughout the day.</a><br/>
+                  <a href="events/marine-lab-tours.html">Find out more &#187;</a>
+</li>
+<li>
+<a style="text-decoration: none;"><strong>Cowell Alumni Discussion: Entertaining Ideas</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>10 a.m. &#8211; 11:30 a.m. | Cowell College, Page Smith Library</b>Join Cowell alums in the Pursuit of Truth with a fascinating lecture discussing the arts featuring Mary-Kay Gamel, Professor of Classical Studies and Feminist Studies; Addi Somekh (Cowell '94), self-taught balloon artist; and Paul Rabwin (Cowell '70), producer of The X-Files.<span style="display: none;">Featured Events</span></a><br/><a href="events/cowell-sat-events.html">
+                  Find out more and register &#187;
+</a></li>
+<li><a style="text-decoration: none;"><strong>Porter World Cafe: Wiser Together</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>10:15 a.m. - 12 p.m | Porter College, Hitchcock Lounge</b>Porter alums unite for a morning to inspire communication and conversation meant to bring various perspectives to the table, provoke thought, and create action in pursuit of common aims.</a><br/>
+                  <a href="events/porter-world-cafe.html">Find out more and register &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>Merrill Moat Day</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>11 a.m. - 2 p.m.  | Merrill Moat</b>Tie-dye a Merrill t-shirt and check out the new Moat paintings in progress. Also be sure to see the Merrill renovation plans!</a><br/>
+                  <a href="events/merrill-moat-day.html">Find out more and register &#187;</a>
+</li>
+<!--
+<li>
+<a style="text-decoration: none;"><strong>Physical and Biological Sciences Presents: Be a Mentor, Meet the Majors</strong></a><br />
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>11 a.m. &#8211; 12 p.m. | Physical Sciences, Room 240</b>If you were a major within the Physical and Biological Sciences, join fellow alums and faculty as we mentor students on career choices and life after college.<span style="display: none;">Featured Events</span></a><br />
+                  <a href="/alumniweekend/2013/events/be_a_mentor_meet_the_majors">Find out more and register &#187;</a>
+</li>
+-->
+<li><a style="text-decoration: none;"><strong>Then and Now Alumni Walking Tour</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>11 a.m. - 12 p.m. | Meet at Porter Circle</b>Alumni walking tour guided by student admission ambassadors &#8212; revisit old haunts and see what's new on campus.</a><br/>
+                  <a href="events/alumni-walking-tour.html">Find out more and register &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>Honoring the 7 Generations: 2nd Annual UCSC Sophia Garcia Robles Drum Feast</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>11 a.m. - 4 p.m. | Oakes Lower Lawn</b>Please join the American Indian Resource Center, students, staff, faculty, and community members for our annual powwow during Alumni Weekend.</a><br/>
+                  <a href="events/drum-feast.html">Find out more and register &#187;</a>
+</li>
+<li>
+<a style="text-decoration: none;"><strong><img align="left" alt="Featured Event 1" height="18" src="http://events.ucsc.edu/alumniweekend/2012/images/featured.png" width="21"/> Banana Slug Lunch: Dine and Rewind</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>12 &#8211; 2 p.m. | Porter College Dining Hall &#8212; $20</b>Remember dining halls? Relive some old memories over a delicious lunch at Porter. Short welcome and remarks from the Chancellor.</a><br/>
+                  <a href="events/dine-and-rewind.html">Find out more  &#187;</a>
+</li>
+<li>
+<a style="text-decoration: none;"><strong>Minicourse in Coastal Sustainability with Gary Griggs</strong></a><br/>
+      <a style="color: #5d5c5b; text-decoration: none;"><b>1 &#8211; 4 p.m. | Long Marine Lab </b>Celebrate the 35th anniversary of Long Marine Lab with Gary Griggs - who is celebrating 45 years teaching at UCSC! Find out what we're learning about coastal sustainability and where our research is likely to go in the future.</a><br/>
+                  <a href="events/minicourse-coastal-sustainability.html">Learn more &#187;</a>
+</li>
+<li>
+<a style="text-decoration: none;"><strong>Then and Now Alumni Walking Tour</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>2 &#8211; 3 p.m. | Meet at Porter Circle </b>Alumni walking tour guided by student admission ambassadors &#8212; revisit old haunts and see what's new on campus.</a><br/>
+                  <a href="events/alumni-walking-tour.html">Find out more and register &#187;</a>
+</li>
+<li>
+<a style="text-decoration: none;"><strong>Crown Alumni Reception</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>2 &#8211; 4 p.m. | Crown Provost House</b>Join fellow Crown alumni, friends, and current students for refreshments at Provost Joel Ferguson's house. Reconnect with your college, learn what's new at Crown, and network. Eat, drink, reminisce.</a><br/>
+                  <a href="events/crown-alumni-reception.html">Find out more and register &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>Feminist Poetry with Brenda Shaughnessy</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>2 - 6 p.m. | Humanities 1, Room 210</b>Please join Women's studies/Feminist studies alumni, classmates, and faculty for a delicious reception at 2 p.m. Then, at 3 p.m., join Brenda Shaughnessy ('93, WMST/LIT) for a talk, "Feminism &amp; Poetry, Empowerment &amp; Passion." At 4:30 p.m., we will have a Feminist studies faculty panel on "The Vibrant State of the FMST Department" to discuss the launching of the feminist studies graduate program, the UC Presidential Chair in Feminist Critical Race and Ethnic Studies, current curriculum, faculty research, and more.</a><br/>
+                  <a href="events/feminist-poetry.html">Find out more and register &#187;</a>
+</li>
+<li>
+<a style="text-decoration: none;"><strong><img align="left" alt="Featured Event 2" height="18" src="http://events.ucsc.edu/alumniweekend/2012/images/featured.png" width="21"/> Teach-Ins &#8212; An Academic Afternoon</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>2:30 - 4 p.m. | Porter College Rooms</b>Go back to class for an afternoon &#8211; choose from a selection of lectures from notable faculty:<br/>
+&#8226; Professor Alan Christy, East Asian studies<br/>
+&#8226; Professor David Deamer, Biomolecular Engineering<br/>
+&#8226; Professor G. William Domhoff, Sociology and Psychology<br/>
+&#8226; Professor Harry Noller, MCD biology<br/>
+&#8226; Jane Pinckard, Games and Playable Media</a><br/>
+                  <a href="events/teach-in-options.html">Find out more and register &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>Crown Memorial for former Provost  Eugene Cota-Robles</strong></a><br/>
+      <a style="color: #5d5c5b; text-decoration: none;"><b>3:30 - 5 p.m. | Crown Senior Commons</b>Join Cota-Robles' son Erik, Rosalee Cabrera, Richard Vasquez, Hal Hyde, and other former faculty, staff, and alumni that were touched by this inspiring early leader of UCSC and Crown College share memories and reminisce about his notable impact to campus.</a><br/>
+                  <a href="events/crown-memorial-robles.html">Find out more and register &#187;</a>
+</li>
+<li>
+<a style="text-decoration: none;"><strong><img align="left" alt="Featured Event 3" height="18" src="http://events.ucsc.edu/alumniweekend/2012/images/featured.png" width="21"/> Alumni Wine Reception</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>4 &#8211; 6 p.m. | Porter Dining Hall Patio</b>Unwind with a glass of wine or a cold beer and continue the Teach-In conversations with fellow Banana Slugs.</a><br/>
+                  <a href="events/wine-reception.html">Find out more &#187;</a>
+</li>
+<li>
+<a style="text-decoration: none;"><strong>Arts Alumni Exhibition: Deborah Barlow</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>4:30 - 6:30 p.m. | Porter Faculty Gallery </b>Join us for a reception for arts alumni, friends, and family. Deborah Barlow will present an informal talk about her work, "Material Ephemera."  Refreshments provided.</a><br/>
+                  <a href="events/arts-alumni-exhibit.html">Find out more and register &#187;</a>
+</li>
+<li>
+<a style="text-decoration: none;"><strong>Sesnon Art Gallery Hosts: Dinner Parties Exhibition</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>4:30 - 6:30 p.m.  | Sesnon Art Gallery </b>Join the Sesnon Art Gallery for a reception for alumni interested in food, agriculture, and the arts.</a><br/><a href="events/arts-n-agriculture-exhibit.html">
+                  Find out more and register &#187;
+</a></li>
+<li><a style="text-decoration: none;"><strong>Lavender Reception: Celebrating 15 Years of the Cant&#250; Queer Center</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>5 - 7 p.m. | Cant&#250; Queer Center</b>Center staff, students, and fellow alumni welcome the opportunity to reconnect! We'll let you know what's new and exciting at the Cant&#250; GLBTI Center, and we would love to hear from you as well!
+</a><br/>
+                  <a href="events/lavender-reception.html">Find out more and register &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>Computer Engineering 25th Reunion</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>5 - 6:30 p.m. | Porter College, Hitchcock Lounge</b>
+                 Join fellow alums to celebrate 25 years of the Computer Engineering Department!
+</a><br/>
+                  <a href="events/comp-eng-25.html">Find out more and register &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong> J. Herman Blake Tribute Dinner</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>6 - 9 p.m. | University Center, Bhojwani Room &#8212; $75</b>
+                 Oakes College Founding Provost J. Herman Blake will join us as we honor the foundation he built and the legacy he's left at UCSC.
+</a><br/><a href="events/blake-dinner.html">
+                  Sold out &#187;
+</a></li>
+<li><a style="text-decoration: none;"><strong>Good Times: Pizza &amp; Beer!</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>6 - 8 p.m. | Porter College, Study Center</b>
+                 Roll up your day with an old-school night with college classics&#8212;pizza and beer.
+</a><br/>
+                  <a href="events/pizza-and-beer.html">Find out more and register &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>Young Alumni Networking Mixer</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>8 - 10 p.m. | Motiv</b>
+                 A night of reminiscing, remembering, and revelry. Come back, bring a friend, and join us as we toast to life after college.
+</a><br/>
+                  <a href="events/young-alumni-mixer.html">Find out more and register &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>Lick Observatory 125th Anniversary</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>8 - 11 p.m. | Lick Observatory</b>
+                 Tour the observatory and take a look through the telescopes while you're there!
+</a><br/>
+                  <a href="events/lick-125.html">Sold out &#187;</a>
+</li>
+<!-- 29-->
+<div class="date_container">
+<h2>APR <strong>28</strong></h2>
+<div class="day">SUNDAY</div>
+</div>
+<li><a style="text-decoration: none;"><strong>Merrill College: Honoring Field Study &amp; Merrill Renewal</strong></a><a style="color: #5d5c5b; text-decoration: none;"><b>
+  9:30 a.m. - 12 p.m. | Merrill Provost House</b>Merrill College is celebrating its 45th anniversary with a conversation on the founding values of Merrill College. Join Provost Elizabeth Abrams and founding director of the Field Study program Nick Royal in a conversation about reinvigorating Merrill's founding values in college life today.</a><br/>
+                  <a href="events/merrill-field-study.html">Find out more and register &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>Cowell College Hosts: Dizikes Brunch</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>10 a.m. &#8211; 12 p.m. | Cowell Provost House </b>A brunch for Cowell alumni "In the Company of Friends" as a prelude to the annual Dizikes Concert.</a><br/>
+                  <a href="events/dizikes-brunch.html">Find out more and register &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>The Aesthetic Studies Major: What in the World?</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>10 a.m. &#8211; 12 p.m. | Porter College, Hitchcock Lounge </b>How many times have you tried to explain what in the world it meant to graduate with a major in "aesthetic studies"? We are the original, experimental, interdisciplinary, trailblazing, before Slug was Slug arts champions and practitioners. How did we do it? Come listen to former classmates tell their story of completing the requirements for this major. Hear how it was designed, how it evolved, and where it is now. Light refreshments provided.</a><br/>
+                  <a href="events/aesthetic-studies-event.html">Find out more and register &#187;</a>
+</li>
+<li> <a style="text-decoration: none;"><strong>Stevenson Alumni Brunch</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>10:00 a.m. - 1 p.m. | Stevenson Provost House</b>Stevenson Provost Alice Yang invites Stevenson alumni to join her in her home to reminisce with fellow alumni and learn what is happening at Stevenson today.</a><br/>
+                  <a href="events/stevenson-sunday-events.html">Find out more and register &#187;</a>
+</li>
+<li> <a style="text-decoration: none;"><strong>Digital Arts &amp; New Media Program MFA Exhibition</strong></a><br/>
+      <a style="color: #5d5c5b; text-decoration: none;"><b>10:00 a.m. - 4:00 p.m. | Digital Arts Research Center (DARC) </b>Enjoy an exhibition by graduate students who use advanced technologies for creative potential and social impact.</a><br/>
+                  <a href="events/danm-exhibition.html">Find out more &#187;</a>
+</li>
+<li> <a style="text-decoration: none;"><strong>Marine Lab Tours</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>12 - 5 p.m. | Seymour Marine Discovery Center at Long Marine Lab</b> Come visit the Seymour Marine Discovery Center during Alumni Weekend for the opportunity to take part in one of our daily, docent-led tours. Marvel at one of the largest blue whale skeletons on display in the world, learn about current marine mammal research taking place at UCSC's Long Marine Lab, and see some of the lab's resident marine mammals. Docent-led tours are available several times throughout the day.</a><br/>
+                  <a href="events/marine-lab-tours.html">Find out more &#187;</a>
+</li>
+<li><a style="text-decoration: none;"><strong>Dizikes Concert: Highlighting the Madrigals and Acquire A Cappella Groups</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>12:30 - 1:30 p.m. | Humanities Lecture Hall </b>Humanities Lecture Hall</a><br/>
+                  <a href="events/dizikes-concert.html">Find out more and register &#187;</a>
+</li>
+<li> <a style="text-decoration: none;"><strong>Stevenson Alumni Panel</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>1  &#8211;  3 p.m. | Stevenson College (Fireside, Silverman, Senior Commons, and Stevenson 175)</b>Stevenson alumni will share career advice with current Stevenson students.</a><br/><a href="events/stevenson-sunday-events.html">
+                  Find out more and register &#187;
+</a></li>
+<li><a style="text-decoration: none;"><strong>Leviathan: Celebrating 40 years of Jewish Journalism at UC Santa Cruz</strong></a><br/>
+                  <a style="color: #5d5c5b; text-decoration: none;"><b>3 - 4:30 p.m. | Stevenson College, Fireside Lounge</b>Come celebrate 40 years of Jewish journalism by recounting the history of the Leviathan with a panel discussion and exhibition.</a><br/>
+                  <a href="events/leviathan-event.html">Find out more and register &#187;</a>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+
+<script>
+
+(function ($) {
+  // custom css expression for a case-insensitive contains()
+  jQuery.expr[':'].Contains = function(a,i,m){
+      return (a.textContent || a.innerText || "").toUpperCase().indexOf(m[3].toUpperCase())>=0;
+  };
+
+
+  function listFilter(form_header, list) { // header is any element, list is an unordered list
+    // create and add the filter form to the header
+    var form = $("<form>").attr({"id":"filterform","action":"#"}),
+        input = $("<input>").attr({"id":"filterinput","type":"text", "placeholder":"Search this page for events..."});
+    $(form).append(input).appendTo(form_header);
+    $(input)
+      .change( function () {
+        var filter = $(this).val();
+        if(filter) {
+          // this finds all links in a list that contain the input,
+          // and hide the ones not containing the input while showing the ones that do
+          $(list).find("a:not(:Contains(" + filter + "))").parent().fadeOut('fast');
+          $(list).find("a:Contains(" + filter + ")").parent().fadeIn('fast');
+        } else {
+          $(list).find("li").fadeIn('fast');
+        }
+        return false;
+      })
+    .keyup( function () {
+        // fire the above change event after every letter
+        $(this).change();
+    });
+  }
+
+
+  //ondomready
+  $(function () {
+    listFilter($("#form_header"), $("#list"), $("li"));
+  });
+}(jQuery));
+
+</script>
+
+<!-- [if IE 7]-->
+<link href="../2012/resources/reunion_ie7.css" rel="stylesheet" type="text/css"/>
+<!--[endif] -->
+<!-- [if IE 8]-->
+<link href="../2012/resources/reunion_ie8.css" rel="stylesheet" type="text/css"/>
+<!--[endif] --></div>
+                
+            </div>
+
+            <div class="sidebar" id="subNav" role="navigation">
+                
+                
+<style>
+a.register {
+display: block;
+width: 180px;
+padding: 5px 0px;
+border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-bottom: 1px solid #CCC;
+background: #00458c; /* Old browsers */
+background: -moz-linear-gradient(top,  #609ad6 0%, #00458c 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#609ad6), color-stop(100%,#00458c)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #609ad6 0%,#00458c 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #609ad6 0%,#00458c 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #609ad6 0%,#00458c 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #609ad6 0%,#00458c 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#609ad6', endColorstr='#00458c',GradientType=0 ); /* IE6-9 */
+color: #FFF;
+margin: 24px 0;
+text-align: center;
+text-decoration: none;
+}
+a.register:hover {
+background: #f1b521; /* Old browsers */
+background: -moz-linear-gradient(top,  #ebc872 0%, #f1b521 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ebc872), color-stop(100%,#f1b521)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ebc872 0%,#f1b521 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ebc872 0%,#f1b521 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ebc872 0%,#f1b521 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #ebc872 0%,#f1b521 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebc872', endColorstr='#f1b521',GradientType=0 ); /* IE6-9 */
+}
+</style>
+
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="2schedule.html">Schedule of events</a></li>
+<li><a href="hotels.html">Places to stay</a></li>
+<li><a href="parking_shuttles.html">Parking and shuttles</a></li>
+<li><a href="alumni-weekend-photos.html">Share your photos</a></li>
+<li><a href="postcards/index.html">Invite your friends</a></li>
+<li><a href="https://www.facebook.com/groups/ucscalumniweekend2013/">Join Facebook group</a></li>
+<li><a href="../alumni-weekend-outreach-volunteers.html">Volunteer opportunities</a></li>
+<li><a href="campus-activities.html">Campus activities</a></li>
+</ul>
+<p><a class="register" href="https://securelb.imodules.com/s/1069/index-2-column.aspx?sid=1069&amp;gid=1&amp;pgid=1259&amp;cid=2478">Register Now!</a></p>
+<a href="resources/alumniweekendprogram.pdf"><img alt="Download Events Schedule" height="50" src="images/events-schedule.png" width="180"/></a>
+                <div class="contactBlock">
+<h4>Special Events Office</h4>
+<p>UC Santa Cruz<br/>
+2155 Delaware Avenue<br/>
+Santa Cruz, CA 95060<br/>
+Email: <a href="mailto:specialevents@ucsc.edu">specialevents@ucsc.edu</a><br/>
+Phone: (831) 459-5003</p>
+<br/>
+<!--
+<p><a title="Download events schedule &amp; campus map" href="http://events.ucsc.edu/reunion/2012/doc/arwpdfprogram.pdf"><img width="180" vspace="8" src="/reunion/images/2012/download-program-map.png" height="50" alt="Download program &amp; map" /></a></p>
+-->
+</div>
+            </div>
+
+        </div><!-- /sprflt -->
+        
+        <div class="main-footer">
+          <div class="row" id="footer">
+              <div class="footer-left">
+                  <img alt="University of California" class="seal" height="84" src="https://static.ucsc.edu/_responsive/images/logos/uc-seal.svg" width="84"/>
+<div class="address home">
+<div class="location">UC Santa Cruz, 1156 High Street, Santa Cruz, Ca 95064</div>
+<div class="copyright">&#169;2019 Regents of the University of California. All Rights Reserved.</div>
+</div>
+              </div>
+              <div class="footer-right">
+                  
+
+<div class="social-media">
+            
+        
+        <a href="https://www.twitter.com/ucsc"><i class="fab fa-twitter"></i></a>
+            
+        
+        <a href="https://www.instagram.com/ucsc"><i class="fab fa-instagram"></i></a>
+            
+        
+        <a href="https://www.facebook.com/ucsantacruz"><i class="fab fa-facebook-f"></i></a>
+            
+        
+        <a href="http://youtube.com/ucsantacruz"><i class="fab fa-youtube"></i></a>
+            
+        
+        <a href="http://www.linkedin.com/groups?home=&amp;gid=102708"><i class="fab fa-linkedin-in"></i></a>
+    </div>
+
+<div class="links">
+            
+                            
+        <a href="/feedback/index">Feedback</a> 
+    </div>
+
+              </div>
+          </div>
+          <div class="sub-footer row">
+              <div class="legal">
+                <ul class="legal">
+<li><a href="http://academicaffairs.ucsc.edu/accreditation/">Accreditation</a></li>
+<li><a href="http://diversity.ucsc.edu/eeo-aa/images/non-discrimination.pdf">Non-Discrimination&#160;Policy</a></li>
+<li><a href="http://www.ucsc.edu/about/employment.html">Employment</a></li>
+<li><a href="http://its.ucsc.edu/terms/">Privacy&#160;Policy&#160;&amp;&#160;Terms&#160;of&#160;Use</a></li>
+<li><a href="http://safe.ucsc.edu">Sexual&#160;Violence&#160;Prevention&#160;&amp;&#160;Response</a></li>
+</ul>
+                
+<p class="page-meta">
+    Last modified: April 25, 2013  <span class="check-ip">128.114.113.73</span>
+</p>
+              </div>
+          </div>   
+        </div>
+
+    </div><!-- /content -->
+  </div><!-- /container -->
+</div><!-- /wrap -->
+
+<!-- BLOCK: uniform campus bottom scripts  -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5RFHNC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5RFHNC');</script>
+<!-- End Google Tag Manager -->
+<!-- Siteimprove -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+<!-- end Siteimprove -->
+
+
+<!-- END BLOCK: uniform campus bottom scripts  -->
+
+
+
+</body>
+</html>
