@@ -14,7 +14,7 @@
     
     $.JMSlideshow.defaults      = {
         // options for the jmpress plugin.
-        // you can add much more options here. Check http://shama.github.com/jmpress.js/
+        // you can add much more options here. Check https://shama.github.com/jmpress.js/
         jmpressOpts : {
             // set the viewport
             viewPort        : {
