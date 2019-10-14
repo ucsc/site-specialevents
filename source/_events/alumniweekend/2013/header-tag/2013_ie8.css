@@ -1,0 +1,32 @@
+#mainContent img {
+	 bacgkround-color: transparent;
+}
+ .schedule-text, .ucschappyplace, .gotoyourhappyplace, .sendapostcard, .happyplacetostay, .photoandvideo, .reuniongiving {
+	 display: block;
+	 position: absolute;
+	 color: #FFF !important;
+	 font-size: 13px;
+	 z-index: 21;
+	 text-decoration: none;
+}
+ .schedule-text {
+	 margin: 18px 0 0 30px !important;
+}
+ .ucschappyplace {
+	 margin: 121px 0 0 175px !important;
+}
+ .gotoyourhappyplace {
+	 margin: 23px 0 0 110px;
+}
+ .sendapostcard {
+	 margin: 20px 0 0 140px !important;
+}
+ .happyplacetostay {
+	 margin: 18px 0 0 95px !important;
+}
+ .photoandvideo {
+	 margin: 18px 0 0 30px;
+}
+ .reuniongiving {
+	 margin: 18px 0 0 50px !important;
+}
