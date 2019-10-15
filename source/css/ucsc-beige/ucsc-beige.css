@@ -1,4 +1,4 @@
-/* @override http://static.ucsc.edu/css/ucsc.css */
+/* @override https://static.ucsc.edu/css/ucsc.css */
 
 /* = RESET STYLES */
 
@@ -1143,7 +1143,7 @@ h4.ir { text-indent:-900em;overflow:hidden; }
   #page_bottom a { color:#5D5C5B; text-decoration:underline; }
 
 .home #events .grad { height:34px;
-background:transparent url(http://events.ucsc.edu/commencement/images/graduate_icon.jpg) no-repeat center top;
+background:transparent url(https://events.ucsc.edu/commencement/images/graduate_icon.jpg) no-repeat center top;
 }
 
 
@@ -1225,7 +1225,7 @@ h4 { font-size:12pt !important; }
 
 /**
     Styles for iPhone
-    http://bit.ly/9HcyWZ
+    https://bit.ly/9HcyWZ
     Need to add:
         <meta name="viewport" content="width=device-width" />
     to news article <head> to prevent the page
@@ -1382,7 +1382,7 @@ h4 { font-size:12pt !important; }
 	border-radius: 35px;
   	-web-kit-border-radius: 35px;
  	-moz-kit-border-radius: 35px;
-	background: url(http://www.ucsc.edu/images/banners/campaign-thumb.png) no-repeat left #fff;
+	background: url(https://www.ucsc.edu/images/banners/campaign-thumb.png) no-repeat left #fff;
 	position: absolute;
 	z-index: 2;
 	width: 40px;

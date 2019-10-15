@@ -30,11 +30,11 @@ if(isset($_POST['email'])) {
     $error_message = "";
     $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
   if(!preg_match($email_exp,$email_from)) {
-    $error_message .= header( "Location: http://events.ucsc.edu/alumniweekend/2013/postcards/error.html");
+    $error_message .= header( "Location: https://events.ucsc.edu/alumniweekend/2013/postcards/error.html");
   }
     $string_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
   if(!preg_match($string_exp,$email_sender)) {
-    $error_message .= header( "Location: http://events.ucsc.edu/alumniweekend/2013/postcards/error.html");
+    $error_message .= header( "Location: https://events.ucsc.edu/alumniweekend/2013/postcards/error.html");
   }
  
   if(strlen($error_message) > 0) {
@@ -47,7 +47,7 @@ if(isset($_POST['email'])) {
       return str_replace($bad,"",$string);
     }
     $email_message  = "<html><head></head><body>";
-    $email_message .= "<img src='http://events.ucsc.edu/alumniweekend/2013/postcards/images/email_banner.jpg' alt=''/> <br />";
+    $email_message .= "<img src='https://events.ucsc.edu/alumniweekend/2013/postcards/images/email_banner.jpg' alt=''/> <br />";
     $email_message .= '<h3 style="font-color:#00458c;">Join me at Alumni Weekend!</h3>';
     $email_message .= "To: ".clean_string($email_from)."<br />";
     $email_message .= "From: ".clean_string($email_sender)."<br />";
@@ -64,7 +64,7 @@ $headers .= 'Bcc: skent1@ucsc.edu' . "\r\n";
 'Reply-To: '.$email_sender."\r\n" .
 'X-Mailer: PHP/' . phpversion();
 @mail($email_to ,$email_subject, $email_message, $headers);  
-header( "Location: http://events.ucsc.edu/alumniweekend/2013/postcards/thankyou.html");
+header( "Location: https://events.ucsc.edu/alumniweekend/2013/postcards/thankyou.html");
 ?>
 
 
