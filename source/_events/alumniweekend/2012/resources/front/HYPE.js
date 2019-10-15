@@ -106,7 +106,7 @@ var HYPE = (function HYPE() {
 		watermarkDiv.style.textAlign = "right";
 		watermarkDiv.style.fontSize = "9px";
 		watermarkDiv.style.fontFamily = "Helvetica, Arial, Sans-Serif";
-		watermarkDiv.innerHTML = "<strong><a style = 'color:#777; text-decoration:none; opacity:.75;' href = 'http://www.tumultco.com/hype/'>Built with Hype</a></strong>";
+		watermarkDiv.innerHTML = "<strong><a style = 'color:#777; text-decoration:none; opacity:.75;' href = 'https://www.tumultco.com/hype/'>Built with Hype</a></strong>";
 		contentContainer.appendChild(watermarkDiv);
 	}
 	
@@ -195,7 +195,7 @@ var HYPE = (function HYPE() {
 	}
 	
 	// adapted from David Morrissey's answer in:
-	//    http://stackoverflow.com/questions/2710284/controlling-css-with-javascript-works-with-mozilla-but-not-with-webkit-based-brow
+	//    https://stackoverflow.com/questions/2710284/controlling-css-with-javascript-works-with-mozilla-but-not-with-webkit-based-brow
 	this.addAdditionalCSS = function () {
 		var additionalCSS = ".HYPE_scene {\
 				color: #000;\
@@ -1014,7 +1014,7 @@ var HYPE = (function HYPE() {
 				}
 			} else if(e.type == "mouseout") {
 				// get position and make sure it is really outside the element
-				// code adapted from http://www.quirksmode.org/js/events_properties.html
+				// code adapted from https://www.quirksmode.org/js/events_properties.html
 				var posx = 0;
 				var posy = 0;
 				if(!e) e = window.event;
@@ -1197,7 +1197,7 @@ var HYPE = (function HYPE() {
 		return value;
 	}
 
-	// Color methods from http://www.openjs.com/scripts/graphics/hex_color_rbg_value_converter.php
+	// Color methods from https://www.openjs.com/scripts/graphics/hex_color_rbg_value_converter.php
 
 	//Convert a hex value to its decimal value - the inputted hex must be in the
 	//	format of a hex triplet - the kind we use for HTML colours. The function
@@ -1724,7 +1724,7 @@ var HYPE = (function HYPE() {
 		return -1;
 	}
 	
-	// modified from source found at: http://frugalcoder.us/post/2010/09/13/browser-detection.aspx
+	// modified from source found at: https://frugalcoder.us/post/2010/09/13/browser-detection.aspx
 	this.browserInfo = (function () {
 		var b = {};
 	
@@ -2213,7 +2213,7 @@ var HYPE = (function HYPE() {
 					var embedSource = "<embed ";
 						embedSource += " src = '" + objectEmbedSource + "' ";
 						embedSource += " classid = 'clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B' ";
-						embedSource += " codebase = 'http://www.apple.com/qtactivex/qtplugin.cab' ";
+						embedSource += " codebase = 'https://www.apple.com/qtactivex/qtplugin.cab' ";
 						embedSource += " width = '" + div.style["width"] + "' ";
 						embedSource += " height = '" + div.style["height"] + "' ";
 						embedSource += " enablejavascript = 'true' ";

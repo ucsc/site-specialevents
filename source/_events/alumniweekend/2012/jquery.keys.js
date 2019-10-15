@@ -1,7 +1,7 @@
 /*
     Created by Michael Haren, mharen@gmail.com
     Twitter @mharen
-    Web http://blog.wassupy.com
+    Web https://blog.wassupy.com
     
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the

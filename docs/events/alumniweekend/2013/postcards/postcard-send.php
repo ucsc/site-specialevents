@@ -1,14 +1,14 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
   <title>Postcard</title>
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type" /><!--[if lte IE 7]>
 <meta http-equiv="X-UA-Compatible" content="chrome=1" />
 <![endif]-->
-<link href="http://static.ucsc.edu/css/ucsc.css" rel="stylesheet" type="text/css" /><!-- jQuery and Modernizr  -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js" type="text/javascript">
+<link href="https://static.ucsc.edu/css/ucsc.css" rel="stylesheet" type="text/css" /><!-- jQuery and Modernizr  -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js" type="text/javascript">
 </script>
-<script src="http://static.ucsc.edu/js/modernizr-1.5.min.js" type="text/javascript">
+<script src="https://static.ucsc.edu/js/modernizr-1.5.min.js" type="text/javascript">
 </script>
 <!--FANCY BOX -->
 <!-- Add fancyBox main JS and CSS files -->
@@ -28,7 +28,7 @@
     </script>
 <!--END FANCY BOX -->
 <!--[if lte IE 7]>
-<link rel="stylesheet" type="text/css" href="http://static.ucsc.edu/css/fixie.css" />
+<link rel="stylesheet" type="text/css" href="https://static.ucsc.edu/css/fixie.css" />
 <![endif]--> <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -38,7 +38,7 @@
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -47,10 +47,10 @@
 <meta content="Alumni Weekend - Postcard" property="og:title" />
 <meta content="UC Santa Cruz - Alumni Weekend" property="og:description" />
 <meta content="website" property="og:type" />
-<meta content="http://events.ucsc.edu/alumniweekend/2013/postcards/images/fb-sharing.png" property="og:image" />
+<meta content="https://events.ucsc.edu/alumniweekend/2013/postcards/images/fb-sharing.png" property="og:image" />
 <meta content="UC Santa Cruz - Alumni Weekend" property="og:site_name" />
 <meta content="3644766043421" property="fb:admins" /> 
-<link href='http://fonts.googleapis.com/css?family=Nothing+You+Could+Do' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Nothing+You+Could+Do' rel='stylesheet' type='text/css'>
 <style>
 #mainContent .contentBox { padding: 0!important; border-bottom:none !important; background-color:#f2f0e4 !important; 
 background:#f2f0e4 !important; margin-left: 0px !important;}
@@ -147,7 +147,7 @@ background: none !important;
 </style>
 <!-- SHARE THIS -->
 <script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="https://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">stLight.options({publisher: "a1dfb638-66de-4ce2-af54-f81decd1a9b6"});</script>
  
 </head>
@@ -157,35 +157,35 @@ background: none !important;
    <div id="container">
      <div id="content">
        
-       <a href="http://www.ucsc.edu/index.html" id="logo" title="Return the UCSC home page">UC Santa Cruz home</a>
+       <a href="https://www.ucsc.edu/index.html" id="logo" title="Return the UCSC home page">UC Santa Cruz home</a>
        <ul id="topNav">
-<li><a href="http://my.ucsc.edu" title="Go to the MyUCSC portal">MyUCSC</a></li>
-<li><a href="http://www.ucsc.edu/tools/people.html" title="Find People - UCSC People Search">People</a></li>
-<li><a href="http://www.ucsc.edu/tools/calendars.html" title="View UCSC events, academic, and administrative calendars">Calendars</a></li>
-<li><a href="http://www.ucsc.edu/tools/azindex.html" title="A to Z index of important links">A-Z Index</a></li>
+<li><a href="https://my.ucsc.edu" title="Go to the MyUCSC portal">MyUCSC</a></li>
+<li><a href="https://www.ucsc.edu/tools/people.html" title="Find People - UCSC People Search">People</a></li>
+<li><a href="https://www.ucsc.edu/tools/calendars.html" title="View UCSC events, academic, and administrative calendars">Calendars</a></li>
+<li><a href="https://www.ucsc.edu/tools/azindex.html" title="A to Z index of important links">A-Z Index</a></li>
 </ul> 
 
        <div class="search">
          <!-- Google Custom Search --><div>
-<form action="http://www.ucsc.edu/search" id="cse-search-box"><input name="cx" type="hidden" value="012090462228956765947:d0ywvq7bxee" /> <input name="cof" type="hidden" value="FORID:9" /> <input name="ie" type="hidden" value="UTF-8" /> <label class="hide" for="q">Search</label><input class="query" id="q" name="q" type="text" value="Search UCSC" /> <input alt="Search button" class="srchBtn" src="http://static.ucsc.edu/images/search_button.gif" type="image" /></form>
+<form action="https://www.ucsc.edu/search" id="cse-search-box"><input name="cx" type="hidden" value="012090462228956765947:d0ywvq7bxee" /> <input name="cof" type="hidden" value="FORID:9" /> <input name="ie" type="hidden" value="UTF-8" /> <label class="hide" for="q">Search</label><input class="query" id="q" name="q" type="text" value="Search UCSC" /> <input alt="Search button" class="srchBtn" src="https://static.ucsc.edu/images/search_button.gif" type="image" /></form>
 </div><!-- end GCS -->
        </div>
 
        <ul id="mainNav">
-<li class="first"><a href="http://www.ucsc.edu/about/index.html">About</a></li>
-<li><a href="http://www.ucsc.edu/admissions/index.html">Admissions</a></li>
-<li><a href="http://www.ucsc.edu/academics/index.html">Academics</a></li>
-<li><a href="http://www.ucsc.edu/research/index.html">Research</a></li>
-<li><a href="http://www.ucsc.edu/campus/index.html">Campus Life</a></li>
-<li><a href="http://www.ucsc.edu/visit/index.html">Visit UCSC</a></li>
-<li class="last qsg"><span>Quick Start Guides <img alt="more items when you click" src="http://static.ucsc.edu/images/drop_down_button.gif" /></span> 
+<li class="first"><a href="https://www.ucsc.edu/about/index.html">About</a></li>
+<li><a href="https://www.ucsc.edu/admissions/index.html">Admissions</a></li>
+<li><a href="https://www.ucsc.edu/academics/index.html">Academics</a></li>
+<li><a href="https://www.ucsc.edu/research/index.html">Research</a></li>
+<li><a href="https://www.ucsc.edu/campus/index.html">Campus Life</a></li>
+<li><a href="https://www.ucsc.edu/visit/index.html">Visit UCSC</a></li>
+<li class="last qsg"><span>Quick Start Guides <img alt="more items when you click" src="https://static.ucsc.edu/images/drop_down_button.gif" /></span> 
 <ul>
-<li><a href="http://studentservices.ucsc.edu">Current Students</a></li>
-<li><a href="http://www.ucsc.edu/quickstart/faculty-staff/index.html">Faculty &amp; Staff</a></li>
-<li><a href="http://alumni.ucsc.edu">Alumni</a></li>
-<li><a href="http://www.ucsc.edu/quickstart/prospective-students/index.html">Prospective Students</a></li>
-<li><a href="http://www.ucsc.edu/quickstart/family/index_v2.html">Parents &amp; Family</a></li>
-<li><a href="http://www.ucsc.edu/quickstart/community/index.html">Community</a></li>
+<li><a href="https://studentservices.ucsc.edu">Current Students</a></li>
+<li><a href="https://www.ucsc.edu/quickstart/faculty-staff/index.html">Faculty &amp; Staff</a></li>
+<li><a href="https://alumni.ucsc.edu">Alumni</a></li>
+<li><a href="https://www.ucsc.edu/quickstart/prospective-students/index.html">Prospective Students</a></li>
+<li><a href="https://www.ucsc.edu/quickstart/family/index_v2.html">Parents &amp; Family</a></li>
+<li><a href="https://www.ucsc.edu/quickstart/community/index.html">Community</a></li>
 </ul>
 </li>
 </ul> 
@@ -252,10 +252,10 @@ background: none !important;
          </div>
         
         <div id="footer">
-          <p class="links"><a href="http://www.ucsc.edu/feedback/index.html">Feedback</a></p>
+          <p class="links"><a href="https://www.ucsc.edu/feedback/index.html">Feedback</a></p>
           <p class="address home">UC Santa Cruz, 1156 High Street, Santa Cruz, Ca 95064<br />
 &#169;2012 Regents of the University of California. All Rights Reserved.</p>
-<p class="social-media"><a href="http://www.facebook.com/ucsantacruz"><img alt="Facebook" height="24" src="http://www.ucsc.edu/images/interface/icon_facebook.png" width="48" /></a> <a href="http://twitter.com/ucsc"><img alt="Twitter" height="24" src="http://www.ucsc.edu/images/interface/icon_twitter.png" width="48" /></a> <a href="http://youtube.com/ucsantacruz"><img alt="YouTube" height="24" src="http://www.ucsc.edu/images/interface/icon_youtube.png" width="48" /></a> <a href="http://www.linkedin.com/groups?home=&amp;gid=102708"><img alt="UC Santa Cruz - LinkedIn" height="24" src="http://www.ucsc.edu/images/interface/icon_linkedin.png" width="48" /></a></p>
+<p class="social-media"><a href="https://www.facebook.com/ucsantacruz"><img alt="Facebook" height="24" src="https://www.ucsc.edu/images/interface/icon_facebook.png" width="48" /></a> <a href="https://twitter.com/ucsc"><img alt="Twitter" height="24" src="https://www.ucsc.edu/images/interface/icon_twitter.png" width="48" /></a> <a href="https://youtube.com/ucsantacruz"><img alt="YouTube" height="24" src="https://www.ucsc.edu/images/interface/icon_youtube.png" width="48" /></a> <a href="https://www.linkedin.com/groups?home=&amp;gid=102708"><img alt="UC Santa Cruz - LinkedIn" height="24" src="https://www.ucsc.edu/images/interface/icon_linkedin.png" width="48" /></a></p>
         </div>
        
        </div><!-- /sprflt -->
@@ -320,7 +320,7 @@ $url = selfURL();
 function bit_ly_short_url($url, $format='txt') {
     $login = "ttran34";
     $appkey = "R_a0a0bc0ca1523d0384879e590bf74c27";
-    $bitly_api = 'http://api.bit.ly/v3/shorten?login='.$login.'&apiKey='.$appkey.'&uri='.urlencode($url).'&format='.$format;
+    $bitly_api = 'https://api.bit.ly/v3/shorten?login='.$login.'&apiKey='.$appkey.'&uri='.urlencode($url).'&format='.$format;
     $ch = curl_init();
     curl_setopt($ch,CURLOPT_URL,$bitly_api);
     curl_setopt($ch,CURLOPT_RETURNTRANSFER,1);
