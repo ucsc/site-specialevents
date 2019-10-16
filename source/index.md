@@ -20,7 +20,7 @@ layout: home-page
 
 <div class="events-card-list fade-out-siblings">
 {% assign event-list = site.events | sort: 'date' | where: 'tags','Current' | reverse %}
-{% for event in event-list limit: 3 %}
+{% for event in event-list limit: 3 offset: 1 %}
 
 <a class="events-card" href="{{site.baseurl}}{{ event.url }}.html">
 <div class="events-card-content">
