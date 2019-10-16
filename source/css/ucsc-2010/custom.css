@@ -49,7 +49,7 @@ color:#285991;
 .honoreeDiv
 {
 	border:1px solid #dde6eb;
-	background:#fff url(../images/2010/honoreeInfoBG.gif) no-repeat top left;
+	background:#fff url(../../assets/images/2010/honoreeInfoBG.gif) no-repeat top left;
 	padding:10px;
 	margin:0px;
 	margin-bottom:15px;
@@ -76,7 +76,7 @@ color:#285991;
 	border:1px solid #dde6eb;
 	padding:5px;	
 	padding-left:10px;
-	background:#fff url(../images/2010/event_bground.gif) no-repeat top left;
+	background:#fff url(../../assets/images/2010/event_bground.gif) no-repeat top left;
 	
 }
 h4.eventDate
@@ -84,7 +84,7 @@ h4.eventDate
 	border-bottom:1px solid #ccc;
 	background-color:#dde6eb;
 	padding:5px;	
-	background:#dde6eb url(../images/2010/h_compassrose2.gif) no-repeat top left;
+	background:#dde6eb url(../../assets/images/2010/h_compassrose2.gif) no-repeat top left;
 	text-align:center;
 	font-size:11px;
 	color:#fff;
