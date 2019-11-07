@@ -1,5 +1,5 @@
 ---
-title: Events Archive
+title: Past Events
 layout: full-page
 ---
 {: .underline}
