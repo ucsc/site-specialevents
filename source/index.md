@@ -15,7 +15,7 @@ layout: home-page
 <section id="main-content">
 <div class="grid-container large">
 <section class="heading">
-<h2 class="underline">Special Events</h2>
+<h2 class="underline">Signature Events</h2>
 </section>
 
 <div class="events-card-list fade-out-siblings">
