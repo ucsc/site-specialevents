@@ -1,6 +1,7 @@
 ---
 title: Genomics Institute Summit
 description: Genomics Institute Summit event listing
+category: Notable
 layout: full-page
 ---
 <section id="main-content">

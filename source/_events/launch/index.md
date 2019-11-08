@@ -1,6 +1,7 @@
 ---
 title: Launch!
-description: Launch event listing
+description: We launch. Ideas, dreams, passions, big thoughts, lives, careers.
+category: Notable
 layout: full-page
 ---
 <section id="main-content">

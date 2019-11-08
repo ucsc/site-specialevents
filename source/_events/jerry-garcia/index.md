@@ -1,6 +1,7 @@
 ---
 title: Jerry Garcia's 73rd Birthday
 description: Jerry Garcia's 73rd Birthday event listing
+category: Notable
 layout: full-page
 ---
 <section id="main-content">
