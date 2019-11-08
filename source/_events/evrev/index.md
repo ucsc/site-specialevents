@@ -1,6 +1,7 @@
 ---
 title: Evolutionary | Revolutionary
 description: Evolutionary | Revolutionary event listing
+category: Signature
 layout: full-page
 ---
 <section id="main-content">

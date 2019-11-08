@@ -1,6 +1,7 @@
 ---
 title: Commencement
 description: Commencement event listing
+category: Signature
 layout: full-page
 ---
 

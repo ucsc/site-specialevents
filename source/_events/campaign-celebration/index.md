@@ -1,6 +1,7 @@
 ---
 title: Faculty & Staff Campaign Launch
 description: Faculty & Staff Campaign Launch event listing
+category: Notable
 layout: full-page
 ---
 <section id="main-content">

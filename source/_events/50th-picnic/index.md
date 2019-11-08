@@ -1,6 +1,7 @@
 ---
 title: 50th Anniversary Retired Staff and Faculty Picnic
 description: 50th Anniversary Retired Staff and Faculty Picnic event listing
+category: Notable
 layout: full-page
 ---
 <section id="main-content">

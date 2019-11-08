@@ -1,6 +1,7 @@
 ---
 title: From Books to Moocs
 description: Books to Moocs event listing
+category: Notable
 layout: full-page
 ---
 <section id="main-content">

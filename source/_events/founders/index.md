@@ -1,6 +1,7 @@
 ---
 title: Founder Celebrations
-description: Founder Celebrations event listing
+description: We will take this moment to celebrate alumni and faculty who exemplify the best of UC Santa Cruz.
+category: Signature
 layout: full-page
 ---
 <section id="main-content">

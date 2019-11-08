@@ -1,6 +1,7 @@
 ---
 title: Alumni Weekend 2011-2014
 description: Alumni Weekend from 2011 to 2014
+category: Signature
 layout: full-page
 ---
 <section id="main-content">

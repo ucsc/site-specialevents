@@ -1,6 +1,7 @@
 ---
 title: UC Santa Cruz Friends Holiday Party 2014
-description: UC Santa Cruz Friends Holiday Party 2014 event listing
+description: UC Santa Cruz Friends Holiday Party: Connect and have fun with UC Santa Cruz
+category: Notable
 layout: full-page
 ---
 <section id="main-content">

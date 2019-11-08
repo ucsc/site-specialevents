@@ -1,6 +1,7 @@
 ---
 title: Farm & Garden
-description: Farm & Garden event listing
+description: UC Santa Cruz Farm & Garden Benefit Dinner
+category: Signature
 layout: full-page
 ---
 <section id="main-content">

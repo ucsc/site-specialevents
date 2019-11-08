@@ -1,6 +1,7 @@
 ---
 title: The attics of our lives - UC Santa Cruz
 description: The attics of our lives event listing
+category: Notable
 layout: full-page
 ---
 <section id="main-content">
