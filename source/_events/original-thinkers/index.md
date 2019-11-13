@@ -1,6 +1,7 @@
 ---
 title: The Original Thinkers Series
-description: The Original Thinkers Series event listing
+description: Please join us for an evening of conversation and connection
+category: Signature
 layout: full-page
 ---
 <section id="main-content">

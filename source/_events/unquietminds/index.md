@@ -1,6 +1,7 @@
 ---
 title: Unquite Minds
-description: Unquite Minds event listing
+description: "A Gala Dinner Spiced with Tantalizing Talks"
+category: Notable
 layout: full-page
 ---
 <section id="main-content">

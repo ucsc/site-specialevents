@@ -1,6 +1,7 @@
 ---
 title: Scholarship Benefit Dinner
-description: Scholarship Benefit Dinner event listing
+description: "Join us for an inspiring evening as we gather in support of students."
+category: Signature
 layout: full-page
 ---
 <section id="main-content">

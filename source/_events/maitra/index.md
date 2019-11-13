@@ -1,6 +1,7 @@
 ---
 title: Sidhartha Maitra Memorial Lecture
-description: Sidhartha Maitra Memorial Lecture event listing
+description: Annual Sidhartha Maitra Memorial Lecture
+category: Lecture
 layout: full-page
 ---
 <section id="main-content">

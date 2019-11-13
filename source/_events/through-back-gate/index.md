@@ -1,6 +1,7 @@
 ---
 title: Through the Back Gate
-description: Through the Back Gate event listing
+description: "Insider’s view of the UC Santa Cruz Farm and UC Santa Cruz Arboretum & Botanic Garden"
+category: Notable
 layout: full-page
 ---
 <section id="main-content">

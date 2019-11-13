@@ -1,6 +1,6 @@
 ---
 title: Jerry Garcia's 73rd Birthday
-description: Jerry Garcia's 73rd Birthday event listing
+description: Jerry Garcia's 73rd Birthday at the Santa Cruz Museum of Art and History
 category: Notable
 layout: full-page
 ---

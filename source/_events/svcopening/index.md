@@ -1,6 +1,7 @@
 ---
 title: Silicon Valley Campus Grand Opening
-description: Silicon Valley Campus Grand Opening event listing
+description: "The opening celebration of the UC Santa Cruz Silicon Valley Campus, a multidisciplinary teaching and research hub"
+category: Notable
 layout: full-page
 ---
 <section id="main-content">

@@ -1,6 +1,6 @@
 ---
 title: Commencement
-description: Commencement event listing
+description: UC Santa Cruz Commencement celebration
 category: Signature
 layout: full-page
 ---

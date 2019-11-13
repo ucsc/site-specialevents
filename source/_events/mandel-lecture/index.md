@@ -1,6 +1,7 @@
 ---
 title: Mandel Lectures
-description: Mandel Lectures event listing
+description: "After almost 10 years in space, NASA's Kepler Mission was recently retired, but not without making an indelible imprint on humankind's understanding of the universe."
+category: Lecture
 layout: full-page
 ---
 <section id="main-content">

@@ -1,6 +1,6 @@
 ---
 title: A Conversation About Mass Incarceration Solitary Confinement, and the Future of Criminal Justice Reform
-description: Criminal Justice Reform event listing
+description: The Future of Criminal Justice Reform
 category: Lecture
 layout: full-page
 ---
