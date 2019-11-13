@@ -8,52 +8,35 @@ layout: full-page
 
 ### Signature Events
 
+{% assign items_grouped = site.events | where: 'category','Signature' %}
 <div class="archive-container">
-{% assign items_grouped = site.events | where: 'event-type','Signature Event' | sort: 'date' | group_by: 'category' %}
 {% for group in items_grouped %}
-	<h4>{{group.name}}</h4>
-		<div class="archive-year">
-			<ul>
-			{% for item in group.items reversed %}
-				<li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.billboard.year }}</a></li>
-			{% endfor %}
-			</ul>
-		</div>
+	<div class="archive-year">
+		<h4><a href="{{ group.url }}">{{group.title}}</a></h4>
+		<p>{{ group.description }}</p>
+	</div>
 {% endfor %}
 </div>
 
 
 ### Notable Events
-
 <div class="archive-container">
-{% assign items_grouped = site.events | where: 'event-type','Notable Event' | sort: 'date' | group_by: 'category' %}
+{% assign items_grouped = site.events | where: 'category','Notable' %}
 {% for group in items_grouped %}
-	<h4>{{group.name}}</h4>
-		<div class="archive-year">
-			<ul>
-			{% for item in group.items reversed %}
-				<li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.billboard.year }}</a></li>
-			{% endfor %}
-			</ul>
-		</div>
+	<div class="archive-year">
+		<h4><a href="{{ group.url }}">{{group.title}}</a></h4>
+		<p>{{ group.description }}</p>
+	</div>
 {% endfor %}
 </div>
-
 
 ### Lecture Series
-
 <div class="archive-container">
-{% assign items_grouped = site.events | where: 'event-type','Lecture Series' | sort: 'date' | group_by: 'category' %}
-{% for group in items_grouped reversed %}
-	<h4>{{group.name}}</h4>
-		<div class="archive-year">
-			<ul>
-			{% for item in group.items reversed %}
-				<li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.billboard.year }}</a></li>
-			{% endfor %}
-			</ul>
-		</div>
+{% assign items_grouped = site.events | where: 'category','Lecture' %}
+{% for group in items_grouped %}
+	<div class="archive-year">
+		<h4><a href="{{ group.url }}">{{group.title}}</a></h4>
+		<p>{{ group.description }}</p>
+	</div>
 {% endfor %}
 </div>
-
-
