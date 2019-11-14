@@ -7,7 +7,7 @@ order: 3
 
 layout: page
 
-published: false
+published: true
 ---
 {: .underline}
 ## {{ page.title }}
