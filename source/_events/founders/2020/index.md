@@ -6,8 +6,7 @@ nav-collection: 2020 Founders
 
 order: 1
 
-event-type: Signature Event
-category: Founders Celebrations
+category: Signature Event
 
 tags:
   - Founders

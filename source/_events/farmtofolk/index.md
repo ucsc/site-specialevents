@@ -1,7 +1,12 @@
 ---
 title: Farm & Garden
-description: Farm & Garden event listing
+description: UC Santa Cruz Farm & Garden Benefit Dinner
+category: Signature
 layout: full-page
+
+#### date of the latest event to sort
+date: "2018-08-19"
+
 ---
 <section id="main-content">
 <div class="grid-container large">

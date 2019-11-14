@@ -1,7 +1,12 @@
 ---
 title: A Conversation About Mass Incarceration Solitary Confinement, and the Future of Criminal Justice Reform
-description: Criminal Justice Reform event listing
+description: The Future of Criminal Justice Reform
+category: Lecture
 layout: full-page
+
+#### date of the latest event to sort
+date: "2018-05-22"
+
 ---
 <section id="main-content">
 <div class="grid-container large">

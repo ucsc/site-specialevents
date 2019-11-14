@@ -1,7 +1,12 @@
 ---
 title: Faculty & Staff Campaign Launch
 description: Faculty & Staff Campaign Launch event listing
+category: Notable
 layout: full-page
+
+#### date of the latest event to sort
+date: "2013-10-16"
+
 ---
 <section id="main-content">
 <div class="grid-container large">

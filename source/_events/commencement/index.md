@@ -1,7 +1,12 @@
 ---
 title: Commencement
-description: Commencement event listing
+description: UC Santa Cruz Commencement celebration
+category: Signature
 layout: full-page
+
+#### date of the latest event to sort
+date: "2019-06-14"
+
 ---
 
 <section id="main-content">
