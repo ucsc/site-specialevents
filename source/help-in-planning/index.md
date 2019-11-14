@@ -1,8 +1,12 @@
 ---
-title: Campus Venues
-description: All UC Santa Cruz event venues
-layout: full-page-narrow
-permalink: campus-venues.html
+title: Help in Planning
+description: UC Santa Cruz campus event planning information
+
+nav-collection: Help in Planning
+order: 1
+
+layout: page
+permalink: help-in-planning.html
 ---
 
 ## {{ page.title }}
