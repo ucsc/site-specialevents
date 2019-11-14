@@ -1,6 +1,6 @@
 ---
 title: 50th Anniversary Retired Staff and Faculty Picnic
-description: 50th Anniversary Retired Staff and Faculty Picnic event listing
+description: "Celebrate UC Santa Cruz's 50th Anniversary at a Retired Staff and Faculty Picnic."
 category: Notable
 layout: full-page
 

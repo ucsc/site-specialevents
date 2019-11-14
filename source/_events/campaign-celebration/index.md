@@ -1,6 +1,6 @@
 ---
 title: Faculty & Staff Campaign Launch
-description: Faculty & Staff Campaign Launch event listing
+description: Celebrate the public launch of The Campaign for UC Santa Cruz
 category: Notable
 layout: full-page
 

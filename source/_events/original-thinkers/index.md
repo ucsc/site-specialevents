@@ -1,6 +1,6 @@
 ---
 title: The Original Thinkers Series
-description: Please join us for an evening of conversation and connection
+description: An evening of conversation and connection
 category: Signature
 layout: full-page
 

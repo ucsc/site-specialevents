@@ -1,6 +1,6 @@
 ---
 title: Sidhartha Maitra Memorial Lecture
-description: Annual Sidhartha Maitra Memorial Lecture
+description: The Annual Sidhartha Maitra Memorial Lecture
 category: Lecture
 layout: full-page
 
