@@ -3,6 +3,10 @@ title: Unquite Minds
 description: "A Gala Dinner Spiced with Tantalizing Talks"
 category: Notable
 layout: full-page
+
+#### date of the latest event to sort
+date: "2013-06-1"
+
 ---
 <section id="main-content">
 <div class="grid-container large">

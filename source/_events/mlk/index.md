@@ -3,6 +3,10 @@ title: Martin Luther Jr. Convocation
 description: Annual convocation celebrates the life and dream of Dr. Martin Luther King Jr.
 category: Signature
 layout: full-page
+
+#### date of the latest event to sort
+date: "2019-02-11"
+
 ---
 <section id="main-content">
 <div class="grid-container large">

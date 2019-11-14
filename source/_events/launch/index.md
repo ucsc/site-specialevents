@@ -3,6 +3,10 @@ title: Launch!
 description: We launch. Ideas, dreams, passions, big thoughts, lives, careers.
 category: Notable
 layout: full-page
+
+#### date of the latest event to sort
+date: "2014-04-25"
+
 ---
 <section id="main-content">
 <div class="grid-container large">

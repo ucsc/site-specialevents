@@ -3,6 +3,9 @@ title: Founder Celebrations
 description: We will take this moment to celebrate alumni and faculty who exemplify the best of UC Santa Cruz.
 category: Signature
 layout: full-page
+
+#### date of the latest event to sort
+date: "2020-10-20"
 ---
 <section id="main-content">
 <div class="grid-container large">

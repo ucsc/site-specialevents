@@ -3,6 +3,10 @@ title: A Monument Man in the Courtroom
 description: "A lecture by UC Hastings College of the Law Professor Morris Ratner"
 category: Lecture
 layout: full-page
+
+#### date of the latest event to sort
+date: "2017-04-07"
+
 ---
 <section id="main-content">
 <div class="grid-container large">

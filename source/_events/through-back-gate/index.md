@@ -3,6 +3,10 @@ title: Through the Back Gate
 description: "Insider’s view of the UC Santa Cruz Farm and UC Santa Cruz Arboretum & Botanic Garden"
 category: Notable
 layout: full-page
+
+#### date of the latest event to sort
+date: "2018-09-8"
+
 ---
 <section id="main-content">
 <div class="grid-container large">

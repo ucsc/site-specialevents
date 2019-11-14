@@ -3,6 +3,10 @@ title: Evolutionary | Revolutionary
 description: Evolutionary | Revolutionary event listing
 category: Signature
 layout: full-page
+
+#### date of the latest event to sort
+date: "2018-05-22"
+
 ---
 <section id="main-content">
 <div class="grid-container large">
