@@ -1,6 +1,6 @@
 ---
 title: Robert Reich on Saving Capitalism
-description: "lease join us as we dedicate Rachel Carson College (formerly College Eight) and celebrate UC Santa Cruz’s legacy of environmentalism"
+description: '"Saving Capitalism: For the Many, Not the Few"'
 category: Lecture
 layout: full-page
 

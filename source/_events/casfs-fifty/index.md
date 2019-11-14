@@ -1,6 +1,6 @@
 ---
 title: First 50 Celebration, UCSC Farm & Garden
-description: First 50 Celebration, UCSC Farm & Garden event listing
+description: The First Fifty Celebration’s three days of events combine an engaging lineup of speakers, workshops, tours, and music, with great local food and time for mingling with old-timers and newcomers to the sustainable agriculture community
 category: Signature
 layout: full-page
 

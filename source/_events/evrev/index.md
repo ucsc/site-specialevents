@@ -1,6 +1,6 @@
 ---
 title: Evolutionary | Revolutionary
-description: Evolutionary | Revolutionary event listing
+description: A remarkable evening of art, science and life.
 category: Signature
 layout: full-page
 

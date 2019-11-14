@@ -1,6 +1,6 @@
 ---
 title: The attics of our lives - UC Santa Cruz
-description: The attics of our lives event listing
+description: A preview exhibit of the Grateful Dead Archive
 category: Notable
 layout: full-page
 
