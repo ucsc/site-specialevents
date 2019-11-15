@@ -8,7 +8,7 @@
             {% endif %}
             {% if page.nav-collection == pagenav and page.order >= 1 %}
               <ul class="menu vertical nested">
-                <li><a href="{{ site.baseurl }}{{ event.url }}" aria-label="">{{ page.title }}</a></li>
+                <li><a href="{{ site.baseurl }}{{ page.url }}" aria-label="">{{ page.title }}</a></li>
               </ul>
             {% endif%}
           </li>
@@ -18,9 +18,9 @@
       {% for event in site.events reversed %}
         <li class="">
           {% if event.nav-collection == eventnav and event.order <= 1 %}
-            <a class="section-title" href="{{ site.baseurl }}{{ event.url }}" aria-label="">Home</a>
+            <a class="section-title" href="{{ site.baseurl }}{{ event.url }}" aria-label="">{{ event.title }}</a>
           {% endif %}
-          {% if event.nav-collection == eventnav and event.order >= 1 %}
+          {% if event.nav-collection == eventnav and event.order >= 2 %}
           <ul class="menu vertical nested">
       			<li><a href="{{ site.baseurl }}{{ event.url }}" aria-label="">{{ event.title }}</a></li>
           </ul>
