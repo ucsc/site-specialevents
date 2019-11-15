@@ -1,12 +1,11 @@
 ---
-title: Help in Planning
+title: Campus Venues
 description: UC Santa Cruz campus event planning information
 
-nav-collection: Campus Venues
+nav-collection: Help in Planning
 order: 2
 
 layout: page
-permalink: help-in-planning.html
 ---
 
 ## {{ page.title }}

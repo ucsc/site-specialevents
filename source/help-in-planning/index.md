@@ -6,7 +6,6 @@ nav-collection: Help in Planning
 order: 1
 
 layout: page
-permalink: help-in-planning.html
 ---
 
 ## {{ page.title }}
