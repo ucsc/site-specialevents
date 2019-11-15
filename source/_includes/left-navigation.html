@@ -1,22 +1,32 @@
 <div id="page-menu">
     <ul class="vertical menu">
-
-        <li class="">
-            {% assign pagenav = page.nav-collection %}
-            {% for event in site.events reversed %}
-            {% if event.nav-collection == pagenav and event.order <= 1 %}
-            <a class="section-title" href="{{ site.baseurl }}{{ event.url }}" aria-label="">Home</a>
+      {% assign pagenav = page.nav-collection %}
+      {% for page in site.pages reversed %}
+          <li class="">
+            {% if page.nav-collection == pagenav and page.order <= 1 %}
+              <a class="section-title" href="{{ site.baseurl }}{{ page.url }}" aria-label="">Home</a>
             {% endif %}
-            {% endfor %}
-            <ul class="menu vertical nested">
-				{% for event in site.events reversed %}
-					{% if event.nav-collection == pagenav and event.order >= 2 %}
-					<li><a href="{{ site.baseurl }}{{ event.url }}" aria-label="">{{ event.title }}</a></li>
-					{% endif %}
-				{% endfor %}
-            </ul>
+            {% if page.nav-collection == pagenav and page.order >= 1 %}
+              <ul class="menu vertical nested">
+                <li><a href="{{ site.baseurl }}{{ page.url }}" aria-label="">{{ page.title }}</a></li>
+              </ul>
+            {% endif%}
+          </li>
+        
+      {% endfor %}
+      {% assign eventnav = page.nav-collection %}
+      {% for event in site.events reversed %}
+        <li class="">
+          {% if event.nav-collection == eventnav and event.order <= 1 %}
+            <a class="section-title" href="{{ site.baseurl }}{{ event.url }}" aria-label="">{{ event.title }}</a>
+          {% endif %}
+          {% if event.nav-collection == eventnav and event.order >= 2 %}
+          <ul class="menu vertical nested">
+      			<li><a href="{{ site.baseurl }}{{ event.url }}" aria-label="">{{ event.title }}</a></li>
+          </ul>
+          {% endif %}
         </li>
         
+      {% endfor %}
     </ul>
-</div>
-            
+</div> 
