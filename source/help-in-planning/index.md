@@ -23,4 +23,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu feugiat nisi.
 	- [Shuttle Rentals](https://taps.ucsc.edu/event-parking/shuttle-rental.html)
 	- [Bus Parking](https://taps.ucsc.edu/parking/bus-parking.html)
 	- [Performing Arts Parking](https://taps.ucsc.edu/parking/performing-arts-parking.html)
-
+- #### [Map and Directions](https://www.ucsc.edu/visit/maps-directions.html)

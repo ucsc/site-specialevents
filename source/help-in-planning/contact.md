@@ -11,6 +11,8 @@ permalink: /help-in-planning/contact.html
 
 ## {{ page.title }} Special Events Offices
 
+![Students took picture with Sammy](/assets/images/contact-banner.jpg){:class="img-full"}
+
 **Email:** [specialevents@ucsc.edu](mailto:specialevents@ucsc.edu)<br />
 **Phone:** 931-459-5003
 
