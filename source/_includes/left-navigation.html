@@ -4,7 +4,7 @@
       {% for page in site.pages reversed %}
           <li class="">
             {% if page.nav-collection == pagenav and page.order <= 1 %}
-              <a class="section-title" href="{{ site.baseurl }}{{ page.url }}" aria-label="">Home</a>
+              <a class="section-title" href="{{ site.baseurl }}" aria-label="">Home</a>
             {% endif %}
             {% if page.nav-collection == pagenav and page.order >= 1 %}
               <ul class="menu vertical nested">
