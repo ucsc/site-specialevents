@@ -1,6 +1,6 @@
 ---
 title: Contact Information
-description: Contact information of special events staff
+description: Contact information
 
 nav-collection: Help in Planning
 order: 2
