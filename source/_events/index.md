@@ -21,7 +21,7 @@ layout: full-page
 
 ### Notable Events
 <div class="archive-container">
-{% assign items_grouped = site.events | where: 'category','Notable' | sort: 'date' %}
+{% assign items_grouped = site.events |  sort: 'date' | where: 'category','Notable' %}
 {% for group in items_grouped  reversed %}
 	<div class="archive-year">
 		<h4><a href="{{ group.url }}">{{group.title}}</a></h4>
@@ -32,7 +32,7 @@ layout: full-page
 
 ### Lecture Series
 <div class="archive-container">
-{% assign items_grouped = site.events | where: 'category','Lecture' | sort: 'date' %}
+{% assign items_grouped = site.events |  sort: 'date' | where: 'category','Lecture' %}
 {% for group in items_grouped reversed %}
 	<div class="archive-year">
 		<h4><a href="{{ group.url }}">{{group.title}}</a></h4>
