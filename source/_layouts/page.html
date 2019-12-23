@@ -8,49 +8,26 @@
 
 
 <div id="page-content" id="main-content">
-        
-                
-                
-        
-            <div class="layout-two-column large sidebar-left">
-                <div class="wrap">
-                    <div class="inner">
-        
-                        <div class="column-main">
-        
-                            {{ content }}
-        
-        
-                            <div class="last-mod-date">Last Modified: {{ site.time | date: '%B %d, %Y' }}</div>
-                        </div>
-        
-                        <div class="column-support">
-                            
-                            <div class="show-for-xlarge">
-                                <div class="nav-sidebar">
-            
-                                    <div class="page-menu-header" data-responsive-toggle="page-menu" data-hide-for="xlarge">
-                                        <div class="page-menu-trigger" data-toggle="page-menu">In This Section</div>
-                                    </div>
-            
-                                    {% include left-navigation.html%}
-
-                                 </div>
-            
-                            </div>
-        
-                        </div>
-        
-        
-                    </div>
-        
-                </div>
-        
-        
-            </div>
-        
-        
-         
+  <div class="layout-two-column large sidebar-left">
+    <div class="wrap">
+      <div class="inner">
+        <div class="column-main">
+          {{ content }}
+          <div class="last-mod-date">Last Modified: {{ site.time | date: '%B %d, %Y' }}</div>
         </div>
+        <div class="column-support">
+          <div class="show-for-xlarge">
+            <div class="nav-sidebar">
+              <div class="page-menu-header" data-responsive-toggle="page-menu" data-hide-for="xlarge">
+                <div class="page-menu-trigger" data-toggle="page-menu">In This Section</div>
+              </div>
+              {% include left-navigation.html%}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 {% include main-footer.html%}
