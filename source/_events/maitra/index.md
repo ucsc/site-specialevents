@@ -1,7 +1,7 @@
 ---
 title: Sidhartha Maitra Memorial Lecture
 description: The Annual Sidhartha Maitra Memorial Lecture
-category: Lecture
+category: Signature
 layout: full-page
 
 #### date of the latest event to sort
