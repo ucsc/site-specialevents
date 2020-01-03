@@ -1,7 +1,6 @@
 ---
 title: Genomics Institute Summit
 description: UC Santa Cruz has pioneered genomics research, using genomes to empower the global scientific community to develop breakthroughs in the areas of health and evolutionary biology
-category: Notable
 layout: full-page
 
 #### date of the latest event to sort
