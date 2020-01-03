@@ -1,5 +1,5 @@
 ---
-title: Living Legends
+title: Foundation Medal/Living Legends
 description: The UC Santa Cruz Foundation Medal recognizes individuals of exceptionally distinguished achievement whose work and contribution to society exemplify the vision and ideals of UC Santa Cruz
 category: Signature
 layout: full-page

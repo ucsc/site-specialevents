@@ -1,6 +1,6 @@
 ---
-title: A Monument Man in the Courtroom
-description: "A lecture by UC Hastings College of the Law Professor Morris Ratner"
+title: Social Justice Lecture Series
+description: "UC Santa Cruz Social Justice lecture series"
 category: Lecture
 layout: full-page
 
@@ -15,6 +15,6 @@ date: "2017-04-07"
 </section>
 
 <div class="events-card-list fade-out-siblings">
-{% assign event-list = site.events | sort: 'date' | where: 'tags','Ratner Lecture' | reverse %}
+{% assign event-list = site.events | sort: 'date' | where: 'tags','Social Justices' | reverse %}
 
 {% include event-listing.html %}
