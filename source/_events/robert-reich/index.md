@@ -1,7 +1,7 @@
 ---
 title: Robert Reich on Saving Capitalism
 description: '"Saving Capitalism: For the Many, Not the Few"'
-category: Lecture
+category: Notable
 layout: full-page
 
 #### date of the latest event to sort
