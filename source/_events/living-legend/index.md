@@ -15,6 +15,6 @@ date: "2019-02-02"
 </section>
 
 <div class="events-card-list fade-out-siblings">
-{% assign event-list = site.events | sort: 'date' | where: 'tags','Living Legends' | reverse %}
+{% assign event-list = site.events | sort: 'date' | where: 'tags','Foundation Medal/Living Legends' | reverse %}
 
 {% include event-listing.html %}
