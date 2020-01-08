@@ -86,6 +86,7 @@ Emcee:
   link: https://specialevents.ucsc.edu/founders/2018/emcee.html
 
 layout: landing
+published: false
 ---
 
 ## Founders Celebration Dinner
