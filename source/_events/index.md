@@ -8,7 +8,7 @@ layout: full-page
 
 ### Signature Events
 
-{% assign items_grouped = site.events | where: 'category','Signature' %}
+{% assign items_grouped = site.events | sort:'date' | where: 'category','Signature' %}
 <div class="archive-container">
 {% for group in items_grouped reversed %}
 	<div class="archive-year">
