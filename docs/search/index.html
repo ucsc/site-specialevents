@@ -194,7 +194,7 @@
 
 <section class="grid-centered" id="main-content">
 	<div class="grid-container medium">
-	<p>Results:</p>
+	<!--<p>Results:</p>
 <script>
   (function() {
     var cx = '005327232218527181464:abxmviude2w';
@@ -207,8 +207,8 @@
   })();
 </script>
 <gcse:searchresults-only></gcse:searchresults-only>
-
-<!--<ul id="search-results"></ul>
+-->
+<ul id="search-results"></ul>
 
 <script>
   window.store = {
@@ -2219,7 +2219,6 @@
 </script>
 <script src="/js/lunr.min.js"></script>
 <script src="/js/search.js"></script>
--->
 
 	</div>
 </section>
@@ -2339,7 +2338,8 @@
                 <h2 class="mt-25">Search UCSC:</h2>
                 <form action="/search/index.html" method="get" id="sitesearch">
                     <div class="input-group">
-                        <input class="input-group-field" type="search" id="q" class="query" name="q" placeholder="Search this site">
+                        <input class="input-group-field" type="search" id="searchInput" name="query" placeholder="Search this site">
+                        <!--<input class="input-group-field" type="search" id="q" class="query" name="q" placeholder="Search this site">-->
                         <div class="input-group-button">
                                 <a class="button secondary" href="javascript:;" onclick="document.getElementById('sitesearch').submit();"><i class="fas fa-search"></i> <span class="show-for-large">Search</span></a>
                         </div>
