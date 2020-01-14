@@ -1,7 +1,7 @@
 ---
 title: The Original Thinkers Series
 description: An evening of conversation and connection
-category: Signature
+category: Lecture
 layout: full-page
 
 #### date of the latest event to sort
