@@ -32,3 +32,8 @@ status = 301
 from = "/events/faculty-research/"
 to = "https://senate.ucsc.edu/committees/cfrl-committee-on-faculty-research-lecture/index.html"
 status = 301
+
+[[redirects]]
+from = "/events/noel-king/"
+to = "https://merrill.ucsc.edu/history/nqk-history/nqking-lecture/index.html"
+status = 301
