@@ -22,3 +22,7 @@ from = "/events/sinsheimer-lecture/2016/*"
 to = "https://calendar.ucsc.edu/event/2016_robert_l_sinsheimer_distinguished_lecture_in_biology#.Xh0Rmi2ZPUI"
 status = 301
 
+[[redirects]]
+from = "/events/morton-marcus/*"
+to = "https://thi.ucsc.edu/projects/morton-marcus-poetry-reading/"
+status = 301
