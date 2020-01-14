@@ -26,3 +26,9 @@ status = 301
 from = "/events/morton-marcus/"
 to = "https://thi.ucsc.edu/projects/morton-marcus-poetry-reading/"
 status = 301
+
+
+[[redirects]]
+from = "/events/faculty-research/"
+to = "https://senate.ucsc.edu/committees/cfrl-committee-on-faculty-research-lecture/index.html"
+status = 301
