@@ -37,3 +37,8 @@ status = 301
 from = "/events/noel-king/"
 to = "https://merrill.ucsc.edu/history/nqk-history/nqking-lecture/index.html"
 status = 301
+
+[[redirects]]
+from = "/events/emeriti-lectures/"
+to = "https://emeriti.ucsc.edu/History/Past%20Emeriti%20Lectures.html"
+status = 301
