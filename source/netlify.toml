@@ -11,14 +11,14 @@ status = 301
 
 
 [[redirects]]
-from = "/events/sinsheimer-lecture/2014/*"
+from = "/events/sinsheimer-lecture/2014/"
 to = "https://calendar.ucsc.edu/event/2014_robert_l_sinsheimer_distinguished_lecture_in_biology#.Xh0RzS2ZPUI"
 status = 301
 
 
 
 [[redirects]]
-from = "/events/sinsheimer-lecture/2016/*"
+from = "/events/sinsheimer-lecture/2016/"
 to = "https://calendar.ucsc.edu/event/2016_robert_l_sinsheimer_distinguished_lecture_in_biology#.Xh0Rmi2ZPUI"
 status = 301
 
