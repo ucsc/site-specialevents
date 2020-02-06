@@ -13,13 +13,13 @@
   <div class="layout-two-column large">
     <div class="wrap">
       <div class="inner">
-         <!-- content -->  
+         <!-- content -->
         <div class="column-main">
-         
+
          {{ content }}
 
         <!-- Speaker profile listing with photos -->
-        {% if page.speaker %}
+        {% if page.speaker != null %}
         <h2>The awards presentation will include:</h2>
          <div class="profile-list owl-carousel">
           {% for speaker in page.speaker %}
@@ -42,7 +42,7 @@
           </div>
           {% endif %}
           <!-- End profile with photos -->
-          
+
         </div>
         <div class="column-support">
           <div class="content-block">
@@ -57,12 +57,12 @@
                   <span class="button-text"><strong class="blue-text">{{ event.title }}</strong> </span>
                   </a>
                 </li>
-                
+
               {% endif %}
               {% endfor %}
             </ul>
             {% endif %}
-            
+
             <!-- End Landing page links -->
             <!-- Right sidebar speakers listing -->
             {% if page.speaker.name != "" %}
@@ -84,18 +84,18 @@
             <!-- Right sidebar address -->
               {% if page.location.address != "" %}
                 <h5 class="blue-text">Locations:</h5>
-                <p>{{ page.location.address }} <a href="{{ page.location.addresslink }}" class="btn-link">map <i class="fas fa-map"></i></a></p> 
-              {% endif %} 
+                <p>{{ page.location.address }} <a href="{{ page.location.addresslink }}" class="btn-link">map <i class="fas fa-map"></i></a></p>
+              {% endif %}
             <!-- End right sidebar address -->
             <!-- Register button -->
               <p>
                 <a class="button primary expanded" href="{{ page.registration }}">Register Now</a>
               </p>
-            <!-- End register button -->                  
+            <!-- End register button -->
           </div>
         </div>
-            
-          
+
+
         </div>
       </div>
     </div>

@@ -11,14 +11,14 @@ status = 301
 
 
 [[redirects]]
-from = "/events/sinsheimer-lecture/2014"
+from = "/events/sinsheimer-lecture/2014/index.html"
 to = "https://calendar.ucsc.edu/event/2014_robert_l_sinsheimer_distinguished_lecture_in_biology#.Xh0RzS2ZPUI"
 status = 301
 
 
 
 [[redirects]]
-from = "/events/sinsheimer-lecture/2016"
+from = "/events/sinsheimer-lecture/2016/index.html"
 to = "https://calendar.ucsc.edu/event/2016_robert_l_sinsheimer_distinguished_lecture_in_biology#.Xh0Rmi2ZPUI"
 status = 301
 
@@ -36,4 +36,14 @@ status = 301
 [[redirects]]
 from = "/events/noel-king/"
 to = "https://merrill.ucsc.edu/history/nqk-history/nqking-lecture/index.html"
+status = 301
+
+[[redirects]]
+from = "/events/emeriti-lectures/"
+to = "https://emeriti.ucsc.edu/History/Past%20Emeriti%20Lectures.html"
+status = 301
+
+[[redirects]]
+from = "/events/maitra/2020/index.html"
+to = "https://thi.ucsc.edu/event/amitav-ghosh-maitra-lecture/"
 status = 301

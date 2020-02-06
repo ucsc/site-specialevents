@@ -42,3 +42,8 @@ status = 301
 from = "/events/emeriti-lectures/"
 to = "https://emeriti.ucsc.edu/History/Past%20Emeriti%20Lectures.html"
 status = 301
+
+[[redirects]]
+from = "/events/maitra/2020/index.html"
+to = "https://thi.ucsc.edu/event/amitav-ghosh-maitra-lecture/"
+status = 301
