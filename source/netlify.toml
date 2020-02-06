@@ -47,3 +47,9 @@ status = 301
 from = "/events/maitra/2020/index.html"
 to = "https://thi.ucsc.edu/event/amitav-ghosh-maitra-lecture/"
 status = 301
+
+
+[[redirects]]
+from = "/events/alumniweekend/2020/"
+to = "https://alumniweekend.ucsc.edu"
+status = 301
