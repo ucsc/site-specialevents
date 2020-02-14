@@ -4,11 +4,11 @@ description: Special events homepage
 layout: home-page
 ---
 
-<section class="content-centered">
+<!-- <section class="content-centered">
   <div class="grid-container large">
   <p>Intro copy: <br/>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam molestiae voluptate quisquam, distinctio ducimus, ipsum perspiciatis vitae eaque ut maiores adipisci possimus et a nobis explicabo, obcaecati! In, voluptatibus harum.</p>
   </div>
-</section>
+</section>-->
 
 <section id="main-content">
   <div class="grid-container large">
@@ -17,7 +17,7 @@ layout: home-page
     </section>
     <div class="events-card-list fade-out-siblings">
       {% assign event-list = site.events | sort: 'date' | where: 'tags','Current' | reverse %}
-      {% for event in event-list limit: 3 offset: 1 %}
+      {% for event in event-list limit: 3 %}
         <a class="events-card" href="{{site.baseurl}}{{ event.url }}.html">
           <div class="events-card-content">
             <div class="date">

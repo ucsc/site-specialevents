@@ -3,7 +3,7 @@ title: Alumni Weekend 2020
 description: 'Reconnect, Reignite, Remember'
 
 #### Date of the event
-date: "2020-04-3"
+date: 2020-04-3
 
 
 #### billboard
@@ -12,7 +12,7 @@ billboard:
   subtitle: Reconnect, Reignite, Remember
   day: Friday-Saturday
   month: April
-  date: 3-5
+  date: 3 – 5
   year: 2020
   starttime:
   endtime:

@@ -6,7 +6,7 @@ layout: full-page
 
 
 #### date of the latest event to sort
-date: "2018-09-8"
+date: "2020-02-25"
 
 ---
 <section id="main-content">
