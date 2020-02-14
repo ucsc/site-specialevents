@@ -3,7 +3,7 @@ title: Sidhartha Maitra Memorial Lecture
 description: '18th Annual Sidhartha Maitra Memorial Lecture: “Unmuting the Brutes: Human and Non-human After the Collapse of ‘Civilization’”'
 
 #### Date of the event
-date: "2020-02-27"
+date: 2020-02-27
 
 
 #### billboard
