@@ -18,8 +18,8 @@ billboard:
   endtime:
 
 location:
-  address: Music Recital Hall, UC Santa Cruz
-  addresslink: https://map.concept3d.com/?id=882#!m/234951
+  address: UC Santa Cruz
+  addresslink: https://www.ucsc.edu/map
 
 
 #### Archive Page | Category will always be the same | event-type either Signature Event, Notable Event, Lecture Series
