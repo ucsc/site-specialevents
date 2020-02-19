@@ -50,6 +50,6 @@ status = 301
 
 
 [[redirects]]
-from = "/events/alumniweekend/2020/"
+from = "/events/alumniweekend/2020/index.html"
 to = "https://alumniweekend.ucsc.edu"
 status = 301
