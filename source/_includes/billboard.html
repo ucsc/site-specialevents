@@ -1,4 +1,4 @@
-{% assign event-list = site.events | sort: 'date' | where: 'tags','Current' | reverse %}
+{% assign event-list = site.events | sort: 'date' | where: 'tags','Featured' | reverse %}
 {% for event in event-list limit:1 %}
   <div class="hero-viewport inner-page-standard wave-pattern blue">
       <div class="grid-container large">
