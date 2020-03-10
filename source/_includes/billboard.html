@@ -12,7 +12,11 @@
                       <div class="underline isolated">
                           <h1 class="hero-header">{{ page.title }}</h1>
                           <p class="hero-body"><large>{{ page.billboard.day }}, {{ page.billboard.month}} {{ page.billboard.date }}, {{ page.billboard.year }}</large>
-                          <a class="button primary expanded" href="{{ page.registration }}">Register Now</a></p>
+                          {% if page.register-text != null %}
+                            <a class="button primary expanded" href="{{ page.registration }}">{{ page.register-text }}</a></p>
+                          {% else %}
+                            <a class="button primary expanded" href="{{ page.registration }}">Register Now</a></p>
+                          {% endif %}
                       </div>
                     </a>
                     {% endif %}
