@@ -8,6 +8,11 @@
 
 {% include breadcrumb.html %}
 
+<style>
+  li .button {
+    text-align: left;
+  }
+</style>
 
 <div class="page-content" id="main-content">
   <div class="layout-two-column large">
@@ -53,8 +58,8 @@
               {% for event in site.events %}
                 {% if event.nav-collection == pagenav %}
                   <li>
-                    <a class="button" href="{{ site.baseurl }}{{ event.url }}" target="_self">
-                    <span class="button-text"><strong class="blue-text">{{ event.title }}</strong> </span>
+                    <a class="button text-left" href="{{ site.baseurl }}{{ event.url }}" target="_self">
+                    <span class="button-text text-left"><strong class="blue-text text-left">{{ event.title }}</strong> </span>
                     </a>
                   </li>
                 {% endif %}
