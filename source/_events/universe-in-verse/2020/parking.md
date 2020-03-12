@@ -13,9 +13,9 @@ published: true
 {: .underline}
 ## {{ page.title }}
 
-### [Public Transportation:
+### Public Transportation:
 
-Complimentary public transportation to campus via Santa Cruz METRO is available for the event (see https://www.scmtd.com/en/routes/schedule/20202/UC/we) for schedule.
+Complimentary public transportation to campus via Santa Cruz METRO is available for the event. [See schedule](https://www.scmtd.com/en/routes/schedule/20202/UC/we)
 
 ### Parking info: 
 
