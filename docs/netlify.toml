@@ -56,3 +56,8 @@ status = 301
 from = "/events/alumniweekend/2020/"
 to = "https://alumniweekend.ucsc.edu"
 status = 301
+
+[[redirects]]
+from = "/events/margaret-atwood/2020/"
+to = "https://alumniweekend.ucsc.edu/atwood/"
+status = 301
