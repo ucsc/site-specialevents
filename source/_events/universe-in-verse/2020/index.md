@@ -56,7 +56,7 @@ Doors open at 6:00 pm. Attendees are encouraged to arrive early to explore inter
 7:30–9:30 p.m.<br />
 [Quarry Amphitheater, UC Santa Cruz](https://map.concept3d.com/?id=882#!m/234920)
 
-![Buy Tickets](images/button.png)
+<a href="https://ucsctickets.universitytickets.com/w/event.aspx?id=1475">![Buy Tickets](images/button.png)</a>
 
 **General Admission:** $25 <br />
 **Student Tickets:** $15 (limited number available)<br />

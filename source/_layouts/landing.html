@@ -52,19 +52,30 @@
         <div class="column-support">
           <div class="content-block">
             <!-- Landing page links -->
-            {% if page.nav-collection != null %}
-            {% assign pagenav = page.nav-collection %}
+
+            {% if page.nav-collection != '' %}
               <ul class="sidebar-nav">
-              {% for event in site.events %}
-                {% if event.nav-collection == pagenav %}
-                  <li>
-                    <a class="button text-left" href="{{ site.baseurl }}{{ event.url }}" target="_self">
-                    <span class="button-text text-left"><strong class="blue-text text-left">{{ event.title }}</strong> </span>
-                    </a>
-                  </li>
-                {% endif %}
-              {% endfor %}
-            </ul>
+                {% for event in site.events %}
+                {% assign pagenav = event.nav-collection %}
+                  {% if pagenav == page.nav-collection and event.order == 1 %}
+                    <li>
+                      <a class="button" href="{{ site.baseurl }}{{ event.url }}" target="_self">
+                      <span class="button-text"><strong class="blue-text">Home</strong> </span>
+                      </a>
+                    </li>
+                  {% endif %}
+                {% endfor %}
+                {% for event in site.events %}
+                {% assign pagenav = event.nav-collection %}
+                  {% if pagenav == page.nav-collection and event.order >= 2 %}
+                    <li>
+                      <a class="button" href="{{ site.baseurl }}{{ event.url }}" target="_self">
+                      <span class="button-text"><strong class="blue-text">{{ event.title  }}</strong> </span>
+                      </a>
+                    </li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
             {% endif %}
 
             <!-- End Landing page links -->
