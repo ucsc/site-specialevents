@@ -1,6 +1,6 @@
 ---
 title: Places to stay
-description: 'Join us as UC Santa Cruz presents the West Coast premiere of Universe in Verse – a charitable celebration of science through poetry created and hosted by Maria Popova.'
+description: 'Places to stay in Santa Cruz area..'
 
 nav-collection: Universe in Verse
 

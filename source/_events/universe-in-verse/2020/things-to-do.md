@@ -1,6 +1,6 @@
 ---
 title: Things to do in Santa Cruz
-description: 'Join us as UC Santa Cruz presents the West Coast premiere of Universe in Verse – a charitable celebration of science through poetry created and hosted by Maria Popova.'
+description: 'Things to do: Natural Bridges State Beach, Wilder State Park, Henry Cowell State Park - Redwood Loop, Santa Cruz Area Wineries'
 
 nav-collection: Universe in Verse
 
