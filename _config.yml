@@ -19,10 +19,10 @@ sass:
 collections:
   events:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
     sort_by: order
 
-permalink: "/:title/"
+permalink: pretty
 timezone: America/Los_Angeles
 
 future: true
