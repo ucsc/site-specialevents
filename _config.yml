@@ -19,7 +19,7 @@ sass:
 collections:
   events:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path
     sort_by: order
 
 permalink: pretty
