@@ -60,4 +60,4 @@ status = 301
 [[redirects]]
 from = "/events/margaret-atwood/2020/"
 to = "https://alumniweekend.ucsc.edu/atwood/"
-status = 301!
+status = 301
