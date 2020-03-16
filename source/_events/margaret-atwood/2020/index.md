@@ -15,9 +15,9 @@ date: "2020-04-5"
 #### billboard
 billboard:
   subtitle: 
-  day: Sunday
-  month: April
-  date: 5
+  day: 
+  month: TBD
+  date: 
   year: 2020
   image: "/events/margaret-atwood/2020/images/atwood-homepage.jpg"
   starttime: 5 p.m.
@@ -61,7 +61,8 @@ We’ll connect Atwood’s talk to the new [Deep Read](https://thi.ucsc.edu/deep
 ---
 <div class="content-centered">
 <strong>When</strong><br/>
-Sunday April 5 at 5pm<br/>
+<p>TBD<br/>
+<em class="small">*Due to ongoing COVID-19 public health measures, this event will no longer be held on April 5. Please check back for updates.</em></p>
 The Peggy Downes Baskin Ethics Lecture & Alumni Weekend Keynote<br/>
 Gates open at 3:30pm
 </div>
