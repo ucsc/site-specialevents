@@ -1,64 +1,40 @@
 {% if page.tags contains 'Event' %}
-<head>
-            <meta charset="utf-8" />
-            <meta http-equiv="x-ua-compatible" content="ie=edge">
-            <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
-            <link href="{{ site.baseurl }}/favicon.ico" rel="shortcut icon"/>
-            <link href="{{ site.baseurl }}/apple-touch-icon.png" rel="apple-touch-icon"/>
-            <title>{{ page.title }}</title>
-            <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
-                integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-            <link rel="stylesheet" href="{{ site.baseurl }}/css/app.css">
-            <link rel="stylesheet" href="{{ site.baseurl }}/css/custom.css">
-            <link href="//fonts.googleapis.com/css?family=Roboto|Roboto+Condensed" rel="stylesheet">
 
-            <!-- search -->
-            <script src="https://unpkg.com/lunr/lunr.js"></script>
+<div class="menu-explore off-canvas position-right wave-pattern secondary-blue" id="mobile-menu" data-off-canvas>
 
-        </head>
+    <div class="scroll">
+      <div class="close-main">
+          <button class="close-button" aria-label="Close menu" type="button" data-close>
+              <span aria-hidden="true">&times;</span>
+          </button>
+      </div>
 
-        <body class="subsite-wrapper">
-          <div class="skipnav"><a href="#main-content">Skip to main content</a></div>
+      <div class="menu-id">
+          <img class="white-ucsc-logo" src="/assets/img/build-resources/uc-santa-cruz-reverse.svg" />
+      </div>
 
-            <div id="page">
-                <div class="menu-explore off-canvas position-right wave-pattern secondary-blue" id="mobile-menu" data-off-canvas>
+      <div class="aev-links">
+          <div class="expanded button-group">
+              <a class="button solid white-text" href="https://admissions.ucsc.edu/apply/">Apply</a>
+              <a class="button solid white-text" href="https://www.ucsc.edu/visit/index.html">Visit</a>
+              <a class="button solid white-text" href="https://giving.ucsc.edu">Engage</a>
+          </div>
+      </div>
 
-                  <div class="scroll">
-                    <div class="close-main">
-                        <button class="close-button" aria-label="Close menu" type="button" data-close>
-                            <span aria-hidden="true">&times;</span>
-                        </button>
-                    </div>
+      <!-- Special Events -->
+      <!-- end Special Events -->
+      <div class="global-links">
+          <ul class="vertical menu">
+              <li><a href="https://login.ucsc.edu/idp/profile/SAML2/Redirect/SSO;jsessionid=110f00jrrbrh7marvjot3soxo?execution=e1s1" aria-label=""><span>MyUCSC</span></a></li>
+              <li><a href="https://www.ucsc.edu/tools/calendars.html" aria-label=""><span>Calendars</span></a></li>
+              <li><a href="https://www.ucsc.edu/tools/people.html" aria-label=""><span>Directories</span></a></li>
+          </ul>
+      </div>
+    </div>
 
-                    <div class="menu-id">
-                        <img class="white-ucsc-logo" src="/assets/img/build-resources/uc-santa-cruz-reverse.svg" />
-                    </div>
+  </div>
 
-                    <div class="aev-links">
-                        <div class="expanded button-group">
-                            <a class="button solid white-text" href="https://admissions.ucsc.edu/apply/">Apply</a>
-                            <a class="button solid white-text" href="https://www.ucsc.edu/visit/index.html">Visit</a>
-                            <a class="button solid white-text" href="https://giving.ucsc.edu">Engage</a>
-                        </div>
-                    </div>
-
-                      <!-- Special Events -->
-
-                      <!-- end Special Events -->
-
-
-                    <div class="global-links">
-                        <ul class="vertical menu">
-                            <li><a href="https://login.ucsc.edu/idp/profile/SAML2/Redirect/SSO;jsessionid=110f00jrrbrh7marvjot3soxo?execution=e1s1" aria-label=""><span>MyUCSC</span></a></li>
-                            <li><a href="https://www.ucsc.edu/tools/calendars.html" aria-label=""><span>Calendars</span></a></li>
-                            <li><a href="https://www.ucsc.edu/tools/people.html" aria-label=""><span>Directories</span></a></li>
-                        </ul>
-                    </div>
-                  </div>
-
-                </div>
-
-              </div>
+</div>
 
               <div data-sticky-container>
                   <div id="page-header" role="navigation" class="page-header sticky" aria-expanded="false" aria-label="Page header" data-sticky data-margin-top="0" data-anchor="main-content">
