@@ -74,3 +74,9 @@
   to = "https://alumniweekend.ucsc.edu/atwood/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/universe-in-verse/index.html"
+  to = "/events/universe-in-verse/2020/"
+  status = 301
+  force = true
