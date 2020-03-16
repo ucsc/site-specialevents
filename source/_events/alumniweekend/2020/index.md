@@ -9,10 +9,10 @@ date: 2020-04-3
 #### billboard
 billboard:
   image: "/events/alumniweekend/2020/images/homepage-billboard-v2.jpg"
-  subtitle: Reconnect, Reignite, Remember
-  day: Friday-Saturday
-  month: April
-  date: 3 – 5
+  subtitle: Postposed
+  day: 
+  month: 
+  date: 
   year: 2020
   starttime:
   endtime:
