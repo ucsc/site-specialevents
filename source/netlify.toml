@@ -2,62 +2,75 @@
   from = "/events/flatte-lecture/"
   to = "https://calendar.ucsc.edu/event/flatte_lecture#.XhkWtS2ZPUJ"
   status = 301
+  force = true
 
 
 [[redirects]]
-from = "/events/bunnett-symposium/"
-to = "https://www.chemistry.ucsc.edu/news-events/events/Bunnett/index.html"
-status = 301
+  from = "/events/bunnett-symposium/"
+  to = "https://www.chemistry.ucsc.edu/news-events/events/Bunnett/index.html"
+  status = 301
+  force = true
 
 
 [[redirects]]
-from = "/events/sinsheimer-lecture/2014/index.html"
-to = "https://calendar.ucsc.edu/event/2014_robert_l_sinsheimer_distinguished_lecture_in_biology#.Xh0RzS2ZPUI"
-status = 301
+  from = "/events/sinsheimer-lecture/2014/index.html"
+  to = "https://calendar.ucsc.edu/event/2014_robert_l_sinsheimer_distinguished_lecture_in_biology#.Xh0RzS2ZPUI"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/events/sinsheimer-lecture/2016/index.html"
-to = "https://calendar.ucsc.edu/event/2016_robert_l_sinsheimer_distinguished_lecture_in_biology#.Xh0Rmi2ZPUI"
-status = 301
+  from = "/events/sinsheimer-lecture/2016/index.html"
+  to = "https://calendar.ucsc.edu/event/2016_robert_l_sinsheimer_distinguished_lecture_in_biology#.Xh0Rmi2ZPUI"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/events/morton-marcus/"
-to = "https://thi.ucsc.edu/projects/morton-marcus-poetry-reading/"
-status = 301
-
-
-[[redirects]]
-from = "/events/faculty-research/"
-to = "https://senate.ucsc.edu/committees/cfrl-committee-on-faculty-research-lecture/index.html"
-status = 301
-
-[[redirects]]
-from = "/events/noel-king/"
-to = "https://merrill.ucsc.edu/history/nqk-history/nqking-lecture/index.html"
-status = 301
-
-[[redirects]]
-from = "/events/emeriti-lectures/"
-to = "https://emeriti.ucsc.edu/History/Past%20Emeriti%20Lectures.html"
-status = 301
-
-[[redirects]]
-from = "/events/maitra/2020/index.html"
-to = "https://thi.ucsc.edu/event/amitav-ghosh-maitra-lecture/"
-status = 301
+  from = "/events/morton-marcus/"
+  to = "https://thi.ucsc.edu/projects/morton-marcus-poetry-reading/"
+  status = 301
+  force = true
 
 
 [[redirects]]
-from = "/events/alumniweekend/2020/index.html"
-to = "https://alumniweekend.ucsc.edu"
-status = 301
+  from = "/events/faculty-research/"
+  to = "https://senate.ucsc.edu/committees/cfrl-committee-on-faculty-research-lecture/index.html"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/events/alumniweekend/2020/"
-to = "https://alumniweekend.ucsc.edu"
-status = 301
+  from = "/events/noel-king/"
+  to = "https://merrill.ucsc.edu/history/nqk-history/nqking-lecture/index.html"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/events/margaret-atwood/2020/"
-to = "https://alumniweekend.ucsc.edu/atwood/"
-status = 301
+  from = "/events/emeriti-lectures/"
+  to = "https://emeriti.ucsc.edu/History/Past%20Emeriti%20Lectures.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/events/maitra/2020/index.html"
+  to = "https://thi.ucsc.edu/event/amitav-ghosh-maitra-lecture/"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/events/alumniweekend/2020/index.html"
+  to = "https://alumniweekend.ucsc.edu"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/events/alumniweekend/2020/"
+  to = "https://alumniweekend.ucsc.edu"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/events/margaret-atwood/2020/"
+  to = "https://alumniweekend.ucsc.edu/atwood/"
+  status = 301
+  force = true
