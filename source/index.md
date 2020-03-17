@@ -38,6 +38,7 @@ layout: home-page
                   {% when 'October' %} Oct
                   {% when 'November' %} Nov
                   {% when 'December' %} Dec
+                  {% when 'TBD' %} TBD
                   {% endcase %}
                 </div>
                   <div class="day">{{ event.billboard.date | truncatewords: 1,'' }}</div>
