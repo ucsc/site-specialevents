@@ -80,3 +80,15 @@
   to = "/events/universe-in-verse/2020/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/mlk/index.html"
+  to = "/events/mlk/2020/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kraw-lecture/index.html"
+  to = "/events/kraw-lecture/2020/"
+  status = 301
+  force = true
