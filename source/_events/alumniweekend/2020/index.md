@@ -9,7 +9,7 @@ date: 2020-04-3
 #### billboard
 billboard:
   image: "/events/alumniweekend/2020/images/homepage-billboard-v2.jpg"
-  subtitle: Postposed
+  subtitle: Postponed
   day: 
   month: 
   date: 
