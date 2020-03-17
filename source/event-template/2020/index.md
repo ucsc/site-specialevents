@@ -15,10 +15,11 @@ tags:
 
 date: "2018-10-20"
 
-####billboard
+#### billboard
 billboard:
   subtitle: 2018 Year of Alumni
   day: Saturday
+  #### Add TBD to month if not date
   month: October
   date: 20
   year: 2018
