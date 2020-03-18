@@ -24,8 +24,8 @@ billboard:
   date: 
   year: 2020
   image: "/events/universe-in-verse/2020/images/theuniverse-theverse.jpg"
-  starttime: 6 p.m.
-  endtime: 9:30 p.m.
+  starttime:
+  endtime: 
 
 #### sidebar information
 location:

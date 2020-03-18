@@ -20,7 +20,7 @@ billboard:
   date: 
   year: 2020
   image: "/events/margaret-atwood/2020/images/atwood-homepage.jpg"
-  starttime: 5 p.m.
+  starttime: 
   endtime: 
 
 #### sidebar information
