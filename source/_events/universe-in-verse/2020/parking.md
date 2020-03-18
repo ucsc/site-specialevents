@@ -4,7 +4,7 @@ description: 'Parking for this event is complimentary and will be in the East Re
 
 nav-collection: Universe in Verse
 
-order: 4
+nav-order: 4
 
 layout: page
 

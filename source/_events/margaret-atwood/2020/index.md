@@ -1,6 +1,6 @@
 ---
 title: Margaret Atwood at UC Santa Cruz
-description: 'Join us as we welcome Margaret Atwood to UC Santa Cruz on April 5, 2020 where she’ll be in conversation with author Kate Schatz (Stevenson ‘03, Creative Writing), the New York Times-bestselling author of Rad American Women A-Z.'
+description: '*Due to ongoing COVID-19 public health measures, this event will no longer be held on April 5. Please check back for updates.'
 
 event-type: Lecture Series
 category: Atwood

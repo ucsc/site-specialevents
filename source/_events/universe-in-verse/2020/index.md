@@ -1,10 +1,10 @@
 ---
-title: The Universe in Verse 2020
-description: 'Join us as UC Santa Cruz presents the West Coast premiere of Universe in Verse – a charitable celebration of science through poetry created and hosted by Maria Popova.'
+title: 'Canceled: The Universe in Verse 2020'
+description: 'Following guidance from health experts designed to slow the spread of COVID-19 (coronavirus), UC Santa Cruz is cancelling The Universe in Verse scheduled for April 18.'
 
 nav-collection: Universe in Verse
 
-order: 1
+nav-order: 1
 
 event-type: Notable Event
 category: Universe in Verse
@@ -19,9 +19,9 @@ date: "2020-04-18"
 ####billboard
 billboard:
   subtitle: 
-  day: Saturday
-  month: April
-  date: 18
+  day: 
+  month: TBD
+  date: 
   year: 2020
   image: "/events/universe-in-verse/2020/images/theuniverse-theverse.jpg"
   starttime: 6 p.m.
@@ -39,6 +39,8 @@ layout: landing
 
 published: true
 ---
+
+<p style="width: 100%; background: #fff3cd; padding: .75em;">Following guidance from health experts designed to slow the spread of COVID-19 (coronavirus), <strong>UC Santa Cruz is cancelling The Universe in Verse scheduled for April 18.</strong></p>
 
 UC Santa Cruz invites you to join us for [The Universe in Verse 2020](https://www.brainpickings.org/the-universe-in-verse/) -- a charitable celebration of science through poetry created and hosted by acclaimed author and curator of beauty, [Maria Popova](https://www.brainpickings.org/about/), of [Brain Pickings](https://brainpickings.org/) fame. Throughout the evening, artists and scientists will celebrate the marvel and mystery of life at UCSC's majestic outdoor amphitheater in the redwoods with poems, music, and storytelling. Not just another poetry jam, The Universe in Verse is the largest event of its kind in the world, bringing the wonder that inspires both science and art to sold-out audiences year after year.
 
