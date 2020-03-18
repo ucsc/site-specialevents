@@ -1,6 +1,6 @@
 ---
 title: Margaret Atwood at UC Santa Cruz
-description: '*Due to ongoing COVID-19 public health measures, this event will no longer be held on April 5. Please check back for updates.'
+description: 'We look forward to welcoming Margaret Atwood to UC Santa (date TBD) where she’ll be in conversation with author Kate Schatz (Stevenson ‘03, Creative Writing), the New York Times-bestselling author of Rad American Women A-Z, as part of Baskin Ethics Lecture Series. Prepare for Atwood’s visit by joining The Deep Read, a new initiative of The Humanities Institute.'
 
 event-type: Lecture Series
 category: Atwood
