@@ -4,7 +4,7 @@ description: 'Things to do: Natural Bridges State Beach, Wilder State Park, Henr
 
 nav-collection: Universe in Verse
 
-order: 2
+nav-order: 2
 
 layout: page
 

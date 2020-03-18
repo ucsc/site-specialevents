@@ -4,7 +4,7 @@ description: In honor of our Year of Alumni, we will take this moment to celebra
 
 nav-collection: 2018 Founders
 
-order: 1
+nav-order: 1
 
 event-type: Signature Event
 category: Founders Celebrations
@@ -33,6 +33,7 @@ location:
   addresslink: https://www.cityofsantacruz.com/government/city-departments/parks-recreation/civic-auditorium
 
 registration: https://founders.ucsc.edu
+register-text: Buy Tickets
 
 ####speaker information  
 speaker:

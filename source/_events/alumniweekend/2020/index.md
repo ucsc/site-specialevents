@@ -1,6 +1,6 @@
 ---
 title: Alumni Weekend 2020
-description: 'Reconnect, Reignite, Remember'
+description: 'After a thorough review of the impacts of the coronavirus, we’ve decided to reschedule Alumni Weekend 2020 to a future date. All of your friends here at UC Santa Cruz will miss seeing you this spring, but watch this space for new dates!'
 
 #### Date of the event
 date: 2020-04-3
@@ -11,7 +11,7 @@ billboard:
   image: "/events/alumniweekend/2020/images/homepage-billboard-v2.jpg"
   subtitle: Postponed
   day: 
-  month: 
+  month: TBD
   date: 
   year: 2020
   starttime:
@@ -29,7 +29,7 @@ category: Signature Series
 tags:
   - Alumni Weekend
   - Current
-  - Featured
+  - Home
 
 layout: ucsc
 ---
