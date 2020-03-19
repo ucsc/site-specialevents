@@ -1,6 +1,6 @@
 ---
 title: Margaret Atwood at UC Santa Cruz
-description: 'Join us as UC Santa Cruz presents the West Coast premiere of Universe in Verse – a charitable celebration of science through poetry created and hosted by Maria Popova.'
+description: 'We look forward to welcoming Margaret Atwood to UC Santa (date TBD) where she’ll be in conversation with author Kate Schatz (Stevenson ‘03, Creative Writing), the New York Times-bestselling author of Rad American Women A-Z, as part of Baskin Ethics Lecture Series. Prepare for Atwood’s visit by joining The Deep Read, a new initiative of The Humanities Institute.'
 category: Lecture
 layout: full-page
 
