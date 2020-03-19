@@ -1,5 +1,5 @@
 ---
-title: Unquite Minds
+title: Unquite minds
 description: "A Gala Dinner Spiced with Tantalizing Talks"
 category: Notable
 layout: full-page
