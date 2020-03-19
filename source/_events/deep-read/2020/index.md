@@ -18,13 +18,13 @@ date: "2020-10-20"
 billboard:
   subtitle: The Deep Read
   day: 
-  #### Add TBD to month if not date
-  month: TBD
+  #### Add TBD to month if not date or online event
+  month: Virtual Event
   date: 
   year: 2020
   image: "/events/deep-read/2020/images/banner.jpg"
-  starttime: 6 p.m.
-  endtime: 7 p.m.
+  starttime: 
+  endtime: 
 
 #### sidebar information
 location:

@@ -12,7 +12,7 @@
                       <div class="underline isolated">
                           <h1 class="hero-header">{{ page.title }}</h1>
                           {% if page.billboard.day != null %}
-                            <p class="hero-body"><large>{{ page.billboard.day }}, {{ page.billboard.month}} {{ page.billboard.date }}, {{ page.billboard.year }}</large>
+                            <p class="hero-body"><large>{% if page.billboard.day != null %}{{ page.billboard.day }}, {% endif %}{{ page.billboard.month}} {% if page.billboard.date != null %}{{ page.billboard.date }}, {{ page.billboard.year }} {% endif %}</large>
                           {% endif %}
                           {% if page.register-text != null %}
                             <a class="button primary expanded" href="{{ page.registration }}">{{ page.register-text }}</a></p>
@@ -29,8 +29,8 @@
                       <p class="category btn-link"><large>{{ event.billboard.subtitle }}</large></p>
                       <div class="underline isolated">
                           <h1 class="hero-header">{{ event.title }}</h1>
-                          {% if event.billboard.day != null %}
-                            <p class="hero-body"><large>{{ event.billboard.day }}, {{ event.billboard.month}} {{ event.billboard.date }}, {{ event.billboard.year }}</large>
+                          {% if event.billboard.month != null %}
+                            <p class="hero-body"><large>{% if event.billboard.day != null %} {{ event.billboard.day }}, {% endif %} {{ event.billboard.month}} {% if event.billboard.date != null %} {{ event.billboard.date }}, {{ event.billboard.year }} {% endif %}</large>
                           {% endif %}
                           <a class="button primary expanded" href="{{site.baseurl}}{{ event.url }}.html">Event Details</a></p>
                       </div>
