@@ -5,8 +5,8 @@ description: Special Events Office contact information.
 nav-collection: Help in Planning
 order: 2
 
-layout: page
-permalink: /help-in-planning/contact.html
+layout: full-page
+permalink: /help-in-planning/index.html
 ---
 
 ## {{ page.title }}
