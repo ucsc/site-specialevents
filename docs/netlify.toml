@@ -104,3 +104,9 @@
   to = "http://50years.ucsc.edu"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/events/50th/"
+  to = "http://50years.ucsc.edu"
+  status = 301
+  force = true
