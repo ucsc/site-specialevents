@@ -3,10 +3,10 @@ title: Margaret Atwood at UC Santa Cruz
 description: 'We look forward to welcoming Margaret Atwood to UC Santa Cruz (date TBD) where she’ll be in conversation with author Kate Schatz (Stevenson ‘03, Creative Writing), the New York Times-bestselling author of Rad American Women A-Z, as part of Baskin Ethics Lecture Series. Prepare for Atwood’s visit by joining The Deep Read, a new initiative of The Humanities Institute.'
 
 event-type: Lecture Series
-category: Atwood
+category: Peggy Downes
 
 tags:
-  - Atwood
+  - Peggy Downes
   - Current
   - Home
 
@@ -19,7 +19,7 @@ billboard:
   month: TBD
   date: 
   year: 2020
-  image: "/events/margaret-atwood/2020/images/atwood-homepage.jpg"
+  image: "/events/peggy-downes/2020/images/atwood-homepage.jpg"
   starttime: 
   endtime: 
 
