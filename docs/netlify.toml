@@ -70,7 +70,7 @@
   force = true
 
 [[redirects]]
-  from = "/events/margaret-atwood/2020/"
+  from = "/events/peggy-downes/2020/"
   to = "https://alumniweekend.ucsc.edu/atwood/"
   status = 301
   force = true
