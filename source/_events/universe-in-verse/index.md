@@ -1,6 +1,6 @@
 ---
 title: The Universe in Verse 2020
-description: 'Join us as UC Santa Cruz presents the West Coast premiere of Universe in Verse – a charitable celebration of science through poetry created and hosted by Maria Popova.'
+description: 'The Universe in Verse—an annual charitable celebration of science through poetry, created and hosted by Maria Popova of Brainpickings. '
 category: Notable
 layout: full-page
 
