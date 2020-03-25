@@ -26,3 +26,6 @@ Senior Events Coordinator
 
 **[Diana Hogue](mailto:dhogue@ucsc.edu)**<br/>
 Senior Events Coordinator
+
+**[Paolina Fisher](mailto:pmfisher@ucsc.edu)**<br/>
+Special Events Office Assistant
