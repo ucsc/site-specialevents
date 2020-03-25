@@ -1,6 +1,6 @@
 ---
 title: The Deep Read
-description: 'Join us as UC Santa Cruz presents the West Coast premiere of Universe in Verse – a charitable celebration of science through poetry created and hosted by Maria Popova.'
+description: 'Welcome to The Deep Read, a new program by The Humanities Institute at UC Santa Cruz that invites curious minds to think deeply about literature, art, and the most pressing issues of our day. We’ll read books from a wide range of genres, exploring their implications on our politics, inner lives, and communities.'
 category: Notable
 layout: full-page
 
