@@ -19,7 +19,7 @@ billboard:
   month: April
   date: 28
   year: 2018
-  image: "/events/peggy-downes/2016/images/banner.jpg"
+  image: "/events/peggy-downes/2018/images/banner.jpg"
   starttime: 7 pm
   endtime: 8 pm
 
