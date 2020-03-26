@@ -122,3 +122,9 @@
   to = "https://thi.ucsc.edu/toni-morrison-and-angela-davis-on-friendship-and-creativity/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/events/peggy-downes/2016/"
+  to = "https://thi.ucsc.edu/2016-baskin-ethics-lecture-fania-davis/"
+  status = 301
+  force = true
