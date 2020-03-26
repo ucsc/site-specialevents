@@ -140,3 +140,9 @@
   to = "https://thi.ucsc.edu/jaron-lanier-how-the-internet-failed-and-how-to-recreate-it/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/events/laser/"
+  to = "https://ias.ucsc.edu/events/laser"
+  status = 301
+  force = true
