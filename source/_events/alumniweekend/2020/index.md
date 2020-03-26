@@ -1,5 +1,5 @@
 ---
-title: Alumni Weekend 2020
+title: "Postponed: Alumni Weekend 2020"
 description: 'After a thorough review of the impacts of the coronavirus, we’ve decided to reschedule Alumni Weekend 2020 to a future date. All of your friends here at UC Santa Cruz will miss seeing you this spring, but watch this space for new dates!'
 
 #### Date of the event
