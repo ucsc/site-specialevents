@@ -128,3 +128,9 @@
   to = "https://thi.ucsc.edu/2016-baskin-ethics-lecture-fania-davis/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/events/peggy-downes/2018/"
+  to = "https://thi.ucsc.edu/2018-baskin-ethics-lecture-alumni-weekend-keynote-the-ethical-role-of-the-public-university/"
+  status = 301
+  force = true
