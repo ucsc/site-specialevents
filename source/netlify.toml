@@ -134,3 +134,9 @@
   to = "https://thi.ucsc.edu/2018-baskin-ethics-lecture-alumni-weekend-keynote-the-ethical-role-of-the-public-university/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/events/peggy-downes/2018-2/"
+  to = "https://thi.ucsc.edu/jaron-lanier-how-the-internet-failed-and-how-to-recreate-it/"
+  status = 301
+  force = true
