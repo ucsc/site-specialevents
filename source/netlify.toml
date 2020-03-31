@@ -146,3 +146,9 @@
   to = "https://ias.ucsc.edu/events/laser"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/events/alumniweekend/2015/"
+  to = "http://50years.ucsc.edu/alumniweekend2015"
+  status = 301
+  force = true
