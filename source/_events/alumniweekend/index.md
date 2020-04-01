@@ -1,6 +1,6 @@
 ---
 title: Alumni Weekend
-description: Alumni Weekend from 2011 – 2014, and 2020
+description: UC Santa Cruz Alumni Weekend
 category: Signature
 layout: full-page
 
