@@ -1,6 +1,6 @@
 ---
 title: Emeriti Lectures
-description: We will take this moment to celebrate alumni and faculty who exemplify the best of UC Santa Cruz.
+description: "Emeriti Lectures presented to the community by the distinguished Emeritus Faculty and generoulsly sponsored by the Chancellors Office."
 category: Lecture
 layout: full-page
 
