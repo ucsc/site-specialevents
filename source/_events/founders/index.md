@@ -1,6 +1,6 @@
 ---
-title: Founders Celebrations
-description: We will take this moment to celebrate alumni and faculty who exemplify the best of UC Santa Cruz.
+title: Founders Celebration
+description: "A celebration of the alumni and faculty who exemplify the best of UC Santa Cruz."
 category: Signature
 layout: full-page
 
