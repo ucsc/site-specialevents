@@ -1,6 +1,6 @@
 ---
 title: The Original Thinkers Series
-description: An evening of conversation and connection
+description: "Original thinkers from one great university ask the big questions and push boundaries in talks that illustrate the breadth of UC Santa Cruz research."
 category: Lecture
 layout: full-page
 

@@ -1,6 +1,6 @@
 ---
 title: Mandel Lectures
-description: "After almost 10 years in space, NASA's Kepler Mission was recently retired, but not without making an indelible imprint on humankind's understanding of the universe."
+description: "The Mandel Lecture is designed to promote public awareness and appreciation in Astronomy generously sponsored by Steve Mandel and Carol Foote."
 category: Lecture
 layout: full-page
 
