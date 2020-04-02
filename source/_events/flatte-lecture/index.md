@@ -1,6 +1,6 @@
 ---
 title: Flatté Lecture in Science
-description: We will take this moment to celebrate alumni and faculty who exemplify the best of UC Santa Cruz.
+description: "Stanley Flatté Memorial Lecture presented by the UC Santa Cruz Department of Physics. Don't really have a description for this one.  I can ask Branwyn or Eva if they have a better description of this lecture."
 category: Lecture
 layout: full-page
 
