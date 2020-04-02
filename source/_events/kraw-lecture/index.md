@@ -1,6 +1,6 @@
 ---
 title: The Kraw Lecture Series on Science and Technology
-description: The Kraw Lecture Series in Silicon Valley is made possible by a generous gift from UC Santa Cruz alumnus George Kraw (Cowell '71, history and Russian literature)
+description: "Featuring acclaimed UC Santa Cruz scientists and technologists who are grappling with some of the biggest questions of our time. Made possible by a generous gift from UC Santa Cruz alumnus George Kraw (Cowell '71, history and Russian literature)."
 category: Lecture
 layout: full-page
 
