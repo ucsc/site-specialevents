@@ -166,7 +166,7 @@
   force = true
 
 [[redirects]]
-  from = "/mlk"
+  from = "/mlk*"
   to = "/events/mlk"
   status = 301
   force = true
