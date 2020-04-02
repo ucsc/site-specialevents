@@ -1,6 +1,6 @@
 ---
 title: Emeriti Lectures
-description: "Emeriti Lectures presented to the community by the distinguished Emeritus Faculty and generoulsly sponsored by the Chancellors Office."
+description: "Emeriti Lectures presented to the community by the distinguished Emeritus Faculty and generously sponsored by the Chancellors Office."
 category: Lecture
 layout: full-page
 

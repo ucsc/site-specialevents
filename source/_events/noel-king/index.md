@@ -1,6 +1,6 @@
 ---
 title: Noel Q. King Memorial Lecture
-description: 'Noel Q. King came to UCSC in the late sixties as a "founding father" of Merrill College.'
+description: 'A lecture series that honors Noel Q. King, "founding father" of Merrill College and religious studies at UC Santa Cruz.'
 category: Lecture
 layout: full-page
 
