@@ -1,5 +1,5 @@
 ---
-title: Laser Talks
+title: LASER Talks
 description: Leonardo Art & Science Evening Rendezvous (LASER) is an international program bringing together artists, scientists, and scholars for presentations and conversations.
 category: Lecture
 layout: full-page
