@@ -1,6 +1,6 @@
 ---
 title: Sidhartha Maitra Memorial Lecture
-description: The Annual Sidhartha Maitra Memorial Lecture
+description: "The Maitra lecture series, established in 2001, seeks to enrich the intellectual life of UC Santa Cruz and the Santa Cruz community."
 category: Signature
 layout: full-page
 
