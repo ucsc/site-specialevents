@@ -164,3 +164,29 @@
   to = "http://50years.ucsc.edu/founders/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/mlk"
+  to = "/events/mlk"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/founders"
+  to = "/events/founders"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/kraw-lecture"
+  to = "/events/kraw-lecture"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/commencement"
+  to = "https://commencement.ucsc.edu"
+  status = 301
+  force = true
+
+
