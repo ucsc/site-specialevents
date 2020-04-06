@@ -6,8 +6,7 @@
             		<li><a href="/">Special Events Home</a></li>
             		{% for crumb in crumbs offset: 1 %}
             			{% if forloop.last %}
-            				&nbsp;&nbsp;/&nbsp;&nbsp; {{ page.title | replace:'-',' ' | remove:'.html' }}
-
+            				&nbsp;&nbsp;/&nbsp;&nbsp;{{ page.title | replace:'-',' ' | remove:'.html' }}
                 	{% endif %}
               	{% endfor %}
             </ul>
