@@ -40,6 +40,12 @@ layout: landing
 published: true
 ---
 
+<style>
+.button.primary {
+  display:none;
+}
+</style>
+
 <p style="width: 100%; background: #fff3cd; padding: .75em;">Following guidance from health experts designed to slow the spread of COVID-19 (coronavirus), <strong>UC Santa Cruz is cancelling The Universe in Verse scheduled for April 18.</strong></p>
 
 UC Santa Cruz invites you to join us for [The Universe in Verse 2020](https://www.brainpickings.org/the-universe-in-verse/) -- a charitable celebration of science through poetry created and hosted by acclaimed author and curator of beauty, [Maria Popova](https://www.brainpickings.org/about/), of [Brain Pickings](https://brainpickings.org/) fame. Throughout the evening, artists and scientists will celebrate the marvel and mystery of life at UCSC's majestic outdoor amphitheater in the redwoods with poems, music, and storytelling. Not just another poetry jam, The Universe in Verse is the largest event of its kind in the world, bringing the wonder that inspires both science and art to sold-out audiences year after year.
