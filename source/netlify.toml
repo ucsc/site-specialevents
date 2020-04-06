@@ -189,4 +189,10 @@
   status = 301
   force = true
 
+[[redirects]]
+  from = "/universe-in-verse"
+  to = "/events/universe-in-verse/2020/"
+  status = 301
+  force = true
+
 
