@@ -32,8 +32,8 @@ location:
   address: Quarry Amphitheater, UC Santa Cruz
   addresslink: https://map.concept3d.com/?id=882#!m/234920
 
-registration: 
-register-text: 
+registration: #
+register-text: Canceled
 
 layout: landing
 
@@ -57,12 +57,6 @@ Doors open at 6:00 pm. Attendees are encouraged to arrive early to explore inter
 **Saturday, April 18, 2020**<br />
 7:30–9:30 p.m.<br />
 [Quarry Amphitheater, UC Santa Cruz](https://map.concept3d.com/?id=882#!m/234920)
-
-<a href="https://ucsctickets.universitytickets.com/w/event.aspx?id=1475">![Buy Tickets](images/button.png)</a>
-
-**General Admission:** $25 <br />
-**Student Tickets:** $15 (limited number available)<br />
-**Gold Circle Preferred Seating:** $100 (orchestra seating)<br />
 
 *This event will take place in a beautiful outdoor amphitheater under the stars and encircled by redwoods. Please dress warmly. As we contemplate life, we celebrate all that is life-giving, including rain. This event will take place rain or shine. No refunds.*
 
