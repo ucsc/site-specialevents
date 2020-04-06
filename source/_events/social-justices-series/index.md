@@ -7,6 +7,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2017-04-07"
 
+permalink: /:collection/social-justices-series
 ---
 <section id="main-content">
 <div class="grid-container large">

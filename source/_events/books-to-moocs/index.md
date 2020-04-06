@@ -7,6 +7,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2014-02-22"
 
+permalink: /:collection/books-to-moocs
 ---
 <section id="main-content">
 <div class="grid-container large">

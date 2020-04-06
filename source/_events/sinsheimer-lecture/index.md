@@ -6,6 +6,8 @@ layout: full-page
 
 #### date of the latest event to sort
 date: "2016-05-05"
+
+permalink: /:collection/sinsheimer-lecture
 ---
 <section id="main-content">
 <div class="grid-container large">

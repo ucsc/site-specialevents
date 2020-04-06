@@ -6,6 +6,8 @@ layout: full-page
 
 #### date of the latest event to sort
 date: "2019-11-18"
+
+permalink: /:collection/flatte-lecture
 ---
 <section id="main-content">
 <div class="grid-container large">

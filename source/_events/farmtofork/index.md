@@ -7,6 +7,8 @@ layout: full-page
 #### date of the latest event to sort
 date: "2018-08-19"
 
+
+permalink: /:collection/farmtofork
 ---
 <section id="main-content">
 <div class="grid-container large">

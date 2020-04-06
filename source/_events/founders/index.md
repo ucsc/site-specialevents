@@ -6,6 +6,8 @@ layout: full-page
 
 #### date of the latest event to sort
 date: "2018-10-20"
+
+permalink: /:collection/founders
 ---
 <section id="main-content">
 <div class="grid-container large">

@@ -7,6 +7,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2019-06-5"
 
+permalink: /:collection/mandel-lecture
 ---
 <section id="main-content">
 <div class="grid-container large">
