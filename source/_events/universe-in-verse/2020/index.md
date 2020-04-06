@@ -32,8 +32,8 @@ location:
   address: Quarry Amphitheater, UC Santa Cruz
   addresslink: https://map.concept3d.com/?id=882#!m/234920
 
-registration: https://ucsctickets.universitytickets.com/w/event.aspx?id=1475
-register-text: Buy Tickets
+registration: 
+register-text: 
 
 layout: landing
 
