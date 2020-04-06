@@ -6,6 +6,8 @@ layout: full-page
 
 #### date of the latest event to sort
 date: "2019-02-26"
+
+permalink: /:collection/faculty-research
 ---
 <section id="main-content">
 <div class="grid-container large">

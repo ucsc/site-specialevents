@@ -6,6 +6,8 @@ layout: full-page
 
 #### date of the latest event to sort
 date: "2019-5-22"
+
+permalink: /:collection/bunnett-symposium
 ---
 <section id="main-content">
 <div class="grid-container large">

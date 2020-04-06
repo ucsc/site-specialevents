@@ -6,6 +6,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2017-01-01"
 
+permalink: /:collection/genomics-institute-summit
 ---
 <section id="main-content">
 <div class="grid-container large">

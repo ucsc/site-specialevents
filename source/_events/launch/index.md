@@ -7,6 +7,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2014-04-25"
 
+permalink: /:collection/launch
 ---
 <section id="main-content">
 <div class="grid-container large">

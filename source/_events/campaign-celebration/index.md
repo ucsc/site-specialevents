@@ -7,6 +7,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2013-10-16"
 
+permalink: /:collection/campaign-celebration
 ---
 <section id="main-content">
 <div class="grid-container large">

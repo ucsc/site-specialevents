@@ -8,6 +8,8 @@ layout: full-page
 #### date of the latest event to sort
 date: "2015-01-01"
 
+permalink: /:collection/50th
+
 ---
 <section id="main-content">
 <div class="grid-container large">

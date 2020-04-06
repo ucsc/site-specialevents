@@ -7,6 +7,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2019-02-02"
 
+permalink: /:collection/living-legend
 ---
 <section id="main-content">
 <div class="grid-container large">

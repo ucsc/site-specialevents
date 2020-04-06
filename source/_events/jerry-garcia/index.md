@@ -7,6 +7,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2015-08-01"
 
+permalink: /:collection/jerry-garcia
 ---
 <section id="main-content">
 <div class="grid-container large">

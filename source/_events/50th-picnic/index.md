@@ -6,6 +6,8 @@ layout: full-page
 #### date of the latest event to sort
 date: "2015-09-15"
 
+
+permalink: /:collection/50th-picnic
 ---
 <section id="main-content">
 <div class="grid-container large">

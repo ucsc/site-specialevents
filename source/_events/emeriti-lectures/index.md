@@ -6,6 +6,8 @@ layout: full-page
 
 #### date of the latest event to sort
 date: "2019-04-14"
+
+permalink: /:collection/emeriti-lectures
 ---
 <section id="main-content">
 <div class="grid-container large">

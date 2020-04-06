@@ -7,6 +7,8 @@ layout: full-page
 #### date of the latest event to sort
 date: "2018-09-8"
 
+permalink: /:collection/through-the-back-gate
+
 ---
 <section id="main-content">
 <div class="grid-container large">

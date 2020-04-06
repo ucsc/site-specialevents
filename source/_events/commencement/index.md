@@ -7,6 +7,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2019-06-14"
 
+permalink: /:collection/commencement
 ---
 
 <section id="main-content">

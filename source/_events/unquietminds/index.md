@@ -7,6 +7,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2013-06-1"
 
+permalink: /:collection/unquietminds
 ---
 <section id="main-content">
 <div class="grid-container large">

@@ -7,6 +7,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2016-09-28"
 
+permalink: /:collection/svcopening
 ---
 <section id="main-content">
 <div class="grid-container large">

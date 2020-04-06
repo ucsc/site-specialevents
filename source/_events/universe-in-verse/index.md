@@ -8,6 +8,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2020-04-18"
 
+permalink: /:collection/universe-in-verse
 ---
 <section id="main-content">
 <div class="grid-container large">
