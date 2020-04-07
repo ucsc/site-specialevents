@@ -22,7 +22,7 @@ location:
   addresslink: https://map.concept3d.com/?id=882#!m/229098
 
 #### custom button
-registration: #listing
+registration: '#listing'
 register-text: View Latest Event
 
 
@@ -37,7 +37,7 @@ tags:
 
 layout: landing
 
-published: true
+published: false
 ---
 
 The Kraw Lecture Series in Silicon Valley is made possible by a generous gift from UC Santa Cruz alumnus George Kraw (Cowell '71, history and Russian literature). The lecture series features acclaimed UC Santa Cruz scientists and technologists who are grappling with some of the biggest questions of our time.
