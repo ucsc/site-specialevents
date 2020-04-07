@@ -21,6 +21,10 @@ location:
   address: Silicon Valley Campus
   addresslink: https://map.concept3d.com/?id=882#!m/229098
 
+#### custom button
+registration: #listing
+register-text: View Latest Event
+
 
 #### Archive Page | Category will always be the same | event-type either Signature Event, Notable Event, Lecture Series
 category: Lecture Series
@@ -51,7 +55,7 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 ### Rebecca DuBois, <em>Viruses & Vaccines</em>
 
 Professor Rebecca DuBois studies how viruses cause infections and identifies weaknesses that can be targeted with vaccines and antiviral therapies. All human viruses must be able to attach to their target cell and transfer their genetic material inside the cell. The virus surface proteins that carry out these entry steps are the same proteins that our immune system can recognize and inactivate. DuBois and her team use an integrated toolkit of structural biology, biochemistry, virology, and immunology to investigate this molecular warfare between humans and viruses. This research provides a foundation for the development of next-generation vaccines.
-
+<a name="listing"></a>
 ---
 ![Anne Kapuscinski](/events/kraw-lecture/2020/images/anne-kapuscinski-copy.jpg){: .img-right-25}
 
@@ -76,6 +80,12 @@ Natalie Batalha made Time magazine's list of the 100 most influential people on 
 
 ---
 
-Each lecture will be videotaped and [archived here](https://www.youtube.com/user/UCSantaCruz/videos).
+Each lecture will be videotaped and [archived here](https://www.youtube.com/playlist?list=PLRYckK179c3RY3ZxfHjc6EP1wFVH6NVsy).
 
 Questions? Contact UC Santa Cruz Special Events [specialevents@ucsc.edu](mailto:specialevents@ucsc.edu) or (831) 459-5003.
+
+<style>
+ .button .primary {
+  display: none;
+ }
+</style>
