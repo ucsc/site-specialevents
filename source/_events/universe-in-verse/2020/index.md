@@ -4,8 +4,6 @@ description: 'Following guidance from health experts designed to slow the spread
 
 nav-collection: Universe in Verse
 
-nav-order: 1
-
 event-type: Notable Event
 category: Universe in Verse
 

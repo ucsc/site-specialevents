@@ -178,6 +178,12 @@
   force = true
 
 [[redirects]]
+  from = "/founders/index.html"
+  to = "/events/founders"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/kraw-lecture"
   to = "/events/kraw-lecture"
   status = 301

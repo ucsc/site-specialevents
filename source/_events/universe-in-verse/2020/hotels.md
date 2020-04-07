@@ -4,11 +4,9 @@ description: 'Places to stay in Santa Cruz area..'
 
 nav-collection: Universe in Verse
 
-nav-order: 3
-
 layout: page
 
-published: true
+ublished: false
 ---
 {: .underline}
 ## {{ page.title }}
