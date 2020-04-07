@@ -178,7 +178,7 @@
   force = true
 
 [[redirects]]
-  from = "/founders/index.html"
+  from = "/founders/*"
   to = "/events/founders"
   status = 301
   force = true
