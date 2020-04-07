@@ -27,7 +27,7 @@
     var headElement = document.getElementsByTagName('head')[0];
     var scriptElement = document.createElement('script');
     scriptElement.type= 'text/javascript';
-    scriptElement.src = resourcesFolderName + '/' + 'https://specialevents.ucsc.edu/events/alumniweekend/2012/resources/front/HYPE.js';
+    scriptElement.src = resourcesFolderName + '/' + 'HYPE.js';
     headElement.appendChild(scriptElement);
     return;
   }
