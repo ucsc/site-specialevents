@@ -32,7 +32,7 @@
 			var headElement = document.getElementsByTagName('head')[0];
 			var scriptElement = document.createElement('script');
 			scriptElement.type= 'text/javascript';
-			scriptElement.src = resourcesFolderName + '/' + 'https://specialevents.ucsc.edu/events/alumniweekend/2013/HYPE.js?hype_version=150';
+			scriptElement.src = resourcesFolderName + '/' + 'HYPE.js?hype_version=150';
 			headElement.appendChild(scriptElement);
 		} else {
 			window.HYPE_150_DocumentsToLoad.push(HYPE_DocumentLoader);
