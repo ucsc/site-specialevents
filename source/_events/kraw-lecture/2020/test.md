@@ -18,8 +18,8 @@ billboard:
   endtime: 8:00 p.m.
 
 location:
-  address: Silicon Valley Campus
-  addresslink: https://map.concept3d.com/?id=882#!m/229098
+  address: Virtual Event
+  addresslink: 
 
 #### custom button
 registration: '#listing'
@@ -33,11 +33,10 @@ category: Lecture Series
 tags:
   - Kraw Lecture
   - Current
-  - Home
 
 layout: landing
 
-published: false
+published: true
 ---
 
 The Kraw Lecture Series in Silicon Valley is made possible by a generous gift from UC Santa Cruz alumnus George Kraw (Cowell '71, history and Russian literature). The lecture series features acclaimed UC Santa Cruz scientists and technologists who are grappling with some of the biggest questions of our time.
@@ -45,6 +44,7 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 **These talks are free and open to the public**
 
 **Our Kraw Lecture Series is so fantastic, we want to bring it right to you via live streaming. If you aren't able to join us in person the night of the event, you can now stream the lectures and join in the conversation via online comments. Lecture and live stream typically begin at 7 p.m.**
+<a name="listing"></a>
 
 ---
 ![Covid-19 virus](/events/kraw-lecture/2020/images/covid-19.jpg){: .img-right-50 }
@@ -55,7 +55,7 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 ### Rebecca DuBois, <em>Viruses & Vaccines</em>
 
 Professor Rebecca DuBois studies how viruses cause infections and identifies weaknesses that can be targeted with vaccines and antiviral therapies. All human viruses must be able to attach to their target cell and transfer their genetic material inside the cell. The virus surface proteins that carry out these entry steps are the same proteins that our immune system can recognize and inactivate. DuBois and her team use an integrated toolkit of structural biology, biochemistry, virology, and immunology to investigate this molecular warfare between humans and viruses. This research provides a foundation for the development of next-generation vaccines.
-<a name="listing"></a>
+
 ---
 ![Anne Kapuscinski](/events/kraw-lecture/2020/images/anne-kapuscinski-copy.jpg){: .img-right-25}
 
