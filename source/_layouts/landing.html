@@ -103,8 +103,13 @@
             <!-- Right sidebar address -->
               {% if page.location.address != null %}
                 <h5 class="blue-text">Locations:</h5>
-                <p>{{ page.location.address }} <a href="{{ page.location.addresslink }}" class="btn-link">map <i class="fas fa-map"></i></a></p>
+                <p>{{ page.location.address }}
+                  {% if page.location.addresslink != null %}
+                    <a href="{{ page.location.addresslink }}" class="btn-link">map <i class="fas fa-map"></i></a>
+                  {% endif %}
+                </p>
               {% endif %}
+
             <!-- End right sidebar address -->
           </div>
         </div>
