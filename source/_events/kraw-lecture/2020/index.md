@@ -33,6 +33,7 @@ category: Lecture Series
 tags:
   - Kraw Lecture
   - Current
+  - Home
 
 layout: landing
 
