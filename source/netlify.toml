@@ -208,9 +208,7 @@
   force = true
 
 [[redirects]]
-  from = "/casfs-fifty/*"
+  from = "/casfs-fifty/"
   to = "/events/farmtofork/2017/"
   status = 301
   force = true
-
-
