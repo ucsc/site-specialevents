@@ -206,4 +206,9 @@
   to = "/404.html"
   status = 404
 
+[[redirects]]
+  from = "/casfs-fifty\/?"
+  to = "/events/farmtofork/2017/"
+  status = 404
+
 
