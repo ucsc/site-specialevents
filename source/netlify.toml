@@ -190,7 +190,7 @@
   force = true
 
 [[redirects]]
-  from = "/commencement"
+  from = "/commencement/"
   to = "https://commencement.ucsc.edu"
   status = 301
   force = true
@@ -207,7 +207,7 @@
   status = 404
 
 [[redirects]]
-  from = "/casfs-fifty/"
+  from = "/casfs-fifty/index.html"
   to = "/events/farmtofork/2017/"
   status = 301
   force = true
@@ -215,5 +215,65 @@
 [[redirects]]
   from = "/farmtofork/"
   to = "/events/farmtofork/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/commencement/2011/"
+  to = "/events/commencement/2011/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/commencement/2012/"
+  to = "/events/commencement/2012/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/commencement/2013/"
+  to = "/events/commencement/2013/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/commencement/2013/"
+  to = "/events/commencement/2013/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/commencement/2014/"
+  to = "/events/commencement/2014/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/commencement/2015/"
+  to = "/events/commencement/2015/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/commencement/2016/"
+  to = "/events/commencement/2016/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/commencement/2017/"
+  to = "/events/commencement/2017/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/commencement/2018/"
+  to = "/events/commencement/2018/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/commencement/2019/"
+  to = "/events/commencement/2019/"
   status = 301
   force = true
