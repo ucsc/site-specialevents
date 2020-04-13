@@ -202,11 +202,6 @@
   force = true
 
 [[redirects]]
-  from = "/*"
-  to = "/404.html"
-  status = 404
-
-[[redirects]]
   from = "/casfs-fifty/index.html"
   to = "/events/farmtofork/2017/"
   status = 301
@@ -277,3 +272,8 @@
   to = "/events/commencement/2019/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
