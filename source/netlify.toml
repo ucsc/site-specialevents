@@ -207,7 +207,13 @@
   status = 404
 
 [[redirects]]
-  from = "/casfs-fifty/*"
+  from = "/casfs-fifty/"
   to = "/events/farmtofork/2017/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/farmtofork/"
+  to = "/events/farmtofork/"
   status = 301
   force = true
