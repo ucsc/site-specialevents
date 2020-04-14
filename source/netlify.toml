@@ -286,6 +286,30 @@
   force = true
 
 [[redirects]]
+  from = "/maitra/"
+  to = "/events/maitra/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/maitra/2016/"
+  to = "/events/maitra/2016/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/maitra/2014/"
+  to = "/events/maitra/2014/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/maitra/2013/"
+  to = "/events/maitra/2013/"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
