@@ -53,7 +53,7 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 #### APRIL 28, 2020
 **Virtual Lecture**
 
-### Rebecca DuBois, <em>Viruses & Vaccines</em>
+### [Rebecca DuBois, <em>Viruses & Vaccines](https://ucsc.zoom.us/webinar/register/WN_Pb0tRgDdTLaeoW1zSHvlhA)</em>
 
 Professor Rebecca DuBois studies how viruses cause infections and identifies weaknesses that can be targeted with vaccines and antiviral therapies. All human viruses must be able to attach to their target cell and transfer their genetic material inside the cell. The virus surface proteins that carry out these entry steps are the same proteins that our immune system can recognize and inactivate. DuBois and her team use an integrated toolkit of structural biology, biochemistry, virology, and immunology to investigate this molecular warfare between humans and viruses. This research provides a foundation for the development of next-generation vaccines.
 
