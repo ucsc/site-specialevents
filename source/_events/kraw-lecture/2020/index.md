@@ -1,5 +1,5 @@
 ---
-title: "The Kraw Lecture Series on Science and Technology 2020"
+title: "Kraw Lecture Series on Science and Technology 2020"
 description: "Professor Rebecca DuBois studies how viruses cause infections and identifies weaknesses that can be targeted with vaccines and antiviral therapies."
 
 #### Date of the event
