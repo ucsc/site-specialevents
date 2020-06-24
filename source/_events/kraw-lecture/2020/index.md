@@ -1,9 +1,9 @@
 ---
 title: "Kraw Lecture Series on Science and Technology"
-description: "Professor Rebecca DuBois studies how viruses cause infections and identifies weaknesses that can be targeted with vaccines and antiviral therapies."
+description: "Marm Kilpatrick will give a broad overview of the vast scientific literature on COVID-19 including mechanisms of transmission; high and low risk activities; fatality, including impacts on different ages and people with pre-existing conditions; challenges in understanding current levels of transmission & what this means for relaxing lockdowns; and how to interpret models & projections."
 
 #### Date of the event
-date: 2020-04-28
+date: 2020-06-30
 
 
 #### billboard
@@ -11,8 +11,8 @@ billboard:
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Virtual Lecture
   day: Tuesday
-  month: April
-  date: 28
+  month: June 
+  date: 30
   year: 2020
   starttime: 7:00 p.m.
   endtime: 8:00 p.m.
@@ -50,15 +50,37 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 ---
 ![Covid-19 virus](/events/kraw-lecture/2020/images/covid-19.jpg){: .img-right-50 }
 
+##### Jun 30, 2020
+**Virtual Lecture**
+
+### [Marm Kilpatrick, <em>COVID-19</em>](https://UCOP.zoom.us/webinar/register/WN_JJ5QBJbLTQCdGyFJsPpfIA)
+
+Marm Kilpatrick will give a broad overview of the vast scientific literature
+on COVID-19 including mechanisms of transmission; high and low risk
+activities; fatality, including impacts on different ages and people
+with pre-existing conditions; challenges in understanding current levels
+of transmission & what this means for relaxing lockdowns; and how to
+interpret models & projections. He will highlight what he thinks are the
+biggest remaining questions and why they are difficult to answer. He will
+also, outline what almost all epidemiologists have outlined as the best
+strategy moving forward that allows us to both prevent widespread
+transmission and disease and also allow significant economic activity,
+and why we didn't implement this 3 months ago and what still hinders us
+now.
+
+{: .button .primary .small}
+[Register for virtual event](https://ucsc.zoom.us/webinar/register/WN_LT0Bxg_qQTC7bkX4ua0Oqg)
+
+
+---
+![Covid-19 virus](/events/kraw-lecture/2020/images/covid-19.jpg){: .img-right-50 }
+
 ##### Apr 28, 2020
 **Virtual Lecture**
 
 ### [Rebecca DuBois, <em>Viruses & Vaccines</em>](https://UCOP.zoom.us/webinar/register/WN_JJ5QBJbLTQCdGyFJsPpfIA)
 
 Professor Rebecca DuBois studies how viruses cause infections and identifies weaknesses that can be targeted with vaccines and antiviral therapies. All human viruses must be able to attach to their target cell and transfer their genetic material inside the cell. The virus surface proteins that carry out these entry steps are the same proteins that our immune system can recognize and inactivate. DuBois and her team use an integrated toolkit of structural biology, biochemistry, virology, and immunology to investigate this molecular warfare between humans and viruses. This research provides a foundation for the development of next-generation vaccines.
-
-{: .button .primary .small}
-[Register for virtual event](https://UCOP.zoom.us/webinar/register/WN_JJ5QBJbLTQCdGyFJsPpfIA)
 
 ---
 ![Anne Kapuscinski](/events/kraw-lecture/2020/images/anne-kapuscinski-copy.jpg){: .img-right-25}
