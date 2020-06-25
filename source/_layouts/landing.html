@@ -97,7 +97,7 @@
               {% if page.billboard.date != null %}
                 <h5 class="blue-text">Date:</h5>
                 <p>{{ page.billboard.day }}, {{ page.billboard.month }} {{ page.billboard.date }}, {{ page.billboard.year }} <br/>
-                {{ page.billboard.starttime }} - {{ page.billboard.endtime }}</p>
+              {{ page.billboard.starttime }} {% if page.billboard.endtime != null %}-  {{ page.billboard.endtime }} {% endif %}</p>
               {% endif %}
             <!-- Dnd right sidebar date and time -->
             <!-- Right sidebar address -->
