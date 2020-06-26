@@ -10,7 +10,11 @@
                     <a href="{{ page.registration }}" class="">
                       <p class="category btn-link"><large>{{ page.billboard.subtitle }}</large></p>
                       <div class="underline isolated">
-                          <h1 class="hero-header">{{ page.title }}</h1>
+                          <!-- Billboard title -->
+                          <h1 class="hero-header">
+                            {{ page.title }}
+                          </h1>
+                          <!-- End billboard title -->
                           {% if page.billboard.day != null %}
                             <p class="hero-body"><large>{% if page.billboard.day != null %}{{ page.billboard.day }}, {% endif %}{{ page.billboard.month}} {% if page.billboard.date != null %}{{ page.billboard.date }}, {{ page.billboard.year }} {% endif %}</large>
                           {% endif %}
@@ -23,12 +27,18 @@
                     </a>
                     {% endif %}
                   {% if page.layout == 'home-page' %}
-                  <img src="{{ site.baseurl }}{{ event.billboard.image }}" />
+                  <img src="{{ site.baseurl }}{{ event.billboard.image }}" alt="{{ event.title }}"/>
                   <div class="hero-text">
                     <a href="{{site.baseurl}}{{ event.url }}.html" class="">
                       <p class="category btn-link"><large>{{ event.billboard.subtitle }}</large></p>
                       <div class="underline isolated">
-                          <h1 class="hero-header">{{ event.title }}</h1>
+                          <h1 class="hero-header">
+                            {% if event.billboard.homepage-title != null %}
+                              {{ event.billboard.homepage-title }}
+                            {% else %}
+                              {{ event.title }}
+                            {% endif %}
+                          </h1>
                           {% if event.billboard.month != null %}
                             <p class="hero-body"><large>{% if event.billboard.day != null %} {{ event.billboard.day }}, {% endif %} {{ event.billboard.month}} {% if event.billboard.date != null %} {{ event.billboard.date }}, {{ event.billboard.year }} {% endif %}</large>
                           {% endif %}
