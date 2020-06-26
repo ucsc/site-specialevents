@@ -15,8 +15,10 @@ tags:
 
 date: "2018-10-20"
 
-#### billboard
+#### Billboard
 billboard:
+  #### If homepage billboard-title is empty will display page title
+  homepage-title: 
   subtitle: 2018 Year of Alumni
   day: Saturday
   #### Add TBD to month if not date or Virtual Event

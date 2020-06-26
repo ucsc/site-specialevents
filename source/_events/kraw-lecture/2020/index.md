@@ -8,8 +8,9 @@ date: 2020-06-30
 
 #### billboard
 billboard:
+  homepage-title: 'COVID-19: The scientific basis for what we know and the exit strategy it provides'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
-  subtitle: Virtual Lecture
+  subtitle: Kraw Lecture Series
   day: Tuesday
   month: June 
   date: 30
