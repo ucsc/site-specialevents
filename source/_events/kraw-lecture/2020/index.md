@@ -15,8 +15,8 @@ billboard:
   month: June 
   date: 30
   year: 2020
-  starttime: 7:00 p.m.
-  endtime: 8:00 p.m.
+  starttime: 5:30 p.m.
+  endtime: 6:30 p.m.
 
 location:
   address: Virtual Event
