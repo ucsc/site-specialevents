@@ -29,11 +29,12 @@
 
         <!-- Speaker profile listing with photos -->
         {% if page.speaker != null %}
-        <h2>The awards presentation will include:</h2>
+        <h2>{{ page.speakers-title }}</h2>
          <div class="profile-list owl-carousel">
           {% for speaker in page.speaker %}
-            <a id="{{ speaker.name }}" name="{{ 'speaker.name' }}"><a class="profile carousel-item" href="{{ speaker.link }}">
-              {% if page.speaker.award-title != "" %}
+            <a id="{{ speaker.name }}" name="{{ 'speaker.name' }}"></a>
+              <a class="profile carousel-item" href="{{ speaker.link }}">
+              {% if page.speaker.award-title != null %}
                 <h3 class="cell large-12">{{ speaker.award-title }}</h3>
               {% endif%}
                 <div class="image speaker">
@@ -46,7 +47,7 @@
                         <p>{{ speaker.teaser }}</p>
                     </div>
                 </div>
-            </a>
+              </a>
             {% endfor %}
           </div>
           {% endif %}
