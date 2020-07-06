@@ -3,7 +3,7 @@ title: "Kraw Lecture Series on Science and Technology"
 description: "Marm Kilpatrick will give a broad overview of the vast scientific literature on COVID-19 including mechanisms of transmission; high and low risk activities; fatality, including impacts on different ages and people with pre-existing conditions; challenges in understanding current levels of transmission & what this means for relaxing lockdowns; and how to interpret models & projections."
 
 #### Date of the event
-date: 2020-06-30
+date: "2020-06-30"
 
 
 #### billboard
