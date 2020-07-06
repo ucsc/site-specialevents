@@ -6,7 +6,7 @@ layout: full-page
 
 
 #### date of the latest event to sort
-date: "2020-02-25"
+date: "2020-06-30"
 
 permalink: /:collection/kraw-lecture
 ---
