@@ -19,8 +19,8 @@ billboard:
   subtitle: The Deep Read
   day: 
   #### Add TBD to month if not date or online event
-  month: Virtual Event
-  date: 
+  month: April
+  date: 8
   year: 2020
   image: "/events/deep-read/2020/images/banner.jpg"
   starttime: 
@@ -28,8 +28,8 @@ billboard:
 
 #### sidebar information
 location:
-  address: Santa Cruz Civic Auditorium
-  addresslink: https://www.cityofsantacruz.com/government/city-departments/parks-recreation/civic-auditorium
+  address: Virtual Event
+  addresslink: 
 
 registration: https://thi.ucsc.edu/welcome-to-gilead/
 register-text: Sign up
