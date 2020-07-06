@@ -51,12 +51,13 @@ Guest Commentators: Gary Griggs and Murray Baumgarten
 
 **Gary Griggs** arrived in UCSC’s earth sciences department in 1968 as the campus’s first faculty member with expertise in oceanography, teaching a wildly popular undergraduate course on the subject. He served as associate dean of natural sciences from 1991 to 1994. From 1991 to 2017, Griggs directed the Institute of Marine Sciences and Long Marine Laboratory. Griggs is an internationally known consultant, writer, and public speaker on coastal erosion, sea-level rise, adaptation to climate change, and other issues related to coastal geology. See Griggs’s oral history.
 
+
 ---
 
 ### SEEDS Webinar dates:
-- June 17: The Changing City on a Hill (1970s) 
-- June 24: Rocks Ahead: Reorganization of the College System (1980s)
-- July 1: Open the Door: Finding a Place on “A Very White Campus” (1990s)
+- [June 17: The Changing City on a Hill (1970s)](https://vimeo.com/430358926)
+- [June 24: Rocks Ahead: Reorganization of the College System (1980s)](https://vimeo.com/432621973)
+- [July 1: Open the Door: Finding a Place on “A Very White Campus” (1990s)](https://www.youtube.com/watch?v=V99nkcM8uzY&list=PLRYckK179c3R2IVbSkOFXNIicfde7YYEU&index=2&t=11s)
 - July 8: A Research University with Experimental Roots (2000-2010)
 - July 15: For Times We Can’t Imagine” (2010-2020)
 

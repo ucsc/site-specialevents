@@ -9,7 +9,6 @@ category: The Deep Read
 
 tags:
   - Deep Read
-  - Home
   - Current
 
 date: "2020-10-20"
