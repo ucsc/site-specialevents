@@ -8,8 +8,9 @@ category: Seeds
 tags:
   - Shakespeare
   - Current
+  - Home
 
-date: "2020-07-01"
+date: "2020-07-08"
 
 #### billboard
 billboard:
@@ -17,7 +18,7 @@ billboard:
   day: Saturday
   #### Add TBD to month if not date or Virtual Event
   month: July
-  date: 1
+  date: 8
   year: 2020
   image: "/events/undiscovered-shakespeare/2020/images/banner.gif"
   starttime: 6:30 p.m.
