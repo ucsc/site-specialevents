@@ -8,12 +8,12 @@ date: "2020-06-30"
 
 #### billboard
 billboard:
-  homepage-title: 'COVID-19: The scientific basis for what we know and the exit strategy it provides'
+  homepage-title: 'COVID-19 Diagnostic Testing'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
   day: Tuesday
-  month: June 
-  date: 30
+  month: July 
+  date: 23
   year: 2020
   starttime: 5:30 p.m.
   endtime: 7:00 p.m.
@@ -47,6 +47,14 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 **Our Kraw Lecture Series is so fantastic, we want to bring it right to you via live streaming. If you aren't able to join us in person the night of the event, you can now stream the lectures and join in the conversation via online comments. <!--Lecture and live stream typically begin at 7 p.m.-->**
 
+---
+
+##### Jul 23, 2020
+**Virtual Lecture**
+
+### COVID-19 Diagnostic Testing
+
+The UCSC Molecular Diagnostic Lab, led by Jeremy Sanford, Olena Vaska, and Michael Stone, performs coronavirus tests for the UCSC Student Health Center and other medical providers in the Santa Cruz community. The lab's rapid turnaround time is essential to patients and the community in order to combat the spread of COVID-19. A significant increase in testing capacity is considered essential to ensure public health and safety now that there is a loosening of the “shelter in place” orders.
 
 ---
 ![Covid-19 virus](/events/kraw-lecture/2020/images/covid-19.jpg){: .img-right-50 }
