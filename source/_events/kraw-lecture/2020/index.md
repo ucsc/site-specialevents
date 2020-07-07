@@ -56,6 +56,9 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 The UCSC Molecular Diagnostic Lab, led by Jeremy Sanford, Olena Vaska, and Michael Stone, performs coronavirus tests for the UCSC Student Health Center and other medical providers in the Santa Cruz community. The lab's rapid turnaround time is essential to patients and the community in order to combat the spread of COVID-19. A significant increase in testing capacity is considered essential to ensure public health and safety now that there is a loosening of the “shelter in place” orders.
 
+{: .button .primary .small}
+[Register for virtual event](https://ucsc.zoom.us/webinar/register/WN_zQQThCIwSkS02ZzGmgdvmA)
+
 ---
 ![Covid-19 virus](/events/kraw-lecture/2020/images/covid-19.jpg){: .img-right-50 }
 
@@ -76,10 +79,6 @@ strategy moving forward that allows us to both prevent widespread
 transmission and disease and also allow significant economic activity,
 and why we didn't implement this 3 months ago and what still hinders us
 now.
-
-{: .button .primary .small}
-[Register for virtual event](https://ucsc.zoom.us/webinar/register/WN_LT0Bxg_qQTC7bkX4ua0Oqg)
-
 
 ---
 ![Covid-19 virus](/events/kraw-lecture/2020/images/covid-19.jpg){: .img-right-50 }
