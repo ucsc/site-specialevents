@@ -1,3 +1,10 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self' 'unsafe-inline' *.ucsc.edu; img-src 'self' *.ucsc.edu data: *.cloudfront.net; script-src 'self' 'unsafe-inline' *.googletagmanager.com siteimproveanalytics.com *.fontawesome.com *.cloudfront.net unpkg.com *.cloudflare.com; style-src 'self' 'unsafe-inline' data: *.ucsc.edu *.googleapis.com *.fontawesome.com *.cloudfront.net; font-src 'self' *.cloudfront.net fonts.gstatic.com *.fontawesome.com; object-src 'none';"
+    X-Content-Type-Options = "nosniff"
+    X-XSS-Protection = "1; mode=block"
+    X-Frame-Options = "DENY"
 [[redirects]]
   from = "/events/flatte-lecture/"
   to = "https://calendar.ucsc.edu/event/flatte_lecture#.XhkWtS2ZPUJ"

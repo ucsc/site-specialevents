@@ -11,7 +11,7 @@ billboard:
   homepage-title: 'COVID-19 Diagnostic Testing'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
-  day: Tuesday
+  day: Thursday
   month: July 
   date: 23
   year: 2020
