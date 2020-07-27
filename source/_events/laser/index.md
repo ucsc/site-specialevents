@@ -5,7 +5,7 @@ category: Lecture
 layout: full-page
 
 #### date of the latest event to sort
-date: "2020-05-12"
+date: "2020-08-06"
 
 permalink: /:collection/laser
 ---
