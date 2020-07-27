@@ -323,6 +323,12 @@
   force = true
 
 [[redirects]]
+  from = "/events/slugs-steins/2020/"
+  to = "https://alumni.ucsc.edu/events/regional-events/2020/08/august-slugs-and-steins.html"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
