@@ -322,7 +322,7 @@
   status = 404
 
 [[redirects]]
-  from = "/events/laser/2020/index.html"
+  from = "/events/laser/2020/"
   to = "https://ias.ucsc.edu/events/2020/how-did-life-begin-special-edition-laser-talks-bruce-damer-and-david-deamer-august-6"
   status = 301
   force = true
