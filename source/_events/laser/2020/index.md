@@ -14,7 +14,7 @@ date: "2020-08-06"
 #### billboard
 billboard:
   subtitle: 
-  day: Wednesday
+  day: Thursday
   #### Add TBD to month if not date or Virtual Event
   month: August
   date: 8

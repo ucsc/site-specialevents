@@ -15,4 +15,7 @@ permalink: /:collection/laser
 <h2 class="underline">{{ page.title }}</h2>
 </section>
 
-<p class="text-center">{{ page.description }}</p>
+<div class="events-card-list fade-out-siblings">
+{% assign event-list = site.events | sort: 'date' | where: 'tags','Laser Talk' | reverse %}
+
+{% include event-listing.html %}
