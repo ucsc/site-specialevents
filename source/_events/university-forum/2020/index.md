@@ -10,57 +10,64 @@ tags:
   - Featured
   - Current
 
-date: "2020-07-20"
+date: "2020-08-04"
 
 #### Billboard
 billboard:
   #### If homepage billboard-title is empty will display page title
   homepage-title: 
   subtitle: The lessons of COVID for global and community health
-  day: Monday
+  day: Tuesday
   #### Add TBD to month if not date or Virtual Event
-  month: July
-  date: 20
-  year: 2030
+  month: August
+  date: 4
+  year: 2020
   image: "/events/university-forum/2020/images/banner.jpg"
   starttime: 5:30 p.m.
-  endtime: 
+  endtime: 7:00 p.m.
 
 #### sidebar information
 location:
   address: Virtual Event
   addresslink: 
 
-registration: https://ucsc.zoom.us/webinar/register/WN_He858s0tTye_jHeEIwGA4A
+registration: https://ucsc.zoom.us/webinar/register/WN_5RM24R-gQIWFfAoTqwAQ-A
 register-text: Register
-
-####speaker information
-speakers-title: Speakers  
-speaker:
-  - name: Matt Sparke
-    title: Professor of Politics @UC Santa Cruz
-    award-title: 
-    subhead:
-    image: /events/university-forum/2020/images/0a17c75f-1389-4a02-87af-99f8dc9e80b4.jpeg
-    teaser: "Matt Sparke is a Professor of Politics at UCSC. He was born in Tonbridge, England. He joined UCSC’s Politics department in 2017 after 22 years at the University of Washington where he previously held joint appointments in International Studies and Geography and also helped create and direct new undergraduate programs in Global Health and Integrated Sciences. Professor Sparke has authored over 50 academic publications, including In The Space of Theory: Postfoundational Geographies of the Nation-State, and has multiple awards for teaching, including the lifetime Distinguished Teaching award from the University of Washington. Throughout his career, Professor Sparke has navigated through these varied positions and has sought to connect the collaborative work of curriculum development with his interests in political theory and global studies, and it is these same interests that he now brings to Politics at UCSC."
-    link: https://politics.ucsc.edu/news-events/profiles/profile-sparke-matt.html
-  - name: "Nancy Chen, Moderator, Q & A"
-    title: Professor of Anthropology @UC Santa Cruz
-    award-title: 
-    subhead:
-    image: /events/university-forum/2020/images/d91b2bf3-c84d-4d1d-9dd1-32050b0a2411.jpeg
-    teaser: "As a medical anthropologist, Nancy Chen focuses on healing practices and health institutions. Her early ethnographic project compared how psychiatry and mental health become national agendas for social integration in Asia while, simultaneously, alternative forms of healing resurged. She has conducted fieldwork in mainland China, primarily, with comparative research in the United States. Her interests include the study of healing narratives, chronic and infectious diseases, traditional medical knowledge, and intersections between the body politic, gender, ethnicity, and medicine."
-    link: https://anthro.ucsc.edu/courses/profiles/Nancy_Chen.html
-
 
 layout: landing
 
 published: true
 ---
 
-## The lessons of COVID for global and community health
+### Small businesses hit hardest by the pandemic
+
+Restrictions meant to slow the spread of the coronavirus have an outsized impact on small businesses and entrepreneurs. Stores, factories and many other businesses and services have closed by policy mandate, reduced demand, and health concerns, among other factors. What are the disproportionate effects on female, minority and immigrant business owners? Governmental responses have been disparate. Economics Professor Rob Fairlie, whose work on this topic has been widely [cited in the media](https://www.nytimes.com/interactive/2020/06/18/us/coronavirus-black-owned-small-business.html), and referenced in [pending legislation](https://www.sbc.senate.gov/public/index.cfm/pressreleases?id=999CE328-3738-40FC-A4C0-2F8760F8E59A), will help us better understand where we are, and assess the early-stage impacts of COVID-19 on small business owners.
+
+More reading: [PBS NewsHour](https://www.pbs.org/newshour/show/pandemic-highlights-the-extra-hardships-faced-by-black-business-owners), [National Bureau of Economic Research](https://www.nber.org/papers/w27462), [Reuters](https://www.reuters.com/article/us-usa-economy-blackbusiness/why-some-black-owned-u-s-businesses-are-hardest-hit-by-coronavirus-shutdowns-idUSKBN23N34A), [American Conservative](https://www.theamericanconservative.com/articles/shutdowns-for-small-business-windfall-profits-for-megacorporations/).
+
+### Speakers
+
+Robert Fairlie is a professor and chair of economics at UC Santa Cruz. His research interests include entrepreneurship, education, information technology, inequality, labor economics, and immigration. He has published over 70 journal articles and book chapters, two academic books, and numerous government and foundation reports. He received his Ph.D. and M.A. from Northwestern University and B.A. with honors from Stanford University. He has held visiting positions at Yale University, UC Berkeley, Australian National University, and the Institute for the Study of Labor (IZA). He has testified to the U.S. Senate, U.S. House of Representatives, U.S. Department of Treasury, and the California State Assembly regarding the findings from his research, and received a joint resolution from the California Legislature.
+
+---
+
+## Past Events
+
+
+### The lessons of COVID for global and community health
+
+**Date:** July 20, 2020<br />
+**Time:** 5:30 pm
 
 The UC Santa Cruz University Forum presents The lessons of COVID for global and community health with Professor Matt Sparke. Globally and nationally COVID is teaching us a great deal about the huge inequalities in vulnerability, resilience, and blame as well as instructive divergences in health system capacity, governmental response, and socio-economic disruption. While we are all in this together as human beings it has become clear that our unequal conditions of being human have made for vast variations in how the pandemic has been experienced. Professor Sparke discusses these inequalities and how teaching and research related to global and community health can contribute to developing antidotes to these devastating problems and how UCSC is especially well-positioned to contribute in this way.
 
 Featuring Matt Sparke, professor of politics and member of the team at UCSC developing the new global and community health program at UC Santa Cruz, and Nancy Chen, professor of anthropology and former director of the UCSC Blum Center on poverty, social enterprise, and participatory governance.
 
+### Speakers
+
+**Matt Sparke**<br />
+Professor of Politics @UC Santa Cruz
+
+**Nancy Chen**<br />
+Moderator, Q & A<br />
+Professor of Anthropology @UC Santa Cruz
