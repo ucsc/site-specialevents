@@ -10,19 +10,19 @@ tags:
   - Current
   - Home
 
-date: "2020-07-29"
+date: "2020-08-05"
 
 #### billboard
 billboard:
   subtitle: 
   day: Wednesday
   #### Add TBD to month if not date or Virtual Event
-  month: July
-  date: 29
+  month: August
+  date: 5
   year: 2020
   image: "/events/undiscovered-shakespeare/2020/images/banner.gif"
   starttime: 6:30 p.m.
-  endtime: 
+  endtime: 8:00 p.m.
 
 #### sidebar information
 location:
