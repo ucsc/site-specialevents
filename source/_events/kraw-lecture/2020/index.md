@@ -1,22 +1,22 @@
 ---
 title: "Kraw Lecture Series on Science and Technology"
-description: "The UCSC Molecular Diagnostic Lab, led by Jeremy Sanford, Olena Vaska, and Michael Stone, performs coronavirus tests for the UCSC Student Health Center and other medical providers in the Santa Cruz community."
+description: "Our COVD-19 response series continues, this time with a look at hardware solutions. Healthcare professionals need to be able to get diagnoses quickly, rather than sending samples offsite to be processed and waiting for the results."
 
 #### Date of the event
-date: "2020-06-30"
+date: "2020-08-27"
 
 
 #### billboard
 billboard:
-  homepage-title: 'COVID-19 Diagnostic Testing'
+  homepage-title: 'Hunting for infection, one molecule at a time'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
   day: Thursday
-  month: July 
-  date: 23
+  month: August
+  date: 27
   year: 2020
   starttime: 5:30 p.m.
-  endtime: 7:00 p.m.
+  endtime: 
 
 location:
   address: Virtual Event
@@ -49,6 +49,30 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 ---
 
+##### August 27, 2020
+**Virtual Lecture**
+
+### Hunting for infection, one molecule at a time
+
+Our COVD-19 response series continues, this time with a look at hardware solutions. Healthcare professionals need to be able to get diagnoses quickly, rather than sending samples offsite to be processed and waiting for the results. Professor Holger Schmidt’s lab is developing technology that could give doctors compact instruments that can deliver test results quickly and onsite. This optofluidic technology, invented in his lab, uses small silicon chips to guide light to either optically excite individual molecules or collect them for electrical detection with a nanopore. This allows physicians to assess if an infection is present, and how strong it is. These “labs-on-a-chip” detect viral RNA, antigens or antibodies, and count the molecules one by one, creating great promise for rapid, low-cost, and accurate testing for coronaviruses and other diseases. This is another example of the advances and promise of the research on integrated devices and nanopores taking place at UC Santa Cruz.
+
+{: .button .primary .small}
+[Register for virtual event](https://ucsc.zoom.us/webinar/register/WN_J8MIVdBCTcSMyihrHk-7lw)
+
+<p>&nbsp;</p>
+
+#### Speakers
+
+![Holger Schmidt](/events/kraw-lecture/2020/images/holger-schmidt-cropped.jpg){: .img-right-25 } **Holger Schmidt** is the Narinder Singh Kapany Chair of Optoelectronics and a professor of electrical and computer engineering at UC Santa Cruz. He also serves as associate dean for research for the Baskin School of Engineering and director of the W.M. Keck Center for Nanoscale Optofluidics. His research interests include single molecule detection and analysis in optofluidic devices, hollow-core waveguide photonics, atomic spectroscopy on a chip, nano-magneto-optics, and spintronics.
+Schmidt's awards include NSF Career Award (2002), Keck Futures Nanotechnology Award (2005), and the Engineering Achievement Award from the IEEE Photonics Society (2017). He is a fellow of the Optical Society of America (2014), IEEE (2017), and the National Academy of Inventors (2019).
+
+<br />
+
+![Alexander Wolf](/events/kraw-lecture/2020/images/dean-alex-wolf.jpg){: .img-right-25 } **Alexander Wolf** serves as dean of the Baskin School of Engineering and is a distinguished professor in the Department of Computer Science and Engineering at UC Santa Cruz. Professor Wolf received M.S. and Ph.D. degrees from the Department of Computer Science at the University of Massachusetts, Amherst, before joining AT&T Bell Laboratories in Murray Hill, New Jersey.
+He was a professor at the University of Colorado, Boulder, University of Lugano, Switzerland, and Imperial College London, UK. Professor Wolf’s research interests span the areas of distributed systems, networking, and software engineering. He is a fellow of the Association for Computing Machinery, IEEE, and British Computer Society, and a member of the Computer Research Association board of directors and the American Association for Engineering Education public policy committee.
+
+---
+
 ##### Jul 23, 2020
 **Virtual Lecture**
 
@@ -56,8 +80,26 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 The UCSC Molecular Diagnostic Lab, led by Jeremy Sanford, Olena Vaska, and Michael Stone, performs coronavirus tests for the UCSC Student Health Center and other medical providers in the Santa Cruz community. The lab's rapid turnaround time is essential to patients and the community in order to combat the spread of COVID-19. A significant increase in testing capacity is considered essential to ensure public health and safety now that there is a loosening of the “shelter in place” orders.
 
-{: .button .primary .small}
-[Register for virtual event](https://ucsc.zoom.us/webinar/register/WN_zQQThCIwSkS02ZzGmgdvmA)
+---
+![Covid-19 virus](/events/kraw-lecture/2020/images/covid-19.jpg){: .img-right-50 }
+
+##### Jun 30, 2020
+**Virtual Lecture**
+
+### [Marm Kilpatrick, <em>COVID-19</em>](https://UCOP.zoom.us/webinar/register/WN_JJ5QBJbLTQCdGyFJsPpfIA)
+
+Marm Kilpatrick will give a broad overview of the vast scientific literature
+on COVID-19 including mechanisms of transmission; high and low risk
+activities; fatality, including impacts on different ages and people
+with pre-existing conditions; challenges in understanding current levels
+of transmission & what this means for relaxing lockdowns; and how to
+interpret models & projections. He will highlight what he thinks are the
+biggest remaining questions and why they are difficult to answer. He will
+also, outline what almost all epidemiologists have outlined as the best
+strategy moving forward that allows us to both prevent widespread
+transmission and disease and also allow significant economic activity,
+and why we didn't implement this 3 months ago and what still hinders us
+now.
 
 ---
 ![Covid-19 virus](/events/kraw-lecture/2020/images/covid-19.jpg){: .img-right-50 }
