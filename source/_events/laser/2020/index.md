@@ -7,7 +7,6 @@ category: Lecture Series
 tags:
   - Laser Talk
   - Current
-  - Home
 
 date: "2020-08-06"
 
@@ -30,7 +29,7 @@ location:
 
 layout: landing
 
-published: true
+published: falsed
 ---
 
 

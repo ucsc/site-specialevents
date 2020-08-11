@@ -8,6 +8,7 @@ layout: full-page
 date: "2020-08-06"
 
 permalink: /:collection/laser
+published: falsed
 ---
 <section id="main-content">
 <div class="grid-container large">
