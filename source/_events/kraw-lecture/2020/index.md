@@ -80,26 +80,9 @@ He was a professor at the University of Colorado, Boulder, University of Lugano,
 
 The UCSC Molecular Diagnostic Lab, led by Jeremy Sanford, Olena Vaska, and Michael Stone, performs coronavirus tests for the UCSC Student Health Center and other medical providers in the Santa Cruz community. The lab's rapid turnaround time is essential to patients and the community in order to combat the spread of COVID-19. A significant increase in testing capacity is considered essential to ensure public health and safety now that there is a loosening of the “shelter in place” orders.
 
----
-![Covid-19 virus](/events/kraw-lecture/2020/images/covid-19.jpg){: .img-right-50 }
-
-##### Jun 30, 2020
-**Virtual Lecture**
-
-### [Marm Kilpatrick, <em>COVID-19</em>](https://UCOP.zoom.us/webinar/register/WN_JJ5QBJbLTQCdGyFJsPpfIA)
-
-Marm Kilpatrick will give a broad overview of the vast scientific literature
-on COVID-19 including mechanisms of transmission; high and low risk
-activities; fatality, including impacts on different ages and people
-with pre-existing conditions; challenges in understanding current levels
-of transmission & what this means for relaxing lockdowns; and how to
-interpret models & projections. He will highlight what he thinks are the
-biggest remaining questions and why they are difficult to answer. He will
-also, outline what almost all epidemiologists have outlined as the best
-strategy moving forward that allows us to both prevent widespread
-transmission and disease and also allow significant economic activity,
-and why we didn't implement this 3 months ago and what still hinders us
-now.
+<div class="responsive-embed widescreen">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IH56ZFOmkGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 ![Covid-19 virus](/events/kraw-lecture/2020/images/covid-19.jpg){: .img-right-50 }
@@ -121,6 +104,9 @@ strategy moving forward that allows us to both prevent widespread
 transmission and disease and also allow significant economic activity,
 and why we didn't implement this 3 months ago and what still hinders us
 now.
+<div class="responsive-embed widescreen">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kVNG5cDL__U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 ![Covid-19 virus](/events/kraw-lecture/2020/images/covid-19.jpg){: .img-right-50 }
@@ -132,6 +118,9 @@ now.
 
 Professor Rebecca DuBois studies how viruses cause infections and identifies weaknesses that can be targeted with vaccines and antiviral therapies. All human viruses must be able to attach to their target cell and transfer their genetic material inside the cell. The virus surface proteins that carry out these entry steps are the same proteins that our immune system can recognize and inactivate. DuBois and her team use an integrated toolkit of structural biology, biochemistry, virology, and immunology to investigate this molecular warfare between humans and viruses. This research provides a foundation for the development of next-generation vaccines.
 
+<div class="responsive-embed widescreen">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/0ke6h0hBDDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
 ---
 ![Anne Kapuscinski](/events/kraw-lecture/2020/images/anne-kapuscinski-copy.jpg){: .img-right-25}
 
