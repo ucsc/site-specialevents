@@ -45,6 +45,10 @@ Restrictions meant to slow the spread of the coronavirus have an outsized impact
 
 More reading: [PBS NewsHour](https://www.pbs.org/newshour/show/pandemic-highlights-the-extra-hardships-faced-by-black-business-owners), [National Bureau of Economic Research](https://www.nber.org/papers/w27462), [Reuters](https://www.reuters.com/article/us-usa-economy-blackbusiness/why-some-black-owned-u-s-businesses-are-hardest-hit-by-coronavirus-shutdowns-idUSKBN23N34A), [American Conservative](https://www.theamericanconservative.com/articles/shutdowns-for-small-business-windfall-profits-for-megacorporations/).
 
+<div class="responsive-embed widescreen">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HZKMQtKpKZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### Speakers
 
 Robert Fairlie is a professor and chair of economics at UC Santa Cruz. His research interests include entrepreneurship, education, information technology, inequality, labor economics, and immigration. He has published over 70 journal articles and book chapters, two academic books, and numerous government and foundation reports. He received his Ph.D. and M.A. from Northwestern University and B.A. with honors from Stanford University. He has held visiting positions at Yale University, UC Berkeley, Australian National University, and the Institute for the Study of Labor (IZA). He has testified to the U.S. Senate, U.S. House of Representatives, U.S. Department of Treasury, and the California State Assembly regarding the findings from his research, and received a joint resolution from the California Legislature.
@@ -71,3 +75,19 @@ Professor of Politics @UC Santa Cruz
 **Nancy Chen**<br />
 Moderator, Q & A<br />
 Professor of Anthropology @UC Santa Cruz
+
+<div class="responsive-embed widescreen">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7I16xgXMsZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
+### Solidarity Economics for the Coronavirus Crisis & Beyond
+
+**Date:** June 22, 2020<br />
+**Time:** 5:30 pm
+
+<div class="responsive-embed widescreen">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qSjKO40HYqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
