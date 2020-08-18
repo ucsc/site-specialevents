@@ -33,7 +33,7 @@ category: Lecture Series
 #### Tags label Current or Inactive event
 tags:
   - Kraw Lecture
-  - Home
+  - Featured
   - Current
 
 layout: landing
