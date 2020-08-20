@@ -26,7 +26,7 @@ billboard:
 #### sidebar information
 location:
   address: Virtual Event
-  addresslink: 
+  addresslink: https://ucsc.zoom.us/webinar/register/WN_O_C_UCg1RSq9i4Xj1fO4YQ
 
 layout: landing
 
