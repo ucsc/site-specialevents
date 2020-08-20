@@ -1,11 +1,11 @@
 ---
 title: "Slugs & Steins"
-description: "Beyond the Middle Passage: Slave Trading in the Americas 1619-1807"
+description: "Online Groceries: eCommerce, the pandemic & the future of work in retail food"
 category: Lecture
 layout: full-page
 
 #### date of the latest event to sort
-date: "2020-08-10"
+date: "2020-09-14"
 
 permalink: /:collection/slugs-steins
 ---

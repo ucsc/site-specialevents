@@ -1,6 +1,6 @@
 ---
 title: "Slugs & Steins"
-description: "Beyond the Middle Passage: Slave Trading Within the Americas, 1619-1807"
+description: "Online Groceries: eCommerce, the pandemic & the future of work in retail food"
 
 category: Lecture Series
 
@@ -9,15 +9,15 @@ tags:
   - Current
   - Home
 
-date: "2020-08-10"
+date: "2020-09-14"
 
 #### billboard
 billboard:
   subtitle: 'Lectures from: UC Santa Cruz'
   day: Monday
   #### Add TBD to month if not date or Virtual Event
-  month: August
-  date: 10
+  month: September
+  date: 14
   year: 2020
   image: "/events/slugs-steins/2020/images/banner.jpg"
   starttime: 6:30 p.m.
