@@ -1,26 +1,26 @@
 ---
 title: University Forum
-description: "The UC Santa Cruz University Forum presents The lessons of COVID for global and community health with Politics Professor Matt Sparke."
+description: "The November 2020 election provides an historic opportunity to shape our future, both in California and the nation. The race for President and Congressional races stands to fundamentally shape the future of race relations, environmental protections, immigration reform, healthcare and health disparities, employment conditions and labor regulation, along with efforts to address the pandemic."
 
 event-type: Lecture Event
 category: University Forum
 
 tags:
   - University Forum
-  - Featured
+  - Home
   - Current
 
-date: "2020-08-04"
+date: "2020-09-15"
 
 #### Billboard
 billboard:
   #### If homepage billboard-title is empty will display page title
-  homepage-title: 
-  subtitle: The lessons of COVID for global and community health
+  homepage-title: "Elections: What Are They Good For?"
+  subtitle: "Democracy, Dilemmas & Decisions"
   day: Tuesday
   #### Add TBD to month if not date or Virtual Event
-  month: August
-  date: 4
+  month: September
+  date: 15
   year: 2020
   image: "/events/university-forum/2020/images/banner.jpg"
   starttime: 5:30 p.m.
@@ -31,7 +31,7 @@ location:
   address: Virtual Event
   addresslink: 
 
-registration: https://ucsc.zoom.us/webinar/register/WN_5RM24R-gQIWFfAoTqwAQ-A
+registration: https://ucsc.zoom.us/webinar/register/WN_5gEbPeD_T0Wga7Ia1TIZOQ
 register-text: Register
 
 layout: landing
