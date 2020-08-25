@@ -47,13 +47,13 @@ Sessions are free to the public, and participants are not obligated to attend ev
 
 ### Undiscovered Shakespeare Webinar dates
 
-- Wednesday, Jul 1, 2020 06:30 PM
+<!-- - Wednesday, Jul 1, 2020 06:30 PM
 - Wednesday, Jul 8, 2020 06:30 PM
 - Wednesday, Jul 15, 2020 06:30 PM
 - Wednesday, Jul 22, 2020 06:30 PM
 - Wednesday, Jul 29, 2020 06:30 PM
 - Wednesday, Aug 5, 2020 06:30 PM
-- Wednesday, Aug 12, 2020 06:30 PM
+- Wednesday, Aug 12, 2020 06:30 PM -->
 - Wednesday, Aug 19, 2020 06:30 PM
 - Wednesday, Aug 26, 2020 06:30 PM
 - Wednesday, Sep 2, 2020 06:30 PM
