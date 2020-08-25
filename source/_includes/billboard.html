@@ -42,7 +42,8 @@
                           {% if event.billboard.month != null %}
                             <p class="hero-body"><large>{% if event.billboard.day != null %} {{ event.billboard.day }}, {% endif %} {{ event.billboard.month}} {% if event.billboard.date != null %} {{ event.billboard.date }}, {{ event.billboard.year }} {% endif %}</large>
                           {% endif %}
-                          <a class="button primary expanded" href="{{site.baseurl}}{{ event.url }}.html">Event Details</a></p>
+                          <a class="button primary expanded" href="{{site.baseurl}}{{ event.url }}.html">Postponed</a>
+                          <!--<a class="button primary expanded" href="{{site.baseurl}}{{ event.url }}.html">Event Details</a>--></p>
                       </div>
                     </a>
                     {% endif %}
