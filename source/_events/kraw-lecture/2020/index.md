@@ -11,9 +11,9 @@ billboard:
   homepage-title: 'Hunting for infection, one molecule at a time'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
-  day: Thursday
-  month: August
-  date: 27
+  day: 
+  month: TBD
+  date: 
   year: 2020
   starttime: 5:30 p.m.
   endtime: 
