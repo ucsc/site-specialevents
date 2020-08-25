@@ -24,7 +24,7 @@ location:
 
 #### custom button
 registration: '#listing'
-register-text: View Latest Event
+register-text: Postponed
 
 
 #### Archive Page | Category will always be the same | event-type either Signature Event, Notable Event, Lecture Series
@@ -57,7 +57,9 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 Our COVD-19 response series continues, this time with a look at hardware solutions. Healthcare professionals need to be able to get diagnoses quickly, rather than sending samples offsite to be processed and waiting for the results. Professor Holger Schmidt’s lab is developing technology that could give doctors compact instruments that can deliver test results quickly and onsite. This optofluidic technology, invented in his lab, uses small silicon chips to guide light to either optically excite individual molecules or collect them for electrical detection with a nanopore. This allows physicians to assess if an infection is present, and how strong it is. These “labs-on-a-chip” detect viral RNA, antigens or antibodies, and count the molecules one by one, creating great promise for rapid, low-cost, and accurate testing for coronaviruses and other diseases. This is another example of the advances and promise of the research on integrated devices and nanopores taking place at UC Santa Cruz.
 
 {: .button .primary .small}
-[Register for virtual event](https://ucsc.zoom.us/webinar/register/WN_J8MIVdBCTcSMyihrHk-7lw)
+[Postponsed](https://ucsc.zoom.us/webinar/register/WN_J8MIVdBCTcSMyihrHk-7lw)
+
+<!-- [Postponsed](https://ucsc.zoom.us/webinar/register/WN_J8MIVdBCTcSMyihrHk-7lw) -->
 
 <p>&nbsp;</p>
 

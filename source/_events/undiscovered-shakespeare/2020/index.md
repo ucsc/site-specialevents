@@ -10,15 +10,15 @@ tags:
   - Current
   - Home
 
-date: "2020-08-19"
+date: "2020-09-02"
 
 #### billboard
 billboard:
   subtitle: 
   day: Wednesday
   #### Add TBD to month if not date or Virtual Event
-  month: August
-  date: 19
+  month: September
+  date: 2
   year: 2020
   image: "/events/undiscovered-shakespeare/2020/images/banner.gif"
   starttime: 6:30 p.m.
@@ -29,8 +29,9 @@ location:
   address: Virtual Event
   addresslink: 
 
-registration: https://ucsc.zoom.us/webinar/register/WN_p_11ndXkRsq7G_zsFnjN4Q
-register-text: Register
+#### registration: https://ucsc.zoom.us/webinar/register/WN_p_11ndXkRsq7G_zsFnjN4Q
+registration: 
+register-text: Postponed
 
 layout: landing
 
@@ -54,9 +55,8 @@ Sessions are free to the public, and participants are not obligated to attend ev
 - Wednesday, Jul 29, 2020 06:30 PM
 - Wednesday, Aug 5, 2020 06:30 PM
 - Wednesday, Aug 12, 2020 06:30 PM -->
-- Wednesday, Aug 19, 2020 06:30 PM
-- Wednesday, Aug 26, 2020 06:30 PM
-- Wednesday, Sep 2, 2020 06:30 PM
+- Wednesday, Sept 2, 2020 06:30 PM
+- Wednesday, Sept 9, 2020 06:30 PM
 
 Texts are available at
 [https://shakespeare.folger.edu/shakespeares-works](https://shakespeare.folger.edu/shakespeares-works)
