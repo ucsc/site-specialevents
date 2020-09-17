@@ -322,11 +322,17 @@
   status = 301
   force = true
 
-  [[redirects]]
-    from = "/events/university-forum/2020/"
-    to = "https://transform.ucsc.edu/election-series/"
-    status = 301
-    force = true
+[[redirects]]
+  from = "/events/university-forum/2020/"
+  to = "https://transform.ucsc.edu/election-series/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/events/atwood/2020/"
+  to = "https://thi.ucsc.edu/the-deep-read-margaret-atwood-live-september-22/"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "/*"
