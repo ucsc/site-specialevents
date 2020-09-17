@@ -1,13 +1,13 @@
 ---
-title: "Slugs & Steins"
-description: "Online Groceries: eCommerce, the pandemic & the future of work in retail food"
+title: "The Deep Read: Margaret Atwood"
+description: "The Deep Read: Margaret Atwood Live September 22"
 category: Lecture
 layout: full-page
 
 #### date of the latest event to sort
-date: "2020-09-14"
+date: "2020-09-22"
 
-permalink: /:collection/slugs-steins
+permalink: /:collection/atwood
 ---
 <section id="main-content">
 <div class="grid-container large">
@@ -16,6 +16,6 @@ permalink: /:collection/slugs-steins
 </section>
 
 <div class="events-card-list fade-out-siblings">
-{% assign event-list = site.events | sort: 'date' | where: 'tags','Slugs Steins' | reverse %}
+{% assign event-list = site.events | sort: 'date' | where: 'tags','Margaret Atwood' | reverse %}
 
 {% include event-listing.html %}
