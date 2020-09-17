@@ -1,6 +1,6 @@
 ---
 title: University Forum
-description: "The November 2020 election provides an historic opportunity to shape our future, both in California and the nation. The race for President and Congressional races stands to fundamentally shape the future of race relations, environmental protections, immigration reform, healthcare and health disparities, employment conditions and labor regulation, along with efforts to address the pandemic."
+description: "Partnerships formed quickly during this evolving health crisis."
 
 event-type: Lecture Event
 category: University Forum
@@ -10,7 +10,7 @@ tags:
   - Home
   - Current
 
-date: "2020-09-15"
+date: "2020-09-23"
 
 #### Billboard
 billboard:
@@ -20,7 +20,7 @@ billboard:
   day: Tuesday
   #### Add TBD to month if not date or Virtual Event
   month: September
-  date: 15
+  date: 23
   year: 2020
   image: "/events/university-forum/2020/images/banner.jpg"
   starttime: 5:30 p.m.
@@ -31,13 +31,29 @@ location:
   address: Virtual Event
   addresslink: 
 
-registration: https://ucsc.zoom.us/webinar/register/WN_5gEbPeD_T0Wga7Ia1TIZOQ
-register-text: Register
+registration: "#listing"
+register-text: View latest event
 
 layout: landing
 
 published: true
 ---
+
+<a name="listing"></a> 
+### University Forum: Community partnerships in the time of COVID
+
+**Date:** September 23, 2020<br/>
+**Time:** 5:30 pm
+
+Partnerships formed quickly during this evolving health crisis. Salud Para La Gente, the Santa Cruz Community Foundation, Santa Cruz Community Health, and the UC Santa Cruz Molecular Diagnostic Lab are working jointly to test and treat the most vulnerable in Santa Cruz County. Join us for a conversation with community health leaders as they take us inside the collaborative response to address the pandemic.
+
+Moderated by Isabel Bork Executive Director of the Genomics Institute and introductions by Ryan Coonerty, Third District Supervisor for Santa Cruz County.
+
+<a href="https://ucsc.zoom.us/webinar/register/WN_fAIfbRcDRbSha2vwkF2syw" class="button primary small">Register for virtual event</a>
+
+---
+
+## Past Events
 
 ### Small businesses hit hardest by the pandemic
 
