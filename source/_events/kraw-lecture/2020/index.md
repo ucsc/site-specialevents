@@ -3,17 +3,17 @@ title: "Kraw Lecture Series on Science and Technology"
 description: "Our COVD-19 response series continues, this time with a look at hardware solutions. Healthcare professionals need to be able to get diagnoses quickly, rather than sending samples offsite to be processed and waiting for the results."
 
 #### Date of the event
-date: "2020-08-27"
+date: "2020-09-24"
 
 
 #### billboard
 billboard:
-  homepage-title: 'Hunting for infection, one molecule at a time'
+  homepage-title: 'COVID-19—Tracing the Evolution of the Virus Genome'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
-  day: 
-  month: TBD
-  date: 
+  day: Thursday
+  month: September
+  date: 24
   year: 2020
   starttime: 5:30 p.m.
   endtime: 
@@ -46,6 +46,18 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 <a name="listing"></a>**These talks are free and open to the public**
 
 **Our Kraw Lecture Series is so fantastic, we want to bring it right to you via live streaming. If you aren't able to join us in person the night of the event, you can now stream the lectures and join in the conversation via online comments. <!--Lecture and live stream typically begin at 7 p.m.-->**
+
+---
+
+### CCOVID-19: Tracing the evolution of the virus genome
+
+##### September 24, 2020
+**Virtual Lecture**
+
+![COVID-19](/events/kraw-lecture/2020/images/september-24.jpg){: .img-right-25 }David Haussler, Distinguished Professor of Biomolecular Engineering discusses the role of the open source SARS-CoV-2 genome browser in tracing the evolution of the COVID-19 virus with Assistant Professor of Biomolecular Engineering Russ Corbett-Detig and Postdoctoral Researcher Jason Fernandes. Join the conversation to learn how this work impacts each of us.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_tUYJ0YTwSs2b1b0SjDmsaw)
 
 ---
 
