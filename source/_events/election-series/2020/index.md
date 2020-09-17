@@ -13,7 +13,7 @@ date: "2020-09-23"
 
 #### billboard
 billboard:
-  subtitle:
+  subtitle: Elections, the Constitution, and Institutional Reform
   day: Wednesday
   #### Add TBD to month if not date or Virtual Event
   month: September

@@ -5,7 +5,7 @@ category: Lecture
 layout: full-page
 
 #### date of the latest event to sort
-date: "2020-09-22"
+date: "2020-09-23"
 
 permalink: /:collection/atwood
 ---
@@ -16,6 +16,6 @@ permalink: /:collection/atwood
 </section>
 
 <div class="events-card-list fade-out-siblings">
-{% assign event-list = site.events | sort: 'date' | where: 'tags','Margaret Atwood' | reverse %}
+{% assign event-list = site.events | sort: 'date' | where: 'tags','Election Series' | reverse %}
 
 {% include event-listing.html %}
