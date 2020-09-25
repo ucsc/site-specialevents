@@ -7,17 +7,17 @@ category: Lecture Series
 tags:
   - Election Series
   - Current
-  - Home
+  - Featured
 
-date: "2020-09-23"
+date: "2020-10-05"
 
 #### billboard
 billboard:
-  subtitle: Elections, the Constitution, and Institutional Reform
+  subtitle: "California: Changing Demographics, Youth, and Integrated Voter Engagement"
   day: Wednesday
   #### Add TBD to month if not date or Virtual Event
-  month: September
-  date: 23
+  month: October
+  date: 05
   year: 2020
   image: "/events/election-series/2020/images/banner.jpg"
   starttime: 5:30 p.m.
