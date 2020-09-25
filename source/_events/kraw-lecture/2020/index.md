@@ -8,12 +8,12 @@ date: "2020-09-24"
 
 #### billboard
 billboard:
-  homepage-title: 'COVID-19—Tracing the Evolution of the Virus Genome'
+  homepage-title: 'Hunting for infection, one molecule at a time'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
   day: Thursday
-  month: September
-  date: 24
+  month: October
+  date: 22
   year: 2020
   starttime: 5:30 p.m.
   endtime: 
@@ -49,6 +49,16 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 ---
 
+### Hunting for infection, one molecule at a time
+
+Our COVD-19 response series continues, this time with a look at hardware solutions. Healthcare professionals need to be able to get diagnoses quickly, rather than sending samples offsite to be processed and waiting for the results. Professor Holger Schmidt’s lab is developing technology that could give doctors compact instruments that can deliver test results quickly and onsite. This optofluidic technology, invented in his lab, uses small silicon chips to guide light to either optically excite individual molecules or collect them for electrical detection with a nanopore. This allows physicians to assess if an infection is present, and how strong it is. These “labs-on-a-chip” detect viral RNA, antigens or antibodies, and count the molecules one by one, creating great promise for rapid, low-cost, and accurate testing for coronaviruses and other diseases. This is another example of the advances and promise of the research on integrated devices and nanopores taking place at UC Santa Cruz.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_ozGPVN52RtyGbLPWCLWP3Q)
+
+
+---
+
 ### CCOVID-19: Tracing the evolution of the virus genome
 
 ##### September 24, 2020
@@ -56,8 +66,6 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 ![COVID-19](/events/kraw-lecture/2020/images/september-24.jpg){: .img-right-25 }David Haussler, Distinguished Professor of Biomolecular Engineering discusses the role of the open source SARS-CoV-2 genome browser in tracing the evolution of the COVID-19 virus with Assistant Professor of Biomolecular Engineering Russ Corbett-Detig and Postdoctoral Researcher Jason Fernandes. Join the conversation to learn how this work impacts each of us.
 
-{: .button .primary .small}
-[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_tUYJ0YTwSs2b1b0SjDmsaw)
 
 ---
 
