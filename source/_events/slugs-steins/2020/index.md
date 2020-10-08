@@ -1,5 +1,5 @@
 ---
-title: "Slugs & Steins"
+title: "Slugs & Steins: From the Emergence of Planets to the Destiny of Black Holes with Professor Douglas Lin"
 description: "Online Groceries: eCommerce, the pandemic & the future of work in retail food"
 
 category: Lecture Series
@@ -9,15 +9,15 @@ tags:
   - Current
   - Home
 
-date: "2020-09-14"
+date: "2020-10-12"
 
 #### billboard
 billboard:
   subtitle: 'Lectures from: UC Santa Cruz'
   day: Monday
   #### Add TBD to month if not date or Virtual Event
-  month: September
-  date: 14
+  month: October
+  date: 12
   year: 2020
   image: "/events/slugs-steins/2020/images/banner.jpg"
   starttime: 6:30 p.m.
