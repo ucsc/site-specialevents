@@ -5,10 +5,10 @@ category: Lecture
 layout: full-page
 
 #### date of the latest event to sort
-date: "2020-08-06"
+date: "2020-10-13"
 
 permalink: /:collection/laser
-published: falsed
+published: true
 ---
 <section id="main-content">
 <div class="grid-container large">

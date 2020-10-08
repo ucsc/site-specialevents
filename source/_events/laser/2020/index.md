@@ -1,22 +1,23 @@
 ---
-title: "How did life begin?"
-description: "How did life begin? a special edition of laser talks with bruce damer and david deamer, august 6, 2020"
+title: "Laser Talks with David G. Stork, Ari Friedlaender, and Yolande Harris"
+description: "UC Santa Cruz Institute of the Arts and Sciences invites you to join us for a special online LASER Talk featuring David G. Stork, Ari Friedlaender, and Yolande Harris."
 
 category: Lecture Series
 
 tags:
   - Laser Talk
   - Current
+  - Home
 
-date: "2020-08-06"
+date: "2020-10-13"
 
 #### billboard
 billboard:
   subtitle: 
-  day: Thursday
+  day: Tuesday
   #### Add TBD to month if not date or Virtual Event
-  month: August
-  date: 8
+  month: October
+  date: 13
   year: 2020
   image: "/events/laser/2020/images/banner.jpg"
   starttime: 5:00 p.m.
@@ -29,7 +30,7 @@ location:
 
 layout: landing
 
-published: falsed
+published: true
 ---
 
 
