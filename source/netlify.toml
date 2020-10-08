@@ -149,7 +149,7 @@
   force = true
 
 [[redirects]]
-  from = "/events/laser/"
+  from = "/events/laser/2020/"
   to = "https://ias.ucsc.edu/events/2020/laser-talks-october-13-2020"
   status = 301
   force = true
