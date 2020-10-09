@@ -9,15 +9,15 @@ tags:
   - Current
   - Featured
 
-date: "2020-10-05"
+date: "2020-10-23"
 
 #### billboard
 billboard:
-  subtitle: "California: Changing Demographics, Youth, and Integrated Voter Engagement"
-  day: Wednesday
+  subtitle: "California: Our Criminal Justice System and Political Possibilities"
+  day: Monday
   #### Add TBD to month if not date or Virtual Event
   month: October
-  date: 05
+  date: 23
   year: 2020
   image: "/events/election-series/2020/images/banner.jpg"
   starttime: 5:30 p.m.

@@ -7,7 +7,7 @@ category: University Forum
 
 tags:
   - University Forum
-  - Home
+  - Featured
   - Current
 
 date: "2020-10-19"

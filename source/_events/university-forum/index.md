@@ -6,7 +6,7 @@ layout: full-page
 
 
 #### date of the latest event to sort
-date: "2020-10-19"
+date: "2020-09-23"
 
 permalink: /:collection/seeds
 ---
