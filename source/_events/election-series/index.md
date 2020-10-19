@@ -1,5 +1,5 @@
 ---
-title: "The Deep Read: Margaret Atwood"
+title: "University Forum: Election Series"
 description: "The Deep Read: Margaret Atwood Live September 22"
 category: Lecture
 layout: full-page
