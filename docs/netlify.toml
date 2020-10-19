@@ -324,7 +324,7 @@
 
 [[redirects]]
   from = "/events/university-forum/2020/"
-  to = "https://transform.ucsc.edu/election-series/"
+  to = "https://calendar.ucsc.edu/event/university_forum_presents_teaching_learning_in_the_time_of_covid_19"
   status = 301
   force = true
 
