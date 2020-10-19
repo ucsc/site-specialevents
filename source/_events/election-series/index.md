@@ -5,7 +5,7 @@ category: Lecture
 layout: full-page
 
 #### date of the latest event to sort
-date: "2020-10-05"
+date: "2020-10-19"
 
 permalink: /:collection/atwood
 ---
