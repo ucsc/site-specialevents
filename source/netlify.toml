@@ -341,6 +341,12 @@
   force = true
 
 [[redirects]]
+  from = "/events/ias/2020/"
+  to = "https://ias.ucsc.edu/events/2020/visualizing-abolition-angela-y-davis-and-gina-dent-october-20-2020"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404

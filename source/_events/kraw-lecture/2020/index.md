@@ -3,7 +3,7 @@ title: "Kraw Lecture Series on Science and Technology"
 description: "Our COVD-19 response series continues, this time with a look at hardware solutions. Healthcare professionals need to be able to get diagnoses quickly, rather than sending samples offsite to be processed and waiting for the results."
 
 #### Date of the event
-date: "2020-09-24"
+date: "2020-10-22"
 
 
 #### billboard
@@ -24,7 +24,7 @@ location:
 
 #### custom button
 registration: '#listing'
-register-text: Postponed
+register-text: Event Details
 
 
 #### Archive Page | Category will always be the same | event-type either Signature Event, Notable Event, Lecture Series
