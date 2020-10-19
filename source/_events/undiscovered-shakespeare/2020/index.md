@@ -3,7 +3,7 @@ title: "Undiscovered Shakespeare: The Wars of the Roses"
 description: "Undiscovered Shakespeare: The Wars of the Roses is a public arts and humanities series that brings professional actors and scholars together with the public for live readings and discussion of the works that made Shakespeare famous in the London theater."
 
 event-type: Notable
-category: Seeds
+category: Undiscovered Shakespeare
 
 tags:
   - Shakespeare
