@@ -8,7 +8,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2020-09-23"
 
-permalink: /:collection/seeds
+permalink: /:collection/university-forum
 ---
 <section id="main-content">
 <div class="grid-container large">
