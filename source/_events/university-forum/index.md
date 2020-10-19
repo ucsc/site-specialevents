@@ -1,5 +1,5 @@
 ---
-title: "University Forum: Election Series"
+title: "University Forum"
 description: "The November 2020 election provides an historic opportunity to shape our future, both in California and the nation. The race for President and Congressional races stands to fundamentally shape the future of race relations, environmental protections, immigration reform, healthcare and health disparities, employment conditions and labor regulation, along with efforts to address the pandemic."
 category: Lecture
 layout: full-page
