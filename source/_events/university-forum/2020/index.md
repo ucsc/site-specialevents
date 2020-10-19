@@ -10,7 +10,7 @@ tags:
   - Featured
   - Current
 
-date: "2020-10-19"
+date: "2020-09-23"
 
 #### Billboard
 billboard:
@@ -19,8 +19,8 @@ billboard:
   subtitle: "Democracy, Dilemmas & Decisions"
   day: Tuesday
   #### Add TBD to month if not date or Virtual Event
-  month: October
-  date: 19
+  month: September
+  date: 23
   year: 2020
   image: "/events/university-forum/2020/images/banner.jpg"
   starttime: 5:30 p.m.
@@ -40,32 +40,6 @@ published: true
 ---
 
 <a name="listing"></a> 
-
-### California: Our Criminal Justice System and Political Possibilities
-
-**Date:** October 5, 2020<br/>
-**Time:** 5:30 pm
-
-This session connects increased incarceration in the 1980s and 1990s to racist policies and politics at the time, with Black Lives Matter  and movements on reform and abolition now, to Prop 16 (affirmative action). The focus of the discussion will be on three of the 12 total California Statewide Voter-initiated Propositions appearing on the November 2020 ballot: Prop 17 which would restore right to vote for people convicted of felonies who are on parole, Prop 20 which restricts parole for nonviolent offenders and authorizes felony sentence for certain offences and is currently treated as a misdemeanor; and Prop 25 a referendum to overturn a 2018 law that replaced money bail system with a system based on public safety.
-
-Moderated by Chris Benner, Director of the Institute for Social Transformation and Professor of Environmental Studies and Sociology.
-
-<a href="https://ucsc.zoom.us/webinar/register/WN_I-sfhx9VQD2w_1pYUhL0cQ" class="button primary small">Register for virtual event</a>
-
----
-
-
-### California: Changing Demographics, Youth, and Integrated Voter Engagement
-
-**Date:** October 5, 2020<br/>
-**Time:** 5:30 pm
-
-This session will explore how demographic changes—particularly within the larger Latin@ population and youth—have shifted politically in California. We’ll review research models of integrated voter engagement linking voting and community work.
-
-Moderated by Chris Benner, Director of the Institute for Social Transformation and Professor of Environmental Studies and Sociology.
-
----
-
 
 ### University Forum: Community partnerships in the time of COVID
 
