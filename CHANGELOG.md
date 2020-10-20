@@ -1,0 +1,888 @@
+- 2020-10-19 Updating: Shakespeares.
+- 2020-10-19 Docs update
+- 2020-10-19 Update: University Forum title
+- 2020-10-19 Date: Election series.
+- 2020-10-19 Updated: University Forum permalink
+- 2020-10-19 Fixed: University Forum redirects
+- 2020-10-19 Fixed: Election Series.
+- 2020-10-19 Added: date to Kraw details
+- 2020-10-19 Adding IAS, Fixed Kraw
+- 2020-10-19 Election Series
+- 2020-10-08 Updated: Election Series
+- 2020-10-08 Updating: University Forum
+- 2020-10-08 Updating: Laser banner
+- 2020-10-08 Fixed: Laser redirect
+- 2020-10-08 Updating: Laser Talk
+- 2020-10-08 Updating: change Slugs Steins redirect
+- 2020-10-08 Updating: Slugs Steins event
+- 2020-09-25 Updating: Kraw
+- 2020-09-25 Updating: Featured home event
+- 2020-09-22 Removed: fire alert
+- 2020-09-17 Updated: billboard
+- 2020-09-17 Updated: Kraw
+- 2020-09-17 Update netlify.toml
+- 2020-09-17 Added: Election series
+- 2020-09-17 Added: University Forum
+- 2020-09-17 Added: Margaret Atwood
+- 2020-09-17 Merge pull request #306 from ucsc/master
+- 2020-08-26 Merge pull request #305 from ucsc/dev
+- 2020-08-26 Fixed Kraw button spelling
+- 2020-08-25 Merge pull request #304 from ucsc/dev
+- 2020-08-25 Adding: Wildfires message and updating top alert
+- 2020-08-25 Merge pull request #303 from ucsc/dev
+- 2020-08-25 Added: TBD for Kraw
+- 2020-08-25 Merge pull request #302 from ucsc/dev
+- 2020-08-25 Adding events
+- 2020-08-25 Merge pull request #301 from ucsc/dev
+- 2020-08-25 Updating: Removed old dates from Shakespeare
+- 2020-08-21 Merge pull request #300 from ucsc/dev
+- 2020-08-21 Added: University Forum
+- 2020-08-19 Merge pull request #299 from ucsc/dev
+- 2020-08-19 Adding: year to events listing
+- 2020-08-19 Merge pull request #298 from ucsc/dev
+- 2020-08-19 Updating: Shakespeare
+- 2020-08-19 Merge pull request #297 from ucsc/dev
+- 2020-08-19 Updating: slugs stein docs
+- 2020-08-19 Merge pull request #296 from ucsc/dev
+- 2020-08-19 Updating: Slugs-stein
+- 2020-08-17 Merge pull request #295 from ucsc/dev
+- 2020-08-17 Updating: docs/feeds.xml
+- 2020-08-17 Updating: featured event
+- 2020-08-17 Merge pull request #294 from ucsc/master
+- 2020-08-11 Merge pull request #293 from ucsc/dev
+- 2020-08-11 Removed Laser talked
+- 2020-08-11 Merge pull request #292 from ucsc/dev
+- 2020-08-11 Added: University Forum videos
+- 2020-08-11 Added: Kraw videos
+- 2020-08-11 Merge pull request #291 from ucsc/dev
+- 2020-08-11 University Form docs
+- 2020-08-11 Updated: University Form logo
+- 2020-08-10 Merge pull request #290 from ucsc/dev
+- 2020-08-10 Added: Arts link and subscribe to newsletter
+- 2020-08-05 Merge pull request #289 from ucsc/dev
+- 2020-08-05 Updating: youtube btn
+- 2020-08-05 Merge pull request #288 from ucsc/dev
+- 2020-08-05 Added: Watch youtube button
+- 2020-08-04 Merge pull request #287 from ucsc/dev
+- 2020-08-04 Udpated: Kraw
+- 2020-08-04 Merge pull request #286 from ucsc/dev
+- 2020-08-04 Updated: Undiscovered shakespeare
+- 2020-07-28 Merge pull request #285 from ucsc/dev
+- 2020-07-28 Updated: University Forum
+- 2020-07-27 Merge pull request #284 from ucsc/dev
+- 2020-07-27 Added: Slugs steins
+- 2020-07-27 Merge pull request #283 from ucsc/dev
+- 2020-07-27 Redirect: laser
+- 2020-07-27 Merge pull request #282 from ucsc/dev
+- 2020-07-27 Update: Laser redirect path
+- 2020-07-27 Merge pull request #281 from ucsc/dev
+- 2020-07-27 Updating: redirects
+- 2020-07-27 Merge pull request #280 from ucsc/dev
+- 2020-07-27 Updating: docs
+- 2020-07-27 Updating redirects
+- 2020-07-27 Merge pull request #279 from ucsc/dev
+- 2020-07-27 Added: laser talk and redirect
+- 2020-07-27 Added: new date for LASER talks
+- 2020-07-27 Merge pull request #278 from ucsc/dev
+- 2020-07-27 Added: Undiscovered Shakespear new date
+- 2020-07-27 Merge pull request #277 from ucsc/master
+- 2020-07-24 even more edits to CSP
+- 2020-07-24 more more edits to CSP
+- 2020-07-24 more edits to CSP
+- 2020-07-24 edits to CSP
+- 2020-07-19 Merge pull request #276 from ucsc/master
+- 2020-07-17 fj;lasfj;aslfjkslad
+- 2020-07-17 edits to csp
+- 2020-07-17 edits to CSP
+- 2020-07-17 edits to CSP
+- 2020-07-17 edit CSP
+- 2020-07-17 one more CSP addition
+- 2020-07-17 adjustments to CSP
+- 2020-07-17 added object-src 'none' to CSP
+- 2020-07-17 oops-didn't work
+- 2020-07-17 adjustments to CSP
+- 2020-07-17 minor date edit on Kraw Lecture Series
+- 2020-07-15 another edit to .toml
+- 2020-07-15 removed <meta> tag, working on toml for C-S-P
+- 2020-07-15 fine-tuning CSP
+- 2020-07-15 edits to CSP directives
+- 2020-07-15 Merge pull request #275 from ucsc/toml
+- 2020-07-15 added CSP directive to netlify.toml.
+- 2020-07-15 added CSP drective as <meta> tag for testing
+- 2020-07-13 Merge pull request #274 from ucsc/event-edits
+- 2020-07-13 edit Undiscovered Shakespeare event per Kristin Palma's edits. Trung on Vacay
+- 2020-07-08 Merge pull request #273 from ucsc/dev
+- 2020-07-08 Maitra redirects fixed.
+- 2020-07-07 Merge pull request #272 from ucsc/dev
+- 2020-07-07 Added: Kraw docs update
+- 2020-07-07 Added: Kraw new event register button
+- 2020-07-07 Merge pull request #271 from ucsc/dev
+- 2020-07-07 Updated: Kraw description
+- 2020-07-07 Merge pull request #270 from ucsc/dev
+- 2020-07-07 Updated: Shakespears
+- 2020-07-07 Merge pull request #269 from ucsc/dev
+- 2020-07-07 Added: Kraw Lecture
+- 2020-07-06 Merge pull request #268 from ucsc/dev
+- 2020-07-06 Updated: Kraw
+- 2020-07-06 Merge pull request #267 from ucsc/dev
+- 2020-07-06 Kraw lectures
+- 2020-07-06 Updating: SEEDS link to past event video
+- 2020-07-06 Merge pull request #266 from ucsc/dev
+- 2020-07-06 Updating: SEEDS
+- 2020-07-02 Merge pull request #265 from ucsc/dev
+- 2020-07-02 Updating Doc feed.xml
+- 2020-07-02 Merge pull request #264 from ucsc/dev
+- 2020-07-02 Added: University Forum
+- 2020-06-29 Merge pull request #263 from ucsc/dev
+- 2020-06-29 Changed: Kraw endtime
+- 2020-06-29 Merge pull request #262 from ucsc/dev
+- 2020-06-29 Moved: Kraw anchor link
+- 2020-06-29 Merge pull request #261 from ucsc/dev
+- 2020-06-29 Removed: general time live stream
+- 2020-06-29 Merge pull request #260 from ucsc/dev
+- 2020-06-29 Updating KRAW time
+- 2020-06-26 Merge pull request #259 from ucsc/dev
+- 2020-06-26 Updated: Doc feed
+- 2020-06-26 Merge pull request #258 from ucsc/dev
+- 2020-06-26 Added: billboard homepage title
+- 2020-06-26 Merge pull request #257 from ucsc/dev
+- 2020-06-26 Replaced: Testament from homepage billboard to Kraw
+- 2020-06-25 Merge pull request #256 from ucsc/dev
+- 2020-06-25 Added: Shakespeare
+- 2020-06-25 Added Seeds
+- 2020-06-24 Merge pull request #255 from ucsc/dev
+- 2020-06-24 Added: new Kraw Lecture Jun 30
+- 2020-05-26 Merge pull request #254 from ucsc/dev
+- 2020-05-26 Updated: Kraw lecture series
+- 2020-04-23 Merge pull request #253 from ucsc/dev
+- 2020-04-23 Removed: The from Kraw Lecture Series
+- 2020-04-23 Merge pull request #252 from ucsc/dev
+- 2020-04-23 Modified: Kraw link
+- 2020-04-21 Merge pull request #251 from ucsc/dev
+- 2020-04-21 Updated: Kraw lecture registration
+- 2020-04-15 Merge pull request #250 from ucsc/dev
+- 2020-04-15 Fixed: Kraw title
+- 2020-04-15 Merge pull request #249 from ucsc/dev
+- 2020-04-15 Added: link Kraw lecture to registeration
+- 2020-04-15 Merge pull request #248 from ucsc/dev
+- 2020-04-15 Update: Kraw event
+- 2020-04-14 Merge pull request #247 from ucsc/dev
+- 2020-04-14 Modified: button language
+- 2020-04-14 Merge pull request #246 from ucsc/dev
+- 2020-04-14 Updating: header and Kraw link
+- 2020-04-14 Merge pull request #245 from ucsc/dev
+- 2020-04-14 Added: Virtual Event
+- 2020-04-14 Merge pull request #244 from ucsc/dev
+- 2020-04-14 Added: Maitra and Living Legends redirect
+- 2020-04-14 Living Legends
+- 2020-04-13 Merge pull request #243 from ucsc/dev
+- 2020-04-13 Moved: redirects
+- 2020-04-13 Merge pull request #242 from ucsc/dev
+- 2020-04-13 Added: commencement redirects
+- 2020-04-13 Merge pull request #241 from ucsc/dev
+- 2020-04-13 Redirecting: farm to fork
+- 2020-04-13 Merge pull request #240 from ucsc/dev
+- 2020-04-13 removed: force true 404
+- 2020-04-13 Merge pull request #239 from ucsc/dev
+- 2020-04-13 Fixed: redirect
+- 2020-04-13 Merge pull request #238 from ucsc/dev
+- 2020-04-13 Test: redirects
+- 2020-04-13 Merge pull request #237 from ucsc/dev
+- 2020-04-13 Fixed: casfs 50th redirect
+- 2020-04-13 Fixed: redirects
+- 2020-04-13 Merge pull request #236 from ucsc/dev
+- 2020-04-13 Added: force true to casf redirects
+- 2020-04-13 Merge pull request #235 from ucsc/dev
+- 2020-04-13 Redirecting casfs 50th..
+- 2020-04-09 Merge pull request #234 from ucsc/dev
+- 2020-04-09 Replacing: Kraw 2020 with new template
+- 2020-04-08 Merge pull request #233 from ucsc/dev
+- 2020-04-08 Fixed: header
+- 2020-04-08 Merge pull request #232 from ucsc/dev
+- 2020-04-08 Fixed: mobile menu
+- 2020-04-08 Merge pull request #231 from ucsc/dev
+- 2020-04-08 Modified: Kraw 2020 and landing page location link
+- 2020-04-08 Merge pull request #230 from ucsc/dev
+- 2020-04-08 Added: Kraw Lecture Virtual Event
+- 2020-04-07 Merge pull request #229 from ucsc/dev
+- 2020-04-07 Kraw published false test page
+- 2020-04-07 Merge pull request #228 from ucsc/dev
+- 2020-04-07 Added: billboard for Kraw
+- 2020-04-07 Merge pull request #227 from ucsc/dev
+- 2020-04-07 Added: Kraw lecture photos
+- 2020-04-07 Added: Kraw 2020 test page
+- 2020-04-07 Merge pull request #226 from ucsc/dev
+- 2020-04-07 Updated: docs for Kraw
+- 2020-04-07 Removed: Register link for April
+- 2020-04-07 Merge pull request #225 from ucsc/dev
+- 2020-04-07 Okay, Fixed! HYPEjs
+- 2020-04-07 Merge pull request #224 from ucsc/dev
+- 2020-04-07 Removed: absolute path hype.js
+- 2020-04-07 Merge pull request #223 from ucsc/dev
+- 2020-04-07 Modified: hype.js path
+- 2020-04-07 Fixed: HYPE.js
+- 2020-04-07 Merge pull request #222 from ucsc/dev
+- 2020-04-07 Updated: 2012 HYPE.js
+- 2020-04-07 Merge pull request #221 from ucsc/dev
+- 2020-04-07 Edited: path HYPE.js
+- 2020-04-07 Merge pull request #220 from ucsc/dev
+- 2020-04-07 Updating: Kraw description
+- 2020-04-07 Merge pull request #219 from ucsc/dev
+- 2020-04-07 Modified: HYPE.js path AW 2013
+- 2020-04-07 Merge pull request #218 from ucsc/dev
+- 2020-04-07 Fixed: Kraw 2020 link
+- 2020-04-07 Updating: Kraw
+- 2020-04-07 Merge pull request #217 from ucsc/dev
+- 2020-04-07 Added: April Kraw lecture
+- 2020-04-07 Merge pull request #216 from ucsc/dev
+- 2020-04-07 Fixed: Hype.js 2013
+- 2020-04-07 Merge pull request #215 from ucsc/dev
+- 2020-04-07 Fixed: AW thumbnails
+- 2020-04-07 Merge pull request #214 from ucsc/dev
+- 2020-04-07 Fixed: alumniweekend 2012
+- 2020-04-07 Merge pull request #213 from ucsc/dev
+- 2020-04-07 Updating feed.xml
+- 2020-04-07 Merge pull request #212 from ucsc/dev
+- 2020-04-07 redirect 404
+- 2020-04-07 Adjusted 404 page
+- 2020-04-07 Added: founders main redirect
+- 2020-04-07 Added: files and docs
+- 2020-04-06 Merge pull request #211 from ucsc/dev
+- 2020-04-06 Fixed: left-navigation
+- 2020-04-06 Merge pull request #210 from ucsc/dev
+- 2020-04-06 Removed: button primary
+- 2020-04-06 Merge pull request #209 from ucsc/dev
+- 2020-04-06 Updating: uiv text
+- 2020-04-06 Merge pull request #208 from ucsc/dev
+- 2020-04-06 Removed: buy tickets uiv
+- 2020-04-06 Merge pull request #207 from ucsc/dev
+- 2020-04-06 Added: org uiv to new uiv
+- 2020-04-06 Merge pull request #206 from ucsc/dev
+- 2020-04-06 Fixed: AW 2011 images
+- 2020-04-06 Merge pull request #205 from ucsc/dev
+- 2020-04-06 Fixed: breadcrumb spacing
+- 2020-04-06 Merge pull request #204 from ucsc/dev
+- 2020-04-06 Fixed: Farm to Fork images
+- 2020-04-06 Fixed: events/title
+- 2020-04-06 Merge pull request #201 from ucsc/dev
+- 2020-04-06 Fixed: Farm to folk
+- 2020-04-06 Merge pull request #200 from ucsc/dev
+- 2020-04-06 Added: Location for Through back Gate
+- 2020-04-03 Merge pull request #199 from ucsc/dev
+- 2020-04-03 Updated: events index
+- 2020-04-03 Updated: docs
+- 2020-04-02 Merge pull request #198 from ucsc/dev
+- 2020-04-02 Modified: Description to emeriti, mandel, noel king and original thinkers
+- 2020-04-02 Merge pull request #197 from ucsc/dev
+- 2020-04-02 Fixed: LASER title
+- 2020-04-02 Updating: Kraw to postponed
+- 2020-04-02 Updating: Emerities description
+- 2020-04-02 Merge pull request #196 from ucsc/dev
+- 2020-04-02 Update: Flatte description
+- 2020-04-02 Merge pull request #195 from ucsc/dev
+- 2020-04-02 Updating: Kraw lectures
+- 2020-04-02 Merge pull request #194 from ucsc/dev
+- 2020-04-02 Added: Postponed to Kraw Lecture
+- 2020-04-02 Merge pull request #193 from ucsc/dev
+- 2020-04-02 Updating: Founders title and description
+- 2020-04-02 Merge pull request #192 from ucsc/dev
+- 2020-04-02 Updated: Maitra description
+- 2020-04-02 Merge pull request #191 from ucsc/dev
+- 2020-04-02 Testing: MLK redirects
+- 2020-04-02 Added: redirects old site to new site
+- 2020-04-02 Merge pull request #190 from ucsc/dev
+- 2020-04-02 Founders Celebrations
+- 2020-04-01 Merge pull request #189 from ucsc/dev
+- 2020-04-01 Added: Founders 2015 redirects
+- 2020-04-01 Added: Founders 2015
+- 2020-04-01 Merge pull request #188 from ucsc/dev
+- 2020-04-01 Fixed: AW photo-gallery link
+- 2020-04-01 Merge pull request #187 from ucsc/dev
+- 2020-04-01 Fixed: intro image AW 2014 gallery
+- 2020-04-01 Merge pull request #186 from ucsc/dev
+- 2020-04-01 Fixed: photo-gallery
+- 2020-04-01 Merge pull request #185 from ucsc/dev
+- 2020-04-01 Update hotels.html
+- 2020-04-01 Udpated: 2014 Flickr
+- 2020-04-01 Merge pull request #184 from ucsc/dev
+- 2020-04-01 Updated: AW
+- 2020-03-31 Merge pull request #183 from ucsc/dev
+- 2020-03-31 Added: 2016 AW
+- 2020-03-31 Merge pull request #182 from ucsc/dev
+- 2020-03-31 Updating: feed.xml
+- 2020-03-30 Adding: AW 2015
+- 2020-03-26 Merge pull request #180 from ucsc/dev
+- 2020-03-26 Added: Postponed to AW and Atwood title
+- 2020-03-26 Merge pull request #179 from ucsc/dev
+- 2020-03-26 Added: Laser directory and redirects
+- 2020-03-26 Merge pull request #178 from ucsc/dev
+- 2020-03-26 Fixed: Through the Back Gate title
+- 2020-03-26 Added: redirect to Jaron
+- 2020-03-26 Added: Jaron Lanier
+- 2020-03-26 Merge pull request #177 from ucsc/dev
+- 2020-03-26 Fixed: Peggy Downes 2018 banner
+- 2020-03-26 Added: 2018 Peggy Downes
+- 2020-03-26 Merge pull request #176 from ucsc/dev
+- 2020-03-26 Added: redirect to Fania Davis
+- 2020-03-26 Added: Fania Davis
+- 2020-03-25 Merge pull request #175 from ucsc/dev
+- 2020-03-25 Added: Peggy Downes 2014
+- 2020-03-25 Merge pull request #174 from ucsc/dev
+- 2020-03-25 Added: Peggy 2011 Peggy Downes
+- 2020-03-25 Merge pull request #173 from ucsc/dev
+- 2020-03-25 Adding: contact
+- 2020-03-25 Merge pull request #172 from ucsc/dev
+- 2020-03-25 Adding: deep read and UiV description listing page.
+- 2020-03-25 Updating: Deep Read description
+- 2020-03-25 Merge pull request #171 from ucsc/dev
+- 2020-03-25 Updating: UiV description
+- 2020-03-25 Merge pull request #170 from ucsc/dev
+- 2020-03-25 docs: Atwood to Peggy Downes
+- 2020-03-25 Updating: Atwood to Peggy Downes
+- 2020-03-24 Merge pull request #169 from ucsc/dev
+- 2020-03-24 Edited: Atwood to Peggy Downes
+- 2020-03-24 Merge pull request #168 from ucsc/dev
+- 2020-03-24 Added: redirects
+- 2020-03-24 Added: 50th years past event
+- 2020-03-20 Merge pull request #167 from ucsc/dev
+- 2020-03-20 Updated: date modified
+- 2020-03-19 Merge pull request #166 from ucsc/dev
+- 2020-03-19 Updating: Atwood description
+- 2020-03-19 Merge pull request #165 from ucsc/dev
+- 2020-03-19 Updating: Atwood
+- 2020-03-19 Merge pull request #164 from ucsc/dev
+- 2020-03-19 Docs: Atwood description
+- 2020-03-19 Updating: Atwood indexing description
+- 2020-03-19 Merge pull request #163 from ucsc/dev
+- 2020-03-19 Fixed: unquiet minds
+- 2020-03-19 Merge pull request #162 from ucsc/dev
+- 2020-03-19 Update index.html
+- 2020-03-19 Fixed: The Deep Read and Unquiet minds
+- 2020-03-19 Merge pull request #161 from ucsc/dev
+- 2020-03-19 Changed: Phone number in the footer
+- 2020-03-19 Merge pull request #160 from ucsc/dev
+- 2020-03-19 Removed: Fax number in footer
+- 2020-03-19 Merge pull request #159 from ucsc/dev
+- 2020-03-19 Fixed: contact
+- 2020-03-19 Merge pull request #158 from ucsc/dev
+- 2020-03-19 Updated: Month comment template
+- 2020-03-19 Added: Virtual Event
+- 2020-03-18 Merge pull request #157 from ucsc/dev
+- 2020-03-18 Updating: Atwood's description
+- 2020-03-18 Merge pull request #156 from ucsc/dev
+- 2020-03-18 Removed: Times with events TBD
+- 2020-03-18 Merge pull request #155 from ucsc/dev
+- 2020-03-18 Updated: AW, UiV, and landing left nav
+- 2020-03-18 Updated: docs
+- 2020-03-18 Added: Deep Read
+- 2020-03-17 Merge pull request #154 from ucsc/dev
+- 2020-03-17 Added: canceled Kraw lecture
+- 2020-03-17 Merge pull request #153 from ucsc/dev
+- 2020-03-17 Added: canceled Kraw lecture
+- 2020-03-17 Merge pull request #152 from ucsc/dev
+- 2020-03-17 Updated: Alert to Notice
+- 2020-03-17 Merge pull request #151 from ucsc/dev
+- 2020-03-17 Updating: events text for AW and Atwood
+- 2020-03-16 Merge pull request #150 from ucsc/dev
+- 2020-03-16 Added: TBD
+- 2020-03-16 Merge pull request #149 from ucsc/dev
+- 2020-03-16 Updated: Margaret Atwood tbd
+- 2020-03-16 Merge pull request #148 from ucsc/dev
+- 2020-03-16  Edited: alert text center
+- 2020-03-16 Merge pull request #147 from ucsc/dev
+- 2020-03-16 Added: alert message
+- 2020-03-16 Merge pull request #146 from ucsc/dev
+- 2020-03-16 Redirected: universe in verse
+- 2020-03-16 Merge pull request #145 from ucsc/dev
+- 2020-03-16 Added: Postponed to AW
+- 2020-03-16 Merge pull request #144 from ucsc/dev
+- 2020-03-16 Fixed: http to https
+- 2020-03-16 Merge pull request #143 from ucsc/dev
+- 2020-03-16 Fixed: Kraw http to https
+- 2020-03-16 Merge pull request #142 from ucsc/dev
+- 2020-03-16 Modified: list on README
+- 2020-03-16 Merge pull request #141 from ucsc/dev
+- 2020-03-16 Added: docs redirects
+- 2020-03-16 Added: force true to redirects
+- 2020-03-13 Merge pull request #140 from ucsc/dev
+- 2020-03-13 Edited: netlify
+- 2020-03-13 Merge pull request #139 from ucsc/dev
+- 2020-03-13 Updating: redirects
+- 2020-03-13 Merge pull request #138 from ucsc/dev
+- 2020-03-13 Updating: path and redirects
+- 2020-03-13 Merge pull request #137 from ucsc/dev
+- 2020-03-13 Udpated: removed redirect 301
+- 2020-03-13 Merge pull request #136 from ucsc/dev
+- 2020-03-13 Updated: feed.xml
+- 2020-03-13 Fixed: redirects URL
+- 2020-03-13 Added: _redirects
+- 2020-03-13 Updating: redirect URL path
+- 2020-03-13 Merge pull request #135 from ucsc/dev
+- 2020-03-13 Updating: redirects
+- 2020-03-13 Updating config
+- 2020-03-13 Merge pull request #134 from ucsc/dev
+- 2020-03-13 Fixed: atwood redirects
+- 2020-03-13 Merge pull request #133 from ucsc/dev
+- 2020-03-13 Updated: Atwood photo
+- 2020-03-13 Updated: universe in verse
+- 2020-03-13 Testing new redirect
+- 2020-03-12 Merge pull request #132 from ucsc/dev
+- 2020-03-12 Fixed: Atwood Redirect
+- 2020-03-12 Fixed: Atwood redirect
+- 2020-03-12 Merge pull request #131 from ucsc/dev
+- 2020-03-12 Added: Margaret Atwood
+- 2020-03-12 Merge pull request #130 from ucsc/dev
+- 2020-03-12 Added: Photos Universe in Verse hotels page
+- 2020-03-12 Merge pull request #129 from ucsc/dev
+- 2020-03-12 Updating: Parking information
+- 2020-03-12 Fixed: Left navigation template
+- 2020-03-12 Merge pull request #128 from ucsc/dev
+- 2020-03-12 Fixed: landing page navigation
+- 2020-03-11 Merge pull request #127 from ucsc/dev
+- 2020-03-11 Modified: button text-align
+- 2020-03-10 Merge pull request #126 from ucsc/dev
+- 2020-03-10 Fixed: landing pagenav
+- 2020-02-28 Merge pull request #125 from ucsc/dev
+- 2020-02-28 Updating homepage
+- 2020-02-19 Merge pull request #124 from ucsc/dev
+- 2020-02-19 Updating: AW 2020 locations
+- 2020-02-19 Merge pull request #123 from ucsc/dev
+- 2020-02-19 Adding: Redirect to AW
+- 2020-02-19 Merge pull request #122 from ucsc/dev
+- 2020-02-19 Updating: redirect to AW
+- 2020-02-19 Merge pull request #121 from ucsc/dev
+- 2020-02-19 Updating: AW date
+- 2020-02-19 Merge pull request #120 from ucsc/dev
+- 2020-02-19 Modified: billboard
+- 2020-02-19 Merge pull request #119 from ucsc/dev
+- 2020-02-19 Changed: contact to index
+- 2020-02-19 Removed: Help in Planning
+- 2020-02-14 Updated: README.md
+- 2020-02-13 Merge pull request #118 from ucsc/dev
+- 2020-02-13 Updated: Events sorting on the homepage
+- 2020-02-06 Merge pull request #117 from ucsc/dev
+- 2020-02-06 Added: alumni weekend
+- 2020-02-06 Merge pull request #116 from ucsc/dev
+- 2020-02-06 Changed: Maitra 2020 index extention
+- 2020-02-06 Merge pull request #115 from ucsc/dev
+- 2020-02-06 Fixed: Maitra description
+- 2020-02-06 Modified: maitra 18th annual title
+- 2020-02-06 Added: Maitra events
+- 2020-02-03 Merge pull request #114 from ucsc/dev
+- 2020-02-03 Fixed: Redirect
+- 2020-02-03 Changed: Sinsheimer events path
+- 2020-02-03 Merge pull request #113 from ucsc/dev
+- 2020-02-03 Fixed: Redirects.
+- 2020-01-30 Merge pull request #112 from ucsc/dev
+- 2020-01-30 Fixed: mobile navigation
+- 2020-01-23 Merge pull request #111 from ucsc/dev
+- 2020-01-23 Fixed: MLK 2020 title
+- 2020-01-21 Merge pull request #110 from ucsc/dev
+- 2020-01-21 Fixed: MLK 2020 and 2019 images
+- 2020-01-21 Merge pull request #109 from ucsc/dev
+- 2020-01-21 Added: 2020 MLK
+- 2020-01-21 Merge pull request #108 from ucsc/dev
+- 2020-01-21 Added: * to redirects
+- 2020-01-21 Merge pull request #107 from ucsc/dev
+- 2020-01-21 Fixed: Sinsheimer redirects
+- 2020-01-21 Merge pull request #106 from ucsc/dev
+- 2020-01-21 Fixed: netlify.toml
+- 2020-01-16 Merge pull request #105 from ucsc/dev
+- 2020-01-16 Added: Emeriti Lectures
+- 2020-01-14 Updating: Original Thinkers
+- 2020-01-14 Merge pull request #104 from ucsc/dev
+- 2020-01-14 Modified: Original Thinkers to lecture
+- 2020-01-14 Merge pull request #103 from ucsc/dev
+- 2020-01-14 Added: Noel Q. King
+- 2020-01-14 Merge pull request #102 from ucsc/dev
+- 2020-01-14 Fixed: Faculty Researh YAML
+- 2020-01-14 Merge pull request #101 from ucsc/dev
+- 2020-01-14 Updated: doc netlify
+- 2020-01-14 Added: Faculty Research
+- 2020-01-14 Merge pull request #100 from ucsc/dev
+- 2020-01-14 Fixed: Redirect Sinsheimer and Morton Marcus
+- 2020-01-14 Merge pull request #99 from ucsc/dev
+- 2020-01-14 Added: Morton Marcus
+- 2020-01-14 Merge pull request #98 from ucsc/dev
+- 2020-01-14 Fixed: 2016 Sinsheimer photo
+- 2020-01-14 Merge pull request #97 from ucsc/dev
+- 2020-01-14 Sinsheimer: 2014 and 2016
+- 2020-01-14 Added: Sinsheimer
+- 2020-01-13 Merge pull request #96 from ucsc/dev
+- 2020-01-13 Added: Bunnet Symposium
+- 2020-01-10 Merge pull request #95 from ucsc/dev
+- 2020-01-10 Added: Flatte Lecture
+- 2020-01-10 Merge pull request #94 from ucsc/dev
+- 2020-01-10 Added: old Kraw banner
+- 2020-01-10 Merge pull request #93 from ucsc/dev
+- 2020-01-10 Updated: Kraw page img
+- 2020-01-10 Merge pull request #92 from ucsc/dev
+- 2020-01-10 Updated: Kraw lecture banner size
+- 2020-01-08 Merge pull request #91 from ucsc/dev
+- 2020-01-08 Added: CSE ID to search
+- 2020-01-08 Merge pull request #90 from ucsc/dev
+- 2020-01-08 Update feed.xml
+- 2020-01-08 Merge pull request #89 from ucsc/dev
+- 2020-01-08 Modified: search
+- 2020-01-08 Edited: Search field
+- 2020-01-08 Merge pull request #88 from ucsc/dev
+- 2020-01-08 Fixed: home left nav
+- 2020-01-08 Merge pull request #87 from ucsc/dev
+- 2020-01-08 doc: comment out lunr search
+- 2020-01-08 Modified: Comment our lunr search
+- 2020-01-08 Fixed: Left navigation
+- 2020-01-08 Merge pull request #86 from ucsc/dev
+- 2020-01-08 Test: Google search
+- 2020-01-08 Merge pull request #85 from ucsc/dev
+- 2020-01-08 revert back to lunr
+- 2020-01-08 Merge pull request #84 from ucsc/dev
+- 2020-01-08 DEV
+- 2020-01-08 Merge pull request #83 from ucsc/dev
+- 2020-01-08 Modified: Sort by latest event
+- 2020-01-08 Merge pull request #82 from ucsc/dev
+- 2020-01-08 Added: test sort
+- 2020-01-08 Merge pull request #81 from ucsc/dev
+- 2020-01-08 Fixed: Living Legends
+- 2020-01-08 Merge pull request #80 from ucsc/dev
+- 2020-01-08 Published: Founders latest date
+- 2020-01-08 Changed: Founders lastest date
+- 2020-01-08 Merge pull request #79 from ucsc/dev
+- 2020-01-08 Unpublished: Founders test page
+- 2020-01-08 Merge pull request #78 from ucsc/dev
+- 2020-01-08 Modified: Search page
+- 2020-01-08 Merge pull request #77 from ucsc/dev
+- 2020-01-08 Added: Top Search
+- 2020-01-08 Merge pull request #76 from ucsc/dev
+- 2020-01-08 Added: search field test
+- 2020-01-08 Merge pull request #75 from ucsc/dev
+- 2020-01-08 Added: google code
+- 2020-01-08 Merge pull request #74 from ucsc/dev
+- 2020-01-08 Added: google search
+- 2020-01-08 Merge pull request #73 from ucsc/dev
+- 2020-01-08 Added: Google search.html
+- 2020-01-08 Merge pull request #72 from ucsc/dev
+- 2020-01-08 Modified: search
+- 2020-01-08 Merge pull request #71 from ucsc/dev
+- 2020-01-08 Removed: Google site verified.
+- 2020-01-08 Merge pull request #70 from ucsc/dev
+- 2020-01-08 Added: Google search verify for netlify
+- 2020-01-08 Merge pull request #69 from ucsc/dev
+- 2020-01-08 Added: Google search
+- 2020-01-03 Merge pull request #68 from ucsc/dev
+- 2020-01-03 Added: Year to Kraw title
+- 2020-01-03 Merge pull request #67 from ucsc/dev
+- 2020-01-03 Fixed: Social Justice event photo
+- 2020-01-03 Merge pull request #66 from ucsc/dev
+- 2020-01-03 Modified: Group Social Justice lecture series
+- 2020-01-02 Modified: Foundation Medal and Maitra
+- 2019-12-23 Merge pull request #65 from ucsc/dev
+- 2019-12-23 Fixed Breadcrumb
+- 2019-12-23 Updated: Left Navigation, contact, 2020 test pages
+- 2019-11-26 Merge pull request #64 from ucsc/dev
+- 2019-11-26 Updating
+- 2019-11-26 Merge pull request #63 from ucsc/dev
+- 2019-11-26 Fixed: Contact Information
+- 2019-11-26 Merge pull request #62 from ucsc/dev
+- 2019-11-22 Updating docs
+- 2019-11-22 adding tab to index
+- 2019-11-22 ADD editorcongif
+- 2019-11-19 Merge pull request #61 from ucsc/dev
+- 2019-11-19 Fixed Signature Events date
+- 2019-11-19 Merge branch 'dev' of https://github.com/luckyluke007/specialevents-site into dev
+- 2019-11-19 Merge pull request #60 from ucsc/dev
+- 2019-11-19 Merge pull request #60 from ucsc/dev
+- 2019-11-19 Fixed Living Legends image path
+- 2019-11-19 Fixed Living Legends Sylvia
+- 2019-11-18 Merge pull request #59 from ucsc/dev
+- 2019-11-18 Fixed date archive
+- 2019-11-18 Merge pull request #58 from ucsc/dev
+- 2019-11-18 Left Navigation page home link fixed.
+- 2019-11-18 Merge pull request #57 from ucsc/dev
+- 2019-11-18 Contact info title
+- 2019-11-15 Merge pull request #56 from ucsc/dev
+- 2019-11-15 contact and help in planning
+- 2019-11-15 contact and help in planning
+- 2019-11-15 Merge pull request #55 from ucsc/dev
+- 2019-11-15 help in planning
+- 2019-11-14 Fixed Left navigation links
+- 2019-11-14 Left navigation
+- 2019-11-14 Help in planning set up
+- 2019-11-14 Founders testing published
+- 2019-11-14 Merge pull request #54 from ucsc/dev
+- 2019-11-14 Removed Campus Venues header and footer
+- 2019-11-14 Fixed Past Events teaser on some events
+- 2019-11-13 Merge pull request #53 from ucsc/dev
+- 2019-11-13 Past events listing sort by date
+- 2019-11-13 New Past Events page
+- 2019-11-13 category to index listing page...
+- 2019-11-08 Events index category
+- 2019-11-08 Removed events event-type and category events index
+- 2019-11-07 replacing event-type to category (Founders)
+- 2019-11-07 Merge pull request #52 from ucsc/dev
+- 2019-11-07 Past Events footer
+- 2019-11-07 Merge pull request #51 from ucsc/dev
+- 2019-11-07 Updating Past Events page title
+- 2019-11-07 Past Events Navigation change
+- 2019-11-07 Signature Events
+- 2019-10-18 Merge pull request #49 from ucsc/dev
+- 2019-10-18 sorting archive
+- 2019-10-18 Merge pull request #48 from ucsc/dev
+- 2019-10-18 Example event in 2020
+- 2019-10-17 Merge pull request #47 from ucsc/dev
+- 2019-10-17 Kraw lecture series description
+- 2019-10-17 Merge pull request #46 from ucsc/dev
+- 2019-10-17 Updated Readme.md
+- 2019-10-17 Merge pull request #45 from ucsc/dev
+- 2019-10-17 Fixed maitra 2016 svgs
+- 2019-10-17 Matria removed btn
+- 2019-10-17 the back gate removed btn
+- 2019-10-17 Merge pull request #44 from ucsc/dev
+- 2019-10-17 adding global js to unqietminds
+- 2019-10-17 Merge pull request #43 from ucsc/dev
+- 2019-10-17 Books to moocs removed btn
+- 2019-10-17 Campaign celebrations remove btn
+- 2019-10-17 Unqietminds register now removed
+- 2019-10-17 Jerry Garcia removed btn
+- 2019-10-17 SVC opening removed register btn
+- 2019-10-17 updating search json
+- 2019-10-17 Holiday party removed register now
+- 2019-10-17 50th picnic removed register now
+- 2019-10-17 Genomics left nav color fixed
+- 2019-10-17 Merge pull request #42 from ucsc/dev
+- 2019-10-17 Fixed homepage latest content
+- 2019-10-16 Merge pull request #41 from ucsc/dev
+- 2019-10-16 Removed register btn for founders living legends
+- 2019-10-16 Merge pull request #40 from ucsc/dev
+- 2019-10-16 Founders register btn
+- 2019-10-16 Merge pull request #39 from ucsc/dev
+- 2019-10-16 Removed register button
+- 2019-10-16 Merge pull request #38 from ucsc/dev
+- 2019-10-16 offset:1 http to https
+- 2019-10-15 Merge pull request #37 from ucsc/dev
+- 2019-10-15 http to https
+- 2019-10-15 Merge pull request #36 from ucsc/dev
+- 2019-10-15 new file http to https
+- 2019-10-15 Merge pull request #35 from ucsc/dev
+- 2019-10-15 Fixed images aw 2011
+- 2019-10-15 Fixed sponsors logo aw 2012 and added aw 2011
+- 2019-10-15 2011
+- 2019-10-15 Merge pull request #34 from ucsc/dev
+- 2019-10-15 http to https
+- 2019-10-14 AW 2012
+- 2019-10-14 fixed truncate event listing
+- 2019-10-14 Fixed index page alumniweekend
+- 2019-10-14 Merge pull request #33 from ucsc/dev
+- 2019-10-14 postcards images
+- 2019-10-14 postacards 2013
+- 2019-10-14 Fixed slider style AW 2013
+- 2019-10-11 Merge pull request #32 from ucsc/dev
+- 2019-10-11 Fixed corrupt footer logo
+- 2019-10-11 Merge pull request #31 from ucsc/dev
+- 2019-10-11 Fixed corrupt logo
+- 2019-10-11 Merge pull request #30 from ucsc/dev
+- 2019-10-11 http to https
+- 2019-10-11 AW 2013
+- 2019-10-10 Merge pull request #29 from ucsc/dev
+- 2019-10-10 Fixed beige CSS...
+- 2019-10-10 Merge pull request #28 from ucsc/dev
+- 2019-10-10 http to https
+- 2019-10-10 More AW 2014
+- 2019-10-09 Merge pull request #27 from ucsc/dev
+- 2019-10-09 AW 2014 events images
+- 2019-10-09 Merge pull request #26 from ucsc/dev
+- 2019-10-09 Last AW 2014 events - http and https
+- 2019-10-09 fixed dizikes event and lick new event
+- 2019-10-09 http and https
+- 2019-10-09 Merge pull request #25 from ucsc/dev
+- 2019-10-09 2014 AW events
+- 2019-10-09 Alumni Weekend 2014
+- 2019-10-09 alumniweekend 2014
+- 2019-10-09 archive page sort by git-mod
+- 2019-10-08 Merge pull request #24 from ucsc/dev
+- 2019-10-08 fixed css path
+- 2019-10-08 removing specialevents-site from path
+- 2019-10-08 Merge pull request #23 from ucsc/dev
+- 2019-10-08 google tag manager
+- 2019-10-08 Hype http to https
+- 2019-10-08 Merge pull request #22 from ucsc/dev
+- 2019-10-08 fixed header
+- 2019-10-08 http to https old links
+- 2019-10-08 Merge pull request #20 from ucsc/dev
+- 2019-10-08 change css path
+- 2019-10-08 Merge pull request #19 from ucsc/dev
+- 2019-10-08 change baseurl
+- 2019-10-08 Merge pull request #18 from ucsc/dev
+- 2019-10-08 remove
+- 2019-10-08 Merge pull request #17 from ucsc/dev
+- 2019-10-08 bundle updated
+- 2019-10-08 Merge pull request #16 from ucsc/dev
+- 2019-10-08 gems updated
+- 2019-10-07 Merge pull request #12 from ucsc/dev
+- 2019-10-07 Fixed Original Thinkers imag
+- 2019-10-07 Merge pull request #11 from ucsc/dev
+- 2019-10-07 sorting signature events
+- 2019-10-07 oops fixed ucscalumni link.
+- 2019-10-07 Merge pull request #10 from ucsc/dev
+- 2019-10-07 change commencement 2013 #ucscalumni link
+- 2019-10-07 Merge pull request #9 from ucsc/dev
+- 2019-10-07 campus venues
+- 2019-10-07 campus venues
+- 2019-10-07 Merge pull request #8 from ucsc/dev
+- 2019-10-07 sorting newest to oldest in event archives
+- 2019-10-07 Merge pull request #7 from ucsc/dev
+- 2019-10-07 Removed subtitle text for commencement
+- 2019-10-04 Merge pull request #6 from ucsc/dev
+- 2019-10-04 Fixed venues
+- 2019-10-04 Merge pull request #5 from ucsc/dev
+- 2019-10-04 Commencement 2011
+- 2019-10-04 Merge pull request #4 from ucsc/dev
+- 2019-10-04 Fixed logo link and skip content
+- 2019-10-04 skip content
+- 2019-10-04 Merge pull request #3 from ucsc/dev
+- 2019-10-04 Fixed Readme.md
+- 2019-10-04 search field in search result
+- 2019-10-03 Fixed search button
+- 2019-10-03 adding description to event special events pages.
+- 2019-10-03 all title and description in all  event pages
+- 2019-10-03 adding title and description for subpage for information for searches
+- 2019-10-01 Fixed launch
+- 2019-10-01 search
+- 2019-09-27 trying to make search to work
+- 2019-09-27 site search
+- 2019-09-27 WCMS search field
+- 2019-09-27 Footer links
+- 2019-09-27 Fixed layouts unquiet minds and evrev
+- 2019-09-26 Through the back gate
+- 2019-09-26 fixed SBD
+- 2019-09-26 sbd 2011
+- 2019-09-26 2011 sbd photos
+- 2019-09-26 Fixed photos
+- 2019-09-26 2012 SBD
+- 2019-09-26 2013 sbd
+- 2019-09-26 2013 sbd
+- 2019-09-26 Robert Reich
+- 2019-09-26 Ratner lecture
+- 2019-09-26 Fixed image RCC
+- 2019-09-26 Rachel Carson
+- 2019-09-26 Original Thinkers
+- 2019-09-24 Fixed photos
+- 2019-09-24 27th MLK
+- 2019-09-24 2012 MLK
+- 2019-09-24 2013
+- 2019-09-24 2015-16 MLK
+- 2019-09-24 2017
+- 2019-09-24 mlk 2018
+- 2019-09-24 Maitra
+- 2019-09-24 Fixed Living Legends photos
+- 2019-09-24 Living Legends 2017
+- 2019-09-24 launch
+- 2019-09-24 Fixed photos
+- 2019-09-24 Kraw Lectures
+- 2019-09-23 Fixed hotels image
+- 2019-09-23 jerry garcia 73 birthday
+- 2019-09-23 Friends Holiday Party
+- 2019-09-23 2007 Founders
+- 2019-09-23 template chance for 2008
+- 2019-09-23 added thickbox to ucsc-2010-header
+- 2019-09-23 2008 Founders
+- 2019-09-23 2009 Founders fixed links
+- 2019-09-23 2009 Founders
+- 2019-09-23 2010 founders
+- 2019-09-23 2010 css and js
+- 2019-09-23 2011 founders
+- 2019-09-23 Founders 2013-2012
+- 2019-09-20 Founders
+- 2019-09-19 Evrev events
+- 2019-09-19 commencement index photos
+- 2019-09-19 Removed pages from Commencement 2015-2011
+- 2019-09-19 Commencement 2012
+- 2019-09-19 2013 search
+- 2019-09-19 2013 commencement
+- 2019-09-19 Commencement 2013
+- 2019-09-18 commencement 2014
+- 2019-09-18 2014 commencement
+- 2019-09-18 Fixed left links
+- 2019-09-18 Commencement 2016
+- 2019-09-18 Commencement 2017
+- 2019-09-18 Commencement 2018
+- 2019-09-17 Starting commencement 2018
+- 2019-09-17 Casfs 50, 50th picnic, campaign celebration
+- 2019-09-17 Books to Moocs and 50th Picnic
+- 2019-09-16 Fixed header links and footer links
+- 2019-09-16 the attics
+- 2019-09-16 index of the event collections include...
+- 2019-09-16 Changing event listing button
+- 2019-09-16 Removing event listing in events index
+- 2019-09-16 event listing include
+- 2019-09-16 Commencement
+- 2019-09-16 Docs updated
+- 2019-09-16 Commencement
+- 2019-09-13 Making archive as events index
+- 2019-09-13 fixed homepage event time and events listing time
+- 2019-09-13 Updating events index
+- 2019-09-13 Add month to special listing
+- 2019-09-13 Commencement 2019
+- 2019-09-12 starting to port in Commencement
+- 2019-09-12 Special Events header link..
+- 2019-09-12 add Living Legends, Footer links, Adding missing locations to an event
+- 2019-09-12 living legends
+- 2019-09-11 Fixed ucsc footer, main nav down-arrow
+- 2019-09-11 Adding Mandel Lecture
+- 2019-09-11 changing Maitra category
+- 2019-09-11 Start adding placement content
+- 2019-09-10 importing 2019 MLK
+- 2019-09-10 Breadcrumb fixed.
+- 2019-09-10 Fixed left navigation
+- 2019-09-10 styles for archive page.
+- 2019-09-10 header links, landing-page sidebr nav
+- 2019-09-09 archive
+- 2019-09-09 archive
+- 2019-09-08 Removing extra vertical line
+- 2019-09-08 Grouping archive, but extra option.
+- 2019-09-08 working on archive.
+- 2019-09-08 Sorting category image, title and description. Working on drop down filter.
+- 2019-09-08 Working on archives page..
+- 2019-09-07 breadcrumb fixed link error
+- 2019-09-07 events internal page..
+- 2019-09-06 subpage title
+- 2019-09-06 Event landing page nav not showing index
+- 2019-09-06 Landing page navigation
+- 2019-09-06 Sorting left nav in secondary page
+- 2019-09-05 Setting left navigation
+- 2019-09-05 billboard and filter homepage sort by date
+- 2019-09-04 Updating read me
+- 2019-09-04 page date modified.
+- 2019-09-04 about in docs
+- 2019-09-04 Homepage sort by current events
+- 2019-09-04 specialevents footer link
+- 2019-09-04 Special events date fixed on homepage.
+- 2019-09-03 speakers landing page.
+- 2019-09-03 assign Month to shorten it on homepage filter
+- 2019-09-03 filter events on the homepage..
+- 2019-09-03 Collections path...
+- 2019-09-03 Billboard homepage and landing page.
+- 2019-08-30 Landing sidebar.. in progess id name for speaker
+- 2019-08-30 Speakers loop success!!!
+- 2019-08-29 fixed landing page.
+- 2019-08-29 Adding speaker info but not looping yet
+- 2019-08-29 Added optional header
+- 2019-08-29 Working on landing - page
+- 2019-08-29 adding if statement for billboard home and landing page.
+- 2019-08-29 Merge pull request #2 from luckyluke007/gh-pages
+- 2019-08-29 fixed fonts path
+- 2019-08-29 Merge pull request #1 from luckyluke007/gh-pages
+- 2019-08-29 changing images, css, js path.
+- 2019-08-29 Adding site baseurl
+- 2019-08-28 page title to header
+- 2019-08-28 updating config
+- 2019-08-28 updating config
+- 2019-08-28 updating header css and logo
+- 2019-08-28 ignore feed
+- 2019-08-28 fixed logo github page
+- 2019-08-28 updating config
+- 2019-08-28 breadcrumb
+- 2019-08-28 adding images holder for now
+- 2019-08-28 Delete composer.phar
+- 2019-08-28 updating README.md
+- 2019-08-28 removing sass
+- 2019-08-28 Initial commit
