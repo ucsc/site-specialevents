@@ -1,6 +1,6 @@
 ---
 title: "The Evolving Practice of Human Rights Accountability: The New Terrain for Justice"
-description: "Online Groceries: eCommerce, the pandemic & the future of work in retail food"
+description: "Sylvanna M. Falcón, founder of UC Santa Cruz’s Human Rights Investigations Lab for the Americas, will explain how human rights accountability has shifted in the digital realm and the ways in which a new generation of human rights activists are needed with critical digital literacy skills in search for the truth."
 
 category: Lecture Series
 
