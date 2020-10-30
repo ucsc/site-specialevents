@@ -7,7 +7,6 @@ category: Lecture Series
 tags:
   - Election Series
   - Current
-  - Featured
 
 date: "2020-10-23"
 

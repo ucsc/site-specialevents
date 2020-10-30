@@ -8,7 +8,6 @@ category: Undiscovered Shakespeare
 tags:
   - Shakespeare
   - Current
-  - Home
 
 date: "2020-09-02"
 
