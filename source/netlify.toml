@@ -318,13 +318,13 @@
 
 [[redirects]]
   from = "/events/slugs-steins/2020/"
-  to = "https://alumni.ucsc.edu/events/regional-events/2020/10/october-slugs-and-steins.html"
+  to = "https://ucsc.zoom.us/webinar/register/WN_gyaiuWpURam1h7eaqTBOpg"
   status = 301
   force = true
 
 [[redirects]]
   from = "/events/university-forum/2020/"
-  to = "https://calendar.ucsc.edu/event/university_forum_presents_teaching_learning_in_the_time_of_covid_19"
+  to = "https://ucsc.zoom.us/webinar/register/WN_y6UUrDtITpeGJFCHZZYZ3w"
   status = 301
   force = true
 
@@ -342,7 +342,13 @@
 
 [[redirects]]
   from = "/events/ias/2020/"
-  to = "https://ias.ucsc.edu/events/2020/visualizing-abolition-angela-y-davis-and-gina-dent-october-20-2020"
+  to = "https://ias.ucsc.edu/events/2020/visuality-and-carceral-formations-nicole-fleetwood-herman-gray-nicholas-mirzoeff"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/events/morton-marcus/2020/"
+  to = "https://thi.ucsc.edu/event/virtual-morgan-parker-morton-marcus-poetry-reading/"
   status = 301
   force = true
 

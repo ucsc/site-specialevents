@@ -1,19 +1,19 @@
 ---
 title: "Kraw Lecture Series on Science and Technology"
-description: "Our COVD-19 response series continues, this time with a look at hardware solutions. Healthcare professionals need to be able to get diagnoses quickly, rather than sending samples offsite to be processed and waiting for the results."
+description: "Preparing for Future Climate Change: Lessons from the Past"
 
 #### Date of the event
-date: "2020-10-22"
+date: "2020-11-18"
 
 
 #### billboard
 billboard:
-  homepage-title: 'Hunting for infection, one molecule at a time'
+  homepage-title: 'Preparing for Future Climate Change: Lessons from the Past'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
-  day: Thursday
-  month: October
-  date: 22
+  day: Wednesday
+  month: November
+  date: 18
   year: 2020
   starttime: 5:30 p.m.
   endtime: 
@@ -33,7 +33,7 @@ category: Lecture Series
 #### Tags label Current or Inactive event
 tags:
   - Kraw Lecture
-  - Home
+  - Featured
   - Current
 
 layout: landing
@@ -49,15 +49,25 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 ---
 
+### Preparing for Future Climate Change: Lessons from the Past
+
+##### November 18, 2020
+**Virtual Lecture**
+
+What can 66 million years of climate variation data tell us about our future? Leading climate scientist and professor James Zachos explains how evidence of global warming in the fossil record is helping us to understand how our planet responds to massive C02 release events. We invite you to join us for this conversation about climate change moderated by Distinguished Professor of Ocean Sciences Christina Ravelo.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_nod9socHSHaVQQNaREBn1A)
+
+
+---
+
 ### Hunting for infection, one molecule at a time
 
 ##### October 22, 2020
 **Virtual Lecture**
 
 Our COVD-19 response series continues, this time with a look at hardware solutions. Healthcare professionals need to be able to get diagnoses quickly, rather than sending samples offsite to be processed and waiting for the results. Professor Holger Schmidt’s lab is developing technology that could give doctors compact instruments that can deliver test results quickly and onsite. This optofluidic technology, invented in his lab, uses small silicon chips to guide light to either optically excite individual molecules or collect them for electrical detection with a nanopore. This allows physicians to assess if an infection is present, and how strong it is. These “labs-on-a-chip” detect viral RNA, antigens or antibodies, and count the molecules one by one, creating great promise for rapid, low-cost, and accurate testing for coronaviruses and other diseases. This is another example of the advances and promise of the research on integrated devices and nanopores taking place at UC Santa Cruz.
-
-{: .button .primary .small}
-[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_ozGPVN52RtyGbLPWCLWP3Q)
 
 
 ---

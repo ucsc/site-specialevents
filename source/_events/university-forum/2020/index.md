@@ -1,26 +1,26 @@
 ---
 title: University Forum
-description: "Partnerships formed quickly during this evolving health crisis."
+description: "Teaching and Learning in the time of COVID 19."
 
 event-type: Lecture Event
 category: University Forum
 
 tags:
   - University Forum
-  - Featured
+  - Home
   - Current
 
-date: "2020-09-23"
+date: "2020-11-16"
 
 #### Billboard
 billboard:
   #### If homepage billboard-title is empty will display page title
   homepage-title: "California: Our Criminal Justice System and Political Possibilities"
-  subtitle: "Democracy, Dilemmas & Decisions"
-  day: Tuesday
+  subtitle:
+  day: Monday
   #### Add TBD to month if not date or Virtual Event
-  month: September
-  date: 23
+  month: November
+  date: 16
   year: 2020
   image: "/events/university-forum/2020/images/banner.jpg"
   starttime: 5:30 p.m.
@@ -40,6 +40,19 @@ published: true
 ---
 
 <a name="listing"></a> 
+
+### University Forum: Teaching and Learning in the time of COVID 19
+
+**Date:** November 16, 2020<br/>
+**Time:** 5:30 pm
+
+Everything changed in March. UC Santa Cruz transitioned to remote teaching and learning seven months ago. Today we reflect on the lessons we have learned as teachers and learners. What has the shift to remote or fully online instruction revealed about the current state and possible future of higher education? How can we use this crisis as an opportunity to reimagine the practice of teaching and learning at a research university? Join us for this timely discussion between Jody Greene, Associate Vice Provost for Teaching and Learning; Founding Director, Center for Innovations in Teaching and Learning; and Professor of Literature, and Michael Tassio, Chief of Staff for the Division of Academic Affairs and the Director for Online Education. Cynthia Lewis, Chair and Professor in the Education Department will guide the conversation.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_y6UUrDtITpeGJFCHZZYZ3w)
+
+
+---
 
 ### University Forum: Community partnerships in the time of COVID
 
