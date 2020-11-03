@@ -72,7 +72,7 @@ Our COVD-19 response series continues, this time with a look at hardware solutio
 
 ---
 
-### CCOVID-19: Tracing the evolution of the virus genome
+### COVID-19: Tracing the evolution of the virus genome
 
 ##### September 24, 2020
 **Virtual Lecture**
