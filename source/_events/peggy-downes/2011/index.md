@@ -8,7 +8,6 @@ category: Peggy Downes
 tags:
   - Peggy Downes
   - Current
-  - Home
 
 date: "2011-10-19"
 

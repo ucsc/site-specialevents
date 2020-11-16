@@ -29,7 +29,6 @@ category: Signature Series
 tags:
   - Alumni Weekend
   - Current
-  - Home
 
 layout: ucsc
 ---

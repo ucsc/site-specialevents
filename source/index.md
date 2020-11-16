@@ -4,12 +4,6 @@ description: Special events homepage
 layout: home-page
 ---
 
-<!-- <section class="content-centered">
-  <div class="grid-container large">
-  <p>Intro copy: <br/>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam molestiae voluptate quisquam, distinctio ducimus, ipsum perspiciatis vitae eaque ut maiores adipisci possimus et a nobis explicabo, obcaecati! In, voluptatibus harum.</p>
-  </div>
-</section>-->
-
 <!-- Three current events: Tag Home to display -->
 <section id="main-content">
   <div class="grid-container large">
@@ -17,7 +11,7 @@ layout: home-page
       <h2 class="underline">Signature Events</h2>
     </section>
     <div class="events-card-list fade-out-siblings">
-      {% assign event-list = site.events | sort: 'date' | where: 'tags','Home' | reverse %}
+      {% assign event-list = site.events | sort: 'date' | where: 'tags','Home' %}
       {% for event in event-list limit: 3 %}
         {% if event.tag != 'Featured' %}
           <a class="events-card" href="{{site.baseurl}}{{ event.url }}.html">

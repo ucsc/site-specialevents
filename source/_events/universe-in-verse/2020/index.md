@@ -10,7 +10,6 @@ category: Universe in Verse
 tags:
   - Universe
   - Current
-  - Home
   
 date: "2020-04-18"
 
