@@ -353,6 +353,12 @@
   force = true
 
 [[redirects]]
+  from = "/events/water-dancer/2020/"
+  to = "https://www.bookshopsantacruz.com/waterdancer"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
