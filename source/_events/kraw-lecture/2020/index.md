@@ -1,19 +1,19 @@
 ---
 title: "Kraw Lecture Series on Science and Technology"
-description: "Preparing for Future Climate Change: Lessons from the Past"
+description: "Telomeres: from curiosity driven research to human disease"
 
 #### Date of the event
-date: "2020-11-18"
+date: "2020-12-08"
 
 
 #### billboard
 billboard:
-  homepage-title: 'Preparing for Future Climate Change: Lessons from the Past'
+  homepage-title: 'Telomeres: from curiosity driven research to human disease'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
-  day: Wednesday
-  month: November
-  date: 18
+  day: Tuesday
+  month: December
+  date: 08
   year: 2020
   starttime: 5:30 p.m.
   endtime: 
@@ -49,16 +49,28 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 ---
 
+### Telomeres: from curiosity driven research to human disease
+
+##### December 8, 2020
+**Virtual Lecture**
+
+At this special Kraw Lecture Chancellor Cynthia Larive will welcome Carol W. Greider, Ph.D., recipient of the 2009 Nobel Laureate in Medicine, to our faculty and to UC Santa Cruz.
+
+An eminent biologist and advocate for diversity in science, Professor Grieder shared the 2009 Nobel Prize in Physiology or Medicine for her pioneering work on telomeres and the discovery of telomerase.
+
+Telomeres are structures made of repetitive DNA that protect the ends of chromosomes. Every time a cell divides, telomeres shorten by a small amount. This shortening is counterbalanced by the enzyme telomerase, which elongates telomeres by adding repetitive DNA to maintain an equilibrium in length. Increased telomere length enables the continuous proliferation of cancer cells, while telomere shortening is associated with aging and age-related diseases. Inherited telomere syndromes involving abnormally short telomeres can lead to bone marrow failure, lung disease, liver disease, and other conditions. Join us for this important talk with Professor Greider as she helps us understand telomere maintenance mechanisms at a fundamental level, and how it may allow new approaches to these diseases.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_OVyvi8psSje81jOhO54Hpw)
+
+---
+
 ### Preparing for Future Climate Change: Lessons from the Past
 
 ##### November 18, 2020
 **Virtual Lecture**
 
 What can 66 million years of climate variation data tell us about our future? Leading climate scientist and professor James Zachos explains how evidence of global warming in the fossil record is helping us to understand how our planet responds to massive C02 release events. We invite you to join us for this conversation about climate change moderated by Distinguished Professor of Ocean Sciences Christina Ravelo.
-
-{: .button .primary .small}
-[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_nod9socHSHaVQQNaREBn1A)
-
 
 ---
 
