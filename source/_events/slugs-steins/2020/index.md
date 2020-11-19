@@ -15,7 +15,7 @@ billboard:
   subtitle: 'Lectures from: UC Santa Cruz'
   day: Monday
   #### Add TBD to month if not date or Virtual Event
-  month: November
+  month: December
   date: 14
   year: 2020
   image: "/events/slugs-steins/2020/images/banner.jpg"
