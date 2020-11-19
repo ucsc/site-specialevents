@@ -1,6 +1,6 @@
 ---
 title: University Forum
-description: "Teaching and Learning in the time of COVID 19."
+description: "Immigration policies in the United States: Understanding violence nation-wide and in Santa Cruz"
 
 event-type: Lecture Event
 category: University Forum
@@ -8,18 +8,19 @@ category: University Forum
 tags:
   - University Forum
   - Current
+  - Home
 
-date: "2020-11-16"
+date: "2020-12-07"
 
 #### Billboard
 billboard:
   #### If homepage billboard-title is empty will display page title
-  homepage-title: "California: Our Criminal Justice System and Political Possibilities"
+  homepage-title: 
   subtitle:
   day: Monday
   #### Add TBD to month if not date or Virtual Event
-  month: November
-  date: 16
+  month: December
+  date: 7
   year: 2020
   image: "/events/university-forum/2020/images/banner.jpg"
   starttime: 5:30 p.m.
@@ -40,16 +41,26 @@ published: true
 
 <a name="listing"></a> 
 
+---
+
+### University Forum: Immigration policies in the United States: Understanding violence nation-wide and in Santa Cruz
+
+**Date:** December 7, 2020<br/>
+**Time:** 5:30 pm
+
+Deportation is far more than a policy term; it is a threat and an act with explosive impact on families and communities. Four in five face persecution – including torture, rape, and murder – in their home countries. Nearly 6 million children are in the care of individuals vulnerable to deportation. Family separation has immediate and long-lasting psychosocial and economic consequences for those deportand and for those left behind. Many under threat have been in this country for decades. Yet, in the face of fear and increasingly harsh policies, communities have organized to respond and build resilience. UC Santa Cruz Professor of Psychology, Regina Day Langhout, lead author on a policy brief, "Statement on the Effects of Deportation and Forced Separation on Immigrants, their Families, and Communities,” will discuss the far-reaching impacts of deportation and collective resistance.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_-0DE6y2SQ1Ke6pOyIALsSg)
+
+---
+
 ### University Forum: Teaching and Learning in the time of COVID 19
 
 **Date:** November 16, 2020<br/>
 **Time:** 5:30 pm
 
 Everything changed in March. UC Santa Cruz transitioned to remote teaching and learning seven months ago. Today we reflect on the lessons we have learned as teachers and learners. What has the shift to remote or fully online instruction revealed about the current state and possible future of higher education? How can we use this crisis as an opportunity to reimagine the practice of teaching and learning at a research university? Join us for this timely discussion between Jody Greene, Associate Vice Provost for Teaching and Learning; Founding Director, Center for Innovations in Teaching and Learning; and Professor of Literature, and Michael Tassio, Chief of Staff for the Division of Academic Affairs and the Director for Online Education. Cynthia Lewis, Chair and Professor in the Education Department will guide the conversation.
-
-{: .button .primary .small}
-[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_y6UUrDtITpeGJFCHZZYZ3w)
-
 
 ---
 

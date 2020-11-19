@@ -1,12 +1,12 @@
 ---
 title: "University Forum"
-description: "The November 2020 election provides an historic opportunity to shape our future, both in California and the nation. The race for President and Congressional races stands to fundamentally shape the future of race relations, environmental protections, immigration reform, healthcare and health disparities, employment conditions and labor regulation, along with efforts to address the pandemic."
+description: "Immigration policies in the United States: Understanding violence nation-wide and in Santa Cruz"
 category: Lecture
 layout: full-page
 
 
 #### date of the latest event to sort
-date: "2020-11-16"
+date: "2020-12-07"
 
 permalink: /:collection/university-forum
 ---
