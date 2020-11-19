@@ -7,7 +7,6 @@ category: Lecture Series
 tags:
   - IAS
   - Current
-  - Home
 
 permalink: /events/visualizing-abolition/
 

@@ -359,6 +359,12 @@
   force = true
 
 [[redirects]]
+  from = "/events/frayed-democracy/2020/"
+  to = "https://ucsc.zoom.us/webinar/register/WN_lXQ-eMJwTkuzsPTwtY-uHg"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
