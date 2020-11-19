@@ -1,11 +1,11 @@
 ---
 title: "Slugs & Steins"
-description: "Online Groceries: eCommerce, the pandemic & the future of work in retail food"
+description: "Reading Dickens Today with Professor John Jordan"
 category: Lecture
 layout: full-page
 
 #### date of the latest event to sort
-date: "2020-11-09"
+date: "2020-12-14"
 
 permalink: /:collection/slugs-steins
 ---
