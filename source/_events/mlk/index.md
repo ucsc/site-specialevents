@@ -1,5 +1,5 @@
 ---
-title: Martin Luther Jr. Convocation
+title: Martin Luther King Jr. Convocation
 description: Annual convocation celebrates the life and dream of Dr. Martin Luther King Jr.
 category: Signature
 layout: full-page
