@@ -7,6 +7,7 @@ category: Lecture Series
 tags:
   - Slugs Steins
   - Current
+  - Home
 
 date: "2020-12-14"
 
