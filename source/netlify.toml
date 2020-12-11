@@ -365,6 +365,12 @@
   force = true
 
 [[redirects]]
+  from = "/events/global-crisis/2021/"
+  to = "https://calendar.ucsc.edu/event/an_evening_with_jennifer_brea_and_megan_moodie_talking_about_chronic_illness_care_and_covid#.X9PS1i9h3OR"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404

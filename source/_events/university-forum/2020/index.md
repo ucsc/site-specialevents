@@ -1,6 +1,6 @@
 ---
 title: University Forum
-description: "Immigration policies in the United States: Understanding violence nation-wide and in Santa Cruz"
+description: "Suddenly Distant and Still in Flux: The Implications of COVID-19 for K12 Teachers’ Work"
 
 event-type: Lecture Event
 category: University Forum
@@ -10,18 +10,18 @@ tags:
   - Current
   - Home
 
-date: "2020-12-07"
+date: "2021-01-13"
 
 #### Billboard
 billboard:
   #### If homepage billboard-title is empty will display page title
   homepage-title: 
   subtitle:
-  day: Monday
+  day: Wednesday
   #### Add TBD to month if not date or Virtual Event
-  month: December
-  date: 7
-  year: 2020
+  month: January
+  date: 13
+  year: 2021
   image: "/events/university-forum/2020/images/banner.jpg"
   starttime: 5:30 p.m.
   endtime: 7:00 p.m.
@@ -40,6 +40,22 @@ published: true
 ---
 
 <a name="listing"></a> 
+
+---
+
+### Suddenly Distant and Still in Flux: The Implications of COVID-19 for K12 Teachers’ Work
+
+**Date:** January 11, 2020<br/>
+**Time:** 5:30 pm
+
+The UC Santa Cruz University Forum presents The Implications of COVID-19 for Teachers’ Work and K-12 Schooling with Professor Lora Bartlett and the Suddenly Distant Research Project Team. The COVID 19 pandemic forced the entire teacher workforce into distance teaching essentially overnight. ough a short-term crisis, the longevity of this pandemic is changing the context of teachers’ work in ways that are affecting the very nature of teachers’ work and the structure of K-12 schooling.
+In this Forum the Suddenly Distant Research Project Team draws on in-depth interviews with 75 teachers in nine states to explore the ways that state and local responses to the pandemic have reshaped schooling and teachers’ working lives, affected teachers’ work/family lives, and exacerbated as well as abated long standing educational equity issues. Professor Lora Bartlett and research team members discuss the patterns that have emerged, the implications for the teaching profession and K-12 schooling, and insights into teachers’ feelings about how schools can best navigate this crisis.
+
+Featuring Lora Bartlett, associate professor of education at UCSC, with research team members: Alisun Thompson (UCSC PhD alum) and Lina Darwich (assistant professors at Lewis & Clark College), Riley Collins , UCSC PhD student; Dr. Julia Koppich, teacher labor expert and team advisor; and Judith Warren Little, UC Berkeley Professor of the Graduate School, Carol Liu Professor of Education Policy, emerita, Dean of the Graduate School of Education, emerita.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_QdpfEwwhSS2RNez5s16yzw)
+
 
 ---
 

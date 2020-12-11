@@ -6,8 +6,6 @@ category: Lecture Series
 
 tags:
   - Frayed Democracy
-  - Current
-  - Home
 
 date: "2020-12-05"
 

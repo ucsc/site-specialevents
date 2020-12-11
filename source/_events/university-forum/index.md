@@ -6,7 +6,7 @@ layout: full-page
 
 
 #### date of the latest event to sort
-date: "2020-12-07"
+date: "2021-01-13"
 
 permalink: /:collection/university-forum
 ---
