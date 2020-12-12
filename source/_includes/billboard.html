@@ -18,10 +18,12 @@
                           {% if page.billboard.day != null %}
                             <p class="hero-body"><large>{% if page.billboard.day != null %}{{ page.billboard.day }}, {% endif %}{{ page.billboard.month}} {% if page.billboard.date != null %}{{ page.billboard.date }}, {{ page.billboard.year }} {% endif %}</large>
                           {% endif %}
-                          {% if page.register-text != null %}
-                            <a class="button primary expanded" href="{{ page.registration }}">{{ page.register-text }}</a></p>
-                          {% else %}
-                            <a class="button primary expanded" href="{{ page.registration }}">Register Now</a></p>
+                          {% if page.registration != null %}
+                            {% if page.register-text != null %}
+                              <a class="button primary expanded" href="{{ page.registration }}">{{ page.register-text }}</a></p>
+                            {% else %}
+                              <a class="button primary expanded" href="{{ page.registration }}">Register Now</a></p>
+                            {% endif %}
                           {% endif %}
                       </div>
                     </a>

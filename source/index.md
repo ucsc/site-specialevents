@@ -36,7 +36,7 @@ layout: home-page
                   {% when 'Virtual Event' %} VE
                   {% endcase %}
                 </div>
-                  <div class="day">{{ event.billboard.date | truncatewords: 1,'' }}</div>
+                  <div class="day">{{ event.billboard.date | truncate: 2,'' }}</div>
                 </div>
                 <div class="inner">
                   <div class="image">
