@@ -45,7 +45,7 @@ published: true
 
 ### Suddenly Distant and Still in Flux: The Implications of COVID-19 for K12 Teachers’ Work
 
-**Date:** January 11, 2021<br/>
+**Date:** January 13, 2021<br/>
 **Time:** 5:30 pm
 
 The UC Santa Cruz University Forum presents The Implications of COVID-19 for Teachers’ Work and K-12 Schooling with Professor Lora Bartlett and the Suddenly Distant Research Project Team. The COVID 19 pandemic forced the entire teacher workforce into distance teaching essentially overnight. ough a short-term crisis, the longevity of this pandemic is changing the context of teachers’ work in ways that are affecting the very nature of teachers’ work and the structure of K-12 schooling.
