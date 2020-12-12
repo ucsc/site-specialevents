@@ -1,6 +1,6 @@
 ---
 title: "Virtual: Alumni Weekend 2021"
-description: 'After a thorough review of the impacts of the coronavirus, we’ve decided to reschedule Alumni Weekend 2020 to a future date. All of your friends here at UC Santa Cruz will miss seeing you this spring, but watch this space for new dates!'
+description: 'Stay tuned for news about our virtual gather in April 2021.'
 
 #### Date of the event
 date: 2021-04-23
@@ -8,7 +8,7 @@ date: 2021-04-23
 
 #### billboard
 billboard:
-  image: "/events/alumniweekend/2020/images/homepage-billboard-v2.jpg"
+  image: "/events/alumniweekend/2021/images/banner.jpg"
   subtitle:
   day: Friday
   month: April
@@ -20,6 +20,9 @@ billboard:
 location:
   address: UC Santa Cruz
   addresslink: https://www.ucsc.edu/map
+  
+registration: 
+register-text: 
 
 
 #### Archive Page | Category will always be the same | event-type either Signature Event, Notable Event, Lecture Series
@@ -31,5 +34,7 @@ tags:
   - Current
   - Home
 
-layout: ucsc
+layout: landing
 ---
+
+Stay tuned for news about our virtual gather in April 2021.

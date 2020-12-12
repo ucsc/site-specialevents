@@ -64,7 +64,7 @@
 
 
 [[redirects]]
-  from = "/events/alumniweekend/2020/index.html"
+  from = "/events/alumniweekend/2021/"
   to = "https://alumniweekend.ucsc.edu"
   status = 301
   force = true

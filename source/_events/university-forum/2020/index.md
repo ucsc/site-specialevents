@@ -8,7 +8,7 @@ category: University Forum
 tags:
   - University Forum
   - Current
-  - Home
+  - Featured
 
 date: "2021-01-13"
 
