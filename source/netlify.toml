@@ -323,6 +323,12 @@
   force = true
 
 [[redirects]]
+  from = "/events/slugs-steins/2021/"
+  to = "https://calendar.ucsc.edu/event/slugs_and_steins_lights_camera_action_using_animal-borne_video_cameras_to_see_the_world_from_a_whales_perspective#.X9vHNy9h3OR"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/events/atwood/2020/"
   to = "https://thi.ucsc.edu/the-deep-read-margaret-atwood-live-september-22/"
   status = 301
