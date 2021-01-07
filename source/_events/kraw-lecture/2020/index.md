@@ -53,6 +53,10 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 ##### December 8, 2020
 **Virtual Lecture**
 
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-XtN0Dgd98E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 At this special Kraw Lecture Chancellor Cynthia Larive will welcome Carol W. Greider, Ph.D., recipient of the 2009 Nobel Laureate in Medicine, to our faculty and to UC Santa Cruz.
 
 An eminent biologist and advocate for diversity in science, Professor Grieder shared the 2009 Nobel Prize in Physiology or Medicine for her pioneering work on telomeres and the discovery of telomerase.
@@ -69,6 +73,10 @@ Telomeres are structures made of repetitive DNA that protect the ends of chromos
 ##### November 18, 2020
 **Virtual Lecture**
 
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GZ5n1qI6zFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 What can 66 million years of climate variation data tell us about our future? Leading climate scientist and professor James Zachos explains how evidence of global warming in the fossil record is helping us to understand how our planet responds to massive C02 release events. We invite you to join us for this conversation about climate change moderated by Distinguished Professor of Ocean Sciences Christina Ravelo.
 
 ---
@@ -77,6 +85,10 @@ What can 66 million years of climate variation data tell us about our future? Le
 
 ##### October 22, 2020
 **Virtual Lecture**
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hks7wMJo4Sc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Our COVD-19 response series continues, this time with a look at hardware solutions. Healthcare professionals need to be able to get diagnoses quickly, rather than sending samples offsite to be processed and waiting for the results. Professor Holger Schmidt’s lab is developing technology that could give doctors compact instruments that can deliver test results quickly and onsite. This optofluidic technology, invented in his lab, uses small silicon chips to guide light to either optically excite individual molecules or collect them for electrical detection with a nanopore. This allows physicians to assess if an infection is present, and how strong it is. These “labs-on-a-chip” detect viral RNA, antigens or antibodies, and count the molecules one by one, creating great promise for rapid, low-cost, and accurate testing for coronaviruses and other diseases. This is another example of the advances and promise of the research on integrated devices and nanopores taking place at UC Santa Cruz.
 
@@ -88,15 +100,19 @@ Our COVD-19 response series continues, this time with a look at hardware solutio
 ##### September 24, 2020
 **Virtual Lecture**
 
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0fdw92u3pg0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ![COVID-19](/events/kraw-lecture/2020/images/september-24.jpg){: .img-right-25 }David Haussler, Distinguished Professor of Biomolecular Engineering discusses the role of the open source SARS-CoV-2 genome browser in tracing the evolution of the COVID-19 virus with Assistant Professor of Biomolecular Engineering Russ Corbett-Detig and Postdoctoral Researcher Jason Fernandes. Join the conversation to learn how this work impacts each of us.
 
 
 ---
 
+### Hunting for infection, one molecule at a time
+
 ##### August 27, 2020
 **Virtual Lecture**
-
-### Hunting for infection, one molecule at a time
 
 Our COVD-19 response series continues, this time with a look at hardware solutions. Healthcare professionals need to be able to get diagnoses quickly, rather than sending samples offsite to be processed and waiting for the results. Professor Holger Schmidt’s lab is developing technology that could give doctors compact instruments that can deliver test results quickly and onsite. This optofluidic technology, invented in his lab, uses small silicon chips to guide light to either optically excite individual molecules or collect them for electrical detection with a nanopore. This allows physicians to assess if an infection is present, and how strong it is. These “labs-on-a-chip” detect viral RNA, antigens or antibodies, and count the molecules one by one, creating great promise for rapid, low-cost, and accurate testing for coronaviruses and other diseases. This is another example of the advances and promise of the research on integrated devices and nanopores taking place at UC Santa Cruz.
 
@@ -127,7 +143,7 @@ He was a professor at the University of Colorado, Boulder, University of Lugano,
 The UCSC Molecular Diagnostic Lab, led by Jeremy Sanford, Olena Vaska, and Michael Stone, performs coronavirus tests for the UCSC Student Health Center and other medical providers in the Santa Cruz community. The lab's rapid turnaround time is essential to patients and the community in order to combat the spread of COVID-19. A significant increase in testing capacity is considered essential to ensure public health and safety now that there is a loosening of the “shelter in place” orders.
 
 <div class="responsive-embed widescreen">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IH56ZFOmkGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/IH56ZFOmkGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
@@ -151,7 +167,7 @@ transmission and disease and also allow significant economic activity,
 and why we didn't implement this 3 months ago and what still hinders us
 now.
 <div class="responsive-embed widescreen">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kVNG5cDL__U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kVNG5cDL__U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
@@ -165,9 +181,11 @@ now.
 Professor Rebecca DuBois studies how viruses cause infections and identifies weaknesses that can be targeted with vaccines and antiviral therapies. All human viruses must be able to attach to their target cell and transfer their genetic material inside the cell. The virus surface proteins that carry out these entry steps are the same proteins that our immune system can recognize and inactivate. DuBois and her team use an integrated toolkit of structural biology, biochemistry, virology, and immunology to investigate this molecular warfare between humans and viruses. This research provides a foundation for the development of next-generation vaccines.
 
 <div class="responsive-embed widescreen">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/0ke6h0hBDDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0ke6h0hBDDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ---
+
 ![Anne Kapuscinski](/events/kraw-lecture/2020/images/anne-kapuscinski-copy.jpg){: .img-right-25}
 
 ##### Mar 19, 2020
@@ -181,15 +199,21 @@ Professor Kapuscinski will speak about the new Coastal Science and Policy gradua
 3175 Bowers Avenue, Santa Clara**
 
 ---
+
 ![Natalie Batalha](/events/kraw-lecture/2020/images/natalie.jpg){: .img-right-25 }
 
 ##### Feb 25, 2020
 
 ### Astrobiologist Natalie Batalha
 
+<div class="responsive-embed widescreen">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-1cIvoDZmqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Natalie Batalha made Time magazine's list of the 100 most influential people on Earth. She has discovered approximately 4,000 new planets—some of which may turn out to be capable of supporting life. [She was recently elected to the American Academy of Arts & Sciences](https://news.ucsc.edu/2019/04/batalha-aaas.html).
 
 ---
+
 ![Interior of the driving car](/events/kraw-lecture/2019/images/self-driving-car-copy.jpg){: .img-right-25}
 
 ##### Oct 28, 2019
@@ -202,6 +226,7 @@ Self-driving cars are poised to create the largest upheaval in transportation pl
 Self-driving cars are coming to your neighborhood, and your commute, but what are the downsides to this intersection of technology and human behavior? Adam Millard-Ball is at the forefront of efforts to identify problems before they hit our streets. His latest research reveals that autonomous vehicles will snarl inner-city traffic by "cruising" to avoid paying hefty fees to park. Previous work suggests that these risk-averse vehicles will create a pedestrian utopia that will slow urban traffic to a crawl.
 
 ---
+
 ![Anthony Aguirre](/events/kraw-lecture/2019/images/aguirre4x5.jpg){: .img-right-25}
 
 ##### Jun 18, 2019
@@ -216,6 +241,7 @@ We are delighted to announce the addition of an open house for our SVLink Incuba
 **[View the Lecture](https://youtu.be/PVL36Orz_L8)**
 
 ---
+
 ![Seal with electronic tags](/events/kraw-lecture/2019/images/dan-costa-copy.jpg){: .img-right-25}
 
 ##### Apr 16, 2019
@@ -223,9 +249,14 @@ We are delighted to announce the addition of an open house for our SVLink Incuba
 ### Daniel Costa & Caroline Casey
 #### From the Beach to the Sea: How Technology Enables Us to Understand Marine Mammals
 
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/egEKjX8iuU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
 Daniel Costa, a pioneer in the development and use of electronic tags, will discuss how advances in technology that allow precise tracking of marine mammals’ movement leads to better understanding of their behavior and their response to climate impacts on habitats. Ph.D. candidate Caroline Casey studies the evolution of communication between male northern elephant seals. Vocalizations, which are used to drive off would-be rivals, have changed over generations from geographic dialects to individualized and more complex calls.
 
 ---
+
 ![Sandra Faber with president Barrack Obama](/events/kraw-lecture/2019/images/sandy-with-barack.png){: .img-right-25}
 
 ##### Mar 19, 2019
