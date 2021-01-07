@@ -1,20 +1,20 @@
 ---
 title: "Kraw Lecture Series on Science and Technology"
-description: "Telomeres: from curiosity driven research to human disease"
+description: "The Antarctic and Climate Change: Exploration Above and Below the Surface"
 
 #### Date of the event
-date: "2020-12-08"
+date: "2021-01-27"
 
 
 #### billboard
 billboard:
-  homepage-title: 'Telomeres: from curiosity driven research to human disease'
+  homepage-title: 'The Antarctic and Climate Change: Exploration Above and Below the Surface'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
-  day: Tuesday
-  month: December
-  date: 08
-  year: 2020
+  day: Wednesday
+  month: January
+  date: 27
+  year: 2021
   starttime: 5:30 p.m.
   endtime: 
 
@@ -48,6 +48,18 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 ---
 
+### The Antarctic and Climate Change: Exploration Above and Below the Surface
+
+##### January 27, 2021
+**Virtual Lecture**
+
+Please join us for our second Kraw lecture focused on climate change. Dan Costa, distinguished professor of ecology and evolutionary biology and director of the Institute of Marine Sciences at UC Santa Cruz, will share how the changing climate is associated with a reduction in true Antarctic species like Adélie and emperor penguins and crabeater seals, while subantarctic species like elephant seals and chinstrap penguins are becoming more common. Professor of Earth and Planetary Sciences Slawek Tulaczyk will share with us how the Antarctic glaciological community is evaluating how much and how fast the Antarctic ice sheet will shrink in response to climate change, particularly the Thwaites Glacier. Join us as we learn more about the UCSC glaciology research group, which is leading one of the large research projects aimed at understanding the current behavior and projecting the future evolution of Thwaites Glacier.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_ZRHZZ5u7S_K8Trcn8-c_FQ)
+
+---
+
 ### Telomeres: from curiosity driven research to human disease
 
 ##### December 8, 2020
@@ -62,9 +74,6 @@ At this special Kraw Lecture Chancellor Cynthia Larive will welcome Carol W. Gre
 An eminent biologist and advocate for diversity in science, Professor Grieder shared the 2009 Nobel Prize in Physiology or Medicine for her pioneering work on telomeres and the discovery of telomerase.
 
 Telomeres are structures made of repetitive DNA that protect the ends of chromosomes. Every time a cell divides, telomeres shorten by a small amount. This shortening is counterbalanced by the enzyme telomerase, which elongates telomeres by adding repetitive DNA to maintain an equilibrium in length. Increased telomere length enables the continuous proliferation of cancer cells, while telomere shortening is associated with aging and age-related diseases. Inherited telomere syndromes involving abnormally short telomeres can lead to bone marrow failure, lung disease, liver disease, and other conditions. Join us for this important talk with Professor Greider as she helps us understand telomere maintenance mechanisms at a fundamental level, and how it may allow new approaches to these diseases.
-
-{: .button .primary .small}
-[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_OVyvi8psSje81jOhO54Hpw)
 
 ---
 
