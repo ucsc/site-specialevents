@@ -1,7 +1,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'self' 'unsafe-inline' *.ucsc.edu; img-src 'self' *.ucsc.edu *.google-analytics.com *.siteimproveanalytics.io *.cloudfront.net ssl.gstatic.com clients1.google.com *.google.com *.googleapis.com data:; script-src 'self' 'unsafe-inline' *.ucsc.edu *.google.com *.googletagmanager.com www.google-analytics.com ajax.googleapis.com siteimproveanalytics.com *.fontawesome.com *.cloudfront.net unpkg.com *.cloudflare.com cse.google.com; style-src 'self' 'unsafe-inline' data: *.ucsc.edu *.googleapis.com *.fontawesome.com *.cloudfront.net *.google.com unpkg.com; font-src 'self' *.cloudfront.net fonts.gstatic.com *.fontawesome.com; object-src 'none'; frame-src *.youtube.com cse.google.com; connect-src *.google-analytics.com"
+    Content-Security-Policy = "default-src 'self' 'unsafe-inline' *.ucsc.edu; img-src 'self' *.ucsc.edu www.google-analytics.com data:; script-src 'self' 'unsafe-inline' *.ucsc.edu www.google-analytics.com ajax.googleapis.com *.google.com *.googletagmanager.com use.fontawesome.com *.cloudflare.com *.cloudfront.net *.fontawesome.com unpkg.com siteimproveanalytics.com; style-src 'self' 'unsafe-inline' *.ucsc.edu *.googleapis.com *.fontawesome.com *.cloudfront.net *.google.com unpkg.com ; font-src 'self' fonts.gstatic.com; frame-src 'self' *.youtube.com; object-src 'none';"
     X-Content-Type-Options = "nosniff"
     X-XSS-Protection = "1; mode=block"
     X-Frame-Options = "DENY"
