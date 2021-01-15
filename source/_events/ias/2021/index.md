@@ -9,8 +9,6 @@ tags:
   - Current
   - Home
 
-permalink: /events/visualizing-abolition/
-
 date: "2021-01-26"
 
 #### billboard
