@@ -1,11 +1,11 @@
 ---
-title: "Visualizing Abolition with Angela Y. Davis and Gina Dent"
-description: "Angela Y. Davis and Gina Dent, noted antiprison activists, scholars, and educators, for an online conversation about critical issues in the arts, visual culture, and abolition."
+title: "Visualizing Abolition: Prisons and Poetics with Reginald Dwayne Betts and Craig Haney"
+description: "The Institute of the Arts and Sciences and The Humanities Institute are pleased to present a poetry reading and conversation with award-winning American poet Reginald Dwayne Betts and renowned social psychologist Craig Haney, moderated by Professor Gina Dent."
 category: Lecture
 layout: full-page
 
 #### date of the latest event to sort
-date: "2020-11-17"
+date: "2021-01-26"
 
 permalink: /:collection/ias
 ---

@@ -306,6 +306,11 @@
   status = 301
   force = true
 [[redirects]]
+  from = "/events/ias/2021/"
+  to = "https://ias.ucsc.edu/events/2020/prisons-and-poetics-reginald-dwayne-betts-january-26-2021"
+  status = 301
+  force = true
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
