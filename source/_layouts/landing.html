@@ -110,8 +110,15 @@
                   {% endif %}
                 </p>
               {% endif %}
-
             <!-- End right sidebar address -->
+            <!-- Sidebar event registration -->
+              {% if page.registration-url != null %}
+                <h5 class="blue-text">Registration:</h5>
+                <p>
+                  <a href="{{ page.registration-url }}" class="btn-link">{{ page.register-text }}</a>
+                </p>
+              {% endif %}
+            <!-- End Sidebar registration -->
           </div>
         </div>
 
