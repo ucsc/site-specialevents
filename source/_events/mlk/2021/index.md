@@ -28,7 +28,7 @@ location:
   address: Virtual Event
   addresslink: 
 
-registration: https://ucsc.zoom.us/webinar/register/WN_Inl0ipYoSPWCJRS-6d31EA
+registration-url: https://ucsc.zoom.us/webinar/register/WN_Inl0ipYoSPWCJRS-6d31EA
 register-text: Register Now
 
 layout: landing
