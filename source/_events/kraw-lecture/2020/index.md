@@ -49,7 +49,7 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 ---
 
-### COVID-19: vaccines, variants & more: Our latest understanding of the science of COVID-19, & the road ahead
+### COVID-19: vaccines, variants and more: Our latest understanding of the science of COVID-19, and the road ahead
 
 ##### February 16, 2021
 **Virtual Lecture**
