@@ -8,7 +8,6 @@ category: Beyond
 tags:
   - Beyond
   - Current
-  - Home
 
 date: "2021-01-21"
 

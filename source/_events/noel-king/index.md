@@ -5,7 +5,7 @@ category: Lecture
 layout: full-page
 
 #### date of the latest event to sort
-date: "2019-04-27"
+date: "2019-02-18"
 
 permalink: /:collection/noel-king
 ---
