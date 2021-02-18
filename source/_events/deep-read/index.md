@@ -6,7 +6,7 @@ layout: full-page
 
 
 #### date of the latest event to sort
-date: "2020-04-18"
+date: "2020-03-03"
 
 permalink: /:collection/deep-read
 ---
