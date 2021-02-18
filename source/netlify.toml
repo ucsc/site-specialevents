@@ -86,6 +86,11 @@
   status = 301
   force = true
 [[redirects]]
+  from = "/events/deep-read/2021/"
+  to = "https://thi.ucsc.edu/deepread/"
+  status = 301
+  force = true
+[[redirects]]
   from = "/events/50th/index"
   to = "http://50years.ucsc.edu"
   status = 301
