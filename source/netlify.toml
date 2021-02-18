@@ -267,7 +267,7 @@
   force = true
 [[redirects]]
   from = "/events/slugs-steins/2021/"
-  to = "hhttps://alumni.ucsc.edu/events/regional-events/2021/03/march-slugs-and-steins.html"
+  to = "https://alumni.ucsc.edu/events/regional-events/2021/03/march-slugs-and-steins.html"
   status = 301
   force = true
 [[redirects]]
