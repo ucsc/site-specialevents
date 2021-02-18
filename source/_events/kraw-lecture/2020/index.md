@@ -1,19 +1,19 @@
 ---
 title: "Kraw Lecture Series on Science and Technology"
-description: "COVID-19 vaccines, variants, and more: Our latest understanding of the science of COVID-19, and the road ahead"
+description: "Forecasting the Future of a Changing Ocean"
 
 #### Date of the event
-date: "2021-02-16"
+date: "2021-02-24"
 
 
 #### billboard
 billboard:
-  homepage-title: 'COVID-19 vaccines, variants, and more: Our latest understanding of the science of COVID-19, and the road ahead'
+  homepage-title: 'Forecasting the Future of a Changing Ocean'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
-  day: Tuesday
+  day: Wednesday
   month: February
-  date: 16
+  date: 24
   year: 2021
   starttime: 5:30 p.m.
   endtime: 7:00 p.m.
@@ -23,7 +23,7 @@ location:
   addresslink: 
 
 #### custom button
-registration: '#listing'
+registration-url: '#listing'
 register-text: Event Details
 
 
@@ -34,7 +34,7 @@ category: Lecture Series
 tags:
   - Kraw Lecture
   - Current
-  - Home
+  - Featured
 
 layout: landing
 
@@ -49,15 +49,24 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 ---
 
+### Forecasting the Future of a Changing Ocean
+
+##### February 24, 2021
+**Virtual Lecture**
+
+Rising atmospheric carbon dioxide levels are already impacting the world's oceans, and the US West Coast sits on the frontlines of the impending changes. From marine heat waves to ocean acidification, we are seeing profound changes. Professor Raphe Kudela and Associate Professor Kristy Kroeker will address how California’s coastal ecosystems, from marine fisheries impacted by harmful algal blooms to California’s iconic kelp forests, may change in the future.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_X9jmuS0rR-6gRejQEZtjfQ)
+
+---
+
 ### COVID-19: vaccines, variants and more: Our latest understanding of the science of COVID-19, and the road ahead
 
 ##### February 16, 2021
 **Virtual Lecture**
 
 As vaccines for COVID-19 become more widely available, there are many questions. What’s in these vaccines? What differences can be seen in vaccines made by different manufacturers? How effective are these vaccines in fighting this disease? Are these vaccines protective against the new variants of the COVID-19 virus? As we look at the road ahead is there hope that we are nearing the end? Join our conversation with Marm Kilpatrick, professor, ecology and evolutionary biology as he returns to the Kraw lecture to help shed some light on these questions and others.
-
-{: .button .primary .small}
-[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_K7MXqEtCTsG-NjD6AOyELQ)
 
 ---
 
