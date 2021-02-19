@@ -24,7 +24,7 @@ location:
 
 #### custom button
 registration-url: '#listing'
-register-text: Event Details
+register-text: View latest event
 
 
 #### Archive Page | Category will always be the same | event-type either Signature Event, Notable Event, Lecture Series

@@ -7,8 +7,6 @@ category: Lecture Series
 tags:
   - Water Dancer
   - Current
-  - Home
-  
 
 date: "2021-02-18"
 
