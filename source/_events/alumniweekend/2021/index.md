@@ -1,18 +1,18 @@
 ---
-title: "Virtual: Alumni Weekend 2021"
+title: "Alumni Week 2021"
 description: 'Stay tuned for news about our virtual gather in April 2021.'
 
 #### Date of the event
-date: 2021-04-23
+date: 2021-04-19
 
 
 #### billboard
 billboard:
   image: "/events/alumniweekend/2021/images/banner.jpg"
   subtitle:
-  day: Friday
+  day: Monday
   month: April
-  date: 23-25
+  date: 19-25
   year: 2021
   starttime:
   endtime:
@@ -21,8 +21,8 @@ location:
   address: UC Santa Cruz
   addresslink: https://www.ucsc.edu/map
   
-registration: 
-register-text: 
+registration: https//www.ucsc.edu/alumniweek
+register-text: View details
 
 
 #### Archive Page | Category will always be the same | event-type either Signature Event, Notable Event, Lecture Series
@@ -32,7 +32,7 @@ category: Signature Series
 tags:
   - Alumni Weekend
   - Current
-  - Home
+  - Featured
 
 layout: landing
 ---

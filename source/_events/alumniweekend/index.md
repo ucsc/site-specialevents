@@ -5,7 +5,7 @@ category: Signature
 layout: full-page
 
 #### date of the latest event to sort
-date: 2020-04-3
+date: 2021-04-19
 
 permalink: /:collection/alumniweekend
 ---
