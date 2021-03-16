@@ -10,7 +10,6 @@ category: The Deep Read
 tags:
   - Deep Read
   - Current
-  - Home
 
 date: "2021-03-03"
 
