@@ -312,7 +312,7 @@
   force = true
 [[redirects]]
   from = "/events/ias/2021/"
-  to = "https://ias.ucsc.edu/events/2020/prisons-and-poetics-reginald-dwayne-betts-january-26-2021"
+  to = "https://calendar.ucsc.edu/event/abolition_beyond_the_state#.YFD_Mi2cbOR"
   status = 301
   force = true
 [[redirects]]
@@ -323,6 +323,11 @@
 [[redirects]]
   from = "/events/noel-king/2021/"
   to = "https://ucsc.zoom.us/webinar/register/WN_1Rg406OsRVeH_BysLCjBtA"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/events/sweetness-blood/2021/"
+  to = "https://calendar.ucsc.edu/event/a_virtual_conversation_with_james_doucet-battle_and_edward_hawthorne_sweetness_in_the_blood_race_risk_and_type_2_diabetes#.YFD7nC2cbOR"
   status = 301
   force = true
 [[redirects]]

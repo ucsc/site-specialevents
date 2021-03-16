@@ -1,24 +1,25 @@
 ---
-title: "Visualizing Abolition: Prisons and Poetics with Reginald Dwayne Betts and Craig Haney"
-description: "The Institute of the Arts and Sciences and The Humanities Institute are pleased to present a poetry reading and conversation with award-winning American poet Reginald Dwayne Betts and renowned social psychologist Craig Haney, moderated by Professor Gina Dent."
+title: "Abolition Beyond the State"
+description: "Visualizing Abolition continues with Eric Stanley, Zoé Samudzi, and Sadie Barnette."
 
 category: Lecture Series
 
 tags:
   - IAS
   - Current
+  - Home
 
-date: "2021-01-26"
+date: "2021-04-06"
 
 #### billboard
 billboard:
   subtitle: 
   day: Tuesday
   #### Add TBD to month if not date or Virtual Event
-  month: January
-  date: 26
+  month: April
+  date: 06
   year: 2021
-  image: "/events/ias/2021/images/banner.jpg"
+  image: "/events/ias/2021/images/banner-2.jpg"
   starttime: 4:00 p.m.
   endtime: 
 
