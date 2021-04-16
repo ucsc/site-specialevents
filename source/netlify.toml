@@ -311,7 +311,7 @@
   status = 301
   force = true
 [[redirects]]
-  from = "/events/ias/2021/"
+  from = "/events/ias/06-2021/"
   to = "https://calendar.ucsc.edu/event/abolition_beyond_the_state#.YFD_Mi2cbOR"
   status = 301
   force = true
@@ -328,6 +328,11 @@
 [[redirects]]
   from = "/events/sweetness-blood/2021/"
   to = "https://calendar.ucsc.edu/event/a_virtual_conversation_with_james_doucet-battle_and_edward_hawthorne_sweetness_in_the_blood_race_risk_and_type_2_diabetes#.YFD7nC2cbOR"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/events/ias/20-2021/"
+  to = "https://calendar.ucsc.edu/event/visualizing_abolition_reenacting_revolution#.YHoJKy2cbOR"
   status = 301
   force = true
 [[redirects]]

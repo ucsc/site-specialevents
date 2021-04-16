@@ -7,7 +7,6 @@ category: Lecture Series
 tags:
   - IAS
   - Current
-  - Home
 
 date: "2021-04-06"
 
@@ -19,7 +18,7 @@ billboard:
   month: April
   date: 06
   year: 2021
-  image: "/events/ias/2021/images/banner-2.jpg"
+  image: "/events/ias/06-2021/images/banner-2.jpg"
   starttime: 4:00 p.m.
   endtime: 
 

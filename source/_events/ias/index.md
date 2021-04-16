@@ -1,5 +1,5 @@
 ---
-title: "Visualizing Abolition: Prisons and Poetics with Reginald Dwayne Betts and Craig Haney"
+title: "Visualizing Abolition"
 description: "The Institute of the Arts and Sciences and The Humanities Institute are pleased to present a poetry reading and conversation with award-winning American poet Reginald Dwayne Betts and renowned social psychologist Craig Haney, moderated by Professor Gina Dent."
 category: Lecture
 layout: full-page
