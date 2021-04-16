@@ -336,6 +336,11 @@
   status = 301
   force = true
 [[redirects]]
+  from = "/events/university-forum/2021/"
+  to = "https://calendar.ucsc.edu/event/university_forum_the_filmmakers_voice_in_changing_media_landscape#.YHoMpy2cbOS"
+  status = 301
+  force = true
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
