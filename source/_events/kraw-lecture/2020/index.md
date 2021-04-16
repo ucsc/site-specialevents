@@ -1,19 +1,19 @@
 ---
 title: "Kraw Lecture Series on Science and Technology"
-description: "Forecasting the Future of a Changing Ocean"
+description: "The past, present, and future of DNA-based forensics"
 
 #### Date of the event
-date: "2021-02-24"
+date: "2021-04-22"
 
 
 #### billboard
 billboard:
-  homepage-title: 'Forecasting the Future of a Changing Ocean'
+  homepage-title: 'The past, present, and future of DNA-based forensics'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
-  day: Wednesday
-  month: February
-  date: 24
+  day: Thursday
+  month: April
+  date: 22
   year: 2021
   starttime: 5:30 p.m.
   endtime: 7:00 p.m.
@@ -34,6 +34,7 @@ category: Lecture Series
 tags:
   - Kraw Lecture
   - Current
+  - Home
 
 layout: landing
 
@@ -48,15 +49,41 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 ---
 
+### The past, present, and future of DNA-based forensics
+
+##### April 22, 2021
+**Virtual Lecture**
+
+New technologies are being brought to bear in criminal justice. The existence of community databases of DNA information have enabled a new approach, forensic genetic genealogy, for identifying suspects in violent crimes. New technologies for recovering and analyzing DNA from forensic samples brings forensic genetic genealogy to bear for even previously intractable samples, like single rootless hairs. In conversation with Dean of Baskin School of Engineering Alex Wolf, Associate Professor Ed Green will present his approach and thoughts for where this may be headed.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_kmnVhKt2QJaVXucHPv8SJw)
+
+---
+
+### Cultivating Leaders and Solutions for Coastal Sustainability
+
+##### March 18, 2021
+**Virtual Lecture**
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=FJV8HYmsGuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Professor Anne Kapuscinski will speak about the new Coastal Science and Policy graduate program, which has attracted a highly diverse student body. She will also talk about her teams research on ecological aquaculture, applying circular economy principles to shift the worlds fastest growing food sector to sustainability. This graduate program and her research both pursue scalable solutions to benefit people and coasts from land to sea. Both also emphasize systems thinking, interdisciplinary approaches, and science-practice collaborations.
+
+---
+
 ### Forecasting the Future of a Changing Ocean
 
 ##### February 24, 2021
 **Virtual Lecture**
 
-Rising atmospheric carbon dioxide levels are already impacting the world's oceans, and the US West Coast sits on the frontlines of the impending changes. From marine heat waves to ocean acidification, we are seeing profound changes. Professor Raphe Kudela and Associate Professor Kristy Kroeker will address how California’s coastal ecosystems, from marine fisheries impacted by harmful algal blooms to California’s iconic kelp forests, may change in the future.
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=gsCjVzCUVRY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-{: .button .primary .small}
-[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_X9jmuS0rR-6gRejQEZtjfQ)
+Rising atmospheric carbon dioxide levels are already impacting the world's oceans, and the US West Coast sits on the frontlines of the impending changes. From marine heat waves to ocean acidification, we are seeing profound changes. Professor Raphe Kudela and Associate Professor Kristy Kroeker will address how California’s coastal ecosystems, from marine fisheries impacted by harmful algal blooms to California’s iconic kelp forests, may change in the future.
 
 ---
 
@@ -64,6 +91,10 @@ Rising atmospheric carbon dioxide levels are already impacting the world's ocean
 
 ##### February 16, 2021
 **Virtual Lecture**
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=OM99ouysw_k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 As vaccines for COVID-19 become more widely available, there are many questions. What’s in these vaccines? What differences can be seen in vaccines made by different manufacturers? How effective are these vaccines in fighting this disease? Are these vaccines protective against the new variants of the COVID-19 virus? As we look at the road ahead is there hope that we are nearing the end? Join our conversation with Marm Kilpatrick, professor, ecology and evolutionary biology as he returns to the Kraw lecture to help shed some light on these questions and others.
 
@@ -73,6 +104,10 @@ As vaccines for COVID-19 become more widely available, there are many questions.
 
 ##### January 27, 2021
 **Virtual Lecture**
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=rm3ciyXM8eA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Please join us for our second Kraw lecture focused on climate change. Dan Costa, distinguished professor of ecology and evolutionary biology and director of the Institute of Marine Sciences at UC Santa Cruz, will share how the changing climate is associated with a reduction in true Antarctic species like Adélie and emperor penguins and crabeater seals, while subantarctic species like elephant seals and chinstrap penguins are becoming more common. Professor of Earth and Planetary Sciences Slawek Tulaczyk will share with us how the Antarctic glaciological community is evaluating how much and how fast the Antarctic ice sheet will shrink in response to climate change, particularly the Thwaites Glacier. Join us as we learn more about the UCSC glaciology research group, which is leading one of the large research projects aimed at understanding the current behavior and projecting the future evolution of Thwaites Glacier.
 
