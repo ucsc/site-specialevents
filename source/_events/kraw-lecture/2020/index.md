@@ -67,7 +67,7 @@ New technologies are being brought to bear in criminal justice. The existence of
 **Virtual Lecture**
 
 <div class="responsive-embed widescreen">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=FJV8HYmsGuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FJV8HYmsGuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Professor Anne Kapuscinski will speak about the new Coastal Science and Policy graduate program, which has attracted a highly diverse student body. She will also talk about her teams research on ecological aquaculture, applying circular economy principles to shift the worlds fastest growing food sector to sustainability. This graduate program and her research both pursue scalable solutions to benefit people and coasts from land to sea. Both also emphasize systems thinking, interdisciplinary approaches, and science-practice collaborations.
@@ -80,7 +80,7 @@ Professor Anne Kapuscinski will speak about the new Coastal Science and Policy g
 **Virtual Lecture**
 
 <div class="responsive-embed widescreen">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=gsCjVzCUVRY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gsCjVzCUVRY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Rising atmospheric carbon dioxide levels are already impacting the world's oceans, and the US West Coast sits on the frontlines of the impending changes. From marine heat waves to ocean acidification, we are seeing profound changes. Professor Raphe Kudela and Associate Professor Kristy Kroeker will address how California’s coastal ecosystems, from marine fisheries impacted by harmful algal blooms to California’s iconic kelp forests, may change in the future.
@@ -93,7 +93,7 @@ Rising atmospheric carbon dioxide levels are already impacting the world's ocean
 **Virtual Lecture**
 
 <div class="responsive-embed widescreen">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=OM99ouysw_k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OM99ouysw_k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 As vaccines for COVID-19 become more widely available, there are many questions. What’s in these vaccines? What differences can be seen in vaccines made by different manufacturers? How effective are these vaccines in fighting this disease? Are these vaccines protective against the new variants of the COVID-19 virus? As we look at the road ahead is there hope that we are nearing the end? Join our conversation with Marm Kilpatrick, professor, ecology and evolutionary biology as he returns to the Kraw lecture to help shed some light on these questions and others.
@@ -106,7 +106,7 @@ As vaccines for COVID-19 become more widely available, there are many questions.
 **Virtual Lecture**
 
 <div class="responsive-embed widescreen">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=rm3ciyXM8eA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rm3ciyXM8eA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Please join us for our second Kraw lecture focused on climate change. Dan Costa, distinguished professor of ecology and evolutionary biology and director of the Institute of Marine Sciences at UC Santa Cruz, will share how the changing climate is associated with a reduction in true Antarctic species like Adélie and emperor penguins and crabeater seals, while subantarctic species like elephant seals and chinstrap penguins are becoming more common. Professor of Earth and Planetary Sciences Slawek Tulaczyk will share with us how the Antarctic glaciological community is evaluating how much and how fast the Antarctic ice sheet will shrink in response to climate change, particularly the Thwaites Glacier. Join us as we learn more about the UCSC glaciology research group, which is leading one of the large research projects aimed at understanding the current behavior and projecting the future evolution of Thwaites Glacier.
