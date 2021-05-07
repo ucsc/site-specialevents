@@ -2,7 +2,7 @@
 title: "A virtual celebration of UC Santa Cruz alumna Stacy Jupiter, Ph.D."
 description: "UC Santa Cruz Alumni is pleased to announce that Stacy Jupiter (Ph.D. '06, ecology and evolutionary biology) is the recipient of the 2020 Alumni Achievement Award."
 
-category: Lecture Series
+category: Notable Event
 
 tags:
   - Alumni Achievement Award
