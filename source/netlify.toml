@@ -341,6 +341,21 @@
   status = 301
   force = true
 [[redirects]]
+  from = "/events/ias/18-2021/"
+  to = "https://ias.ucsc.edu/events/2021/music-aboliton-artist-panel-may-18-2021"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/events/fortress-brooklyn/2021/"
+  to = "https://thi.ucsc.edu/event/56157/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/events/alumni-achievement-award/2021/"
+  to = "https://calendar.ucsc.edu/event/a_virtual_celebration_of_uc_santa_cruz_alumna_stacy_jupiter#.YJSAVy-cbOR"
+  status = 301
+  force = true
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404

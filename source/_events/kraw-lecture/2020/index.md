@@ -3,17 +3,17 @@ title: "Kraw Lecture Series on Science and Technology"
 description: "The past, present, and future of DNA-based forensics"
 
 #### Date of the event
-date: "2021-04-22"
+date: "2021-05-19"
 
 
 #### billboard
 billboard:
-  homepage-title: 'The past, present, and future of DNA-based forensics'
+  homepage-title: 'Bringing research into the clinic for children with cancer'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
-  day: Thursday
-  month: April
-  date: 22
+  day: Wednesday
+  month: May
+  date: 19
   year: 2021
   starttime: 5:30 p.m.
   endtime: 7:00 p.m.
@@ -34,7 +34,7 @@ category: Lecture Series
 tags:
   - Kraw Lecture
   - Current
-  - Home
+  - Featured
 
 layout: landing
 
@@ -48,6 +48,18 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 **Our Kraw Lecture Series is so fantastic, we want to bring it right to you via live streaming. If you aren't able to join us in person the night of the event, you can now stream the lectures and join in the conversation via online comments. <!--Lecture and live stream typically begin at 7 p.m.-->**
 
 ---
+### Bringing research into the clinic for children with cancer
+
+##### May 18, 2021
+**Virtual Lecture**
+
+UCSC has made a vital, impactful leap into diagnostic testing with COVID-19. Now, we are on a path to leverage this work to bring a diagnostic genomics lab to UCSC. In this Kraw Lecture, we discuss how this diagnostic work at UCSC will impact the clinical environment. Dr. Sheri Spunt from Stanford will contribute by discussing the UCSC-Stanford partnership that is transforming the clinical experiences of children and their families, through the use of precision genomics. Professor Vaske and graduate student Yvonne Vasquez will discuss the genomics research behind diagnostics test development and implementation.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_CMx5EMUVSiu6uUs2AV3Xwg)
+
+
+---
 
 ### The past, present, and future of DNA-based forensics
 
@@ -55,9 +67,6 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 **Virtual Lecture**
 
 New technologies are being brought to bear in criminal justice. The existence of community databases of DNA information have enabled a new approach, forensic genetic genealogy, for identifying suspects in violent crimes. New technologies for recovering and analyzing DNA from forensic samples brings forensic genetic genealogy to bear for even previously intractable samples, like single rootless hairs. In conversation with Dean of Baskin School of Engineering Alex Wolf, Associate Professor Ed Green will present his approach and thoughts for where this may be headed.
-
-{: .button .primary .small}
-[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_kmnVhKt2QJaVXucHPv8SJw)
 
 ---
 
