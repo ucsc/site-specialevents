@@ -50,7 +50,7 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 ---
 ### Bringing research into the clinic for children with cancer
 
-##### May 18, 2021
+##### May 19, 2021
 **Virtual Lecture**
 
 UCSC has made a vital, impactful leap into diagnostic testing with COVID-19. Now, we are on a path to leverage this work to bring a diagnostic genomics lab to UCSC. In this Kraw Lecture, we discuss how this diagnostic work at UCSC will impact the clinical environment. Dr. Sheri Spunt from Stanford will contribute by discussing the UCSC-Stanford partnership that is transforming the clinical experiences of children and their families, through the use of precision genomics. Professor Vaske and graduate student Yvonne Vasquez will discuss the genomics research behind diagnostics test development and implementation.
