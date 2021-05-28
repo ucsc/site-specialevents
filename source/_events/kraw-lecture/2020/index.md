@@ -1,19 +1,19 @@
 ---
 title: "Kraw Lecture Series on Science and Technology"
-description: "The past, present, and future of DNA-based forensics"
+description: "Join Professor and Chair of the Statistics Department Robert Lund for an introduction to the problem of changepoints in climatology and the hazards they induce. Changepoints, where measurements shift abruptly, are often caused by station relocations or instrumentation changes."
 
 #### Date of the event
-date: "2021-05-19"
+date: "2021-06-16"
 
 
 #### billboard
 billboard:
-  homepage-title: 'Bringing research into the clinic for children with cancer'
+  homepage-title: 'Climate Controversies and Changepoints'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
   day: Wednesday
-  month: May
-  date: 19
+  month: June
+  date: 16
   year: 2021
   starttime: 5:30 p.m.
   endtime: 7:00 p.m.
@@ -48,16 +48,23 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 **Our Kraw Lecture Series is so fantastic, we want to bring it right to you via live streaming. If you aren't able to join us in person the night of the event, you can now stream the lectures and join in the conversation via online comments. <!--Lecture and live stream typically begin at 7 p.m.-->**
 
 ---
+### Climate Controversies and Changepoints
+
+##### June 16, 2021
+**Virtual Lecture**
+
+Join Professor and Chair of the Statistics Department Robert Lund for an introduction to the problem of changepoints in climatology and the hazards they induce. Changepoints, where measurements shift abruptly, are often caused by station relocations or instrumentation changes. Lund will discuss the methods data scientists use to detect and deal with changepoints in climate records. He will then use changepoint methods to explore a recent climate controversy about hurricanes and how they are likely to change as the climate gets warmer. Professor of Statistics and Vice Provost for Academic Affairs Herbert Lee will join us and moderate our conversation.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_67sU7XioRIyH9A0SwnXSVw)
+
+---
 ### Bringing research into the clinic for children with cancer
 
 ##### May 19, 2021
 **Virtual Lecture**
 
 UCSC has made a vital, impactful leap into diagnostic testing with COVID-19. Now, we are on a path to leverage this work to bring a diagnostic genomics lab to UCSC. In this Kraw Lecture, we discuss how this diagnostic work at UCSC will impact the clinical environment. Dr. Sheri Spunt from Stanford will contribute by discussing the UCSC-Stanford partnership that is transforming the clinical experiences of children and their families, through the use of precision genomics. Professor Vaske and graduate student Yvonne Vasquez will discuss the genomics research behind diagnostics test development and implementation.
-
-{: .button .primary .small}
-[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_CMx5EMUVSiu6uUs2AV3Xwg)
-
 
 ---
 
