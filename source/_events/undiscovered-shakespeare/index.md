@@ -1,12 +1,12 @@
 ---
-title: "Undiscovered Shakespeare: The Wars of the Roses"
-description: "Undiscovered Shakespeare: The Wars of the Roses is a public arts and humanities series that brings professional actors and scholars together with the public for live readings and discussion of the works that made Shakespeare famous in the London theater."
+title: "Undiscovered Shakespeare: Troilus and Cressida – PT 1"
+description: "This three-part virtual reading of one of Shakespeare’s most unusual tragedies continues the “Undiscovered Shakespeare” collaboration between Santa Cruz Shakespeare, The Humanities Institute, and The Shakespeare Workshop."
 category: Notable
 layout: full-page
 
 
 #### date of the latest event to sort
-date: "2020-08-19"
+date: "2020-06-09"
 
 permalink: /:collection/shakespeare
 ---
