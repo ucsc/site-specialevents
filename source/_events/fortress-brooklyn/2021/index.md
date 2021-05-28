@@ -7,7 +7,6 @@ category: Lecture Series
 tags:
   - Fortress Brooklyn
   - Current
-  - Home
 
 date: "2021-05-19"
 
