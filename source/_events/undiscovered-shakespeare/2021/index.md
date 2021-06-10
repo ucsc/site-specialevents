@@ -1,5 +1,5 @@
 ---
-title: "Undiscovered Shakespeare: Troilus and Cressida – PT 1"
+title: "Undiscovered Shakespeare: Troilus and Cressida – PT 2"
 description: "This three-part virtual reading of one of Shakespeare’s most unusual tragedies continues the “Undiscovered Shakespeare” collaboration between Santa Cruz Shakespeare, The Humanities Institute, and The Shakespeare Workshop."
 
 event-type: Notable
@@ -10,7 +10,7 @@ tags:
   - Current
   - Home
 
-date: "2021-06-09"
+date: "2021-06-16"
 
 #### billboard
 billboard:
@@ -18,7 +18,7 @@ billboard:
   day: Wednesday
   #### Add TBD to month if not date or Virtual Event
   month: June
-  date: 9
+  date: 16
   year: 2021
   image: "/events/undiscovered-shakespeare/2021/images/banner.gif"
   starttime: 6:30 p.m.
@@ -37,18 +37,18 @@ layout: landing
 published: true
 ---
 
-**Undiscovered Shakespeare: Troilus and Cressida – PT 1** This three-part virtual reading of one of Shakespeare’s most unusual tragedies continues the “Undiscovered Shakespeare” collaboration between Santa Cruz Shakespeare, The Humanities Institute, and The Shakespeare Workshop. Join us as we read through this play episodically on Zoom, and dig into the text with lectures from scholars and conversations with the cast. Swinging wildly between bawdy comedy, epic history, and tragic romance, Troilus and Cressida plays about against the backdrop of the Trojan War. With its examinations of honor, fidelity, pretension, romance, and war, this is a play that Joyce Carol Oates described as an “implicit debate between what is essential in human life and what is only existential.”
+This three-part virtual reading of one of Shakespeare’s most unusual tragedies continues the “Undiscovered Shakespeare” collaboration between Santa Cruz Shakespeare, the Humanities Institute, and The Shakespeare Workshop. Join us as we read through this play episodically on Zoom, and dig into the text with lectures from scholars and conversations with the cast. Swinging wildly between bawdy comedy, epic history, and tragic romance, Troilus and Cressida plays about against the backdrop of the Trojan War. With its examinations of honor, fidelity, pretension, romance, and war, this is a play that Joyce Carol Oats described as an “implicit debate between what is essential in human life and what is only existential.”
 
-Schedule: The three sessions will last approximately two hours (including an intermission) and will begin at 6:30pm PST.
+**Schedule**: The three sessions will last approximately two hours (including an intermission) and will begin at 6:30pm PST.
 
-Sessions are free to the public, and participants are not obligated to attend every meeting of the program.
+Sessions are free to the public, and participants are not obligated to attend every meeting of the program. Video of the episodes will be available once each airs and all will remain available until one week after the final episode.
 
 *Participants reading along should expect for the first meeting about each play to cover acts one and two; the second meeting to cover acts three and four; and the third meeting to cover act five.
 
-June 9, 16, and 23: Troilus and Cressida with guest scholar Catherine Nicholson (Yale)
+June 9, 16, and 23: Troilus and Cressida with guest scholar Catherine Nicholson (Yale).
 
-Play Synopsis: In the latter years of the Trojan War, Prince Troilus, the youngest son of King Priam, is having difficulty on the battlefield because he is in love with a woman named Cressida. He solicits her uncle to help him win her, and despite her misgivings, Cressida gives in to her feelings and agrees to the match. Soon after, however, she is given to the Greeks in exchange for a Trojan prisoner of war. In the Greek camp, Troilus spies on her exchanging flirtations with a Greek soldier, Diomedes, and disavows her faithlessness, promising revenge. Meanwhile, Hector, the champion of the Trojans, seeks a one-on-one challenge with a Greek champion. The Greeks seek to convince Achilles to fight Hector after their champion Ajax makes peace with Hector. At first, Achilles refuses. When Hector kills his protégé Patroclus, however, Achilles returns to battlefield, captures Hector, and has him killed. The outcome of the war remains undecided.
+**Play Synopsis**: In the latter years of the Trojan War, Prince Troilus, the youngest son of King Priam, is having difficulty on the battlefield because he is in love with a woman named Cressida. He solicits her uncle to help him win her, and despite her misgivings, Cressida gives in to her feelings and agrees to the match. Soon after, however, she is given to the Greeks in exchange for a Trojan prisoner of war. In the Greek camp, Troilus spies on her exchanging flirtations with a Greek soldier, Diomedes, and disavows her faithlessness, promising revenge. Meanwhile, Hector, the champion of the Trojans, seeks a one-on-one challenge with a Greek champion. The Greeks seek to convince Achilles to fight Hector after their champion Ajax makes peace with Hector. At first, Achilles refuses. When Hector kills his protégé Patroclus, however, Achilles returns to battlefield, captures Hector, and has him killed. The outcome of the war remains undecided.
 
-[Texts available from Folger Shakespeare Library](https://shakespeare.folger.edu/shakespeares-works/)
+Texts available from Folger Shakespeare Library at: [The Folger Shakespeare](https://shakespeare.folger.edu/shakespeares-works/)
 
 Undiscovered Shakespeare is a public arts and humanities series co-produced by Santa Cruz Shakespeare, UCSC Shakespeare Workshop, and The Humanities Institute. It brings professional actors and scholars together with the public for an online staged reading and discussion of works that do not have a prominent place in the repertoire of modern theater companies. In Troilus and Cressida, Shakespeare explores the legend of the Fall of Troy from the perspective of an adolescent love affair. In the process, he also scrutinizes the ideals of heroism, honor, faithfulness, love, and duty that his era derived from Homer’s story.

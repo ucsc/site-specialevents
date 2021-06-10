@@ -6,7 +6,7 @@ layout: full-page
 
 
 #### date of the latest event to sort
-date: "2020-06-09"
+date: "2020-06-16"
 
 permalink: /:collection/shakespeare
 ---
