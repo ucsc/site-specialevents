@@ -7,7 +7,6 @@ category: Notable Event
 tags:
   - Alumni Achievement Award
   - Current
-  - Home
 
 date: "2021-05-25"
 
