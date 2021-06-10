@@ -64,6 +64,10 @@ Join Professor and Chair of the Statistics Department Robert Lund for an introdu
 ##### May 19, 2021
 **Virtual Lecture**
 
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=mh6QdRZD5CI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 UCSC has made a vital, impactful leap into diagnostic testing with COVID-19. Now, we are on a path to leverage this work to bring a diagnostic genomics lab to UCSC. In this Kraw Lecture, we discuss how this diagnostic work at UCSC will impact the clinical environment. Dr. Sheri Spunt from Stanford will contribute by discussing the UCSC-Stanford partnership that is transforming the clinical experiences of children and their families, through the use of precision genomics. Professor Vaske and graduate student Yvonne Vasquez will discuss the genomics research behind diagnostics test development and implementation.
 
 ---
@@ -72,6 +76,10 @@ UCSC has made a vital, impactful leap into diagnostic testing with COVID-19. Now
 
 ##### April 22, 2021
 **Virtual Lecture**
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=pQ-W7WVMyMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 New technologies are being brought to bear in criminal justice. The existence of community databases of DNA information have enabled a new approach, forensic genetic genealogy, for identifying suspects in violent crimes. New technologies for recovering and analyzing DNA from forensic samples brings forensic genetic genealogy to bear for even previously intractable samples, like single rootless hairs. In conversation with Dean of Baskin School of Engineering Alex Wolf, Associate Professor Ed Green will present his approach and thoughts for where this may be headed.
 
