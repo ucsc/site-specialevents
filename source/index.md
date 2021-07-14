@@ -8,9 +8,9 @@ layout: home-page
 <section id="main-content">
   <div class="grid-container large">
     <section class="heading">
-      <h2 class="underline">Signature Events</h2>
+      <h4 class="underline">Check back here soon for upcoming fall events? Let me know if that works for you!</h4>
     </section>
-    <div class="events-card-list fade-out-siblings">
+    <!--<div class="events-card-list fade-out-siblings">
       {% assign event-list = site.events | sort: 'date' | where: 'tags','Home' %}
       {% for event in event-list limit: 3 %}
         {% if event.tag != 'Featured' %}
