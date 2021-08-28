@@ -60,10 +60,28 @@ Discovery in biology and medicine is strongly driven by new possibilities to vis
 [Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_8NZxWvsYQcGwBU4RYXqPtw)
 
 ---
+
+### Peering into the body—with less risk
+
+##### August 18, 2021
+**Virtual Lecture**
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qiwdMc4Wac4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Most medical imaging devices—X-rays and CT scans, for example—use radiation to peer into the human body to produce images and other data that can help care providers arrive at a clinical diagnosis. But there are health risks associated with too much exposure to radiation, even in a clinical setting. Though researchers are developing new technologies and techniques to build low-radiation diagnostic tools, which are safer for both patients and clinicians, there remain major challenges associated with improving the quality and sensitivity of these tools. This lecture will address these challenges and provide an overview of new technologies—including some currently in development at the UC Santa Cruz Radiological Instrumentation Laboratory—as well novel data acquisition methods and artificial intelligence techniques that can be used to improve the quality of the images and data produced by low-radiation medical imaging devices.
+
+---
+
 ### Climate Controversies and Changepoints
 
 ##### June 16, 2021
 **Virtual Lecture**
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0_OBns_cRS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Join Professor and Chair of the Statistics Department Robert Lund for an introduction to the problem of changepoints in climatology and the hazards they induce. Changepoints, where measurements shift abruptly, are often caused by station relocations or instrumentation changes. Lund will discuss the methods data scientists use to detect and deal with changepoints in climate records. He will then use changepoint methods to explore a recent climate controversy about hurricanes and how they are likely to change as the climate gets warmer. Professor of Statistics and Vice Provost for Academic Affairs Herbert Lee will join us and moderate our conversation.
 
@@ -74,7 +92,7 @@ Join Professor and Chair of the Statistics Department Robert Lund for an introdu
 **Virtual Lecture**
 
 <div class="responsive-embed widescreen">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=mh6QdRZD5CI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mh6QdRZD5CI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 UCSC has made a vital, impactful leap into diagnostic testing with COVID-19. Now, we are on a path to leverage this work to bring a diagnostic genomics lab to UCSC. In this Kraw Lecture, we discuss how this diagnostic work at UCSC will impact the clinical environment. Dr. Sheri Spunt from Stanford will contribute by discussing the UCSC-Stanford partnership that is transforming the clinical experiences of children and their families, through the use of precision genomics. Professor Vaske and graduate student Yvonne Vasquez will discuss the genomics research behind diagnostics test development and implementation.
@@ -87,7 +105,7 @@ UCSC has made a vital, impactful leap into diagnostic testing with COVID-19. Now
 **Virtual Lecture**
 
 <div class="responsive-embed widescreen">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=pQ-W7WVMyMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pQ-W7WVMyMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 New technologies are being brought to bear in criminal justice. The existence of community databases of DNA information have enabled a new approach, forensic genetic genealogy, for identifying suspects in violent crimes. New technologies for recovering and analyzing DNA from forensic samples brings forensic genetic genealogy to bear for even previously intractable samples, like single rootless hairs. In conversation with Dean of Baskin School of Engineering Alex Wolf, Associate Professor Ed Green will present his approach and thoughts for where this may be headed.
