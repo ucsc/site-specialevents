@@ -272,7 +272,7 @@
   force = true
 [[redirects]]
   from = "/events/slugs-steins/2021/"
-  to = "https://ucsc.zoom.us/webinar/register/WN_c0wiXOa9QHasDryEZuA5FA"
+  to = "https://calendar.ucsc.edu/event/slugs_and_steins_the_recurring_klan_movements_fight_for_americanism_and_against_equality#.YSmgOy2cbOQ"
   status = 301
   force = true
 [[redirects]]
