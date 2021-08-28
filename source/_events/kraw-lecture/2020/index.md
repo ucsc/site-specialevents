@@ -1,19 +1,19 @@
 ---
 title: "Kraw Lecture Series on Science and Technology"
-description: "Join Professor and Chair of the Statistics Department Robert Lund for an introduction to the problem of changepoints in climatology and the hazards they induce. Changepoints, where measurements shift abruptly, are often caused by station relocations or instrumentation changes."
+description: "Discovery in biology and medicine is strongly driven by new possibilities to visualize the processes of life."
 
 #### Date of the event
-date: "2021-06-16"
+date: "2021-09-22"
 
 
 #### billboard
 billboard:
-  homepage-title: 'Climate Controversies and Changepoints'
+  homepage-title: '3D imaging of living cells in real time'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
   day: Wednesday
-  month: June
-  date: 16
+  month: September
+  date: 22
   year: 2021
   starttime: 5:30 p.m.
   endtime: 7:00 p.m.
@@ -48,15 +48,24 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 **Our Kraw Lecture Series is so fantastic, we want to bring it right to you via live streaming. If you aren't able to join us in person the night of the event, you can now stream the lectures and join in the conversation via online comments. <!--Lecture and live stream typically begin at 7 p.m.-->**
 
 ---
+
+### 3D imaging of living cells in real time
+
+##### September 22, 2021
+**Virtual Lecture**
+
+Discovery in biology and medicine is strongly driven by new possibilities to visualize the processes of life. To see new things, the Saralab invents and custom builds new types  of optical elements and imaging systems. Specific problems in Biology demand that we push technology to the limit in terms of both spatial and temporal resolution.  In this Kraw Lecture learn how the SaraLab at UC Santa Cruz is harnessing the power of diffractive Fourier optics in microscopy enabling simultaneous 3D imaging that provides unique imaging compatible with several flavors of optical super-resolution.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_8NZxWvsYQcGwBU4RYXqPtw)
+
+---
 ### Climate Controversies and Changepoints
 
 ##### June 16, 2021
 **Virtual Lecture**
 
 Join Professor and Chair of the Statistics Department Robert Lund for an introduction to the problem of changepoints in climatology and the hazards they induce. Changepoints, where measurements shift abruptly, are often caused by station relocations or instrumentation changes. Lund will discuss the methods data scientists use to detect and deal with changepoints in climate records. He will then use changepoint methods to explore a recent climate controversy about hurricanes and how they are likely to change as the climate gets warmer. Professor of Statistics and Vice Provost for Academic Affairs Herbert Lee will join us and moderate our conversation.
-
-{: .button .primary .small}
-[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_67sU7XioRIyH9A0SwnXSVw)
 
 ---
 ### Bringing research into the clinic for children with cancer
