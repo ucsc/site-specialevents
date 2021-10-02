@@ -1,19 +1,19 @@
 ---
-title: "Kraw Lecture Series on Science and Technology"
-description: "Discovery in biology and medicine is strongly driven by new possibilities to visualize the processes of life."
+title: "Microbes, Big Sur and Global Health"
+description: "Join us for an example of how curiosity-driven research can lead to practical global health solutions. Learn about a microbe known as Wolbachia that has invaded hundreds of thousands of insect species and manipulated their behavior, physiology, and reproduction and has caused diseases afflicting millions of people in impoverished regions of the world."
 
 #### Date of the event
-date: "2021-09-22"
+date: "2021-10-20"
 
 
 #### billboard
 billboard:
-  homepage-title: '3D imaging of living cells in real time'
+  homepage-title: 'Microbes, Big Sur and Global Health'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
   day: Wednesday
-  month: September
-  date: 22
+  month: October
+  date: 20
   year: 2021
   starttime: 5:30 p.m.
   endtime: 7:00 p.m.
@@ -35,6 +35,7 @@ tags:
   - Kraw Lecture
   - Current
   - Featured
+  - Home
 
 layout: landing
 
@@ -49,15 +50,24 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 ---
 
+### Microbes, Big Sur and Global Health
+
+##### October 20, 2021
+**Virtual Lecture**
+
+Join us for an example of how curiosity-driven research can lead to practical global health solutions. Learn about a microbe known as Wolbachia that has invaded hundreds of thousands of insect species and manipulated their behavior, physiology, and reproduction and has caused diseases afflicting millions of people in impoverished regions of the world. In an interesting twist, this same microbe also provides a means of combating devastating insect-borne diseases that afflict over 1 in 6 individuals globally. Professor Will Sullivan will describe the work of his and many other labs in uncovering and harnessing Wolbachia's fascinating biology and its symbiotic relationship with insect and worm host species.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_9mLXlNCeTh6WsBT41Gn9Sg)
+
+---
+
 ### 3D imaging of living cells in real time
 
 ##### September 22, 2021
 **Virtual Lecture**
 
 Discovery in biology and medicine is strongly driven by new possibilities to visualize the processes of life. To see new things, the Saralab invents and custom builds new types  of optical elements and imaging systems. Specific problems in Biology demand that we push technology to the limit in terms of both spatial and temporal resolution.  In this Kraw Lecture learn how the SaraLab at UC Santa Cruz is harnessing the power of diffractive Fourier optics in microscopy enabling simultaneous 3D imaging that provides unique imaging compatible with several flavors of optical super-resolution.
-
-{: .button .primary .small}
-[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_8NZxWvsYQcGwBU4RYXqPtw)
 
 ---
 
