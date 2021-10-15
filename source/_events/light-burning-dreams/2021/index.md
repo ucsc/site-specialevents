@@ -9,7 +9,7 @@ date: "2021-10-19"
 #### billboard
 billboard:
   homepage-title: ''
-  image: "/events/kraw-lecture/2020/images/banner.jpg"
+  image: ""
   subtitle: 
   day: Wednesday
   month: October
