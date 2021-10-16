@@ -38,10 +38,10 @@ tags:
 #### Profiles
 profiles:
   - name: 'David Talbot'
-    image: 
+    image: images/david-talbot.jpg
     description: 'David Talbot is a journalist, author, activist, and independent historian, most widely known for his books about the “hidden history” of U.S. politics and social change.  He founded and was the former editor-in-chief of the website magazine Salon. He has been hailed as a “web pioneer” by the New York Times, as well as “one of 50 people who matter most in the new media world” by Newsweek. He has also been heavily involved in political activism in his hometown San Francisco where he campaigned for prgressive candidates and affordable housing. Additionally, he has written for the New Yorker, Rolling Stone, and Time; served as a senior editor for Mother Jones magazine, and was a featured editor for the San Francisco Examiner. His blog, TheDavidTalbotShow.com showcases his opinions of local and national topics.'
   - name: 'Margaret Talbot'
-    image: 
+    image: images/margaret-talbot.jpg
     description: "Margaret Talbot is an essayist and non-fiction writer.  She is a staff writer at The New Yorker and has written for The New York Times Magazine and The Atlantic Monthly. She was also a regular panelist on the Slate podcast “The DoubleX Gabfest”. Her first book, The Entertainer: Movies, Magic, and My Father's Twentieth Century features a story based off of her father Lyle Talbot, a veteran Warner Bros. actor. Margaret is also a former Senior Fellow of the New America Foundation. “By the Light of Burning Dreams: The Triumphs and Tragedies of the Second American Revolution” is her second book, which she has co-authored with her brother, David. She is a recipient of the 1999 Whiting Award."
   - name: 'Dolores Huerta'
     image: images/dolores-huerta.jpg
