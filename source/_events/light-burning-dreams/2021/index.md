@@ -53,7 +53,7 @@ profiles:
     image: images/heather-booth.jpg
     description: 'Heather Booth is a civil rights activist, feminist, and political strategist and has been heavily involved in progressive causes. She has organized civil rights, anti-Vietnam War, and women’s movements of the 1960s and continues to fight for justice to today.  She created JANE, an underground abortion service that started before Roe.  She is the President of the Midwest Academy which trains social change leaders and organizers.  In 2000, she was the Director of the NAACP National Voter Fund, which helped to increase African American election turnout by nearly 2 million voters.  In 2010, she was the founding director of Americans for Financial Reform, fighting to regulate the financial industry. She was the National Coordinator for the coalition around marriage equality and the 2013 Supreme Court decision.'
   - name: 'Madonna Thunder Hawk'
-    image: 
+    image: images/madonna-thunderhawk.jpg
     description: "Madonna Thunder Hawk is an Oohenumpa Lakota, a veteran of every modern Native occupation from Alcatraz, to Wounded Knee in 1973 and more recently the NODAPL protest at Standing Rock. She first became active in the late 1960s as a member and leader in the American Indian Movement and co-founded Women of All Red Nations and the Black Hills Alliance. In 1974, she established the We Will Remember Survival School as an act of cultural reclamation for young Native people pushed out of the public schools. An eloquent voice for Native resistance and sovereignty, Thunder Hawk has spoken throughout the United States, Central America, Europe, and the Middle East and served as a delegate to the United Nations in Geneva."
   
 layout: full-page
