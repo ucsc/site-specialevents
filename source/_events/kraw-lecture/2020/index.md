@@ -42,7 +42,7 @@ layout: landing
 published: true
 ---
 
-The Kraw Lecture Series in Silicon Valley is made possible by a generous gift from UC Santa Cruz alumnus George Kraw (Cowell '71, history and Russian literature). The lecture series features acclaimed UC Santa Cruz scientists and technologists who are grappling with some of the biggest questions of our time.
+The Kraw Lecture Series in Silicon Valley is made possible by a generous gift from UC Santa Cruz alumnus George Kraw (Cowell '71, history and Russian literature) and Raphael Shannon Kraw. The lecture series features acclaimed UC Santa Cruz scientists and technologists who are grappling with some of the biggest questions of our time.
 
 <a name="listing"></a>**These talks are free and open to the public**
 
