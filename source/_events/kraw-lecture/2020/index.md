@@ -1,19 +1,19 @@
 ---
-title: "Microbes, Big Sur and Global Health"
-description: "Join us for an example of how curiosity-driven research can lead to practical global health solutions. Learn about a microbe known as Wolbachia that has invaded hundreds of thousands of insect species and manipulated their behavior, physiology, and reproduction and has caused diseases afflicting millions of people in impoverished regions of the world."
+title: "Planets and Stars with Keck Observatory and the James Webb Telescope"
+description: "We live in an era where thousands of exoplanets have been discovered by indirect methods.  A much smaller number have been characterized directly, via imaging and spectroscopy.  In this Kraw Lecture Andy Skemer associate professor of astronomy and astrophysics will explain how new technologies are allowing us to study individual exoplanets in detail."
 
 #### Date of the event
-date: "2021-10-20"
+date: "2021-11-17"
 
 
 #### billboard
 billboard:
-  homepage-title: 'Microbes, Big Sur and Global Health'
+  homepage-title: 'Planets and Stars with Keck Observatory and the James Webb Telescope'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
   day: Wednesday
-  month: October
-  date: 20
+  month: November
+  date: 17
   year: 2021
   starttime: 5:30 p.m.
   endtime: 7:00 p.m.
@@ -48,6 +48,19 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 **Our Kraw Lecture Series is so fantastic, we want to bring it right to you via live streaming. If you aren't able to join us in person the night of the event, you can now stream the lectures and join in the conversation via online comments. <!--Lecture and live stream typically begin at 7 p.m.-->**
 
+
+---
+
+### Planets and Stars with Keck Observatory and the James Webb Telescope
+
+##### November 17, 2021
+**Virtual Lecture**
+
+We live in an era where thousands of exoplanets have been discovered by indirect methods.  A much smaller number have been characterized directly, via imaging and spectroscopy.  In this Kraw Lecture Andy Skemer associate professor of astronomy and astrophysics will explain how new technologies are allowing us to study individual exoplanets in detail.  New instrumentation at University of California's Keck Observatory and the impending launch of NASA's James Webb Space Telescope will allow studies of the compositions, physical structures, and weather of planets orbiting other stars.
+
+{: .button .primary .small}
+[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_QhXBPjzKT2GBk-mRMV-Eog)
+
 ---
 
 ### Microbes, Big Sur and Global Health
@@ -56,9 +69,6 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 **Virtual Lecture**
 
 Join us for an example of how curiosity-driven research can lead to practical global health solutions. Learn about a microbe known as Wolbachia that has invaded hundreds of thousands of insect species and manipulated their behavior, physiology, and reproduction and has caused diseases afflicting millions of people in impoverished regions of the world. In an interesting twist, this same microbe also provides a means of combating devastating insect-borne diseases that afflict over 1 in 6 individuals globally. Professor Will Sullivan will describe the work of his and many other labs in uncovering and harnessing Wolbachia's fascinating biology and its symbiotic relationship with insect and worm host species.
-
-{: .button .primary .small}
-[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_9mLXlNCeTh6WsBT41Gn9Sg)
 
 ---
 
