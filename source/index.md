@@ -5,7 +5,7 @@ layout: home-page
 ---
 
 <!-- Three current events: Tag Home to display -->
-<section id="main-content">
+<!-- <section id="main-content">
   <div class="grid-container large">
     <section class="heading">
       <h2 class="underline">Signature Events</h2>
@@ -64,6 +64,7 @@ layout: home-page
       {% endfor %}
     </div>
   </div>
+  -->
   <!-- End three current events: Tag Home to display -->
   <div class="more no-border">
     <a class="primary button" href="https://events.ucsc.edu/">
