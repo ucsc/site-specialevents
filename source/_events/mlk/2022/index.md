@@ -1,6 +1,6 @@
 ---
 title: "38th Annual Martin Luther King Jr Memorial Convocation"
-description: "Mariame Kaba is an organizer, educator, curator, and prison industrial complex (PIC) abolitionist who is active in movements for racial, gender, and transformative justice."
+description: "She is a sociologist and professor in Princeton University’s Department of African American Studies whose work focuses on the relationship between innovation and equity, particularly at the intersection of race, justice, and technology."
 
 event-type: Signature
 category: MLK
@@ -15,7 +15,7 @@ date: "2022-02-23"
 #### billboard
 billboard:
   subtitle: "Speaker: Ruha Benjamin"
-  day: Friday
+  day: Wednesday
   month: February
   date: 23
   year: 2022
