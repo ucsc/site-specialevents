@@ -19,7 +19,7 @@ billboard:
   month: February
   date: 23
   year: 2022
-  image: "/events/mlk/2022/images/-banner.jpg"
+  image: "/events/mlk/2022/images/banner.jpg"
   starttime: 5:30 p.m.
   endtime: 
 
