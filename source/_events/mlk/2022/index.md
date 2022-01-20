@@ -15,7 +15,7 @@ date: "2022-02-23"
 #### billboard
 billboard:
   subtitle: "Speaker: Ruha Benjamin"
-  day: Friday
+  day: Wednesday
   month: February
   date: 23
   year: 2022
