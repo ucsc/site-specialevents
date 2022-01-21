@@ -1,6 +1,6 @@
 ---
 title: "38th Annual Martin Luther King Jr Memorial Convocation"
-description: "She is a sociologist and professor in Princeton University’s Department of African American Studies whose work focuses on the relationship between innovation and equity, particularly at the intersection of race, justice, and technology."
+description: "Ruha Benjamin is a sociologist and professor in Princeton University’s Department of African American Studies whose work focuses on the relationship between innovation and equity, particularly at the intersection of race, justice, and technology. "
 
 event-type: Signature
 category: MLK
