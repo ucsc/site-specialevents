@@ -38,4 +38,4 @@ published: true
 
 ### Speaker: Ruha Benjamin, professor in the Department of African American studies at Princeton University
 
-Ruha Benjamin is a sociologist and professor in Princeton University’s Department of African American Studies whose work focuses on the relationship between innovation and equity, particularly at the intersection of race, justice, and technology. 
+Ruha Benjamin is a professor in the Department of African American studies at Princeton University where she studies the social dimensions of science, technology, and medicine. Dr. Benjamin is also the founding director of the IDA B. WELLS Just Data Lab, and a faculty associate in the Center for Information Technology Policy, Program on History of Science, Center for Health and Wellbeing, and Program on Gender and Sexuality Studies. 
