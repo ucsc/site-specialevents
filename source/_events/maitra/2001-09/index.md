@@ -1,5 +1,5 @@
 ---
-title: Sidhartha Maitra Memorial Lecture
+title: Sidhartha Maitra Memorial Lecture 2001-09
 description: 'Sidhartha Maitra Memorial Lecture 2001-09'
 
 #### Date of the event
