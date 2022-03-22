@@ -32,7 +32,7 @@ register-text:
 
 layout: landing
 
-published: false
+published: true
 ---
 
 Join us as we celebrate the renaming of College Ten in honor of John R. Lewis. We will celebrate this momentous occasion with powerful speakers and performances, and a call to action to empower our students to seek justice and create necessary trouble in their educational journey and beyond.
