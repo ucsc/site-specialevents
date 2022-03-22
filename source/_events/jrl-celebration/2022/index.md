@@ -18,7 +18,7 @@ billboard:
   month: May
   date: 6
   year: 2022
-  image: "/events/jrl-celebration/images/banner.jpg"
+  image: "/events/jrl-celebration/2022/images/banner.jpg"
   starttime: 4:00 p.m.
   endtime: 
 
