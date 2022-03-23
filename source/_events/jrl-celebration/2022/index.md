@@ -2,6 +2,8 @@
 title: "John R. Lewis College Dedication Celebration"
 description: "Join us as we celebrate the renaming of College Ten in honor of John R. Lewis. We will celebrate this momentous occasion with powerful speakers and performances, and a call to action to empower our students to seek justice and create necessary trouble in their educational journey and beyond."
 
+nav-collection: JRL Dedication
+order: 1
 event-type: Signature
 category: JRL
 
@@ -26,6 +28,29 @@ billboard:
 location:
   address: Quarry Amphitheater
   addresslink: https://map.concept3d.com/?id=882#!m/234920
+
+####speaker information  
+speaker:
+  - name: LaTosha Brown
+    title: Co-Founder of  Black Voters Matter, Black Voters Matter Fund and Black Voters Matter Capacity Building Institute
+    subhead:
+    image: /jrl-celebration/2022/images/latosha-brown.jpg
+    teaser: In strong resonance to the values and life’s work of John R. Lewis, LaTosha works tirelessly to catalyze voter registration, voter turnout, and political power in Black, often marginalized, communities.
+    link: https://specialevents.ucsc.edu/founders/2018/honorees.html#john-laird
+  - name: Wisdom Cole
+    title: UCSC alumnus and civil rights advocate and national organizer
+    award-title:
+    subhead:
+    image: /jrl-celebration/2022/images/wisdom-cole.jpg
+    teaser: Wisdom Cole is a UCSC alumnus and civil rights advocate and national organizer, who will also be speaking at the Dedication of John R. Lewis College.
+    link: https://specialevents.ucsc.edu/founders/2018/honorees.html#lise-getoor
+  - name: Terisa Siagatonu
+    title: Award-winning poet, teaching artist, mental health educator, and community leader born and rooted in the Bay Area.
+    award-title: 
+    subhead:
+    image: /jrl-celebration/2022/images/terisa-siagatonu.jpg
+    teaser: Terisa Siagatonu is an award-winning poet, teaching artist, mental health educator, and community leader born and rooted in the Bay Area.
+    link: https://specialevents.ucsc.edu/founders/2018/honorees.html#natalie-batalha
 
 registration-url: 
 register-text:
