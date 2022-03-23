@@ -6,7 +6,7 @@ nav-collection: Universe in Verse
 
 layout: page
 
-ublished: false
+published: false
 ---
 {: .underline}
 ## {{ page.title }}
