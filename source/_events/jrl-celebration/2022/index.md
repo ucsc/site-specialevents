@@ -116,6 +116,9 @@ We also welcome back our very own [Terisa Siagatonu](https://www.terisasiagatonu
   .component-wrapper {
     padding:  0;
   }
+  .grid-container .large {
+      padding: 0;
+  }
   @media print, screen and (max-width: 31.5em) {
     .profile .image {
       max-height: none;
@@ -129,11 +132,6 @@ We also welcome back our very own [Terisa Siagatonu](https://www.terisasiagatonu
   @media print, screen and (min-width: 40em) {
     .profile .image {
       max-height: none;
-    }
-  }
-  @media screen and (min-width: 75em) {
-    .grid-container .large {
-      padding: 0;
     }
   }
 </style>
