@@ -2,7 +2,7 @@
 title: Speakers
 description: "We are honored to be hosting LaTosha Brown, Wisdom Cole and Terisa Siagatonu"
 
-nav-collection: JRL Celebration
+nav-collection: 2008 Founders
 order: 2
 
 layout: page
