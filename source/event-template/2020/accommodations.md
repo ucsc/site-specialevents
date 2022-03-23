@@ -3,7 +3,7 @@ title: Accommodations
 description: In honor of our Year of Alumni, we will take this moment to celebrate alumni and faculty who exemplify the best of UC Santa Cruz
 
 nav-collection: 2018 Founders
-order: 4
+nav-order: 4
 
 layout: page
 
