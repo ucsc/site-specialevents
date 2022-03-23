@@ -116,6 +116,9 @@ Come be a part of history in the making!
   .grid-container .large {
       padding: 0;
   }
+  .profile-w-media {
+    padding: 2rem 0;
+  }
   @media print, screen and (max-width: 31.5em) {
     .profile .image {
       max-height: none;
