@@ -113,6 +113,16 @@ We also welcome back our very own [Terisa Siagatonu](https://www.terisasiagatonu
 </div> 
 
 <style>
+  @media print, screen and (max-width: 31.5em) {
+    .profile .image {
+      max-height: none;
+    }
+  }
+  @media print, screen and (min-width: 31.5em) {
+    .profile .image {
+      max-height: none;
+    }
+  }
   @media print, screen and (min-width: 40em) {
     .profile .image {
       max-height: none;
