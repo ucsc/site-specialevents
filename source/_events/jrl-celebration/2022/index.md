@@ -49,8 +49,6 @@ We are delighted to announce that [Wisdom Cole](https://naacp.org/people/wisdom-
 We also welcome back our very own [Terisa Siagatonu](https://www.terisasiagatonu.com/), an award-winning poet, teaching artist, mental health educator, and community leader born and rooted in the Bay Area. Her presence in the poetry world as a queer Samoan woman and activist has granted her opportunities to perform and speak in places ranging from the White House (during the Obama administration) to the UN Conference on Climate Change in Paris, France. The most memorable moment in her career was receiving President Obama’s Champion of Change Award in 2012 for her activism as a spoken word poet/organizer in her Pacific Islander community. Terisa is an alumna of UCSC College Ten/John R. Lewis College, and wrote her first poem in her dorm room in House 6/Angela Davis. 
 
 
-<div class="component-wrapper">
-  <a id="latosha-brown" name="latosha-brown"></a>
   <section class="profile-w-media left">
     <div class="grid-container large">
       <div class="profile">
@@ -70,7 +68,6 @@ We also welcome back our very own [Terisa Siagatonu](https://www.terisasiagatonu
     </div>
   </section>
 
-  <a id="wisdom cole" name="wisdom-cole"></a>
   <section class="profile-w-media left">
     <div class="grid-container large">
       <div class="profile">
@@ -93,7 +90,6 @@ We also welcome back our very own [Terisa Siagatonu](https://www.terisasiagatonu
     </div>
   </section>
 
-  <a id="terisa-siagatonu" name="terisa-siagatonu"></a>
   <section class="profile-w-media left">
     <div class="grid-container large">
       <div class="profile">
@@ -113,7 +109,6 @@ We also welcome back our very own [Terisa Siagatonu](https://www.terisasiagatonu
       </div>
     </div>
   </section> 
-</div>
 
 <style>
   @media print, screen and (min-width: 40em) {
