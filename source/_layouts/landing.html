@@ -41,10 +41,10 @@
                 <div class="profile-info">
                     <h4 class="underline tighten">{{ speaker.name }}</h4>
                     <div class="tags">
-                        {% if page.speaker.title != null %}
+                        {% if page.speaker.title != "" %}
                           <p>{{ speaker.title }}</p>
                         {% endif %}
-                        {% if page.speaker.teaser != null %}
+                        {% if page.speaker.teaser != "" %}
                           <p>{{ speaker.teaser }}</p>
                         {% endif %}
                     </div>
