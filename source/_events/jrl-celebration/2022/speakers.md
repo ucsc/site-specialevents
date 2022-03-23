@@ -2,10 +2,10 @@
 title: Speakers
 description: "We are honored to be hosting LaTosha Brown, Wisdom Cole and Terisa Siagatonu"
 
-nav-collection: JRL
+nav-collection: jrl
 order: 2
 
-layout: full-page
+layout: page
 
 published: true
 ---
