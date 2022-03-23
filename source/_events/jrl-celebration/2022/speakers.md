@@ -82,7 +82,7 @@ published: true
 <style>
   @media print, screen and (min-width: 40em) {
     .profile .image {
-      max-height: none;
+      max-height: auto;
     }
   }
 </style>
