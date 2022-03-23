@@ -13,6 +13,7 @@ published: false
 ## {{ page.title }}
 
 
+<a id="latosha-brown" name="latosha-brown"></a>
 <section class="profile-w-media left">
   <div class="grid-container large">
     <div class="profile">
@@ -24,7 +25,7 @@ published: false
         </div>
         <div class="media">
           <div class="image">
-            <img class="profile-image" src="/jrl-celebration/2022/images/latosha-brown.jpg" alt="LaTosha Brown">
+            <img class="profile-image" src="images/latosha-brown.jpg" alt="LaTosha Brown">
           </div>    
         </div>
       </div>
@@ -32,6 +33,7 @@ published: false
   </div>
 </section>
 
+<a id="wisdom cole" name="wisdom-cole"></a>
 <section class="profile-w-media left">
   <div class="grid-container large">
     <div class="profile">
@@ -46,7 +48,7 @@ On his Twitter he identifies as  Griot, Organizer, and National Director for You
         </div>
         <div class="media">
           <div class="image">
-            <img class="profile-image" src="/jrl-celebration/2022/images/wisdom-cole.jpg" alt="Wisdom Cole">
+            <img class="profile-image" src="images/wisdom-cole.jpg" alt="Wisdom Cole">
           </div>    
         </div>
       </div>
@@ -54,6 +56,7 @@ On his Twitter he identifies as  Griot, Organizer, and National Director for You
   </div>
 </section>
 
+<a id="terisa-siagatonu" name="terisa-siagatonu"></a>
 <section class="profile-w-media left">
   <div class="grid-container large">
     <div class="profile">
@@ -66,7 +69,7 @@ On his Twitter he identifies as  Griot, Organizer, and National Director for You
         </div>
         <div class="media">
           <div class="image">
-            <img class="profile-image" src="/jrl-celebration/2022/images/terisa-siagatonu.jpg" alt="Terisa Siagatonu">
+            <img class="profile-image" src="images/terisa-siagatonu.jpg" alt="Terisa Siagatonu">
           </div>    
         </div>
       </div>
