@@ -7,7 +7,7 @@ layout: full-page
 #### date of the latest event to sort
 date: "2022-05-06"
 
-permalink: /:collection/maitra
+permalink: /:collection/jrl-celebration
 ---
 <section id="main-content">
 <div class="grid-container large">
