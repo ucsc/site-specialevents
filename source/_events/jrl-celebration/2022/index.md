@@ -36,21 +36,21 @@ speaker:
     subhead:
     image: images/latosha-brown.jpg
     teaser:
-    link: https://specialevents.ucsc.edu/events/jrl-celebration/speakers.html#latosha-brown
+    link: https://specialevents.ucsc.edu/events/jrl-celebration/2022/speakers.html#latosha-brown
   - name: Wisdom Cole
     title: UCSC alumnus and civil rights advocate and national organizer
     award-title:
     subhead:
     image: images/wisdom-cole.jpg
     teaser: 
-    link: https://specialevents.ucsc.edu/events/jrl-celebration/speakers.html#wisdom-cole
+    link: https://specialevents.ucsc.edu/events/jrl-celebration/2022/speakers.html#wisdom-cole
   - name: Terisa Siagatonu
     title: Award-winning poet, teaching artist, mental health educator, and community leader born and rooted in the Bay Area.
     award-title: 
     subhead:
     image: images/terisa-siagatonu.jpg
     teaser: 
-    link: https://specialevents.ucsc.edu/events/jrl-celebration/speakers.html#terisa-siagatonu
+    link: https://specialevents.ucsc.edu/events/jrl-celebration/2022/speakers.html#terisa-siagatonu
 
 registration-url: 
 register-text:
