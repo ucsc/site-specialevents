@@ -8,7 +8,6 @@ category: MLK
 tags:
   - MLK
   - Current
-  - Featured
 
 date: "2022-02-23"
 
