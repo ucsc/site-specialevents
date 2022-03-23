@@ -131,4 +131,9 @@ Come be a part of history in the making!
       max-height: none;
     }
   }
+  @media screen and (min-width: 75em) {
+    .grid-container.large {
+        padding:0
+    }
+}
 </style>
