@@ -131,8 +131,8 @@ We also welcome back our very own [Terisa Siagatonu](https://www.terisasiagatonu
       max-height: none;
     }
   }
-  @media screen and (min-width: 75em)
-    .grid-container.large {
+  @media screen and (min-width: 75em) {
+    .grid-container .large {
       padding: 0;
     }
   }
