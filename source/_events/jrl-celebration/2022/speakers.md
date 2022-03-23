@@ -78,3 +78,11 @@ published: true
     </div>
   </section> 
 </div>
+
+<style>
+  @media print, screen and (min-width: 40em) {
+    .profile .image {
+      max-height: none;
+    }
+  }
+</style>
