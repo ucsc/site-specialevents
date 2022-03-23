@@ -5,7 +5,7 @@ description: "We are honored to be hosting LaTosha Brown, Wisdom Cole and Terisa
 nav-collection: JRL
 order: 2
 
-layout: landing
+layout: full-page-narrow
 
 published: true
 ---
