@@ -35,21 +35,21 @@ speaker:
     title: Co-Founder of  Black Voters Matter, Black Voters Matter Fund and Black Voters Matter Capacity Building Institute
     subhead:
     image: images/latosha-brown.jpg
-    teaser: In strong resonance to the values and life’s work of John R. Lewis, LaTosha works tirelessly to catalyze voter registration, voter turnout, and political power in Black, often marginalized, communities.
+    teaser:
     link: https://specialevents.ucsc.edu/founders/2018/honorees.html#john-laird
   - name: Wisdom Cole
     title: UCSC alumnus and civil rights advocate and national organizer
     award-title:
     subhead:
     image: images/wisdom-cole.jpg
-    teaser: Wisdom Cole is a UCSC alumnus and civil rights advocate and national organizer, who will also be speaking at the Dedication of John R. Lewis College.
+    teaser: 
     link: https://specialevents.ucsc.edu/founders/2018/honorees.html#lise-getoor
   - name: Terisa Siagatonu
     title: Award-winning poet, teaching artist, mental health educator, and community leader born and rooted in the Bay Area.
     award-title: 
     subhead:
     image: images/terisa-siagatonu.jpg
-    teaser: Terisa Siagatonu is an award-winning poet, teaching artist, mental health educator, and community leader born and rooted in the Bay Area.
+    teaser: 
     link: https://specialevents.ucsc.edu/founders/2018/honorees.html#natalie-batalha
 
 registration-url: 
