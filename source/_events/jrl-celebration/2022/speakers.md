@@ -1,6 +1,6 @@
 ---
 title: Speakers
-description: 
+description: We are honored to be hosting LaTosha Brown, Wisdom Cole and Terisa Siagatonu
 
 nav-collection: JRL Dedication
 order: 2
