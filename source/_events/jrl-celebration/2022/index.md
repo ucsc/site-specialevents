@@ -46,7 +46,7 @@ A college in John Lewis’ name is a profound honor and a great responsibility f
 
 Come be a part of history in the making! 
 
-## Speakers/performers:
+## Featured Speakers and Performers:
 
 <div class="component-wrapper">  
   <section class="profile-w-media left">
