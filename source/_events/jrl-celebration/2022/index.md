@@ -73,14 +73,14 @@ Come be a part of history in the making!
       <div class="profile">
         <div class="inner wave-pattern pink">
           <div class="content">
-              <h2 class="underline">Wisdom Cole</h2>
+              <h2 class="underline">Terisa Siagatonu</h2>
               <p>
-              We are delighted to announce that <a href="https://naacp.org/people/wisdom-o-cole">Wisdom Cole</a>, UCSC alumnus and civil rights advocate and national organizer, will also be speaking at the Dedication of John R. Lewis College. As the NAACP’s National Director for Youth and College Division, he works to train and mobilize young people across the country in effective local, state, and national organizing tactics and tools to build political power. Noted as one of Complex Life's 32 Young Activists who are Changing the world, Wisdom has been featured on NPR, VICE, NBC Washington News, Brooking Institute, and The Economist as an advocate for youth voter turnout through issue-based campaign organizing.
+              We also welcome back our very own <a href="https://www.terisasiagatonu.com/">Terisa Siagatonu</a>, an award-winning poet, teaching artist, mental health educator, and community leader born and rooted in the Bay Area. Her presence in the poetry world as a queer Samoan woman and activist has granted her opportunities to perform and speak in places ranging from the White House (during the Obama administration) to the UN Conference on Climate Change in Paris, France. The most memorable moment in her career was receiving President Obama’s Champion of Change Award in 2012 for her activism as a spoken word poet/organizer in her Pacific Islander community. Terisa is an alumna of UCSC College Ten/John R. Lewis College, and wrote her first poem in her dorm room in House 6/Angela Davis.   
             </p>
           </div>
           <div class="media">
             <div class="image">
-              <img class="profile-image" src="images/wisdom-cole.jpg" alt="Wisdom Cole">
+              <img class="profile-image" src="images/terisa-siagatonu.jpg" alt="Terisa Siagatonu">
             </div>    
           </div>
         </div>
@@ -93,14 +93,14 @@ Come be a part of history in the making!
       <div class="profile">
         <div class="inner wave-pattern pink">
           <div class="content">
-              <h2 class="underline">Terisa Siagatonu</h2>
+              <h2 class="underline">Wisdom Cole</h2>
               <p>
-              We also welcome back our very own <a href="https://www.terisasiagatonu.com/">Terisa Siagatonu</a>, an award-winning poet, teaching artist, mental health educator, and community leader born and rooted in the Bay Area. Her presence in the poetry world as a queer Samoan woman and activist has granted her opportunities to perform and speak in places ranging from the White House (during the Obama administration) to the UN Conference on Climate Change in Paris, France. The most memorable moment in her career was receiving President Obama’s Champion of Change Award in 2012 for her activism as a spoken word poet/organizer in her Pacific Islander community. Terisa is an alumna of UCSC College Ten/John R. Lewis College, and wrote her first poem in her dorm room in House 6/Angela Davis.   
+              We are delighted to announce that <a href="https://naacp.org/people/wisdom-o-cole">Wisdom Cole</a>, UCSC alumnus and civil rights advocate and national organizer, will also be speaking at the Dedication of John R. Lewis College. As the NAACP’s National Director for Youth and College Division, he works to train and mobilize young people across the country in effective local, state, and national organizing tactics and tools to build political power. Noted as one of Complex Life's 32 Young Activists who are Changing the world, Wisdom has been featured on NPR, VICE, NBC Washington News, Brooking Institute, and The Economist as an advocate for youth voter turnout through issue-based campaign organizing.
             </p>
           </div>
           <div class="media">
             <div class="image">
-              <img class="profile-image" src="images/terisa-siagatonu.jpg" alt="Terisa Siagatonu">
+              <img class="profile-image" src="images/wisdom-cole.jpg" alt="Wisdom Cole">
             </div>    
           </div>
         </div>
