@@ -16,7 +16,7 @@ date: "2022-05-06"
 
 #### billboard
 billboard:
-  subtitle:
+  subtitle: Doors open at 3pm
   day: Friday
   month: May
   date: 6
@@ -31,7 +31,7 @@ location:
   addresslink: https://map.concept3d.com/?id=882#!m/234920
 
 registration-url: https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4264&cid=9188
-register-text: "Register Now | Doors open at 3pm"
+register-text: "Register Now"
 
 layout: landing
 
