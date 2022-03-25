@@ -4,8 +4,8 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
 
-  <link href="{{ site.baseurl }}/favicon.ico" rel="shortcut icon"/>
-  <link href="{{ site.baseurl }}/apple-touch-icon.png" rel="apple-touch-icon"/>
+  <link href="{{ site.url }}/favicon.ico" rel="shortcut icon"/>
+  <link href="{{ site.url }}/apple-touch-icon.png" rel="apple-touch-icon"/>
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
       integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
@@ -21,7 +21,7 @@
   <meta content="UC Santa Cruz offers a weekend of free events at the Seymour Center to spark conversation and inspire action." property="og:description"/>
   <meta content="website" property="og:type"/>
   {% if page.billboard.image != "" %}
-  <meta content="{{ site.baseurl }}{{ page.billboard.image }}" property="og:image"/>
+  <meta content="{{ site.url }}{{ page.billboard.image }}" property="og:image"/>
   {% endif %}
   <meta content="UC Santa Cruz Special Events" property="og:site_name"/>
   <meta content="1322847221,508316988" property="fb:admins"/>
@@ -33,7 +33,7 @@
   <meta content="{{page.title}}" name="twitter:title"/>
   <meta content="{{page.description}}" name="twitter:description"/>
   {% if page.billboard.image != "" %}
-    <meta content="{{ site.baseurl }}{{ page.billboard.image }}" name="twitter:image"/>
+    <meta content="{{ site.url }}{{ page.billboard.image }}" name="twitter:image"/>
   {% endif %}
 
 </head>
