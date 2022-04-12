@@ -17,6 +17,11 @@
             </li>
           {% endif %}
         {% endfor %}
+        {% if page.registration-url != '' %}
+          <li class="">
+            <a href="{{ page.registration-url }}">Register Now</a>
+          </li>
+        {% endif %}
       </ul>
       {% endif %}
     </ul>
