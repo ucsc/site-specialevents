@@ -46,6 +46,11 @@ A college in John Lewis’ name is a profound honor and a great responsibility f
 
 Come be a part of history in the making! 
 
+- **3:00 p.m. Doors Open**
+- **4:00 - 5:30 p.m. Speakers, Performances, and more**
+- **5:30 - 6:30 p.m. After-party**
+
+
 ## Featured Speakers and Performers:
 
 <div class="component-wrapper">  
