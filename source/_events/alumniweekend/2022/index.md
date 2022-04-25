@@ -32,7 +32,6 @@ category: Signature Series
 tags:
   - Alumni Weekend
   - Current
-  - Featured
 
 layout: landing
 ---
