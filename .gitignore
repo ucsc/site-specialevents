@@ -3,3 +3,8 @@
 composer.phar
 .docs/feed.xml
 docs
+source/.DS_Store
+source/_events/.DS_Store
+source/_events/kraw-lecture/.DS_Store
+source/_events/kraw-lecture/2020/.DS_Store
+.DS_Store

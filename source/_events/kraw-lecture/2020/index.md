@@ -1,20 +1,20 @@
 ---
-title: "Planets and Stars with Keck Observatory and the James Webb Telescope"
-description: "We live in an era where thousands of exoplanets have been discovered by indirect methods.  A much smaller number have been characterized directly, via imaging and spectroscopy.  In this Kraw Lecture Andy Skemer associate professor of astronomy and astrophysics will explain how new technologies are allowing us to study individual exoplanets in detail."
+title: "Habitable Exoplanets with Extremely Large Telescopes"
+description: "Fifty-three years ago, 600 million people watched the Apollo 11 astronauts take the first human steps on another world. In 1969, the number of worlds worth walking on was small: just the few dozen planets and moons that make up the Earth’s siblings orbiting the Sun."
 
 #### Date of the event
-date: "2021-11-17"
+date: "2022-06-16"
 
 
 #### billboard
 billboard:
-  homepage-title: 'Planets and Stars with Keck Observatory and the James Webb Telescope'
+  homepage-title: 'Habitable Exoplanets with Extremely Large Telescopes'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
-  day: Wednesday
-  month: November
-  date: 17
-  year: 2021
+  day: Thursday
+  month: June
+  date: 16
+  year: 2022
   starttime: 5:30 p.m.
   endtime: 7:00 p.m.
 
@@ -49,6 +49,75 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 ---
 
+### Habitable Exoplanets with Extremely Large Telescopes
+
+##### June 16, 2022
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/z6iZujsKAaE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+Fifty-three years ago, 600 million people watched the Apollo 11 astronauts take the first human steps on another world. In 1969, the number of worlds worth walking on was small: just the few dozen planets and moons that make up the Earth’s siblings orbiting the Sun. Today, astronomers know that our galaxy is teeming with planets, more numerous than the stars themselves. However, detecting signs of life, or “biosignatures,” on another world requires separating the light of the planet from that of its sun and dispersing that planet’s light into a spectrum -- a technique called "direct imaging and spectroscopy." So far, only extremely young, massive worlds have been directly imaged, while older, smaller objects like the Earth remain hidden in the glare of their suns. In this talk, I will describe a variety of avenues for advancing the state-of-the-art in exoplanet imaging, taking advantage of diverse tools ranging from computer simulations, to laboratory demonstrations, to observations at the world's largest telescopes.
+
+---
+
+### How to Make a Star
+
+##### May 18, 2022
+
+We come from the stars. What if we could touch them? In this talk on building stars, telescopes, and communities, Dr. Nia Imara will present efforts to create the first 3D-printed stellar nurseries, with the aim of shedding light on the complex structure of star-forming environments; efforts to develop a new radio observatory and an astronomy program in Ghana; and new efforts underway to improve STEM education for youth from historically marginalized communities.
+
+---
+
+### To eat or not to eat? How environmental chemicals contribute to obesity
+
+##### April 5, 2022
+
+Multigenerational disease research has shown links between some non-communicable diseases, their environmental origin, and lifestyle decisions our ancestors made. Defining those links will provide us with a better understanding of how our life choices can help preserve the health of our descendants. Raquel Chamorro-Garcia, assistant professor of microbiology and environmental toxicology, will talk about her research on how environmental pollutants can, through non-genetic mechanisms of action, lead to multigenerational metabolic disease.
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/55DgZRGWnKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
+### Studying the Behavior and Physiology of Marine Megafauna in Nature
+
+##### March 23, 2022
+
+How do researchers study animals that spend their entire lives underwater and far from shore? Thanks to a variety of electronic sensors and data loggers, researchers are able to follow the behavior and physiology of marine megafauna while they are diving and migrating anywhere on the planet.  The tracking technology has evolved considerably since the earliest attempts—from a capillary gauge that measure the diving behavior of birds and mammals—to sensors on electronic tags that transmit information on animals’ location, behavior, and physiology wherever they are in the world’s oceans. Over his career, Dan Costa has worked with some of the earliest time depth recorders that used photographic film from spy satellites to today’s most advanced electronic sensors. In this lecture, he will discuss the origins and evolution of “biologging” and the insights they provide into the amazing behavior and physiology of animals in nature. Check out this Kraw Lecture with our speaker Dan Costa and moderator Roxanne Beltran. 
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0oh89NoklrU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
+### From Healthy Whales to Healthy Oceans
+
+##### February 16, 2022
+
+Whales are iconic ocean animals that hold special places in the hearts of many—and are a critical link in the structure of healthy marine ecosystems. Our research team has developed tools and novel approaches to studying the underwater lives of these ocean giants. New information on how much food whales consume allows us to calculate the amount of nutrients that they then recycle, promoting primary production and growth of vital components of the food web. This knowledge—when combined with information on where the critical foraging areas are for whales—provides the foundation for the development of marine protected areas that minimize the impacts of human activities.
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6g45Tr-Bm9w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
+### What Seals Can Teach Us About Risk and Reward in the Open Ocean
+
+##### January 19, 2022
+
+Marine mammals undertake some of the most extraordinary migrations on the planet to eat and avoid being eaten. They make behavioral decisions based on the ecology of their prey and predators, all while keeping within the confines of their physiological limits. By attaching electronic instruments to seals, Assistant Professor Roxanne Beltran explores predator-prey interactions in the open ocean, and their implications for ocean health.
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Mx47tDKqLzk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
 ### Planets and Stars with Keck Observatory and the James Webb Telescope
 
 ##### November 17, 2021
@@ -56,8 +125,9 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 We live in an era where thousands of exoplanets have been discovered by indirect methods.  A much smaller number have been characterized directly, via imaging and spectroscopy.  In this Kraw Lecture Andy Skemer associate professor of astronomy and astrophysics will explain how new technologies are allowing us to study individual exoplanets in detail.  New instrumentation at University of California's Keck Observatory and the impending launch of NASA's James Webb Space Telescope will allow studies of the compositions, physical structures, and weather of planets orbiting other stars.
 
-{: .button .primary .small}
-[Register for Virtual Event](https://ucsc.zoom.us/webinar/register/WN_QhXBPjzKT2GBk-mRMV-Eog)
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dXhOI-zubs0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 
