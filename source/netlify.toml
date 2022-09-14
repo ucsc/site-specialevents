@@ -361,7 +361,7 @@
   status = 301
   force = true
 [[redirects]]
-  from = "/events/maitra/2012/"
+  from = "/events/maitra/2022/"
   to = "https://transform.ucsc.edu/event/amartya-sen-lecture/"
   status = 301
   force = true
