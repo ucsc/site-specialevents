@@ -11,7 +11,6 @@ category: JRL
 tags:
   - JRL
   - Current
-  - Featured
 
 date: "2022-05-06"
 
@@ -53,7 +52,6 @@ Come be a part of history in the making!
 
 
 ## Featured Speakers and Performers:
-
 <div class="component-wrapper">  
   <section class="profile-w-media left">
     <div class="grid-container large">
