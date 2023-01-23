@@ -366,6 +366,11 @@
   status = 301
   force = true
 [[redirects]]
+  from = "/events/ias/2023/"
+  to = "https://calendar.ucsc.edu/event/institute_of_the_arts_sciences_gallery_opening#.Y88LaS-B2gR"
+  status = 301
+  force = true
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
