@@ -4,6 +4,35 @@ description: Special events homepage
 layout: home-page
 ---
 
+<!-- Single event -->
+<section class="content-w-media right">
+  {% assign event-list = site.events | sort: 'date' | where: 'tags','Home' %}
+    {% for event in event-list limit: 1 %}
+      {% if event.tag != 'Featured' %}
+        <div class="grid-container large">
+          <div class="inner">
+            <div class="content">
+                <h2 class="underline"><h4 class="header underline">{{ event.title }}</h4></h2>
+                <p>
+                  Date: <strong>{{ event.billboard.month }} {{ event.billboard.date | truncate: 2,'' }} </strong><br>
+                  <i class="fa fa-map-marker turquiose-text"></i> {{ event.location.address }}
+                </p>
+                <p>{{ event.description }}</p>
+                <div class="content-foot-links">
+                    <a href="{{site.baseurl}}{{ event.url }}.html" class="btn-link">Event Details</a>
+                </div>
+            </div>
+            <div class="media">
+                <img src="{{ site.baseurl }}{{ event.billboard.image }}" alt="{{ event.title }}"/>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+</section>
+
+<!-- Single event -->
+
 <!-- Three current events: Tag Home to display -->
 <!-- <section id="main-content">
   <div class="grid-container large">

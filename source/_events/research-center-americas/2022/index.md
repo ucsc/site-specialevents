@@ -8,9 +8,8 @@ category: RCA
 tags:
   - RCA
   - Featured
-  - Home
 
-date: "2021-10-12"
+date: "2022-10-20"
 
 #### Billboard
 billboard:
