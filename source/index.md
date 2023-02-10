@@ -5,7 +5,7 @@ layout: home-page
 ---
 
 <!-- Single event -->
-<section class="content-w-media right">
+<!--<section class="content-w-media right">
   {% assign event-list = site.events | sort: 'date' | where: 'tags','Home' %}
     {% for event in event-list limit: 1 %}
       {% if event.tag != 'Featured' %}
@@ -30,6 +30,7 @@ layout: home-page
       {% endif %}
     {% endfor %}
 </section>
+-->
 
 <!-- Single event -->
 
