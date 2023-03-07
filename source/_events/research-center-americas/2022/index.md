@@ -7,7 +7,6 @@ category: RCA
 
 tags:
   - RCA
-  - Featured
 
 date: "2022-10-20"
 
