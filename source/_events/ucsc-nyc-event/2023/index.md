@@ -1,5 +1,5 @@
 ---
-title: "An Afternoon with UCSC: Celebrating the work of Beth Stephens"
+title: "Celebrating the work of Beth Stephens"
 description: "UC Santa Cruz Dean of the Arts Celine Parreñas Shimizu, in partnership with Art Professor Beth Stephens, invites you to a special evening reception at Performance Space New York."
 
 event-type: Signature
@@ -13,7 +13,7 @@ date: "2023-06-18"
 
 #### billboard
 billboard:
-  subtitle: 'Featuring Professor Beth Stephens and Arts Dean Celine Parreñas Shimizu'
+  subtitle: 'An Afternoon with UCSC'
   day: Sunday
   month: June
   date: 18
