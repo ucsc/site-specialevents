@@ -39,7 +39,7 @@ location:
   address: Performance Space New York 1st Ave & E. 9th Street
   addresslink: https://goo.gl/maps/PvMGhScGUMKndoiQA
 
-registration-url: https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4517&cid=10108
+registration-url: '#'
 register-text: "Registration coming soon"
 
 layout: landing
