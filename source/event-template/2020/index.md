@@ -37,7 +37,8 @@ location:
 registration: https://founders.ucsc.edu
 register-text: Buy Tickets
 
-####speaker information  
+####speaker information
+speaker-title: Speakers
 speaker:
   - name: John Laird (Stevenson ’72, politics)
     title: A trailblazing public servant

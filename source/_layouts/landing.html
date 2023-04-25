@@ -27,7 +27,7 @@
 
         <!-- Speaker profile listing with photos -->
         {% if page.speaker != null %}
-        <h2>{{ page.speakers-title }}</h2>
+        <h2>{{ page.speaker-title}}</h2>
          <div class="profile-list owl-carousel">
           {% for speaker in page.speaker %}
             <a id="{{ speaker.name }}" name="{{ 'speaker.name' }}"></a>
@@ -54,6 +54,23 @@
           </div>
           {% endif %}
           <!-- End profile with photos -->
+
+
+          {% for other in page.other %}
+            {% if other.description != '' %}
+              <div class="component-wrapper"> 
+                <section class="content-left">
+                   <div class="grid-container large">
+                    <h2>{{ other.title }}</h2>
+                    <img src="{{ other.image }}" alt="{{ other.alt }}">
+                    <p>{{ other.description }}</p>
+                   </div>
+                </section>
+              </div>
+            {% endif %}
+          {% endfor %}
+
+
 
         </div>
         <div class="column-support">
