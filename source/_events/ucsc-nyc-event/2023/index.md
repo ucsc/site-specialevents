@@ -8,6 +8,7 @@ category: isaac
 tags:
   - performance-space-new-york
   - Current
+  - Featured
 
 date: "2023-06-18"
 
@@ -39,8 +40,8 @@ location:
   address: Performance Space New York 1st Ave & E. 9th Street
   addresslink: https://goo.gl/maps/PvMGhScGUMKndoiQA
 
-registration-url: '#'
-register-text: "Registration coming soon"
+registration-url: 'https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4605&cid=10463'
+register-text: "Register Now"
 
 layout: landing
 
