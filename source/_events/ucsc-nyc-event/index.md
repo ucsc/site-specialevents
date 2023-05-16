@@ -1,5 +1,5 @@
 ---
-title: "An Afternoon with UCSC: Celebrating the work of Beth Stephens"
+title: "UC Santa Cruz in NYC: Celebrating the work of Beth Stephens"
 description: "UC Santa Cruz Dean of the Arts Celine Parreñas Shimizu, in partnership with Art Professor Beth Stephens, invites you to a special evening reception at Performance Space New York."
 category: Signature
 layout: full-page
