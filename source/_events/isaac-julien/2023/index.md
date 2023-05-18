@@ -29,7 +29,7 @@ location:
   addresslink: https://goo.gl/maps/xdUZPwk3BgrnCVCD8
 
 registration-url: https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4517&cid=10108
-register-text: "Register Now  | Event begins at 7:00 pm"
+register-text: "Register Now"
 
 layout: landing
 
