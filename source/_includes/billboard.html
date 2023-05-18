@@ -16,7 +16,17 @@
                           </h1>
                           <!-- End billboard title -->
                           {% if page.billboard.day != null %}
-                            <p class="hero-body"><large>{% if page.billboard.day != null %}{{ page.billboard.day }}, {% endif %}{{ page.billboard.month}} {% if page.billboard.date != null %}{{ page.billboard.date }}, {{ page.billboard.year }} {% endif %}</large>
+                            <p class="hero-body"><large>
+                              {% if page.billboard.day != null %}
+                                {{ page.billboard.day }}, {% endif %}{{ page.billboard.month}} {% if page.billboard.date != null %}{{ page.billboard.date }}, {{ page.billboard.year }} <br/>
+                              {% endif %}
+                              {% if page.location.location-name != null %}
+                                {{ page.location.location-name }} <br/>
+                              {% endif %}
+                              {% if page.billboard.starttime != null %}
+                                {{ page.billboard.starttime }} {% if page.billboard.endtime != null %} — {% endif %} {{ page.billboard.endtime }}
+                              {% endif %}
+                          </large>
                           {% endif %}
                           {% if page.registration-url != null %}
                             {% if page.register-text != null %}
@@ -42,7 +52,19 @@
                             {% endif %}
                           </h1>
                           {% if event.billboard.month != null %}
-                            <p class="hero-body"><large>{% if event.billboard.day != null %} {{ event.billboard.day }}, {% endif %} {{ event.billboard.month}} {% if event.billboard.date != null %} {{ event.billboard.date }}, {{ event.billboard.year }} {% endif %}</large>
+                            <p class="hero-body"><large>
+                              {% if event.billboard.day != null %}
+                                {{ event.billboard.day }}, {% endif %} {{ event.billboard.month}} {% if event.billboard.date != null %} {{ event.billboard.date }}, {{ event.billboard.year }} <br/>
+                              {% endif %}
+                              {% if event.location.location-name != null %}
+                                {{ event.location.location-name }} <br/>
+                              {% endif %}
+                              {% if event.billboard.starttime != null %}
+                                {{ event.billboard.starttime }} 
+                                 {% if event.billboard.endtime != null %} — {% endif %}
+                                {{ event.billboard.endtime }}
+                              {% endif %}
+                            </large>
                           {% endif %}
 
                           <a class="button primary expanded" href="{{site.baseurl}}{{ event.url }}.html">Event Details</a></p>

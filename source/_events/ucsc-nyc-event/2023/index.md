@@ -37,7 +37,8 @@ other:
 
 #### sidebar information
 location:
-  address: Performance Space New York, East Village NYC | 1st Ave & E. 9th Street
+  location-name: Performance Space New York, East Village NYC
+  address: 1st Ave & E. 9th Street
   addresslink: https://goo.gl/maps/PvMGhScGUMKndoiQA
 
 registration-url: 'https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4605&cid=10463'
