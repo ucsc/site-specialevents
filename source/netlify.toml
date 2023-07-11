@@ -272,7 +272,7 @@
   force = true
 [[redirects]]
   from = "/events/slugs-steins/2021/"
-  to = "https://ucsc.zoom.us/webinar/register/WN_cPJ6XTCoRguDAbBkvyEiDg"
+  to = "https://alumni.ucsc.edu/events/regional-events/2021/10/oct-slugs-steins.html"
   status = 301
   force = true
 [[redirects]]
@@ -368,6 +368,11 @@
 [[redirects]]
   from = "/events/ias/2023/"
   to = "https://calendar.ucsc.edu/event/institute_of_the_arts_sciences_gallery_opening#.Y88LaS-B2gR"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/events/slugs-steins/2023/"
+  to = "https://transform.ucsc.edu/event/darryl-wong-farming/"
   status = 301
   force = true
 [[redirects]]
