@@ -5,7 +5,7 @@ category: Lecture
 layout: full-page
 
 #### date of the latest event to sort
-date: "2020-10-11"
+date: "2023-07-10"
 
 permalink: /:collection/slugs-steins
 ---
