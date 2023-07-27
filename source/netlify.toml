@@ -376,6 +376,11 @@
   status = 301
   force = true
 [[redirects]]
+  from = "/events/return-to-the-redwoods/2023/"
+  to = "https://returntotheredwoods.org"
+  status = 301
+  force = true
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
