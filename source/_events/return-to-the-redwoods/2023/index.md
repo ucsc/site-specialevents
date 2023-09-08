@@ -5,7 +5,7 @@ description: 'Introducing a reimagined campus experience for UC Santa Cruz alumn
 category: Signature Series
 
 tags:
-  - Slugs Steins
+  - redwoods
   - Current
   - Featured
 
