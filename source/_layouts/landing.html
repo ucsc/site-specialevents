@@ -134,7 +134,10 @@
               {% if page.registration-url != null %}
                 <h5 class="blue-text">Registration:</h5>
                 <p>
-                  <a href="{{ page.registration-url }}" class="btn-link">{{ page.register-text }}</a>
+                  <a href="{{ page.registration-url }}" class="btn-link">{{ page.register-text }}</a><br/>
+                  {% if page.register-info != null %}
+                    {{ page.register-info }}
+                  {% endif %}
                 </p>
               {% endif %}
             <!-- End Sidebar registration -->
