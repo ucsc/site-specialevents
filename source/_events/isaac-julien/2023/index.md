@@ -2,7 +2,7 @@
 title: "An Evening at the Tate Britain Featuring Professor Isaac Julien"
 description: "UC Santa Cruz Chancellor Cynthia Larive, in partnership with the leadership of UC UK, invites you and a guest to a special evening at the Tate Britain to celebrate the first major UK exhibition by one of today's most compelling artists and filmmakers—UC Santa Cruz Professor Sir Isaac Julien."
 
-event-type: Signature
+event-type: Lecture Series
 category: isaac
 
 tags:
