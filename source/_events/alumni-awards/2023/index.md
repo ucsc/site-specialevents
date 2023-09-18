@@ -1,5 +1,5 @@
 ---
-title: "2023 UC Santa Cruz Alumni Award Recipients"
+title: "2023 UC Santa Cruz Alumni Award Celebration"
 description: "UC Santa Cruz recognizes and honors alumni who have demonstrated outstanding professional achievements, made distinct contributions to society, provided impactful contributions to UC Santa Cruz, and embodied the university’s values and spirit."
 
 nav-collection: ucsc-alumni
