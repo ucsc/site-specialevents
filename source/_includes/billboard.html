@@ -15,8 +15,9 @@
                             {{ page.title }}
                           </h1>
                           <!-- End billboard title -->
-                          {% if page.billboard.day != null %}
-                            <p class="hero-body"><large>
+                            <p class="hero-body">
+                              <large class="event-details">
+                            {% if page.billboard.day != null %}
                               {% if page.billboard.day != null %}
                                 {{ page.billboard.day }}, {% endif %}{{ page.billboard.month}} {% if page.billboard.date != null %}{{ page.billboard.date }}, {{ page.billboard.year }} <br/>
                               {% endif %}
@@ -26,8 +27,14 @@
                               {% if page.billboard.starttime != null %}
                                 {{ page.billboard.starttime }} {% if page.billboard.endtime != null %} — {% endif %} {{ page.billboard.endtime }}
                               {% endif %}
+                            {% endif %}
                           </large>
-                          {% endif %}
+                          <large class="event-description">
+                            {% if page.billboard.description-text != null %}
+                              {{ page.billboard.description-text }}
+                            {% endif %}
+                          </large>
+                          
                           {% if page.registration-url != null %}
                             {% if page.register-text != null %}
                               <a class="button primary expanded" href="{{ page.registration-url }}">{{ page.register-text }}</a></p>
