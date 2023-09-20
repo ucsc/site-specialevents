@@ -26,3 +26,6 @@ published: true
         <div class="caption-title">{{page.title}} (Ph.D. ’83, literature)</div>
     </figcaption>
 </figure>
+
+
+This award will be presented posthumously to bell's surviving siblings.

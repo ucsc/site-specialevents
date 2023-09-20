@@ -1,5 +1,5 @@
 ---
-title: "2023 UC Santa Cruz Alumni Award Celebration"
+title: "2023 Alumni Award Recipients"
 description: "UC Santa Cruz recognizes and honors alumni who have demonstrated outstanding professional achievements, made distinct contributions to society, provided impactful contributions to UC Santa Cruz, and embodied the university’s values and spirit."
 
 nav-collection: ucsc-alumni
@@ -22,9 +22,9 @@ billboard:
   date: 27
   year: 2023
   image: "/events/alumni-awards/2023/images/banner.gif"
-  starttime: 
-  endtime: 
-  description-text: "<strong>Fiat Lux Award:</strong><br/> Susan (Su) Nerton, Lisa Rose, Jim Lapsley<br/><strong>Alumni Achievement Award:</strong><br/> bell hooks, Mark Phillips<br/><strong>Outstanding Recent Alumni Award:</strong><br/> Abel Pineda<br/><strong>UCSC Ethos Award:</strong><br/> Bettina Aptheker"
+  starttime: 5:30pm
+  endtime: 9:00pm
+  description-text: '<p><strong>Fiat Lux Award:</strong> Susan (Su) Nerton, Lisa Rose, Jim Lapsley</p><p><strong>Alumni Achievement Award:</strong> bell hooks, Mark Phillips</p><p><strong>Outstanding Recent Alumni Award:</strong> Abel Pineda</p><p><strong>UCSC Ethos Award:</strong> Bettina Aptheker</p><p><strong><a href="https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4663&cid=10667" class="button secondary small expanded">Join the Celebration | 10/27/2023</a></strong></p>'
 
 #### sidebar information
 location: 
@@ -43,7 +43,7 @@ published: true
 
 UC Santa Cruz recognizes and honors alumni who have demonstrated outstanding professional achievements, made distinct contributions to society, provided impactful contributions to UC Santa Cruz, and embodied the university’s values and spirit.
 
-When the UCSC Alumni Association solicited nominations from members of the UCSC community, they were thrilled to receive over 70 wonderful nominations. Now, we are honored to announce the amazing alumni selected to receive this year’s alumni awards.
+When the UCSC Alumni Association solicited nominations from members of the UCSC community, they were thrilled to receive over 70 wonderful nominations. We are honored to announce the amazing alumni selected to receive this year’s alumni awards.
 
 On Friday, October 27, 2023 we will honor and celebrate seven amazing alumni as they accept their alumni awards. We hope you will join us for a beautiful night of celebration. 
 
@@ -68,7 +68,7 @@ The Fiat Lux Award honors alumni and friends of UC Santa Cruz who have demonstra
           <div class="content">
               <h3 class="underline"><strong>Susan (Su) Nerton</strong> (Crown ’71, psychology; computer and information science ’87)</h3>
               <p>Sue’s four years at UCSC created an awareness of how excellent integrated education could be a springboard to whatever came next. She was the first in her extended family to graduate from a college or university. She spent some quality time contemplating next steps, but knew teaching was her calling. Math was always a first love; personal computers were in their infancy and she found them intriguing.</p>
-              <a class="button secondary" href="susan-norten">Read More</a>
+              <a class="button secondary" href="su-nerton">Read More</a>
           </div>
           <div class="media">
             <div class="image">
@@ -134,7 +134,7 @@ The Alumni Achievement Award is presented to UC Santa Cruz graduates who are ren
         <div class="inner wave-pattern pink">
           <div class="content">
               <h3 class="underline"><strong>bell hooks</strong> (Ph.D. ’83, literature)</h3>
-              <br/><span><em>Posthumous</em></span>
+              <br/><span><em>This award will be presented posthumously to bell's surviving siblings.</em></span>
               <p></p>
               <a class="button secondary" href="bell-hooks">Read More</a>
           </div>
@@ -172,7 +172,7 @@ The Alumni Achievement Award is presented to UC Santa Cruz graduates who are ren
 
 ## Outstanding Recent Alumni Award
 
-The Outstanding Recent Alumni Award honors alumni who have graduated within the past 10 years and who are recognized for their notable achievements. This year’s winner is applauded for his extraordinary professional achievements and his significant contributions to society. He reflects the values and mission of UCSC. Meet:
+The Outstanding Recent Alumni Award honors alumni who have graduated within the past 10 years and who are recognized for their notable achievements. This year’s winner is applauded for his extraordinary professional achievements and his significant contributions to society. He reflects the values and mission of UCSC.
 
 <div class="component-wrapper">
   <!-- Abel -->
@@ -183,6 +183,7 @@ The Outstanding Recent Alumni Award honors alumni who have graduated within the 
           <div class="content">
               <h3 class="underline"><strong>Abel Pineda</strong> (Oakes ’14, sociology)</h3>
               <p>As a first-generation college graduate, Abel has consistently demonstrated an unwavering commitment to using his education and life experiences to improve society.</p>
+              <p>Abel's path to public service was significantly shaped by a tragic event in 2007, when he lost his best friend to gang violence. Motivated by mentors who recognized his potential, he channeled his personal experiences into advocating for informed and impactful public policy changes. While at Richmond High School, Abel was elected by his peers to serve on the school site council. He played a pivotal role in establishing both the City of San Pablo and the West Contra Costa Unified School District Youth Commission, highlighting his early dedication to community involvement.</p>
               <a class="button secondary" href="abel-pineda">Read More</a>
           </div>
           <div class="media">
@@ -199,7 +200,7 @@ The Outstanding Recent Alumni Award honors alumni who have graduated within the 
 
 ## UCSC Ethos Award
 
-The UC Santa Cruz Ethos Award recognizes UC Santa Cruz alumni whose work and contribution to their community embodies and reflects the ethos of UCSC. The award is given to alumni who embrace diversity, strive for an inclusive community, and encourage the free exchange of ideas. The awardee is committed to serving society and advancing knowledge; displaying respect, trust, and support that strengthens their community; and advocating for equitable access, respect, and human dignity. Alumni deserving of this award celebrate others’ heritage, achievements, uniqueness, and contributions. This year’s recipient, as both an alumna and faculty emerita, embodies the Banana Slug spirit and expresses it through her work. Meet:
+The UC Santa Cruz Ethos Award recognizes UC Santa Cruz alumni whose work and contribution to their community embodies and reflects the ethos of UCSC. The award is given to alumni who embrace diversity, strive for an inclusive community, and encourage the free exchange of ideas. The awardee is committed to serving society and advancing knowledge; displaying respect, trust, and support that strengthens their community; and advocating for equitable access, respect, and human dignity. Alumni deserving of this award celebrate others’ heritage, achievements, uniqueness, and contributions. This year’s recipient, as both an alumna and faculty emerita, embodies the Banana Slug spirit and expresses it through her work.
 
 <div class="component-wrapper">
   <!-- Abel -->
@@ -225,9 +226,17 @@ The UC Santa Cruz Ethos Award recognizes UC Santa Cruz alumni whose work and con
 </div>
 
 <style>
-  .hero-body .button,
-  .hero-body .event-details {
+  .hero-body .event-details,
+  .button.primary {
     display: none;
+  }
+
+  .hero-body .description-text .button {
+    display: block;
+  }
+
+  .hero-viewport.inner-page-standard .hero-text p {
+    margin: 0 0 .25em 0;
   }
   .component-wrapper {
     padding:  0;
@@ -254,8 +263,22 @@ The UC Santa Cruz Ethos Award recognizes UC Santa Cruz alumni whose work and con
     }
   }
   @media screen and (min-width: 75em) {
+    .hero-text {
+      top:0 !important;
+    }
     .grid-container.large {
         padding:0
+      }
+      .hero-viewport.inner-page-standard .hero-container .hero-text h1 {
+      font-size: 2rem;
     }
-}
+  }
+  @media screen and (min-width: 75em) {
+    .grid-container.large {
+        padding:0
+      }
+    .hero-viewport.inner-page-standard .hero-container .hero-text h1 {
+      font-size: 2rem;
+    }
+  }
 </style>

@@ -75,8 +75,35 @@
         </div>
         <div class="column-support">
           <div class="content-block">
+            <!-- Right sidebar event date and time -->
+              {% if page.billboard.date != null %}
+                <h5 class="blue-text">Event Date:</h5>
+                <p>{{ page.billboard.day }}, {{ page.billboard.month }} {{ page.billboard.date }}, {{ page.billboard.year }} <br/>
+              {{ page.billboard.starttime }} {% if page.billboard.endtime != null %}-  {{ page.billboard.endtime }} {% endif %}</p>
+              {% endif %}
+            <!-- Dnd right sidebar date and time -->
+            <!-- Right sidebar address -->
+              {% if page.location.address != null %}
+                <h5 class="blue-text">Locations:</h5>
+                <p>{{ page.location.location-name }} | {{ page.location.address }}
+                  {% if page.location.addresslink != null %}
+                    <a href="{{ page.location.addresslink }}" class="btn-link">map <i class="fas fa-map"></i></a>
+                  {% endif %}
+                </p>
+              {% endif %}
+            <!-- End right sidebar address -->
+            <!-- Sidebar event registration -->
+              {% if page.registration-url != null %}
+                <h5 class="blue-text">Registration:</h5>
+                <p>
+                  <a href="{{ page.registration-url }}" class="btn-link">{{ page.register-text }}</a><br/>
+                  {% if page.register-info != null %}
+                    {{ page.register-info }}
+                  {% endif %}
+                </p>
+              {% endif %}
+            <!-- End Sidebar registration -->
             <!-- Landing nav-order links -->
-
             {% if page.nav-order != null %}
               <ul class="sidebar-nav">
                 {% for event in site.events %}
@@ -113,34 +140,6 @@
                 </ul>
             {% endif %}
             <!-- End speakers listing -->
-            <!-- Right sidebar event date and time -->
-              {% if page.billboard.date != null %}
-                <h5 class="blue-text">Date:</h5>
-                <p>{{ page.billboard.day }}, {{ page.billboard.month }} {{ page.billboard.date }}, {{ page.billboard.year }} <br/>
-              {{ page.billboard.starttime }} {% if page.billboard.endtime != null %}-  {{ page.billboard.endtime }} {% endif %}</p>
-              {% endif %}
-            <!-- Dnd right sidebar date and time -->
-            <!-- Right sidebar address -->
-              {% if page.location.address != null %}
-                <h5 class="blue-text">Locations:</h5>
-                <p>{{ page.location.location-name }} | {{ page.location.address }}
-                  {% if page.location.addresslink != null %}
-                    <a href="{{ page.location.addresslink }}" class="btn-link">map <i class="fas fa-map"></i></a>
-                  {% endif %}
-                </p>
-              {% endif %}
-            <!-- End right sidebar address -->
-            <!-- Sidebar event registration -->
-              {% if page.registration-url != null %}
-                <h5 class="blue-text">Registration:</h5>
-                <p>
-                  <a href="{{ page.registration-url }}" class="btn-link">{{ page.register-text }}</a><br/>
-                  {% if page.register-info != null %}
-                    {{ page.register-info }}
-                  {% endif %}
-                </p>
-              {% endif %}
-            <!-- End Sidebar registration -->
           </div>
         </div>
 
