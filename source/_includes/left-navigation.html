@@ -3,10 +3,13 @@
     <ul class="vertical menu">
       {% for event in site.events %}
       {% assign pagenav = event.nav-collection %}
-        {% if pagenav == page.nav-collection and event.nav-order == 1 %}
+      {% assign pagenavhome = event.nav-home %}
+        {% if pagenav == page.nav-collection and event.nav-order == 1 and pagenavhome == event.nav-home %}
+          <li class=""><a href="{{ site.baseurl }}{{ event.url }}" aria-label="{{ event.title }}" class="section-title">{{ event.nav-home }}</a></li>
+        {% elsif pagenav == page.nav-collection and event.nav-order == 1 %}
           <li class=""><a href="{{ site.baseurl }}{{ event.url }}" aria-label="{{ event.title }}" class="section-title">Home</a></li>
         {% endif %}
-      {% endfor %}
+      {% endfor %} 
       {% if event.order != 1 %}
       <ul class="menu vertical nested">
         {% for event in site.events %}

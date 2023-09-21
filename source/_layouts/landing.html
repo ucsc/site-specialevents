@@ -108,7 +108,14 @@
               <ul class="sidebar-nav">
                 {% for event in site.events %}
                   {% assign pagenav = event.nav-collection %}
-                  {% if pagenav == page.nav-collection and event.nav-order == 1 %}
+                  {% assign pagenavhome = event.nav-home %}
+                  {% if pagenav == page.nav-collection and event.nav-order == 1 and pagenavhome == event.nav-home %}
+                    <li>
+                      <a class="button" href="{{ site.baseurl }}{{ event.url }}" target="_self">
+                      <span class="button-text"><strong class="blue-text">{{ event.nav-home }}</strong> </span>
+                      </a>
+                    </li>
+                  {% elsif pagenav == page.nav-collection and event.nav-order == 1 %}
                     <li>
                       <a class="button" href="{{ site.baseurl }}{{ event.url }}" target="_self">
                       <span class="button-text"><strong class="blue-text">Home</strong> </span>

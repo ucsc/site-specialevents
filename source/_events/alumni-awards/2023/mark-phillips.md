@@ -5,6 +5,7 @@ description: "Born in San Diego, Mark earned an undergraduate degree in astronom
 
 nav-collection: ucsc-alumni
 nav-order: 6
+nav-home: "Alumni Awards Celebration"
 
 date: "2022-10-27"
 
