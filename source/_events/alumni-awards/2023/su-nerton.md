@@ -4,6 +4,7 @@ description: "Sue’s four years at UCSC created an awareness of how excellent i
 
 nav-collection: ucsc-alumni
 nav-order: 2
+nav-home: "Alumni Awards Celebration"
 
 date: "2022-10-27"
 
@@ -27,9 +28,9 @@ published: true
 </figure>
 
 
-Sue’s four years at UCSC created an awareness of how excellent integrated education could be a springboard to whatever came next. She was the first in her extended family to graduate from a college or university. She spent some quality time contemplating next steps, but knew teaching was her calling. Math was always a first love; personal computers were in their infancy and she found them intriguing.
+Su’s four years at UCSC created an awareness of how excellent integrated education could be a springboard to whatever came next. She was the first in her extended family to graduate from a college or university. She spent some quality time contemplating next steps, but knew teaching was her calling. Math was always a first love; personal computers were in their infancy and she found them intriguing.
 
-Susan met the love of her life in 1975 and married in 1977. Tom and Susan lived on the westside of Santa Cruz raising their two boys. She spent most of her early professional life working with school groups to promote gender equity in math, science, engineering and technical fields (now called STEM education.) She worked as a workshop presenter for the EQUALS Project (UC Berkeley), and wrote grants to fund projects such as Expanding Your Horizons Conferences, and Gender Equity in Math & Science Workshops for Santa Cruz County.
+Susan met the love of her life in 1975 and married in 1977. Tom and Susan live on the westside of Santa Cruz raising their two boys. She spent most of her early professional life working with school groups to promote gender equity in math, science, engineering and technical fields (now called STEM education.) She worked as a workshop presenter for the EQUALS Project (UC Berkeley), and wrote grants to fund projects such as Expanding Your Horizons Conferences, and Gender Equity in Math & Science Workshops for Santa Cruz County.
 
 Susan returned to UCSC in 1983 to complete a second B.A. in Information and Computer Science. She taught computer science at Cabrillo Community College in Aptos, California, for 25 years and held the position of Program Chair for both the Computer Science and Computer & Information Systems departments for 15 years. Upon retiring from Cabrillo College in 2013 Susan was awarded the Floyd L Younger Award for Teaching Excellence.
 

@@ -5,6 +5,7 @@ description: "A native Californian, Jim Lapsley is a member of Crown College’s
 
 nav-collection: ucsc-alumni
 nav-order: 6
+nav-home: "Alumni Awards Celebration"
 
 date: "2022-10-27"
 

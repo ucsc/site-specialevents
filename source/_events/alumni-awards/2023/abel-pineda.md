@@ -5,6 +5,7 @@ description: "As a first-generation college graduate, Abel has consistently demo
 
 nav-collection: ucsc-alumni
 nav-order: 5
+nav-home: "Alumni Awards Celebration"
 
 date: "2022-10-27"
 

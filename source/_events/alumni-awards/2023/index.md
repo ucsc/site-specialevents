@@ -4,6 +4,7 @@ description: "UC Santa Cruz recognizes and honors alumni who have demonstrated o
 
 nav-collection: ucsc-alumni
 nav-order: 1
+nav-home: "Alumni Awards Celebration"
 
 event-type: Signature
 category: Alumni-Awards
@@ -135,7 +136,7 @@ The Alumni Achievement Award is presented to UC Santa Cruz graduates who are ren
           <div class="content">
               <h3 class="underline"><strong>bell hooks</strong> (Ph.D. ’83, literature)</h3>
               <br/><span><em>This award will be presented posthumously to bell's surviving siblings.</em></span>
-              <p></p>
+              <p>bell hooks (born Gloria Jean Watkins) was a noted intellectual, trailblazing author and theorist, cultural critic, artist, poet, and public speaker. Born and raised in Hopkinsville, Kentucky, the fourth of seven children of Veodis and Rosa Bell Watkins, she learned to read and write at an early age—proclaiming as a young child that she would be famous one day. Indeed, bell hooks left an indelible mark on our world.</p>
               <a class="button secondary" href="bell-hooks">Read More</a>
           </div>
           <div class="media">
