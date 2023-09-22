@@ -28,7 +28,7 @@ published: true
     </figcaption>
 </figure>
 
-
+*This award will be presented posthumously to bell's surviving siblings.*
 bell hooks (born Gloria Jean Watkins) was a noted intellectual, trailblazing author and theorist, cultural critic, artist, poet, and public speaker. Born and raised in Hopkinsville, Kentucky, the fourth of seven children of Veodis and Rosa Bell Watkins, she learned to read and write at an early age—proclaiming as a young child that she would be famous one day. Indeed, bell hooks left an indelible mark on our world.
 
 bell was an inspiring and highly sought-after scholar.  She earned degrees in English literature from Stanford University (B.A. 1973) and University of Wisconsin-Madison (M.A. 1976), before earning her Ph.D. at UC Santa Cruz. Her professional teaching career included UC Santa Cruz, Yale University, Oberlin College, The City College of New York, and Distinguished Professor in Residence at Berea College.  While at Yale in the 1980s, bell led a support group of Black women called “Sisters of the Yam.” bell’s work with students and her approach to education has played a significant role in her incredible legacy.

@@ -35,7 +35,7 @@ location:
 
 registration-url: https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4663&cid=10667
 register-text: "Register Now"
-register-info: "$75 per person or $600 for a table of eight."
+register-info: "$75 per person"
 
 layout: landing
 
@@ -68,7 +68,7 @@ The Fiat Lux Award honors alumni and friends of UC Santa Cruz who have demonstra
         <div class="inner wave-pattern pink">
           <div class="content">
               <h3 class="underline"><strong>Susan (Su) Nerton</strong> (Crown ’71, psychology; computer and information science ’87)</h3>
-              <p>Sue’s four years at UCSC created an awareness of how excellent integrated education could be a springboard to whatever came next. She was the first in her extended family to graduate from a college or university. She spent some quality time contemplating next steps, but knew teaching was her calling. Math was always a first love; personal computers were in their infancy and she found them intriguing.</p>
+              <p>Su’s four years at UCSC created an awareness of how excellent integrated education could be a springboard to whatever came next. She was the first in her extended family to graduate from a college or university. She spent some quality time contemplating next steps, but knew teaching was her calling. Math was always a first love; personal computers were in their infancy and she found them intriguing.</p>
               <a class="button secondary" href="su-nerton">Read More</a>
           </div>
           <div class="media">
@@ -135,8 +135,7 @@ The Alumni Achievement Award is presented to UC Santa Cruz graduates who are ren
         <div class="inner wave-pattern pink">
           <div class="content">
               <h3 class="underline"><strong>bell hooks</strong> (Ph.D. ’83, literature)</h3>
-              <br/><span><em>This award will be presented posthumously to bell's surviving siblings.</em></span>
-              <p>bell hooks (born Gloria Jean Watkins) was a noted intellectual, trailblazing author and theorist, cultural critic, artist, poet, and public speaker. Born and raised in Hopkinsville, Kentucky, the fourth of seven children of Veodis and Rosa Bell Watkins, she learned to read and write at an early age—proclaiming as a young child that she would be famous one day. Indeed, bell hooks left an indelible mark on our world.</p>
+              <p><em>This award will be presented posthumously to bell's surviving siblings.</em> bell hooks (born Gloria Jean Watkins) was a noted intellectual, trailblazing author and theorist, cultural critic, artist, poet, and public speaker. Born and raised in Hopkinsville, Kentucky, the fourth of seven children of Veodis and Rosa Bell Watkins, she learned to read and write at an early age—proclaiming as a young child that she would be famous one day. Indeed, bell hooks left an indelible mark on our world.</p>
               <a class="button secondary" href="bell-hooks">Read More</a>
           </div>
           <div class="media">
