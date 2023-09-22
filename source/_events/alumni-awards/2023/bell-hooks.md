@@ -21,7 +21,7 @@ published: true
 ## {{ page.title }} 
 (Ph.D. ’83, literature)
 
-<figure class="img-50">
+<figure class="img-right-50">
     <img src="images/bell-hooks.jpg" alt="Mark Phillips">
     <figcaption>
         <div class="caption-title">{{page.title}} (Ph.D. ’83, literature)</div>
