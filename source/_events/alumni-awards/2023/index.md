@@ -25,7 +25,7 @@ billboard:
   image: "/events/alumni-awards/2023/images/banner.gif"
   starttime: 5:30pm
   endtime: 9:00pm
-  description-text: '<p><strong>Fiat Lux Award:</strong> Susan (Su) Nerton, Lisa Rose, Jim Lapsley</p><p><strong>Alumni Achievement Award:</strong> bell hooks, Mark Phillips</p><p><strong>Outstanding Recent Alumni Award:</strong> Abel Pineda</p><p><strong>UCSC Ethos Award:</strong> Bettina Aptheker</p><p><strong><a href="https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4663&cid=10667" class="button secondary small expanded">Join the Celebration | 10/27/2023</a></strong></p>'
+  description-text: '<p><strong><a href="#fiat-lux">Fiat Lux Award</a>:</strong> Susan (Su) Nerton, Lisa Rose, Jim Lapsley</p><p><strong><a href="#alumni-achievement">Alumni Achievement Award</a>:</strong> bell hooks, Mark Phillips</p><p><strong><a href="#outstanding">Outstanding Recent Alumni Award</a>:</strong> Abel Pineda</p><p><strong><a href="#ethos">UCSC Ethos Award</a>:</strong> Bettina Aptheker</p><p><strong><a href="https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4663&cid=10667" class="button secondary small expanded">Join the Celebration | 10/27/2023</a></strong></p>'
 
 #### sidebar information
 location: 
@@ -56,6 +56,7 @@ On Friday, October 27, 2023 we will honor and celebrate seven amazing alumni as 
 - **8:00 p.m. Dessert Reception**
 
 
+<a name="fiat-lux" id="fiat-lux"></a> 
 ## Fiat Lux Award
 
 The Fiat Lux Award honors alumni and friends of UC Santa Cruz who have demonstrated outstanding achievement and distinguished service in support of the university’s programs and goals. Three Crown College alumni—Lisa Rose, Su Nerton, and Jim Lapsley—have provided distinguished service to UC Santa Cruz, and their support has made an indelible impact on the campus. They were founding members of the Crown Provost Advisory Committee (CPAC), and some of the projects they led include fundraising for the complete renovation of the Crown Library, upgrading the Fireside Lounge, and executing the first-ever Crown 50th reunion in 2022. To top it all off, they joined together to raise over $1 million toward the Crown College Endowment.  All three are outstanding advocates and supporters of UCSC. They have displayed exceptional dedication to UC Santa Cruz and accomplished an outstanding achievement that elevates the campus. 
@@ -123,6 +124,7 @@ The Fiat Lux Award honors alumni and friends of UC Santa Cruz who have demonstra
   <!-- End Jim -->
 </div>
 
+<a name="alumni-achievement" id="alumni-achievement"></a> 
 ## Alumni Achievement Award
 
 The Alumni Achievement Award is presented to UC Santa Cruz graduates who are renowned for their distinguished professional achievement, leadership, and service to the community. The alumni receiving this award have made a positive impact in the lives of others and are recognized for their longevity and consistency of accomplishments over their professional lifetime. This year, we are presenting this award to two alumni who have made distinct contributions in their respective professions, and both are recognized for their notable achievements in their respective fields. Both are highly regarded for their professional achievements and contributions to society. Meet:
@@ -170,6 +172,7 @@ The Alumni Achievement Award is presented to UC Santa Cruz graduates who are ren
   <!-- End bell -->
 </div>
 
+<a name="outstanding" id="outstanding"></a> 
 ## Outstanding Recent Alumni Award
 
 The Outstanding Recent Alumni Award honors alumni who have graduated within the past 10 years and who are recognized for their notable achievements. This year’s winner is applauded for his extraordinary professional achievements and his significant contributions to society. He reflects the values and mission of UCSC.
@@ -197,6 +200,8 @@ The Outstanding Recent Alumni Award honors alumni who have graduated within the 
   </section>
   <!-- End Abel -->
 </div>
+
+<a name="ethos" id="ethos"></a> 
 
 ## UCSC Ethos Award
 
@@ -247,21 +252,40 @@ The UC Santa Cruz Ethos Award recognizes UC Santa Cruz alumni whose work and con
   .profile-w-media {
     padding: 2rem 0;
   }
+
+
   @media print, screen and (max-width: 31.5em) {
     .profile .image {
       max-height: none;
+    }
+    .hero-container a {
+      color: #fdc700;
     }
   }
   @media print, screen and (min-width: 31.5em) {
     .profile .image {
       max-height: none;
     }
+    .hero-container a {
+      color: #fdc700;
+    }
   }
-  @media print, screen and (min-width: 40em) {
+
+  @media print, screen and (max-width: 64em) {
+    .hero-container a {
+      color: #fdc700;
+    }
+  }
+
+  @media print, screen and (min-width: 64em) {
     .profile .image {
       max-height: none;
     }
+    .hero-container a {
+      color: #006aad;
+    }
   }
+
   @media screen and (min-width: 75em) {
     .hero-text {
       top:0 !important;
@@ -272,6 +296,9 @@ The UC Santa Cruz Ethos Award recognizes UC Santa Cruz alumni whose work and con
       .hero-viewport.inner-page-standard .hero-container .hero-text h1 {
       font-size: 2rem;
     }
+    .hero-container a {
+      color: #006aad;
+    }
   }
   @media screen and (min-width: 75em) {
     .grid-container.large {
@@ -279,6 +306,9 @@ The UC Santa Cruz Ethos Award recognizes UC Santa Cruz alumni whose work and con
       }
     .hero-viewport.inner-page-standard .hero-container .hero-text h1 {
       font-size: 2rem;
+    }
+    .hero-container a {
+      color: #006aad;
     }
   }
 </style>
