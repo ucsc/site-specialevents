@@ -21,8 +21,8 @@ permalink: /help-in-planning/index.html
 **[Kristin Palma](mailto:kpalma@ucsc.edu)** <br/>
 Director, Special Events Office
 
-**[Nichole Torres](mailto:nickit@ucsc.edu)**<br/>
-Senior Events Coordinator
+**[Stephanie Greer](mailto:stjgreer@ucsc.edu)**<br/>
+Event Coordinator
 
 **[Diana Hogue](mailto:dhogue@ucsc.edu)**<br/>
 Senior Events Coordinator
