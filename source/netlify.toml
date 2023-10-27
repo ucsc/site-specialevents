@@ -381,6 +381,11 @@
   status = 301
   force = true
 [[redirects]]
+  from = "/events/founders/2017/"
+  to = "https://specialevents.ucsc.edu/events/founders"
+  status = 301
+  force = true
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
