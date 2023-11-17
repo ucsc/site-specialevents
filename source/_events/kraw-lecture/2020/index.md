@@ -1,20 +1,20 @@
 ---
-title: "Habitable Exoplanets with Extremely Large Telescopes"
+title: "Bridging the Gap Between Artificial Intelligence and Natural Intelligence"
 description: "Fifty-three years ago, 600 million people watched the Apollo 11 astronauts take the first human steps on another world. In 1969, the number of worlds worth walking on was small: just the few dozen planets and moons that make up the Earth’s siblings orbiting the Sun."
 
 #### Date of the event
-date: "2022-06-16"
+date: "2023-12-6"
 
 
 #### billboard
 billboard:
-  homepage-title: 'Habitable Exoplanets with Extremely Large Telescopes'
+  homepage-title: 'Bridging the Gap Between Artificial Intelligence and Natural Intelligence'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
-  day: Thursday
-  month: June
-  date: 16
-  year: 2022
+  day: Wednesday
+  month: December
+  date: 6
+  year: 2023
   starttime: 5:30 p.m.
   endtime: 7:00 p.m.
 
@@ -34,6 +34,7 @@ category: Lecture Series
 tags:
   - Kraw Lecture
   - Current
+  - Featured
 
 layout: landing
 
@@ -45,6 +46,28 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 <a name="listing"></a>**These talks are free and open to the public**
 
 **Our Kraw Lecture Series is so fantastic, we want to bring it right to you via live streaming. If you aren't able to join us in person the night of the event, you can now stream the lectures and join in the conversation via online comments. <!--Lecture and live stream typically begin at 7 p.m.-->**
+
+
+---
+
+### The UC Santa Cruz Kraw Lecture Series presents: Bridging the Gap Between Artificial Intelligence and Natural Intelligence
+
+#### December 6, 2023
+
+The brain is the perfect place to look for inspiration to develop more efficient neural networks. Indeed, the inner workings of our synapses and neurons offer a glimpse at what the future of deep learning might look like. Our brains are constantly adapting, our neurons processing all that we know, mistakes we’ve made, failed predictions—all working to anticipate what will happen next with incredible speed. Our brains are also amazingly efficient. Training large-scale neural networks can cost more than $10 million in energy expense, yet the human brain does remarkably well on a power budget of 20 watts.  
+ 
+We can apply the computational principles that underpin the brain, and use them to engineer more efficient systems that adapt to ever changing environments. There is an interplay between neural inspired algorithms, how they can be deployed on low-power microelectronics, and how the brain provides a blueprint for this process.
+
+##### Our Speaker
+
+**Jason K. Eshraghian** is an assistant professor with the Department of Electrical and Computer Engineering at UC Santa Cruz. He received Bachelor of Engineering (Electrical and Electronic) and Bachelor of Laws degrees from University of Western Australia, WA, Australia in 2016 where he also received a Ph.D. in 2019. From 2019 to 2022, he was a postdoctoral research fellow at the University of Michigan, MI,. He serves as the Secretary of the Neural Systems and Applications Technical Committee. He is the recipient of a Fulbright Fellowship (Australian-American Fulbright Commission), a Forrest Research Fellowship (Forrest Research Foundation), and the Endeavour Research Fellowship (Australian Government). His research interests include neuromorphic computing, spiking neural networks, and memory circuits, and he is the developer of snnTorch, a widely used Python library with over 100,000 downloads used to train and model spiking neural networks.
+
+
+{: .button .primary .small}
+[In-Person Doors open at 5:30](https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4742&cid=11239&utm_source=MarketingCloud&utm_medium=email&utm_campaign=_%2723+December+Kraw+Lecture&utm_content=https%3a%2f%2fsecure.ucsc.edu%2fs%2f1069%2fbp18%2finterior.aspx%3fsid%3d1069%26gid%3d1001%26pgid%3d4742%26cid%3d11239)
+
+{: .button .primary .small}
+[Virtual 6 p.m.](https://ucsc.zoom.us/webinar/register/WN_yQxaMAYoS_iycjKa_dA0Yw?utm_source=MarketingCloud&utm_medium=email&utm_campaign=_%2723+December+Kraw+Lecture&utm_content=https%3a%2f%2fucsc.zoom.us%2fwebinar%2fregister%2fWN_yQxaMAYoS_iycjKa_dA0Yw#/registration)
 
 
 ---
