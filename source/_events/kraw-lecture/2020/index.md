@@ -19,8 +19,8 @@ billboard:
   endtime: 7:00 p.m.
 
 location:
-  address: Virtual Event
-  addresslink: 
+  address: 3175 Bowers Ave, Santa Clara, CA 95054
+  addresslink: "https://www.google.com/maps/place/3175+Bowers+Ave,+Santa+Clara,+CA+95054/@37.3797017,-121.9791287,17z/data=!3m1!4b1!4m6!3m5!1s0x808fc9f1ee90f75b:0xa998062f4b03436c!8m2!3d37.3796975!4d-121.9765484!16s%2Fg%2F11c271bhhh?entry=ttu"
 
 #### custom button
 registration-url: '#listing'
