@@ -97,7 +97,7 @@ layout: home-page
   -->
   <!-- End three current events: Tag Home to display -->
   <div class="more no-border">
-    <a class="primary button" href="https://events.ucsc.edu/">
+    <a class="primary button" href="https://calendar.ucsc.edu/">
       See Other Events
     </a>
   </div>
