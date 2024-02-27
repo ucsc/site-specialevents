@@ -1,6 +1,7 @@
 .hero-viewport {
     margin-top: 0;
     vertical-align: middle;
+    padding: 1em 0;
 
     @include breakpoint(overlylarge){
         max-width: 108rem;
@@ -246,7 +247,7 @@
             }
 
             @include breakpoint(xxxlarge){
-                font-size: 3.8rem;
+                font-size: 2.5rem;
                 line-height: 1.2;
             }
         }
@@ -260,11 +261,11 @@
             font-weight: 700;
 
             @include breakpoint(xlarge){
-                font-size: 2.4rem;
+                font-size: 2rem;
             }
 
             @include breakpoint(xxxlarge){
-                font-size: 3.2rem;
+                font-size: 2.5rem;
                 line-height: 1.2;
             }
         }  
@@ -312,15 +313,15 @@
                     margin-bottom: 0;
             
                     @include breakpoint(xlarge){
-                        font-size: 2rem;
+                        font-size: 1.75rem;
                     }
 
                     @include breakpoint(xxlarge){
-                        font-size: 2.4rem;
+                        font-size: 2rem;
                     }
             
                     @include breakpoint(xxxlarge){
-                        font-size: 3.2rem;
+                        font-size: 2.5rem;
                         line-height: 1.1;
                     }
                 }
