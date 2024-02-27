@@ -109,10 +109,14 @@ a.whitelink:focus {
 .skipnav a { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
 .skipnav a:focus, .skipnav a:active { position: static; left: 0; width: auto; height: auto; overflow: visible; text-decoration: underline; }
 
-.hero-viewport.inner-page-standard .hero-container .hero-text h1 {
-  font-size: 2.5rem;
+.hero-viewport.inner-page-standard .hero-container {
+  padding: 1em 0;
 }
 
+@media screen and (min-width: 90em)
+  .hero-viewport .inner-page-standard .hero-container .hero-text h1 {
+    font-size: 2.5rem;
+}
 
 /*End location address */
 /* min-width 641px, medium screens */

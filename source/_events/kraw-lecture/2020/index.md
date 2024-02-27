@@ -1,25 +1,25 @@
 ---
-title: "Bridging the Gap Between Artificial Intelligence and Natural Intelligence"
-description: "Fifty-three years ago, 600 million people watched the Apollo 11 astronauts take the first human steps on another world. In 1969, the number of worlds worth walking on was small: just the few dozen planets and moons that make up the Earth’s siblings orbiting the Sun."
+title: "Designing human AI-ecosystems for education, work, and community"
+description: "Join Professor David Lee as he delves into the art of designing ecosystems to help navigate the rapid currents of change. Discover how he has expanded student learning opportunities through hands-on projects, connecting education with real-world social innovation."
 
 #### Date of the event
-date: "2023-12-6"
+date: "2024-03-13"
 
 
 #### billboard
 billboard:
-  homepage-title: 'Bridging the Gap Between Artificial Intelligence and Natural Intelligence'
+  homepage-title: 'Designing human AI-ecosystems for education, work, and community'
   image: "/events/kraw-lecture/2020/images/banner.jpg"
   subtitle: Kraw Lecture Series
   day: Wednesday
-  month: December
-  date: 6
-  year: 2023
+  month: March
+  date: 13
+  year: 2024
   starttime: 5:30 p.m.
   endtime: 7:00 p.m.
 
 location:
-  address: 3175 Bowers Ave, Santa Clara, CA 95054
+  address: 3175 Bowers Ave, Santa Clara, CA 95054 
   addresslink: "https://www.google.com/maps/place/3175+Bowers+Ave,+Santa+Clara,+CA+95054/@37.3797017,-121.9791287,17z/data=!3m1!4b1!4m6!3m5!1s0x808fc9f1ee90f75b:0xa998062f4b03436c!8m2!3d37.3796975!4d-121.9765484!16s%2Fg%2F11c271bhhh?entry=ttu"
 
 #### custom button
@@ -47,6 +47,54 @@ The Kraw Lecture Series in Silicon Valley is made possible by a generous gift fr
 
 **Our Kraw Lecture Series is so fantastic, we want to bring it right to you via live streaming. If you aren't able to join us in person the night of the event, you can now stream the lectures and join in the conversation via online comments. <!--Lecture and live stream typically begin at 7 p.m.-->**
 
+---
+
+### Designing human AI-ecosystems for education, work, and community 
+
+
+**March 13, 2024** <br/>
+**5:30 p.m. - 7:00 p.m.** <br/>
+**Location: [3175 Bowers Ave, Santa Clara, CA 95054](https://www.google.com/maps/place/3175+Bowers+Ave,+Santa+Clara,+CA+95054/@37.3797017,-121.9791287,17z/data=!3m1!4b1!4m6!3m5!1s0x808fc9f1ee90f75b:0xa998062f4b03436c!8m2!3d37.3796975!4d-121.9765484!16s%2Fg%2F11c271bhhh?entry=ttu)**
+
+
+
+Join Professor David Lee as he delves into the art of designing ecosystems to help navigate the rapid currents of change. Discover how he has expanded student learning opportunities through hands-on projects, connecting education with real-world social innovation. Explore the role of AI in enhancing learning and collaboration alongside reflections on fostering more human-centered human-AI interactions.
+
+Professor Lee doesn't just speak from theory; he shares practical insights gained from growing the Tech4Good lab which involves over 120 undergraduate students each quarter. These students explore user research, UI/UX design, web development, and AI, all while making a tangible impact on hundreds within the community. Join us as Professor Lee paints a vision for reshaping education, work, and community engagement, all geared towards nurturing individuals' true potential and contributions.
+
+##### **Our Speaker**
+**David T. Lee** is an assistant professor of computational media at UC Santa Cruz, where he directs the Tech4Good Lab. He received his Ph.D. from Stanford University and a B.S. from the California Institute of Technology. His research centers on designing human-AI ecosystems for education, work, and community engagement, and on supporting experiential, community-engaged passion-driven learning. He founded and directs several student programs including the Tech4Good Collaboratory, a Course-Based Community Consultancy, and the Exploratory Reading Group program, each of which provides rich learning experiences to hundreds of students as early as their first year. His work has received awards at AAAI HCOMP and ACM CHI, been published in the Proceedings of the National Academy of Sciences (PNAS), and has been deployed to serve students, communities, and governments. He has received a Baskin Engineering Teaching Excellence Award, NSF Graduate Research Fellowship, Accel Leadership Fellowship, Santa Cruz Titans of Tech Award, Brown Institute for Media Innovation Magic Grant (x2), Google Scholars Research Award, Public Interest Technology University Network (PIT-UN) Network Challenge, and NSF Improving Undergraduate STEM Education Grant (x2).
+
+#### Registration information
+
+{: .button .primary .small}
+[ In-Person Doors open at 5:30](https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4805&cid=11333&utm_source=MarketingCloud&utm_medium=email&utm_campaign=_%2724+March+Kraw+Lecture&utm_content=https%3a%2f%2fsecure.ucsc.edu%2fs%2f1069%2fbp18%2finterior.aspx%3fsid%3d1069%26gid%3d1001%26pgid%3d4805%26cid%3d11333)
+
+{: .button .primary .small}
+[Virtual 6 p.m.](https://ucsc.zoom.us/webinar/register/WN_noRwDxvXSq-6mE9YJE3w5w?utm_source=MarketingCloud&utm_medium=email&utm_campaign=_%2724+March+Kraw+Lecture&utm_content=https%3a%2f%2fucsc.zoom.us%2fwebinar%2fregister%2fWN_noRwDxvXSq-6mE9YJE3w5w#/registration)
+
+
+
+---
+
+### Telomeres: How new technology shifts old paradigms 
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4_JwqAAg2Yw?si=qS-sMfuLYr8_Vtrh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+#### February 7, 2024
+
+Telomeres, the protective caps on the ends of chromosomes, play a pivotal role in human disease and aging. It has been thought that short telomere lengths cause age-related degenerative disease, while long telomeres predispose people to cancer. Nobel Laureate Carol Greider will describe what we know about telomeres and how work by UC Santa Cruz researchers using technology invented on our campus is calling into question long-held models about how telomere length is regulated. Susan Carpenter, UCSC professor of molecular, cell, and developmental biology, will moderate.
+
+##### Our Speaker
+
+**Carol Greider**
+Nobel Laureate in Physiology and Medicine
+Distinguished Professor, Molecular, Cell, and Developmental Biology, UC Santa Cruz
+
+Molecular biologist Carol Greider joined UC Santa Cruz in 2020. Greider discovered the enzyme telomerase in 1984 while she was a graduate student in Elizabeth Blackburn’s lab at UC Berkeley and went on to pioneer research on the structure of telomeres, the ends of the chromosomes. She was awarded the 2009 Nobel Prize for Physiology or Medicine, along with Blackburn and Jack W. Szostak, for their discovery that telomeres are protected from progressive shortening by the enzyme telomerase. Before joining UC Santa Cruz, she was a Bloomberg Distinguished Professor, Daniel Nathans Professor, and Director of Molecular Biology and Genetics at Johns Hopkins University, a position she held after nearly a decade at Cold Spring Harbor Laboratory. She received her bachelor’s degree from UC Santa Barbara in 1983 and her Ph.D. from UC Berkeley in 1988.
+
 
 ---
 
@@ -61,13 +109,6 @@ We can apply the computational principles that underpin the brain, and use them 
 ##### Our Speaker
 
 **Jason K. Eshraghian** is an assistant professor with the Department of Electrical and Computer Engineering at UC Santa Cruz. He received Bachelor of Engineering (Electrical and Electronic) and Bachelor of Laws degrees from University of Western Australia, WA, Australia in 2016 where he also received a Ph.D. in 2019. From 2019 to 2022, he was a postdoctoral research fellow at the University of Michigan, MI,. He serves as the Secretary of the Neural Systems and Applications Technical Committee. He is the recipient of a Fulbright Fellowship (Australian-American Fulbright Commission), a Forrest Research Fellowship (Forrest Research Foundation), and the Endeavour Research Fellowship (Australian Government). His research interests include neuromorphic computing, spiking neural networks, and memory circuits, and he is the developer of snnTorch, a widely used Python library with over 100,000 downloads used to train and model spiking neural networks.
-
-
-{: .button .primary .small}
-[In-Person Doors open at 5:30](https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4742&cid=11239&utm_source=MarketingCloud&utm_medium=email&utm_campaign=_%2723+December+Kraw+Lecture&utm_content=https%3a%2f%2fsecure.ucsc.edu%2fs%2f1069%2fbp18%2finterior.aspx%3fsid%3d1069%26gid%3d1001%26pgid%3d4742%26cid%3d11239)
-
-{: .button .primary .small}
-[Virtual 6 p.m.](https://ucsc.zoom.us/webinar/register/WN_yQxaMAYoS_iycjKa_dA0Yw?utm_source=MarketingCloud&utm_medium=email&utm_campaign=_%2723+December+Kraw+Lecture&utm_content=https%3a%2f%2fucsc.zoom.us%2fwebinar%2fregister%2fWN_yQxaMAYoS_iycjKa_dA0Yw#/registration)
 
 
 ---

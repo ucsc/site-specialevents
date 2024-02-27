@@ -85,7 +85,7 @@
             <!-- Right sidebar address -->
               {% if page.location.address != null %}
                 <h5 class="blue-text">Locations:</h5>
-                <p>{{ page.location.location-name }} | {{ page.location.address }}
+                <p>{% if page.location.location-name  != null %}{{ page.location.location-name }}<br/>{% endif %}{% if page.location.address != null %}{{ page.location.address }}{% endif %}
                   {% if page.location.addresslink != null %}
                     <a href="{{ page.location.addresslink }}" class="btn-link">map <i class="fas fa-map"></i></a>
                   {% endif %}
