@@ -8,7 +8,7 @@ date: 2023-04-02
 
 #### billboard
 billboard:
-  image: "/events/maitra/2024/images/banner.jpg"
+  image: "/events/maitra/2023/images/banner.jpg"
   subtitle: Sidhartha Maitra Memorial Lecture
   day: Sunday
   month: April
