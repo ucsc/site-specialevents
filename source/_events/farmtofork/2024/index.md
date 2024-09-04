@@ -9,7 +9,7 @@ date: 2024-09-08
 #### billboard
 billboard:
   image: "/events/farmtofork/2024/images/banner.jpg"
-  subtitle: 
+  subtitle: Center for Agroecology, Social Sciences Division
   day: Sunday
   month: September
   date: 8
