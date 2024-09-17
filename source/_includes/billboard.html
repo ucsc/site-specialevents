@@ -7,8 +7,7 @@
                   {% if page.layout == 'landing' %}
                   <img src="{{ site.baseurl }}{{ page.billboard.image }}" />
                   <div class="hero-text">
-                    <a href="{{ page.registration }}" class="">
-                      <p class="category btn-link"><large>{{ page.billboard.subtitle }}</large></p>
+                      <p class="category"><large>{{ page.billboard.subtitle }}</large></p>
                       <div class="underline isolated">
                           <!-- Billboard title -->
                           <h1 class="hero-header">
@@ -49,8 +48,7 @@
                   {% if page.layout == 'home-page' %}
                   <img src="{{ site.baseurl }}{{ event.billboard.image }}" alt="{{ event.title }}"/>
                   <div class="hero-text">
-                    <a href="{{site.baseurl}}{{ event.url }}.html" class="">
-                      <p class="category btn-link"><large>{{ event.billboard.subtitle }}</large></p>
+                      <p class="category"><large>{{ event.billboard.subtitle }}</large></p>
                       <div class="underline isolated">
                           <h1 class="hero-header">
                             {% if event.billboard.homepage-title != null %}
