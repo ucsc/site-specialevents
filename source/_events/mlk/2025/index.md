@@ -2,7 +2,7 @@
 title: "41st Annual Martin Luther King, Jr. Memorial Convocation"
 description: "This annual convocation celebrates the life and dreams of Dr. Martin Luther King Jr. with presentations about equality, freedom, justice, and opportunity. This year we welcome Olympic Gold Medalist & WNBA Hall of Famer, Chamique Holdsclaw."
 
-event-type: Signature
+event-type: Signature Event
 category: MLK
 
 tags:
@@ -10,7 +10,7 @@ tags:
   - Featured
   - Current
 
-date: "2025-01-30"
+date: 2025-01-30
 
 #### billboard
 billboard:
