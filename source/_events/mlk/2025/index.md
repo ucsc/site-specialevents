@@ -1,6 +1,6 @@
 ---
-title: "41st Annual Martin Luther King, Jr. Memorial Convocation"
-description: "This annual convocation celebrates the life and dreams of Dr. Martin Luther King Jr. with presentations about equality, freedom, justice, and opportunity. This year we welcome WNBA Hall of Famer, Olympic Gold Medalist and powerful mental health advocate, Chamique Holdsclaw."
+title: "41st Annual Martin Luther King Jr. Memorial Convocation"
+description: "This annual convocation celebrates the life and dreams of Martin Luther King Jr. with presentations about equality, freedom, justice, and opportunity. This year we welcome WNBA Hall of Famer, Olympic Gold Medalist, and powerful mental health advocate Chamique Holdsclaw."
 
 event-type: Signature Event
 category: MLK
@@ -38,9 +38,9 @@ published: true
 
 ### Speaker: Chamique Holdsclaw
 
-![Chamique Holdsclaw](images/banner.jpg){:class="img-right-50"} This annual convocation celebrates the life and dreams of Dr. Martin Luther King Jr. with presentations about equality, freedom, justice, and opportunity. This year we welcome WNBA Hall of Famer, Olympic gold medalist and powerful mental health advocate, Chamique Holdsclaw.
+![Chamique Holdsclaw](images/banner.jpg){:class="img-right-50"} This annual convocation celebrates the life and dreams of Martin Luther King Jr. with presentations about equality, freedom, justice, and opportunity. This year we welcome WNBA Hall of Famer, Olympic gold medalist, and powerful mental health advocate Chamique Holdsclaw.
 
-Hailed as the “female Michael Jordan,” Chamique Holdsclaw was a basketball superstar. From leading the University of Tennessee Lady Volunteers to three straight NCAA national championships under legendary Coach Pat Summitt, to the Olympics, to the WNBA, nearly no one has had more focus or drive on the court. And yet underneath, she was pushing down mental health issues that eventually led to a mental and physical breakdown.
+Hailed as the “female Michael Jordan,” Chamique was a basketball superstar. From leading the University of Tennessee Lady Volunteers to three straight NCAA national championships under legendary Coach Pat Summitt, to the Olympics, to the WNBA, nearly no one has had more focus or drive on the court. And yet underneath, she was pushing down mental health issues that eventually led to a mental and physical breakdown.
 
 Chamique suffered from serious bouts of depression and manic episodes, a suicide attempt, and an incident in Atlanta involving a firearm. After the episode in Georgia, she was finally open to getting help and was diagnosed with bipolar disorder and severe anxiety.
 
