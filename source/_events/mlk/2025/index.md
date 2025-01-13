@@ -54,6 +54,6 @@ She first made her mark as a high school basketball star at Christ the King High
 
 After her illustrious college basketball career, which included several All-American honors and countless other awards, Chamique would go on to be the number-one pick in the 1999 WNBA draft by the Washington Mystics. Her rookie season was capped with a WNBA Rookie of the Year Award as well as her first of six WNBA All-Star appearances. In 2000, she won an Olympic gold medal with Team USA at the Sydney Olympic Games.
 
-Chamique is an honorary member of Alpha Kappa Alpha Sorority. and an ambassador with Laureus Sport for Good and with the JED Foundation as an advocate for mental health and wellness. She is also a member of the Boys & Girls Club Hall of Fame.
+Chamique is an honorary member of Alpha Kappa Alpha Sorority and an ambassador with Laureus Sport for Good and with the JED Foundation as an advocate for mental health and wellness. She is also a member of the Boys & Girls Club Hall of Fame.
 
 Doors open at 6 p.m., program begins at 6:30 p.m.
