@@ -5,7 +5,7 @@ category: Signature
 layout: full-page
 
 #### date of the latest event to sort
-date: "2020-02-23"
+date: "2025-03-13"
 
 permalink: /:collection/maitra
 ---

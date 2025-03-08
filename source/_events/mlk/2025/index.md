@@ -7,7 +7,6 @@ category: MLK
 
 tags:
   - MLK
-  - Featured
   - Current
 
 date: 2025-01-30
