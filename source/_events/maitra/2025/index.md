@@ -8,7 +8,7 @@ date: 2025-03-13
 
 #### billboard
 billboard:
-  image: "/events/maitra/2025/images/banner.jpg"
+  image: "/events/maitra/2025/images/banner-2.jpg"
   subtitle: Sidhartha Maitra Memorial Lecture
   day: Thursday
   month: March
