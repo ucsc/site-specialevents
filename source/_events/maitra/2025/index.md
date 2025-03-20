@@ -21,7 +21,7 @@ location:
   address: 3175 Bowers Ave, Santa Clara, CA 95054
   addresslink: 'https://www.google.com/maps/place/UCSC+Silicon+Valley+Extension/@37.3796837,-121.9791408,710m/data=!3m1!1e3!4m7!3m6!1s0x808fc9ed6caee57b:0xeb5b7ce72e1f8ebf!8m2!3d37.37967!4d-121.9765833!15sChp1Y3NjIHNpbGljb24gdmFsbGV5IGNhbXB1c1ocIhp1Y3NjIHNpbGljb24gdmFsbGV5IGNhbXB1c5IBCnVuaXZlcnNpdHngAQA!16s%2Fg%2F1pyccmpmf!5m1!1e1?entry=tts&g_ep=EgoyMDI1MDIwMy4wIPu8ASoASAFQAw%3D%3D'
 
-registration-url: https://events.ucsc.edu/en/8c5uR8G7/sidhartha-maitra-memorial-lecture-how-can-india-and-developing-countries-grow-4a4h8cMh4S/overview
+registration-url: 
 register-text: Register Now
 
 #### Archive Page | Category will always be the same | event-type either Signature Event, Notable Event, Lecture Series
@@ -38,6 +38,9 @@ layout: landing
 
 ## **Raghuram Rajan:** How can India (and developing countries) grow? Navigating an automating and protectionist world
 
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8qgrdbfmDew?si=1VVwsLGNfQvunegD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 **UC Santa Cruz Chancellor Cynthia Larive and Foundation Board Trustee Anuradha Luther Maitra invite you to the Sidhartha Maitra Memorial Lecture.**
 
