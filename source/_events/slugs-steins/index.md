@@ -1,11 +1,11 @@
 ---
 title: "Slugs & Steins"
-description: "Reading Dickens Today with Professor John Jordan"
+description: "The Imagining and Making of a University Campus at Santa Cruz"
 category: Lecture
 layout: full-page
 
 #### date of the latest event to sort
-date: "2023-07-10"
+date: "2025-07-14"
 
 permalink: /:collection/slugs-steins
 ---
