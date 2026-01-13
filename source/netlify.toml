@@ -389,6 +389,11 @@
   from = "/events/farmtofork/2024/"
   to = "https://calendar.ucsc.edu/event/farm-to-fork-dinner"
   status = 301
+  force = 
+[[redirects]]
+  from = "/events/mlk/2026/"
+  to = "https://diversity.ucsc.edu/get-involved/mlk-convocation/"
+  status = 301
   force = true
 [[redirects]]
   from = "/*"
