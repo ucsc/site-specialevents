@@ -1,5 +1,5 @@
 ---
-title: "42n Annual Martin Luther King Jr. Memorial Convocation"
+title: "42nd Annual Martin Luther King Jr. Memorial Convocation"
 description: "This year’s keynote will feature Larry McDonald, a legendary reggae percussionist whose life and career have been defined by rhythm, culture, and the power of music to unite people."
 
 event-type: Signature Event
